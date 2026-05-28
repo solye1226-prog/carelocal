@@ -1,4 +1,4 @@
-﻿# Cloudflare Pages Deployment
+# Cloudflare Pages Deployment
 
 ## Recommended settings
 
@@ -27,7 +27,7 @@
 
 ## After deployment
 
-Replace `https://carelocal-git.pages.dev` in these files with the final domain:
+Replace `https://hospital.hbuby.com` in these files with the final domain:
 
 - `sitemap.xml`
 - `robots.txt`

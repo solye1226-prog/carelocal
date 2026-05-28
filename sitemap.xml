@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://carelocal-git.pages.dev/</loc><priority>1.0</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/hospitals/</loc><priority>0.9</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/hospitals/seoul/</loc><priority>0.8</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/hospitals/seoul/sunday.html</loc><priority>0.8</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/hospitals/seoul/psychiatry-sunday.html</loc><priority>0.8</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/guides/</loc><priority>0.8</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/guides/sunday-hospital-checklist.html</loc><priority>0.7</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/guides/night-hospital-checklist.html</loc><priority>0.7</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/guides/psychiatry-first-visit.html</loc><priority>0.7</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/legal/about.html</loc><priority>0.4</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/legal/contact.html</loc><priority>0.4</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/legal/privacy.html</loc><priority>0.4</priority></url>
-  <url><loc>https://carelocal-git.pages.dev/legal/disclaimer.html</loc><priority>0.4</priority></url>
+  <url><loc>https://hospital.hbuby.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://hospital.hbuby.com/hospitals/</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/hospitals/seoul/</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/hospitals/seoul/sunday.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/hospitals/seoul/psychiatry-sunday.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/sunday-hospital-checklist.html</loc><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/night-hospital-checklist.html</loc><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/psychiatry-first-visit.html</loc><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/legal/about.html</loc><priority>0.4</priority></url>
+  <url><loc>https://hospital.hbuby.com/legal/contact.html</loc><priority>0.4</priority></url>
+  <url><loc>https://hospital.hbuby.com/legal/privacy.html</loc><priority>0.4</priority></url>
+  <url><loc>https://hospital.hbuby.com/legal/disclaimer.html</loc><priority>0.4</priority></url>
 </urlset>

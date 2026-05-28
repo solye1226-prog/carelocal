@@ -1,4 +1,4 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
 
-Sitemap: https://carelocal-git.pages.dev/sitemap.xml
+Sitemap: https://hospital.hbuby.com/sitemap.xml
