@@ -381,6 +381,19 @@ p {
   margin-top: 76px;
 }
 
+.lead + .guide-section-title {
+  margin-top: 54px;
+}
+
+.guide-section-title {
+  margin-top: 82px;
+  margin-bottom: 26px;
+}
+
+.guide-section-grid + .guide-section-title {
+  margin-top: 84px;
+}
+
 .feature-card,
 .card {
   min-height: 158px;
