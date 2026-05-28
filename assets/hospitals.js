@@ -7,6 +7,81 @@ const type = document.querySelector("[data-hospital-data-type]");
 
 let hospitals = [];
 
+const diagnosisSearches = [
+  {
+    keys: ["갑상선암", "갑상샘암", "갑상선"],
+    label: "갑상선암",
+    guide: "/cancers/thyroid-cancer.html",
+    check: "갑상선외과, 내분비내과, 이비인후과, 핵의학과, 갑상선센터 운영 여부",
+  },
+  {
+    keys: ["폐암", "폐"],
+    label: "폐암",
+    guide: "/cancers/lung-cancer.html",
+    check: "호흡기내과, 흉부외과, 종양내과, 방사선종양학과 협진 여부",
+  },
+  {
+    keys: ["유방암", "유방"],
+    label: "유방암",
+    guide: "/cancers/breast-cancer.html",
+    check: "유방외과, 종양내과, 방사선종양학과, 유방암센터 운영 여부",
+  },
+  {
+    keys: ["전립선암", "전립선"],
+    label: "전립선암",
+    guide: "/cancers/prostate-cancer.html",
+    check: "비뇨의학과, 방사선종양학과, 로봇수술 또는 입자치료 상담 창구",
+  },
+  {
+    keys: ["대장암", "직장암", "결장암", "대장"],
+    label: "대장암",
+    guide: "/cancers/colorectal-cancer.html",
+    check: "대장항문외과, 종양내과, 방사선종양학과 협진 여부",
+  },
+  {
+    keys: ["위암", "위"],
+    label: "위암",
+    guide: "/cancers/stomach-cancer.html",
+    check: "소화기내과, 위장관외과, 종양내과, 영양 상담 가능 여부",
+  },
+  {
+    keys: ["간암", "간"],
+    label: "간암",
+    guide: "/cancers/liver-cancer.html",
+    check: "간담췌외과, 소화기내과, 영상의학과, 종양내과 다학제 진료",
+  },
+  {
+    keys: ["췌장암", "췌장"],
+    label: "췌장암",
+    guide: "/cancers/pancreatic-cancer.html",
+    check: "간담췌외과, 소화기내과, 종양내과, 담도 배액 시술 가능 여부",
+  },
+  {
+    keys: ["자궁경부암", "자궁경부"],
+    label: "자궁경부암",
+    guide: "/cancers/cervical-cancer.html",
+    check: "부인암센터, 산부인과 종양 진료, 방사선종양학과 연계 여부",
+  },
+  {
+    keys: ["난소암", "난소"],
+    label: "난소암",
+    guide: "/cancers/ovarian-cancer.html",
+    check: "부인암센터, 종양내과, 유전 상담, 재발 관리 창구",
+  },
+  {
+    keys: ["신장암", "신장"],
+    label: "신장암",
+    guide: "/cancers/kidney-cancer.html",
+    check: "비뇨의학과, 종양내과, 부분절제 또는 표적·면역치료 상담 가능 여부",
+  },
+  {
+    keys: ["방광암", "방광"],
+    label: "방광암",
+    guide: "/cancers/bladder-cancer.html",
+    check: "비뇨의학과, 방광내시경, 방광내 주입치료, 요로전환 상담 가능 여부",
+  },
+];
+
 function normalize(value) {
   return String(value || "").toLowerCase().trim();
 }
@@ -21,8 +96,15 @@ function formatDate(value) {
   return `${text.slice(0, 4)}.${text.slice(4, 6)}.${text.slice(6, 8)} 개설`;
 }
 
+function getDiagnosisSearch() {
+  const query = normalize(search?.value);
+  if (!query) return null;
+  return diagnosisSearches.find((item) => item.keys.some((key) => query.includes(normalize(key))));
+}
+
 function hospitalMatches(hospital) {
   const query = normalize(search?.value);
+  const diagnosis = getDiagnosisSearch();
   const regionValue = region?.value || "";
   const typeValue = type?.value || "";
   const haystack = normalize([
@@ -35,7 +117,7 @@ function hospitalMatches(hospital) {
   ].join(" "));
 
   return (
-    (!query || haystack.includes(query)) &&
+    (!query || diagnosis || haystack.includes(query)) &&
     (!regionValue || hospital.sido === regionValue) &&
     (!typeValue || hospital.typeCode === typeValue)
   );
@@ -74,9 +156,21 @@ function syncUrlFilters() {
 }
 
 function renderHospitals() {
+  const diagnosis = getDiagnosisSearch();
   const filtered = hospitals.filter(hospitalMatches);
   count.textContent = `${formatCount(filtered.length)}개 병원`;
   list.innerHTML = "";
+
+  if (diagnosis) {
+    const note = document.createElement("div");
+    note.className = "notice";
+    note.innerHTML = `
+      <strong>${diagnosis.label} 검색어를 진단명으로 인식했습니다.</strong>
+      <p>현재 병원 데이터는 병원명·주소·의료기관 구분 중심이라 특정 암 진료 가능 여부를 바로 판정하지 않습니다. 아래 병원 목록에서 지역을 좁힌 뒤 ${diagnosis.check}를 공식 홈페이지 또는 전화로 확인하세요.</p>
+      <a class="text-link" href="${diagnosis.guide}">${diagnosis.label} 치료 흐름 먼저 보기</a>
+    `;
+    list.append(note);
+  }
 
   filtered.slice(0, 80).forEach((hospital) => {
     const card = document.createElement("article");
@@ -107,7 +201,9 @@ function renderHospitals() {
   if (filtered.length > 80) {
     const note = document.createElement("p");
     note.className = "muted";
-    note.textContent = `검색 속도를 위해 상위 80개만 표시합니다. 검색어를 입력하면 결과를 더 좁힐 수 있습니다.`;
+    note.textContent = diagnosis
+      ? `검색 속도를 위해 상위 80개만 표시합니다. 지역 또는 구분 필터를 선택하면 결과를 더 좁힐 수 있습니다.`
+      : `검색 속도를 위해 상위 80개만 표시합니다. 검색어를 입력하면 결과를 더 좁힐 수 있습니다.`;
     list.append(note);
   }
 }
