@@ -1,0 +1,125 @@
+﻿<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>케어로컬 | 지역별 병원 진료 정보 안내</title>
+    <meta name="description" content="서울 지역 일요일 진료, 야간진료, 정신건강의학과 등 병원 방문 전 확인할 정보를 정리한 지역 기반 병원 안내 사이트입니다.">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="케어로컬 | 지역별 병원 진료 정보 안내">
+    <meta property="og:description" content="방문 전 확인이 필요한 병원 진료시간, 진료과, 지역 정보를 한곳에서 확인하세요.">
+    <meta property="og:image" content="/assets/hero-clinic.png">
+    <link rel="canonical" href="https://carelocal.pages.dev/">
+    <link rel="stylesheet" href="/assets/site.css">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "케어로컬",
+        "url": "https://carelocal.pages.dev/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://carelocal.pages.dev/hospitals/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">본문으로 이동</a>
+    <header class="site-header">
+      <nav class="nav" aria-label="주요 메뉴">
+        <a class="brand" href="/"><span class="brand-mark">C</span>케어로컬</a>
+        <div class="nav-links">
+          <a href="/hospitals/">병원 찾기</a>
+          <a href="/hospitals/seoul/">서울</a>
+          <a href="/guides/">이용 가이드</a>
+          <a href="/legal/about.html">사이트 소개</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero">
+        <div class="hero-inner">
+          <div>
+            <p class="eyebrow">지역 기반 병원 진료 정보</p>
+            <h1>방문 전 확인이 필요한 병원 정보를 지역별로 정리합니다</h1>
+            <p class="lead">일요일 진료, 야간진료, 정신건강의학과처럼 검색 수요가 뚜렷한 병원 정보를 지역 단위로 정리하고, 실제 방문 전에 확인해야 할 기준을 함께 안내합니다.</p>
+            <div class="hero-actions">
+              <a class="button" href="/hospitals/seoul/psychiatry-sunday.html">서울 정신건강의학과 보기</a>
+              <a class="button secondary" href="/guides/sunday-hospital-checklist.html">방문 전 체크리스트</a>
+            </div>
+          </div>
+          <div class="search-panel">
+            <img src="/assets/hero-clinic.png" alt="지역 병원 정보를 확인하는 밝은 클리닉 안내 이미지" style="width:100%;border-radius:8px;margin-bottom:16px;">
+            <div class="search-grid">
+              <label>지역
+                <select onchange="location.href=this.value">
+                  <option value="/hospitals/seoul/">서울</option>
+                  <option value="/hospitals/seoul/sunday.html">서울 일요일 진료</option>
+                  <option value="/hospitals/seoul/psychiatry-sunday.html">서울 정신건강의학과 일요일 진료</option>
+                </select>
+              </label>
+              <a class="button" href="/hospitals/">전체 병원 정보로 이동</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>초기 핵심 카테고리</h2>
+        <p class="muted">애드센스 승인과 장기 SEO를 함께 고려해, 단순 목록보다 정보성 맥락이 있는 페이지를 우선 구성했습니다.</p>
+        <div class="grid">
+          <a class="card" href="/hospitals/seoul/sunday.html">
+            <h3>서울 일요일 진료 병원</h3>
+            <p>주말 진료 가능 여부, 방문 전 전화 확인, 예약 필요성을 함께 안내합니다.</p>
+          </a>
+          <a class="card" href="/hospitals/seoul/psychiatry-sunday.html">
+            <h3>서울 정신건강의학과</h3>
+            <p>초진 예약, 상담 시간, 약 처방 가능 여부 등 실제 방문 전 확인 기준을 정리합니다.</p>
+          </a>
+          <a class="card" href="/guides/night-hospital-checklist.html">
+            <h3>야간진료 이용 가이드</h3>
+            <p>야간진료와 응급실의 차이, 진료비와 접수 마감 시간을 확인하는 방법을 설명합니다.</p>
+          </a>
+        </div>
+      </section>
+
+      <section class="band">
+        <div class="section">
+          <h2>콘텐츠 운영 원칙</h2>
+          <div class="grid">
+            <div class="card">
+              <h3>출처와 업데이트 기준</h3>
+              <p>공공 데이터, 병원 공식 안내, 전화 확인이 필요한 항목을 구분해 정보 신뢰도를 높입니다.</p>
+            </div>
+            <div class="card">
+              <h3>의료 조언과 구분</h3>
+              <p>진단이나 치료 판단을 제공하지 않고 병원 이용 전 확인할 행정적 정보를 중심으로 구성합니다.</p>
+            </div>
+            <div class="card">
+              <h3>검색 의도별 페이지</h3>
+              <p>지역, 진료과, 요일, 야간진료 같은 조합으로 URL을 나누어 네이버와 구글 모두 읽기 쉽게 만듭니다.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div>
+          <strong>케어로컬</strong>
+          <p>병원 정보는 참고용이며, 실제 진료 가능 여부는 방문 전 병원에 직접 확인해야 합니다.</p>
+        </div>
+        <div class="footer-links">
+          <a href="/legal/about.html">소개</a>
+          <a href="/legal/contact.html">문의</a>
+          <a href="/legal/privacy.html">개인정보처리방침</a>
+          <a href="/legal/disclaimer.html">의료정보 고지</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

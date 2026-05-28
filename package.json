@@ -1,0 +1,17 @@
+{
+  "name": "local-care-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Pages static site for Korean regional hospital information guides.",
+  "scripts": {
+    "start": "python scripts/server.py",
+    "check": "python scripts/check_links.py"
+  },
+  "keywords": [
+    "cloudflare-pages",
+    "hospital",
+    "seo",
+    "static-site"
+  ],
+  "license": "UNLICENSED"
+}
