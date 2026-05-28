@@ -942,11 +942,11 @@ summary {
 }
 
 .cancer-path-card {
-  min-height: 250px;
+  min-height: 160px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  padding: 24px;
+  gap: 4px;
+  padding: 17px 18px;
   border: 1px solid rgba(23, 32, 51, 0.13);
   border-radius: 18px;
   background:
@@ -956,22 +956,30 @@ summary {
 }
 
 .cancer-path-card h3 {
-  font-size: 25px;
+  margin-bottom: 6px;
+  font-size: 22px;
 }
 
 .cancer-path-card p {
+  margin-bottom: 4px;
   color: var(--muted);
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  max-height: 3em;
+  line-height: 1.5;
 }
 
 .path-steps {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin-top: auto;
+  margin-top: 4px;
 }
 
 .path-steps span {
-  padding: 7px 10px;
+  padding: 5px 9px;
   border-radius: 999px;
   background: #eef1f6;
   color: var(--teal-dark);
@@ -1402,7 +1410,7 @@ summary {
   }
 
   .cancer-path-card {
-    min-height: 210px;
+    min-height: 150px;
   }
 
   .quick-item {
