@@ -1,4 +1,4 @@
-const HIRA_ENDPOINT = "https://apis.data.go.kr/B551182/hospInfoServicev2/getHospBasisList";
+const HIRA_ENDPOINT = "http://apis.data.go.kr/B551182/hospInfoServicev2/getHospBasisList";
 
 const TAGS = [
   "yadmNm",
