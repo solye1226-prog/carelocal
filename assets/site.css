@@ -1145,9 +1145,10 @@ summary {
 .region-card:hover,
 .region-card:focus-visible {
   transform: translateY(-2px);
-  background: var(--teal);
-  border-color: var(--teal);
-  color: #fff;
+  background: #eaf0f6;
+  border-color: #b8c3cf;
+  color: var(--ink);
+  box-shadow: 0 18px 42px rgba(23, 32, 51, 0.12);
 }
 
 .region-card:hover span,
@@ -1156,38 +1157,7 @@ summary {
 .region-card:focus-visible span,
 .region-card:focus-visible strong,
 .region-card:focus-visible small {
-  color: #fff;
-}
-
-.region-card.is-primary {
-  background: var(--teal);
-  border-color: var(--teal);
-  color: #fff;
-}
-
-.region-card.is-primary span,
-.region-card.is-primary strong,
-.region-card.is-primary small {
-  color: #fff;
-}
-
-.region-card.is-primary:hover,
-.region-card.is-primary:focus-visible {
-  transform: translateY(-2px);
-  background: #fff;
-  border-color: var(--teal);
-}
-
-.region-card.is-primary:hover span,
-.region-card.is-primary:hover small,
-.region-card.is-primary:focus-visible span,
-.region-card.is-primary:focus-visible small {
-  color: var(--muted);
-}
-
-.region-card.is-primary:hover strong,
-.region-card.is-primary:focus-visible strong {
-  color: var(--teal-dark);
+  color: inherit;
 }
 
 .content-dashboard {
