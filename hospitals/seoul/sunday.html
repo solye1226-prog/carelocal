@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>서울 일요일 진료 병원 안내 | 케어로컬</title>
-    <meta name="description" content="서울에서 일요일에 진료 가능한 병원을 찾을 때 확인해야 할 진료시간, 예약, 접수 마감, 응급실 이용 기준을 안내합니다.">
+    <title>서울 주말·응급 진료 병원 안내 | 케어로컬</title>
+    <meta name="description" content="서울에서 일요일 또는 주말에 병원을 방문하기 전 확인해야 할 진료시간, 예약, 접수 마감, 응급실 이용 기준을 안내합니다.">
     <link rel="canonical" href="https://hospital.hbuby.com/hospitals/seoul/sunday.html">
     <link rel="stylesheet" href="/assets/site.css">
     <script type="application/ld+json">
@@ -12,19 +12,25 @@
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-          {"@type": "Question", "name": "일요일 진료시간은 항상 동일한가요?", "acceptedAnswer": {"@type": "Answer", "text": "아닙니다. 병원 사정, 공휴일, 당직 일정에 따라 바뀔 수 있으므로 방문 전 전화 확인이 필요합니다."}},
-          {"@type": "Question", "name": "예약 없이 방문해도 되나요?", "acceptedAnswer": {"@type": "Answer", "text": "병원마다 다릅니다. 특히 주말은 접수 인원이 제한될 수 있어 예약 가능 여부와 접수 마감 시간을 확인하는 것이 좋습니다."}}
+          {"@type": "Question", "name": "주말 진료시간은 항상 동일한가요?", "acceptedAnswer": {"@type": "Answer", "text": "아닙니다. 병원 사정과 공휴일 일정에 따라 달라질 수 있으므로 방문 전 공식 홈페이지 또는 전화 확인이 필요합니다."}},
+          {"@type": "Question", "name": "예약 없이 방문해도 되나요?", "acceptedAnswer": {"@type": "Answer", "text": "병원마다 다릅니다. 주말에는 접수 인원이 제한될 수 있어 예약 가능 여부와 접수 마감 시간을 먼저 확인하는 것이 좋습니다."}}
         ]
       }
     </script>
   </head>
   <body>
-    <header class="site-header"><nav class="nav"><a class="brand" href="/"><span class="brand-mark">C</span>케어로컬</a><div class="nav-links"><a href="/hospitals/">병원 찾기</a><a href="/hospitals/seoul/">서울</a><a href="/guides/">가이드</a></div></nav></header>
+    <header class="site-header">
+      <nav class="nav" aria-label="주요 메뉴">
+        <a class="brand" href="/"><span class="brand-mark">CL</span><span><strong>케어로컬</strong><small>중증진료 지역 안내</small></span></a>
+        <div class="nav-links"><a href="/hospitals/">병원 찾기</a><a href="/hospitals/seoul/">서울</a><a href="/guides/">가이드</a></div>
+      </nav>
+    </header>
     <main class="section">
-      <div class="breadcrumb"><a href="/">홈</a> / <a href="/hospitals/seoul/">서울</a> / 일요일 진료</div>
-      <h1>서울 일요일 진료 병원 안내</h1>
-      <p class="lead">서울에서 일요일에 병원을 방문해야 할 때는 진료 가능 여부뿐 아니라 접수 마감 시간, 예약 필요 여부, 응급실 이용 기준까지 함께 확인해야 합니다.</p>
-      <div class="notice">본 페이지는 샘플 데이터로 만든 정보 구조입니다. 실제 운영 전에는 병원 공식 정보 또는 공공 데이터로 업데이트해야 합니다.</div>
+      <div class="breadcrumb"><a href="/">홈</a> / <a href="/hospitals/seoul/">서울</a> / 주말·응급 진료</div>
+      <p class="eyebrow">Weekend Care</p>
+      <h1>서울 주말·응급 진료 병원 안내</h1>
+      <p class="lead">주말에는 진료 가능 여부만큼 접수 마감, 예약 필요 여부, 응급실 이용 기준을 함께 확인해야 합니다.</p>
+      <div class="notice">아래 병원 목록은 정보 구조 예시입니다. 실제 운영 전에는 병원 공식 정보와 공공 데이터를 기준으로 업데이트해야 합니다.</div>
 
       <div class="list-toolbar">
         <input data-search type="search" placeholder="병원명, 지역, 메모 검색" aria-label="병원 검색">
@@ -34,44 +40,44 @@
           <option value="송파구">송파구</option>
           <option value="마포구">마포구</option>
         </select>
-        <select data-department aria-label="진료과 선택">
-          <option value="">전체 진료과</option>
-          <option value="내과">내과</option>
+        <select data-department aria-label="진료 유형 선택">
+          <option value="">전체 유형</option>
+          <option value="응급의료">응급의료</option>
           <option value="소아청소년과">소아청소년과</option>
           <option value="정신건강의학과">정신건강의학과</option>
         </select>
       </div>
 
-      <section class="hospital-list" aria-label="서울 일요일 진료 병원 목록">
-        <article class="hospital-card" data-hospital-card data-district="강남구" data-department="내과">
-          <div><h2>강남편한내과의원</h2><div class="hospital-meta"><span>서울 강남구</span><span>내과</span><span>일요일 오전 진료</span><span>전화 확인 필요</span></div><p>소화기, 감기, 만성질환 관련 진료를 보기 전 접수 마감 시간을 확인하는 것이 좋습니다.</p></div>
-          <span class="status">일요일</span>
+      <section class="hospital-list" aria-label="서울 주말 진료 병원 목록">
+        <article class="hospital-card" data-hospital-card data-district="강남구" data-department="응급의료">
+          <div><h2>강남 권역응급의료센터</h2><div class="hospital-meta"><span>서울 강남구</span><span>응급의료</span><span>24시간 응급실</span><span>전화 확인 필요</span></div><p>중증 증상은 일반 외래보다 응급실 또는 119 상담을 우선 고려해야 합니다.</p></div>
+          <span class="status">응급 기준 확인</span>
         </article>
         <article class="hospital-card" data-hospital-card data-district="송파구" data-department="소아청소년과">
-          <div><h2>송파우리소아청소년과</h2><div class="hospital-meta"><span>서울 송파구</span><span>소아청소년과</span><span>주말 진료</span><span>예약 권장</span></div><p>영유아 진료는 대기 시간이 길 수 있으므로 증상과 나이를 먼저 전화로 알리는 편이 안전합니다.</p></div>
+          <div><h2>송파 어린이 주말진료센터</h2><div class="hospital-meta"><span>서울 송파구</span><span>소아청소년과</span><span>주말 진료</span><span>예약 권장</span></div><p>소아 진료는 대기 시간이 길 수 있어 증상과 나이를 먼저 전화로 알리는 편이 안전합니다.</p></div>
           <span class="status">예약 권장</span>
         </article>
         <article class="hospital-card" data-hospital-card data-district="마포구" data-department="정신건강의학과">
-          <div><h2>마포마음정신건강의학과</h2><div class="hospital-meta"><span>서울 마포구</span><span>정신건강의학과</span><span>일요일 제한 진료</span><span>초진 문의</span></div><p>정신건강의학과는 초진 상담 시간이 길 수 있어 일요일 초진 가능 여부를 꼭 확인해야 합니다.</p></div>
+          <div><h2>마포 정신건강의학과 주말상담</h2><div class="hospital-meta"><span>서울 마포구</span><span>정신건강의학과</span><span>제한 진료</span><span>초진 문의</span></div><p>초진 상담 시간은 길게 잡히는 경우가 많으므로 주말 초진 가능 여부를 꼭 확인해야 합니다.</p></div>
           <span class="status">초진 문의</span>
         </article>
       </section>
 
-      <div class="ad-slot">AdSense 승인 후 광고 영역</div>
+      <div class="ad-slot">AdSense 광고 영역</div>
 
       <article class="article-body">
-        <h2>일요일 진료 병원 방문 전 확인사항</h2>
+        <h2>주말 진료 병원 방문 전 확인사항</h2>
         <ul>
           <li>진료시간과 접수 마감 시간이 같은지 확인합니다.</li>
-          <li>공휴일이 겹친 일요일에는 별도 휴진일 수 있습니다.</li>
+          <li>공휴일이 겹친 주말에는 별도 일정이 있을 수 있습니다.</li>
           <li>응급 증상은 일반 외래보다 119 또는 응급실 이용이 우선입니다.</li>
-          <li>처방전 발급 가능 여부와 근처 운영 약국을 함께 확인합니다.</li>
+          <li>처방전 발급 가능 여부와 근처 약국 운영도 함께 확인합니다.</li>
         </ul>
       </article>
 
       <section class="faq">
         <h2>자주 묻는 질문</h2>
-        <details><summary>일요일 진료 병원은 현장 접수가 가능한가요?</summary><p>병원마다 다릅니다. 주말에는 접수 인원이 제한될 수 있으므로 전화 확인 후 방문하는 것이 좋습니다.</p></details>
+        <details><summary>주말 진료 병원은 현장 접수가 가능한가요?</summary><p>병원마다 다릅니다. 주말에는 접수 인원이 제한될 수 있으므로 전화 확인 후 방문하는 것이 좋습니다.</p></details>
         <details><summary>일요일에도 처방전을 받을 수 있나요?</summary><p>진료 후 처방전 발급은 가능할 수 있지만, 약국 운영 여부는 별도로 확인해야 합니다.</p></details>
       </section>
     </main>
