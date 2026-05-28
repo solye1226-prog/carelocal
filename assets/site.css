@@ -442,11 +442,21 @@ p {
 .tool-card:hover,
 .snapshot-stats a:hover,
 .brief-row:hover {
-  background: #f3f6f8;
-  border-color: rgba(23, 32, 51, 0.24);
-  color: var(--ink);
+  background: var(--teal-dark);
+  border-color: var(--teal-dark);
+  color: #fff;
   transform: translateY(-2px);
   box-shadow: 0 18px 42px rgba(23, 32, 51, 0.12);
+}
+
+.feature-card:hover *,
+.card:hover *,
+.quick-item:hover *,
+.treatment-card:hover *,
+.tool-card:hover *,
+.snapshot-stats a:hover *,
+.brief-row:hover * {
+  color: #fff;
 }
 
 .feature-card:hover h3,
@@ -456,7 +466,7 @@ p {
 .tool-card:hover h3,
 .snapshot-stats a:hover strong,
 .brief-row:hover strong {
-  color: var(--teal-dark);
+  color: #fff;
 }
 
 .feature-card:hover p,
@@ -466,15 +476,15 @@ p {
 .tool-card:hover p,
 .snapshot-stats a:hover span,
 .brief-row:hover small {
-  color: var(--muted);
+  color: #fff;
 }
 
 .feature-card:hover .status,
 .card:hover .status,
 .quick-item:hover span,
 .brief-row:hover .brief-no {
-  background: #eef1f6;
-  color: var(--teal-dark);
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff;
 }
 
 .feature-card-primary:hover {
@@ -483,14 +493,12 @@ p {
 }
 
 .feature-card-primary:hover *,
-.tool-card.primary:hover *,
-.treatment-card.is-featured:hover * {
+.tool-card.primary:hover * {
   color: var(--teal-dark);
 }
 
 .feature-card-primary:hover,
-.tool-card.primary:hover,
-.treatment-card.is-featured:hover {
+.tool-card.primary:hover {
   background: #fff;
   border-color: rgba(23, 32, 51, 0.18);
 }
@@ -1145,9 +1153,9 @@ summary {
 .region-card:hover,
 .region-card:focus-visible {
   transform: translateY(-2px);
-  background: #eaf0f6;
-  border-color: #b8c3cf;
-  color: var(--ink);
+  background: var(--teal-dark);
+  border-color: var(--teal-dark);
+  color: #fff;
   box-shadow: 0 18px 42px rgba(23, 32, 51, 0.12);
 }
 
@@ -1157,7 +1165,7 @@ summary {
 .region-card:focus-visible span,
 .region-card:focus-visible strong,
 .region-card:focus-visible small {
-  color: inherit;
+  color: #fff;
 }
 
 .content-dashboard {
@@ -1192,8 +1200,8 @@ summary {
 
 .tool-card:hover,
 .tool-card:focus-visible {
-  background: #eaf0f6;
-  border-color: #b8c3cf;
+  background: var(--teal-dark);
+  border-color: var(--teal-dark);
 }
 
 .tool-card.primary {
@@ -1231,17 +1239,6 @@ summary {
   background: #fff;
   box-shadow: 0 16px 36px rgba(23, 32, 51, 0.06);
   transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
-}
-
-.treatment-card.is-featured {
-  background: linear-gradient(180deg, #172033 0%, #22375f 100%);
-  color: #fff;
-}
-
-.treatment-card.is-featured p,
-.treatment-card.is-featured small,
-.treatment-card.is-featured .card-label {
-  color: #d9e1ec;
 }
 
 .treatment-card p {
