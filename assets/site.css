@@ -368,16 +368,17 @@ p {
 }
 
 .guide-group-title {
-  margin-top: 46px;
-  margin-bottom: 16px;
+  margin-top: 72px;
+  margin-bottom: 24px;
+  padding-top: 4px;
 }
 
 .guide-visual + .guide-group-title {
-  margin-top: 18px;
+  margin-top: 34px;
 }
 
 .grid + .guide-group-title {
-  margin-top: 42px;
+  margin-top: 76px;
 }
 
 .feature-card,
