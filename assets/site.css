@@ -835,6 +835,68 @@ summary {
   color: #d9e1ec;
 }
 
+.treatment-section {
+  padding-bottom: 56px;
+}
+
+.split-heading {
+  align-items: end;
+}
+
+.treatment-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.treatment-card {
+  min-height: 242px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 22px;
+  border: 1px solid rgba(23, 32, 51, 0.13);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 16px 36px rgba(23, 32, 51, 0.06);
+}
+
+.treatment-card.is-featured {
+  background: linear-gradient(180deg, #172033 0%, #22375f 100%);
+  color: #fff;
+}
+
+.treatment-card.is-featured p,
+.treatment-card.is-featured small,
+.treatment-card.is-featured .card-label {
+  color: #d9e1ec;
+}
+
+.treatment-card p {
+  color: var(--muted);
+}
+
+.treatment-card small {
+  margin-top: auto;
+  color: #536073;
+  font-weight: 900;
+}
+
+.source-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.source-list a {
+  padding: 13px 15px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+  color: var(--teal-dark);
+  font-weight: 900;
+}
+
 .dashboard-side {
   align-self: start;
 }
@@ -922,6 +984,7 @@ summary {
   .portal-hero-inner,
   .content-dashboard,
   .tool-grid,
+  .treatment-grid,
   .insight-layout,
   .feature-rail,
   .grid,
