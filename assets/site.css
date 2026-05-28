@@ -2,17 +2,17 @@
   color-scheme: light;
   --ink: #172033;
   --muted: #6f7788;
-  --paper: #f7f4ee;
+  --paper: #f7f8fa;
   --surface: #ffffff;
-  --mist: #ebe7dd;
-  --line: #d7d1c4;
+  --mist: #f1f3f6;
+  --line: #e3e7ee;
   --teal: #22375f;
   --teal-dark: #15233f;
-  --coral: #8b6f45;
-  --amber: #c7aa73;
+  --coral: #465469;
+  --amber: #8a94a6;
   --plum: #44516f;
   --sky: #edf1f7;
-  --focus: #c7aa73;
+  --focus: #9aa8bd;
   --shadow: 0 20px 56px rgba(23, 32, 51, 0.12);
   font-family: "Pretendard", "Noto Sans KR", "Apple SD Gothic Neo", system-ui, sans-serif;
 }
@@ -27,12 +27,7 @@ html {
 
 body {
   margin: 0;
-  background:
-    radial-gradient(circle at 8% 8%, rgba(199, 170, 115, 0.16), transparent 26%),
-    linear-gradient(90deg, rgba(23, 32, 51, 0.035) 1px, transparent 1px),
-    linear-gradient(180deg, rgba(23, 32, 51, 0.03) 1px, transparent 1px),
-    var(--paper);
-  background-size: 44px 44px;
+  background: var(--paper);
   color: var(--ink);
   line-height: 1.65;
 }
@@ -64,7 +59,7 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 30;
-  background: rgba(255, 253, 248, 0.9);
+  background: rgba(255, 255, 255, 0.92);
   border-bottom: 1px solid rgba(21, 32, 43, 0.1);
   backdrop-filter: blur(16px);
 }
@@ -105,8 +100,8 @@ a:hover {
   border: 1px solid rgba(23, 32, 51, 0.24);
   display: grid;
   place-items: center;
-  background: linear-gradient(135deg, #172033, #33496f);
-  color: #f6ead2;
+  background: #172033;
+  color: #ffffff;
   font-weight: 900;
   font-size: 13px;
   box-shadow: 0 10px 20px rgba(23, 32, 51, 0.18);
@@ -364,7 +359,7 @@ p {
 
 .feature-card-primary .card-label,
 .feature-card-primary p {
-  color: #f8efe3;
+  color: #e8edf5;
 }
 
 .card p,
@@ -402,9 +397,7 @@ p {
 }
 
 .band {
-  background:
-    linear-gradient(135deg, rgba(34, 55, 95, 0.08), rgba(199, 170, 115, 0.15)),
-    #f2eee6;
+  background: #f1f3f6;
   border-block: 1px solid var(--line);
 }
 
@@ -520,8 +513,8 @@ button:focus {
 }
 
 .notice {
-  border-left: 5px solid var(--coral);
-  background: #fff6f1;
+  border-left: 5px solid #7d8797;
+  background: #f6f8fb;
   padding: 14px 16px;
   margin: 22px 0;
 }
@@ -611,15 +604,12 @@ summary {
   position: relative;
   overflow: hidden;
   padding: 74px 0 36px;
-  background:
-    radial-gradient(700px 360px at 78% 0%, rgba(198, 170, 116, 0.2), transparent 64%),
-    radial-gradient(640px 320px at 10% 10%, rgba(34, 55, 95, 0.12), transparent 66%),
-    linear-gradient(180deg, #fbfaf7 0%, #f2eee6 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #f5f7fa 100%);
   border-bottom: 1px solid var(--line);
 }
 
 .portal-hero::before {
-  content: "";
+  content: none;
   position: absolute;
   inset: 0;
   background:
@@ -648,9 +638,9 @@ summary {
   gap: 9px;
   margin: 0 0 18px;
   padding: 8px 14px;
-  border: 1px solid rgba(139, 111, 69, 0.22);
+  border: 1px solid rgba(23, 32, 51, 0.12);
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.72);
+  background: #ffffff;
   color: var(--coral);
   font-size: 12px;
   font-weight: 900;
@@ -661,8 +651,8 @@ summary {
   width: 7px;
   height: 7px;
   border-radius: 50%;
-  background: var(--amber);
-  box-shadow: 0 0 0 5px rgba(199, 170, 115, 0.18);
+  background: #6f7788;
+  box-shadow: none;
 }
 
 .portal-search {
@@ -836,13 +826,13 @@ summary {
 }
 
 .tool-card.primary {
-  background: linear-gradient(145deg, #172033 0%, #2a3c61 100%);
+  background: #172033;
   color: #fff;
 }
 
 .tool-card.primary p,
 .tool-card.primary .card-label {
-  color: #efe4ca;
+  color: #d9e1ec;
 }
 
 .dashboard-side {
@@ -885,7 +875,7 @@ summary {
   padding: 16px;
   border: 1px solid var(--line);
   border-radius: 16px;
-  background: #fbfaf7;
+  background: #ffffff;
 }
 
 .insight-list span {
