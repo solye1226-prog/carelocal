@@ -857,6 +857,60 @@ summary {
   font-weight: 850;
 }
 
+.image-feature,
+.guide-image-panel {
+  overflow: hidden;
+  border: 1px solid rgba(23, 32, 51, 0.1);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 18px 46px rgba(23, 32, 51, 0.08);
+}
+
+.image-feature {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
+  gap: 0;
+  align-items: stretch;
+  margin-top: 44px;
+  margin-bottom: 66px;
+}
+
+.image-feature img,
+.guide-image-panel img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-feature img {
+  min-height: 280px;
+}
+
+.image-feature-copy {
+  display: grid;
+  align-content: center;
+  padding: 34px;
+}
+
+.image-feature-copy h2 {
+  font-size: clamp(24px, 2.4vw, 34px);
+}
+
+.image-feature-copy p:last-child {
+  color: var(--muted);
+  font-size: 17px;
+}
+
+.guide-image-panel {
+  margin: 34px 0 10px;
+  max-height: 360px;
+}
+
+.guide-image-panel img {
+  max-height: 360px;
+}
+
 .portal-brief,
 .dashboard-side {
   border: 1px solid rgba(23, 32, 51, 0.16);
@@ -1340,6 +1394,7 @@ summary {
 
   .hero-inner,
   .portal-hero-inner,
+  .image-feature,
   .content-dashboard,
   .tool-grid,
   .treatment-grid,
@@ -1363,6 +1418,16 @@ summary {
 
   .portal-hero {
     padding-top: 42px;
+  }
+
+  .image-feature {
+    margin-top: 30px;
+    margin-bottom: 48px;
+  }
+
+  .image-feature img,
+  .guide-image-panel img {
+    min-height: 220px;
   }
 
   .quick-wrap {
@@ -1418,6 +1483,14 @@ summary {
   .portal-search input,
   .portal-search button {
     border-radius: 12px;
+  }
+
+  .image-feature-copy {
+    padding: 24px;
+  }
+
+  .guide-image-panel {
+    margin-top: 26px;
   }
 
   .quick-wrap {
