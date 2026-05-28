@@ -855,6 +855,72 @@ summary {
   padding: 42px 0 58px;
 }
 
+.cancer-path-section {
+  padding: 42px 0 20px;
+}
+
+.cancer-path-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.cancer-path-card {
+  min-height: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 24px;
+  border: 1px solid rgba(23, 32, 51, 0.13);
+  border-radius: 18px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.96) 0%, rgba(247, 249, 252, 0.96) 100%);
+  box-shadow: 0 16px 36px rgba(23, 32, 51, 0.06);
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
+}
+
+.cancer-path-card h3 {
+  font-size: 25px;
+}
+
+.cancer-path-card p {
+  color: var(--muted);
+}
+
+.path-steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: auto;
+}
+
+.path-steps span {
+  padding: 6px 9px;
+  border-radius: 999px;
+  background: #eef1f6;
+  color: var(--teal-dark);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.cancer-path-card:hover,
+.cancer-path-card:focus-visible {
+  transform: translateY(-2px);
+  background: var(--teal);
+  border-color: var(--teal);
+  color: #fff;
+}
+
+.cancer-path-card:hover *,
+.cancer-path-card:focus-visible * {
+  color: #fff;
+}
+
+.cancer-path-card:hover .path-steps span,
+.cancer-path-card:focus-visible .path-steps span {
+  background: rgba(255, 255, 255, 0.18);
+}
+
 .region-finder .section-heading {
   align-items: end;
 }
@@ -1054,6 +1120,30 @@ summary {
   color: #fff;
 }
 
+.article-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 18px 0 26px;
+}
+
+.article-actions a {
+  padding: 10px 13px;
+  border: 1px solid rgba(23, 32, 51, 0.13);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--teal-dark);
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.article-actions a:hover,
+.article-actions a:focus-visible {
+  background: var(--teal);
+  border-color: var(--teal);
+  color: #fff;
+}
+
 .dashboard-side {
   align-self: start;
 }
@@ -1142,6 +1232,7 @@ summary {
   .content-dashboard,
   .tool-grid,
   .treatment-grid,
+  .cancer-path-grid,
   .insight-layout,
   .feature-rail,
   .grid,
@@ -1223,6 +1314,10 @@ summary {
 
   .region-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .cancer-path-card {
+    min-height: 210px;
   }
 
   .quick-item {
