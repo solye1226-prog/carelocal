@@ -32,6 +32,8 @@ Cloudflare Pages Functions are deployed from the project repository.
 
 The site includes a Cloudflare Pages Function at `/api/hospitals` that proxies the
 `건강보험심사평가원_병원정보서비스` OpenAPI without exposing the API key in browser code.
+The public hospital list uses a static JSON snapshot at `/data/hospitals.json`
+for speed and reliability.
 
 1. In data.go.kr, copy the service key for `건강보험심사평가원_병원정보서비스`.
 2. In Cloudflare Dashboard, open Workers & Pages > `carelocal`.
@@ -46,6 +48,16 @@ The site includes a Cloudflare Pages Function at `/api/hospitals` that proxies t
 
 For local testing with Wrangler, copy `.dev.vars.example` to `.dev.vars` and put
 the real key there. Do not commit `.dev.vars`.
+
+To refresh the static hospital snapshot locally:
+
+```powershell
+$env:HIRA_SERVICE_KEY="YOUR_DATA_GO_KR_KEY"
+node scripts/fetch-hira-hospitals.mjs
+Remove-Item Env:HIRA_SERVICE_KEY
+```
+
+Commit the generated `data/hospitals.json` after checking the output.
 
 ## After deployment
 

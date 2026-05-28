@@ -483,6 +483,10 @@ button:focus {
   gap: 12px;
 }
 
+.live-hospital-panel {
+  margin-top: 38px;
+}
+
 .hospital-card {
   border: 1px solid rgba(23, 32, 51, 0.14);
   border-radius: 8px;
