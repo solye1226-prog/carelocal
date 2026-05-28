@@ -112,7 +112,7 @@ export async function onRequestGet(context) {
   const encodedKey = serviceKey.includes("%") ? serviceKey : encodeURIComponent(serviceKey);
   const hiraUrl = `${HIRA_ENDPOINT}?ServiceKey=${encodedKey}&${params.toString()}`;
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 12000);
+  const timeoutId = setTimeout(() => controller.abort(), 25000);
   let hiraResponse;
   let xml;
 
