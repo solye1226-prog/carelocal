@@ -442,28 +442,39 @@ p {
 .tool-card:hover,
 .snapshot-stats a:hover,
 .brief-row:hover {
-  background: var(--teal-dark);
-  border-color: var(--teal-dark);
-  color: #fff;
+  background: #fff;
+  border-color: rgba(23, 32, 51, 0.28);
+  color: var(--ink);
   transform: translateY(-2px);
+  box-shadow: 0 18px 42px rgba(23, 32, 51, 0.12);
 }
 
-.feature-card:hover *,
-.card:hover *,
-.quick-item:hover *,
-.treatment-card:hover *,
-.tool-card:hover *,
-.snapshot-stats a:hover *,
-.brief-row:hover * {
-  color: #fff;
+.feature-card:hover h3,
+.card:hover h3,
+.quick-item:hover strong,
+.treatment-card:hover h3,
+.tool-card:hover h3,
+.snapshot-stats a:hover strong,
+.brief-row:hover strong {
+  color: var(--teal-dark);
+}
+
+.feature-card:hover p,
+.card:hover p,
+.treatment-card:hover p,
+.treatment-card:hover small,
+.tool-card:hover p,
+.snapshot-stats a:hover span,
+.brief-row:hover small {
+  color: var(--muted);
 }
 
 .feature-card:hover .status,
 .card:hover .status,
 .quick-item:hover span,
 .brief-row:hover .brief-no {
-  background: rgba(255, 255, 255, 0.16);
-  color: #fff;
+  background: #eef1f6;
+  color: var(--teal-dark);
 }
 
 .feature-card-primary:hover {
