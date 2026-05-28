@@ -10,7 +10,7 @@
     <meta property="og:description" content="중입자치료, 양성자치료, 암센터 위치, 암치료비 확인 포인트를 지역별 병원 정보와 함께 확인하세요.">
     <meta property="og:image" content="/assets/hero-clinic.png">
     <link rel="canonical" href="https://hospital.hbuby.com/">
-    <link rel="stylesheet" href="/assets/site.css?v=20260528-polish">
+    <link rel="stylesheet" href="/assets/site.css?v=20260528-regions">
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -67,46 +67,36 @@
             </div>
           </div>
 
-          <aside class="portal-brief" aria-label="방문 전 체크">
-            <div class="brief-top">
-              <span>방문 전 체크</span>
-              <strong>3분 체크</strong>
-            </div>
-            <a href="/guides/heavy-ion-therapy.html" class="brief-row">
-              <span class="brief-no">01</span>
-              <span><strong>치료법 이해</strong><small>중입자·양성자·로봇수술 차이</small></span>
-            </a>
-            <a href="/hospitals/seoul/" class="brief-row">
-              <span class="brief-no">02</span>
-              <span><strong>병원 확인</strong><small>암센터·상급종합병원·전문센터</small></span>
-            </a>
-            <a href="/guides/cancer-treatment-cost.html" class="brief-row">
-              <span class="brief-no">03</span>
-              <span><strong>비용 구조</strong><small>검사·수술·항암·입원·비급여</small></span>
-            </a>
-          </aside>
         </div>
       </section>
 
-      <section class="portal-container quick-wrap" aria-label="빠른 서비스">
-        <a class="quick-item" href="/guides/heavy-ion-therapy.html"><span>HI</span><strong>중입자치료</strong><small>탄소입자 방사선</small></a>
-        <a class="quick-item" href="#treatment-methods"><span>P</span><strong>양성자치료</strong><small>입자치료 이해</small></a>
-        <a class="quick-item" href="#treatment-methods"><span>R</span><strong>로봇수술</strong><small>최소침습 수술</small></a>
-        <a class="quick-item" href="/hospitals/?type=01"><span>H</span><strong>상급종합병원</strong><small>HIRA 데이터</small></a>
-        <a class="quick-item" href="/guides/cancer-treatment-cost.html"><span>C</span><strong>암치료비</strong><small>비용 항목 구분</small></a>
-        <a class="quick-item" href="/guides/caregiver-application.html"><span>N</span><strong>간병 신청</strong><small>입원 전 준비</small></a>
-      </section>
-
-      <section class="portal-container data-snapshot" aria-label="병원 데이터 현황">
-        <div>
-          <p class="eyebrow">HIRA Data Snapshot</p>
-          <h2>전국 상급종합·종합병원 385개를 먼저 연결했습니다</h2>
-          <p class="muted">건강보험심사평가원 병원정보서비스 기준으로 저장한 정적 데이터라 페이지 속도가 빠르고, API 지연이 있어도 병원 목록은 안정적으로 확인할 수 있습니다.</p>
+      <section class="portal-container region-finder" aria-label="지역별 병원 찾기">
+        <div class="section-heading split-heading">
+          <div>
+            <p class="eyebrow">Region Finder</p>
+            <h2>진료 예정 지역부터 병원을 좁혀보세요</h2>
+            <p class="muted">거주지, 보호자 이동 동선, 검사·입원 예정 지역을 기준으로 상급종합병원과 종합병원을 먼저 확인할 수 있습니다.</p>
+          </div>
+          <a class="text-link" href="/hospitals/">전체 병원 찾기</a>
         </div>
-        <div class="snapshot-stats">
-          <a href="/hospitals/?type=01"><strong>47</strong><span>상급종합병원</span></a>
-          <a href="/hospitals/?type=11"><strong>338</strong><span>종합병원</span></a>
-          <a href="/hospitals/"><strong>17</strong><span>시도별 검색</span></a>
+        <div class="region-grid">
+          <a class="region-card is-primary" href="/hospitals/?region=서울"><span>수도권</span><strong>서울</strong><small>암센터·상급종합병원 중심</small></a>
+          <a class="region-card" href="/hospitals/?region=경기"><span>수도권</span><strong>경기</strong><small>대학병원과 권역 진료</small></a>
+          <a class="region-card" href="/hospitals/?region=인천"><span>수도권</span><strong>인천</strong><small>공항·서해권 진료 거점</small></a>
+          <a class="region-card" href="/hospitals/?region=부산"><span>동남권</span><strong>부산</strong><small>부울경 암 진료 접근</small></a>
+          <a class="region-card" href="/hospitals/?region=대구"><span>영남권</span><strong>대구</strong><small>경북권 대형병원 확인</small></a>
+          <a class="region-card" href="/hospitals/?region=광주"><span>호남권</span><strong>광주</strong><small>전남권 진료 거점</small></a>
+          <a class="region-card" href="/hospitals/?region=대전"><span>충청권</span><strong>대전</strong><small>중부권 병원 확인</small></a>
+          <a class="region-card" href="/hospitals/?region=울산"><span>동남권</span><strong>울산</strong><small>산업도시권 의료기관</small></a>
+          <a class="region-card" href="/hospitals/?region=세종시"><span>충청권</span><strong>세종</strong><small>대전·충청 연계 확인</small></a>
+          <a class="region-card" href="/hospitals/?region=강원"><span>강원권</span><strong>강원</strong><small>권역 응급·종합 진료</small></a>
+          <a class="region-card" href="/hospitals/?region=충북"><span>충청권</span><strong>충북</strong><small>청주권 병원 확인</small></a>
+          <a class="region-card" href="/hospitals/?region=충남"><span>충청권</span><strong>충남</strong><small>천안·아산권 진료</small></a>
+          <a class="region-card" href="/hospitals/?region=전북"><span>호남권</span><strong>전북</strong><small>전주권 의료기관</small></a>
+          <a class="region-card" href="/hospitals/?region=전남"><span>호남권</span><strong>전남</strong><small>광주 연계 진료 확인</small></a>
+          <a class="region-card" href="/hospitals/?region=경북"><span>영남권</span><strong>경북</strong><small>대구권 연계 확인</small></a>
+          <a class="region-card" href="/hospitals/?region=경남"><span>동남권</span><strong>경남</strong><small>창원·부산권 접근</small></a>
+          <a class="region-card" href="/hospitals/?region=제주"><span>제주권</span><strong>제주</strong><small>도내 종합병원 확인</small></a>
         </div>
       </section>
 
