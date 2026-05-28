@@ -11,6 +11,9 @@
 
 ## Direct upload
 
+Use GitHub connection instead of Direct Upload if you need `/api/hospitals`.
+Cloudflare Pages Functions are deployed from the project repository.
+
 1. Open Cloudflare Dashboard.
 2. Go to Workers & Pages.
 3. Select Pages, then Create a project.
@@ -24,6 +27,25 @@
 2. In Cloudflare Pages, choose Connect to Git.
 3. Select the repository.
 4. Use the recommended settings above.
+
+## HIRA hospital API
+
+The site includes a Cloudflare Pages Function at `/api/hospitals` that proxies the
+`건강보험심사평가원_병원정보서비스` OpenAPI without exposing the API key in browser code.
+
+1. In data.go.kr, copy the service key for `건강보험심사평가원_병원정보서비스`.
+2. In Cloudflare Dashboard, open Workers & Pages > `carelocal`.
+3. Go to Settings > Variables and Secrets > Add.
+4. Add a production variable:
+   - Name: `HIRA_SERVICE_KEY`
+   - Value: your data.go.kr service key
+5. Save, then redeploy the latest Pages deployment.
+6. Test:
+   - `/api/hospitals?q=세브란스병원&numOfRows=5`
+   - `/api/hospitals?sidoCd=110000&numOfRows=10`
+
+For local testing with Wrangler, copy `.dev.vars.example` to `.dev.vars` and put
+the real key there. Do not commit `.dev.vars`.
 
 ## After deployment
 
