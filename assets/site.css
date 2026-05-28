@@ -442,8 +442,8 @@ p {
 .tool-card:hover,
 .snapshot-stats a:hover,
 .brief-row:hover {
-  background: #fff;
-  border-color: rgba(23, 32, 51, 0.28);
+  background: #f3f6f8;
+  border-color: rgba(23, 32, 51, 0.24);
   color: var(--ink);
   transform: translateY(-2px);
   box-shadow: 0 18px 42px rgba(23, 32, 51, 0.12);
@@ -1218,6 +1218,12 @@ summary {
 
 .tool-card p {
   color: var(--muted);
+}
+
+.tool-card:hover,
+.tool-card:focus-visible {
+  background: #eaf0f6;
+  border-color: #b8c3cf;
 }
 
 .tool-card.primary {
