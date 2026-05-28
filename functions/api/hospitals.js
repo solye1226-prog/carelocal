@@ -67,7 +67,7 @@ function json(data, init = {}) {
 }
 
 export async function onRequestGet(context) {
-  const serviceKey = context.env.HIRA_SERVICE_KEY;
+  const serviceKey = String(context.env.HIRA_SERVICE_KEY || "").replace(/\s+/g, "");
 
   if (!serviceKey) {
     return json(
@@ -111,10 +111,28 @@ export async function onRequestGet(context) {
 
   const encodedKey = serviceKey.includes("%") ? serviceKey : encodeURIComponent(serviceKey);
   const hiraUrl = `${HIRA_ENDPOINT}?ServiceKey=${encodedKey}&${params.toString()}`;
-  const hiraResponse = await fetch(hiraUrl, {
-    headers: { accept: "application/xml,text/xml,*/*" },
-  });
-  const xml = await hiraResponse.text();
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 12000);
+  let hiraResponse;
+  let xml;
+
+  try {
+    hiraResponse = await fetch(hiraUrl, {
+      headers: { accept: "application/xml,text/xml,*/*" },
+      signal: controller.signal,
+    });
+    xml = await hiraResponse.text();
+  } catch (error) {
+    return json(
+      {
+        error: "HIRA request timed out or failed.",
+        message: error instanceof Error ? error.message : String(error),
+      },
+      { status: 504 },
+    );
+  } finally {
+    clearTimeout(timeoutId);
+  }
 
   if (!hiraResponse.ok) {
     return json(
