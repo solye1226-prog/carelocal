@@ -193,7 +193,7 @@ h3 {
 }
 
 h1 {
-  font-size: clamp(38px, 7vw, 76px);
+  font-size: clamp(34px, 5vw, 60px);
   max-width: 780px;
 }
 
@@ -350,6 +350,7 @@ p {
   background: var(--surface);
   padding: 20px;
   box-shadow: 0 14px 34px rgba(23, 32, 51, 0.08);
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
 }
 
 .feature-card-primary {
@@ -365,6 +366,55 @@ p {
 .card p,
 .feature-card p {
   color: var(--muted);
+}
+
+.feature-card:hover,
+.card:hover,
+.quick-item:hover,
+.treatment-card:hover,
+.tool-card:hover,
+.snapshot-stats a:hover,
+.brief-row:hover {
+  background: var(--teal-dark);
+  border-color: var(--teal-dark);
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.feature-card:hover *,
+.card:hover *,
+.quick-item:hover *,
+.treatment-card:hover *,
+.tool-card:hover *,
+.snapshot-stats a:hover *,
+.brief-row:hover * {
+  color: #fff;
+}
+
+.feature-card:hover .status,
+.card:hover .status,
+.quick-item:hover span,
+.brief-row:hover .brief-no {
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff;
+}
+
+.feature-card-primary:hover {
+  background: #fff;
+  color: var(--teal-dark);
+}
+
+.feature-card-primary:hover *,
+.tool-card.primary:hover *,
+.treatment-card.is-featured:hover * {
+  color: var(--teal-dark);
+}
+
+.feature-card-primary:hover,
+.tool-card.primary:hover,
+.treatment-card.is-featured:hover {
+  background: #fff;
+  border-color: rgba(23, 32, 51, 0.18);
 }
 
 .matrix {
@@ -549,16 +599,13 @@ summary {
   margin-bottom: 8px;
 }
 
-.ad-slot {
-  min-height: 96px;
-  border: 1px dashed #a8a091;
-  border-radius: 8px;
-  display: grid;
-  place-items: center;
-  color: var(--muted);
-  background: rgba(255, 255, 255, 0.75);
-  margin: 28px 0;
-  font-size: 14px;
+.article-body h1 {
+  font-size: clamp(30px, 4vw, 46px);
+}
+
+.article-body h2 {
+  margin-top: 34px;
+  font-size: clamp(23px, 2.8vw, 32px);
 }
 
 .site-footer {
@@ -782,6 +829,7 @@ summary {
   border-radius: 18px;
   background: #fff;
   box-shadow: 0 10px 24px rgba(23, 32, 51, 0.05);
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
 }
 
 .quick-item span {
@@ -831,6 +879,7 @@ summary {
   border-radius: 18px;
   background: #fff;
   box-shadow: 0 14px 30px rgba(23, 32, 51, 0.06);
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
 }
 
 .snapshot-stats strong {
@@ -905,6 +954,7 @@ summary {
   border-radius: 18px;
   background: #fff;
   box-shadow: 0 16px 36px rgba(23, 32, 51, 0.06);
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
 }
 
 .treatment-card.is-featured {
@@ -941,6 +991,13 @@ summary {
   background: #fff;
   color: var(--teal-dark);
   font-weight: 900;
+}
+
+.source-list a:hover,
+.text-link:hover {
+  background: var(--teal-dark);
+  border-color: var(--teal-dark);
+  color: #fff;
 }
 
 .dashboard-side {
@@ -1057,7 +1114,7 @@ summary {
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 34px;
   }
 
   .hospital-card {
@@ -1082,7 +1139,7 @@ summary {
   }
 
   h1 {
-    font-size: 34px;
+    font-size: 30px;
   }
 
   .lead {

@@ -15,6 +15,12 @@ function formatCount(value) {
   return new Intl.NumberFormat("ko-KR").format(value);
 }
 
+function formatDate(value) {
+  const text = String(value || "");
+  if (!/^\d{8}$/.test(text)) return "";
+  return `${text.slice(0, 4)}.${text.slice(4, 6)}.${text.slice(6, 8)} 개설`;
+}
+
 function hospitalMatches(hospital) {
   const query = normalize(search?.value);
   const regionValue = region?.value || "";
@@ -76,6 +82,9 @@ function renderHospitals() {
     const card = document.createElement("article");
     card.className = "hospital-card";
     const website = hospital.website ? `<a class="text-link" href="${hospital.website}" target="_blank" rel="noopener">공식 홈페이지</a>` : "";
+    const mapUrl = hospital.address ? `https://map.naver.com/p/search/${encodeURIComponent(hospital.address)}` : "";
+    const mapLink = mapUrl ? `<a class="text-link" href="${mapUrl}" target="_blank" rel="noopener">지도에서 보기</a>` : "";
+    const established = formatDate(hospital.establishedAt);
     card.innerHTML = `
       <div>
         <h3>${hospital.name}</h3>
@@ -84,7 +93,10 @@ function renderHospitals() {
           <span>${hospital.sido || "지역 미상"} ${hospital.district || ""}</span>
           <span>${hospital.phone || "전화 확인 필요"}</span>
           ${hospital.doctorCount ? `<span>의사 ${formatCount(hospital.doctorCount)}명</span>` : ""}
+          ${established ? `<span>${established}</span>` : ""}
+          ${hospital.postalCode ? `<span>우편번호 ${hospital.postalCode}</span>` : ""}
           ${website}
+          ${mapLink}
         </div>
       </div>
       <span class="status">${hospital.type || "의료기관"}</span>
