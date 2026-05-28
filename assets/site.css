@@ -342,6 +342,30 @@ p {
   gap: 16px;
 }
 
+.guide-visual {
+  min-height: 260px;
+  display: grid;
+  align-items: end;
+  margin: 26px 0 34px;
+  padding: 28px;
+  border-radius: 14px;
+  overflow: hidden;
+  background:
+    linear-gradient(90deg, rgba(23, 32, 51, 0.9) 0%, rgba(23, 32, 51, 0.74) 44%, rgba(23, 32, 51, 0.18) 100%),
+    url("/assets/hero-clinic.png") center / cover no-repeat;
+  color: #fff;
+}
+
+.guide-visual h2 {
+  max-width: 580px;
+  color: #fff;
+}
+
+.guide-visual p {
+  max-width: 560px;
+  color: #e8edf5;
+}
+
 .feature-card,
 .card {
   min-height: 220px;
@@ -422,6 +446,41 @@ p {
   border-radius: 8px;
   background: #fff;
   overflow: hidden;
+}
+
+.code-guide {
+  margin-top: 34px;
+  padding: 18px;
+  border: 1px solid rgba(23, 32, 51, 0.14);
+  border-radius: 10px;
+  background: #fff;
+}
+
+.code-guide summary {
+  cursor: pointer;
+  color: var(--teal-dark);
+  font-weight: 900;
+}
+
+.code-guide p {
+  color: var(--muted);
+}
+
+.code-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.code-grid span {
+  padding: 9px 10px;
+  border-radius: 999px;
+  background: #eef1f6;
+  color: var(--teal-dark);
+  font-size: 13px;
+  font-weight: 900;
+  text-align: center;
 }
 
 .matrix-row {
@@ -1233,6 +1292,7 @@ summary {
   .tool-grid,
   .treatment-grid,
   .cancer-path-grid,
+  .code-grid,
   .insight-layout,
   .feature-rail,
   .grid,
@@ -1310,6 +1370,14 @@ summary {
 
   .quick-wrap {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .guide-visual {
+    min-height: 220px;
+    padding: 22px;
+    background:
+      linear-gradient(180deg, rgba(23, 32, 51, 0.86) 0%, rgba(23, 32, 51, 0.64) 100%),
+      url("/assets/hero-clinic.png") center / cover no-repeat;
   }
 
   .region-grid {
