@@ -367,6 +367,19 @@ p {
   color: #e8edf5;
 }
 
+.guide-group-title {
+  margin-top: 46px;
+  margin-bottom: 16px;
+}
+
+.guide-visual + .guide-group-title {
+  margin-top: 18px;
+}
+
+.grid + .guide-group-title {
+  margin-top: 42px;
+}
+
 .feature-card,
 .card {
   min-height: 158px;
