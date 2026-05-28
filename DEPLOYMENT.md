@@ -27,7 +27,7 @@
 
 ## After deployment
 
-Replace `https://carelocal.pages.dev` in these files with the final domain:
+Replace `https://carelocal-git.pages.dev` in these files with the final domain:
 
 - `sitemap.xml`
 - `robots.txt`
