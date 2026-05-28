@@ -1216,14 +1216,18 @@ summary {
   box-shadow: 0 16px 36px rgba(23, 32, 51, 0.07);
 }
 
+.tool-card p {
+  color: var(--muted);
+}
+
 .tool-card.primary {
-  background: #172033;
-  color: #fff;
+  background: #fff;
+  color: var(--ink);
 }
 
 .tool-card.primary p,
 .tool-card.primary .card-label {
-  color: #d9e1ec;
+  color: var(--muted);
 }
 
 .treatment-section {
