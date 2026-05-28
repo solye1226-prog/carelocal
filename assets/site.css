@@ -803,6 +803,48 @@ summary {
   color: var(--muted);
 }
 
+.data-snapshot {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(300px, 0.75fr);
+  gap: 20px;
+  align-items: center;
+  padding: 8px 0 58px;
+}
+
+.data-snapshot h2 {
+  max-width: 720px;
+}
+
+.snapshot-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.snapshot-stats a {
+  min-height: 118px;
+  display: grid;
+  align-content: center;
+  gap: 6px;
+  padding: 16px;
+  border: 1px solid rgba(23, 32, 51, 0.13);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 14px 30px rgba(23, 32, 51, 0.06);
+}
+
+.snapshot-stats strong {
+  font-size: 30px;
+  line-height: 1;
+  color: var(--teal-dark);
+}
+
+.snapshot-stats span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 900;
+}
+
 .content-dashboard {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(290px, 360px);
@@ -987,6 +1029,7 @@ summary {
   .hero-inner,
   .portal-hero-inner,
   .content-dashboard,
+  .data-snapshot,
   .tool-grid,
   .treatment-grid,
   .insight-layout,
@@ -1062,6 +1105,10 @@ summary {
 
   .quick-wrap {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .snapshot-stats {
+    grid-template-columns: 1fr;
   }
 
   .quick-item {

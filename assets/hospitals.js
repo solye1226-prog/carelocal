@@ -46,6 +46,27 @@ function renderOptions() {
   });
 }
 
+function applyUrlFilters() {
+  const params = new URLSearchParams(window.location.search);
+  const queryValue = params.get("q") || params.get("keyword") || "";
+  const regionValue = params.get("region") || params.get("sido") || "";
+  const typeValue = params.get("type") || params.get("clCd") || "";
+
+  search.value = queryValue;
+  if (regionValue) region.value = regionValue;
+  if (typeValue) type.value = typeValue;
+}
+
+function syncUrlFilters() {
+  const params = new URLSearchParams();
+  if (search.value.trim()) params.set("q", search.value.trim());
+  if (region.value) params.set("region", region.value);
+  if (type.value) params.set("type", type.value);
+
+  const nextUrl = params.toString() ? `${window.location.pathname}?${params.toString()}` : window.location.pathname;
+  window.history.replaceState({}, "", nextUrl);
+}
+
 function renderHospitals() {
   const filtered = hospitals.filter(hospitalMatches);
   count.textContent = `${formatCount(filtered.length)}개 병원`;
@@ -89,6 +110,7 @@ async function loadHospitals() {
     hospitals = Array.isArray(data.hospitals) ? data.hospitals : [];
     panel.hidden = false;
     renderOptions();
+    applyUrlFilters();
     renderHospitals();
   } catch (error) {
     panel.hidden = false;
@@ -98,7 +120,10 @@ async function loadHospitals() {
 }
 
 [search, region, type].forEach((control) => {
-  control?.addEventListener("input", renderHospitals);
+  control?.addEventListener("input", () => {
+    syncUrlFilters();
+    renderHospitals();
+  });
 });
 
 loadHospitals();

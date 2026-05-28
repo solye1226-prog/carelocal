@@ -6,7 +6,7 @@
     <title>병원 찾기 | 케어로컬</title>
     <meta name="description" content="지역, 진료 유형, 방문 전 확인 기준에 따라 중증진료 병원과 암센터 정보를 탐색하는 케어로컬 병원 찾기 페이지입니다.">
     <link rel="canonical" href="https://hospital.hbuby.com/hospitals/">
-    <link rel="stylesheet" href="/assets/site.css?v=20260528-treatment-finder">
+    <link rel="stylesheet" href="/assets/site.css?v=20260528-hira-ui">
   </head>
   <body>
     <header class="site-header">
@@ -18,8 +18,8 @@
     <main class="section">
       <div class="breadcrumb"><a href="/">홈</a> / 병원 찾기</div>
       <p class="eyebrow">Hospital Finder</p>
-      <h1>지역별 중증진료 병원 정보</h1>
-      <p class="lead">암센터, 상급종합병원, 응급의료센터처럼 방문 전 준비가 중요한 의료기관 정보를 지역별로 확장해 나갑니다.</p>
+      <h1>전국 상급종합·종합병원 찾기</h1>
+      <p class="lead">건강보험심사평가원 병원정보서비스 기준으로 저장한 385개 병원 데이터를 병원명, 지역, 의료기관 구분으로 확인합니다.</p>
       <div class="grid">
         <a class="card" href="/hospitals/seoul/"><span class="card-label">서울</span><h3>서울 중증진료 병원</h3><p>서울권 대형병원, 암센터, 초진 준비 기준을 중심으로 정리합니다.</p></a>
         <a class="card" href="/hospitals/seoul/sunday.html"><span class="card-label">주말</span><h3>서울 주말 진료</h3><p>일요일 진료와 응급실 이용 전 확인해야 할 항목을 안내합니다.</p></a>
@@ -30,7 +30,7 @@
           <div>
             <p class="eyebrow">HIRA Hospital Data</p>
             <h2>전국 상급종합·종합병원 데이터</h2>
-            <p class="muted">건강보험심사평가원 병원정보서비스 기준으로 저장한 정적 데이터입니다.</p>
+            <p class="muted">홈 검색어와 URL 필터가 자동 적용됩니다. 병원 상세 진료 가능 여부는 공식 홈페이지 또는 전화로 다시 확인하세요.</p>
           </div>
           <strong data-hospital-data-count>데이터 불러오는 중</strong>
         </div>
@@ -55,6 +55,6 @@
       </section>
       <div class="notice">케어로컬은 병원을 추천하거나 의료 판단을 제공하지 않습니다. 실제 진료 가능 여부는 병원 공식 홈페이지 또는 전화로 확인해야 합니다.</div>
     </main>
-    <script src="/assets/hospitals.js?v=20260528-static-hospitals" defer></script>
+    <script src="/assets/hospitals.js?v=20260528-hira-ui" defer></script>
   </body>
 </html>
