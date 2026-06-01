@@ -123,6 +123,26 @@ function getMapPosition(hospital) {
   };
 }
 
+const regionMapPositions = {
+  "서울": { x: 42, y: 28 },
+  "경기": { x: 34, y: 35 },
+  "인천": { x: 25, y: 33 },
+  "강원": { x: 60, y: 24 },
+  "충북": { x: 47, y: 46 },
+  "충남": { x: 32, y: 52 },
+  "대전": { x: 42, y: 56 },
+  "세종시": { x: 39, y: 50 },
+  "전북": { x: 36, y: 65 },
+  "전남": { x: 32, y: 79 },
+  "광주": { x: 27, y: 74 },
+  "경북": { x: 62, y: 55 },
+  "대구": { x: 60, y: 66 },
+  "경남": { x: 56, y: 77 },
+  "울산": { x: 72, y: 72 },
+  "부산": { x: 67, y: 83 },
+  "제주": { x: 30, y: 94 },
+};
+
 function renderMapDetail(hospital) {
   if (!hospitalMapDetail) return;
 
@@ -143,53 +163,71 @@ function renderMapDetail(hospital) {
   `;
 }
 
+function renderRegionMapDetail(regionName, regionHospitals) {
+  if (!hospitalMapDetail) return;
+
+  const advancedCount = regionHospitals.filter((hospital) => hospital.typeCode === "01").length;
+  const samples = regionHospitals
+    .slice(0, 4)
+    .map((hospital) => `<li>${hospital.name}<small>${hospital.type || "의료기관"}</small></li>`)
+    .join("");
+
+  hospitalMapDetail.innerHTML = `
+    <span class="card-label">Region Map</span>
+    <h3>${regionName} 병원 ${formatCount(regionHospitals.length)}곳</h3>
+    <p>상급종합병원 ${formatCount(advancedCount)}곳, 종합병원 ${formatCount(regionHospitals.length - advancedCount)}곳이 현재 데이터에 포함되어 있습니다.</p>
+    <ul class="map-sample-list">${samples}</ul>
+    <button class="map-filter-button" type="button" data-map-region-filter="${regionName}">${regionName} 병원 목록 보기</button>
+  `;
+
+  hospitalMapDetail.querySelector("[data-map-region-filter]")?.addEventListener("click", () => {
+    region.value = regionName;
+    syncUrlFilters();
+    renderHospitals();
+    document.querySelector("[data-hospital-data-panel]")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
 function renderHospitalMap(filtered) {
   if (!hospitalMap || !hospitalMapDetail || !hospitalMapCount) return;
 
-  const mapHospitals = filtered
-    .filter((hospital) => getMapPosition(hospital))
-    .sort((a, b) => {
-      if (a.typeCode === b.typeCode) return String(a.name).localeCompare(String(b.name), "ko");
-      return a.typeCode === "01" ? -1 : 1;
-    })
-    .slice(0, 120);
+  const byRegion = new Map();
+  filtered.forEach((hospital) => {
+    if (!hospital.sido || !regionMapPositions[hospital.sido]) return;
+    if (!byRegion.has(hospital.sido)) byRegion.set(hospital.sido, []);
+    byRegion.get(hospital.sido).push(hospital);
+  });
 
-  hospitalMap.innerHTML = `
-    <span class="map-region-label map-region-seoul">서울·경기</span>
-    <span class="map-region-label map-region-gangwon">강원</span>
-    <span class="map-region-label map-region-chungcheong">충청</span>
-    <span class="map-region-label map-region-yeongnam">영남</span>
-    <span class="map-region-label map-region-honam">호남</span>
-    <span class="map-region-label map-region-jeju">제주</span>
-  `;
-  hospitalMapCount.textContent = `${formatCount(mapHospitals.length)}개 위치 표시`;
+  hospitalMap.innerHTML = "";
+  hospitalMapCount.textContent = `${formatCount(filtered.length)}개 병원`;
 
-  mapHospitals.forEach((hospital, index) => {
-    const position = getMapPosition(hospital);
+  const entries = Array.from(byRegion.entries()).sort((a, b) => b[1].length - a[1].length);
+  entries.forEach(([regionName, regionHospitals], index) => {
+    const position = regionMapPositions[regionName];
     const marker = document.createElement("button");
     marker.type = "button";
-    marker.className = `hospital-map-marker${hospital.typeCode === "01" ? " is-advanced" : ""}`;
+    marker.className = "hospital-map-region";
     marker.style.left = `${position.x}%`;
     marker.style.top = `${position.y}%`;
-    marker.title = hospital.name;
-    marker.setAttribute("aria-label", `${hospital.name} 위치 보기`);
+    marker.setAttribute("aria-label", `${regionName} 병원 ${regionHospitals.length}곳 보기`);
+    marker.innerHTML = `<strong>${regionName}</strong><span>${formatCount(regionHospitals.length)}</span>`;
     marker.addEventListener("click", () => {
-      hospitalMap.querySelectorAll(".hospital-map-marker").forEach((node) => node.classList.remove("is-active"));
+      hospitalMap.querySelectorAll(".hospital-map-region").forEach((node) => node.classList.remove("is-active"));
       marker.classList.add("is-active");
-      renderMapDetail(hospital);
+      renderRegionMapDetail(regionName, regionHospitals);
     });
     hospitalMap.append(marker);
 
     if (index === 0) {
       marker.classList.add("is-active");
-      renderMapDetail(hospital);
+      renderRegionMapDetail(regionName, regionHospitals);
     }
   });
 
-  if (!mapHospitals.length) {
+  if (!entries.length) {
     hospitalMapDetail.innerHTML = `
       <span class="card-label">No Result</span>
-      <h3>표시할 위치가 없습니다</h3>
+      <h3>표시할 지역이 없습니다</h3>
       <p>검색어 또는 지역 필터를 바꿔 다시 확인해 주세요.</p>
     `;
   }

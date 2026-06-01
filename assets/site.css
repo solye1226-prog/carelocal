@@ -681,69 +681,54 @@ button:focus {
   border-radius: 16px;
   overflow: hidden;
   background:
-    radial-gradient(circle at 50% 12%, rgba(255, 255, 255, 0.95), transparent 18%),
-    radial-gradient(circle at 41% 27%, rgba(255, 255, 255, 0.95), transparent 16%),
-    radial-gradient(circle at 52% 48%, rgba(255, 255, 255, 0.95), transparent 21%),
-    radial-gradient(circle at 44% 69%, rgba(255, 255, 255, 0.95), transparent 18%),
-    radial-gradient(circle at 36% 90%, rgba(255, 255, 255, 0.95), transparent 9%),
+    url("/assets/korea-map-silhouette.svg") center 52% / auto 92% no-repeat,
     linear-gradient(180deg, #eef3f7 0%, #e9f0f4 100%);
 }
 
-.hospital-map-canvas::before {
-  content: "";
-  position: absolute;
-  inset: 9% 24% 7% 26%;
-  border-radius: 48% 52% 48% 52% / 28% 35% 65% 72%;
-  background: linear-gradient(180deg, #f8fafc 0%, #dfe7ee 100%);
-  border: 1px solid rgba(23, 32, 51, 0.12);
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.74);
-}
-
-.map-region-label {
-  position: absolute;
-  z-index: 1;
-  padding: 5px 8px;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.72);
-  color: var(--muted);
-  font-size: 12px;
-  font-weight: 900;
-  pointer-events: none;
-}
-
-.map-region-seoul { left: 38%; top: 25%; }
-.map-region-gangwon { left: 55%; top: 18%; }
-.map-region-chungcheong { left: 42%; top: 43%; }
-.map-region-yeongnam { left: 56%; top: 61%; }
-.map-region-honam { left: 35%; top: 66%; }
-.map-region-jeju { left: 28%; top: 91%; }
-
-.hospital-map-marker {
+.hospital-map-region {
   position: absolute;
   z-index: 2;
-  width: 14px;
-  height: 14px;
-  border: 2px solid #fff;
-  border-radius: 999px;
-  background: #7d8797;
-  box-shadow: 0 4px 14px rgba(23, 32, 51, 0.22);
+  min-width: 54px;
+  min-height: 44px;
+  display: grid;
+  place-items: center;
+  gap: 1px;
+  border: 1px solid rgba(23, 32, 51, 0.14);
+  border-radius: 14px;
+  padding: 6px 9px;
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--ink);
+  box-shadow: 0 10px 28px rgba(23, 32, 51, 0.16);
   transform: translate(-50%, -50%);
   cursor: pointer;
   transition: transform 0.14s ease, background 0.14s ease, box-shadow 0.14s ease;
 }
 
-.hospital-map-marker.is-advanced {
-  width: 17px;
-  height: 17px;
-  background: var(--teal-dark);
+.hospital-map-region strong {
+  font-size: 13px;
+  line-height: 1;
 }
 
-.hospital-map-marker:hover,
-.hospital-map-marker:focus-visible,
-.hospital-map-marker.is-active {
-  background: var(--amber);
-  transform: translate(-50%, -50%) scale(1.45);
+.hospital-map-region span {
+  color: var(--teal-dark);
+  font-size: 15px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.hospital-map-region:hover,
+.hospital-map-region:focus-visible,
+.hospital-map-region.is-active {
+  background: var(--teal-dark);
+  color: #fff;
+  transform: translate(-50%, -50%) scale(1.04);
   box-shadow: 0 8px 24px rgba(23, 32, 51, 0.28);
+}
+
+.hospital-map-region:hover span,
+.hospital-map-region:focus-visible span,
+.hospital-map-region.is-active span {
+  color: #fff;
 }
 
 .hospital-map-detail {
@@ -760,6 +745,45 @@ button:focus {
 
 .hospital-map-detail p {
   color: var(--muted);
+}
+
+.map-sample-list {
+  display: grid;
+  gap: 8px;
+  margin: 14px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.map-sample-list li {
+  display: grid;
+  gap: 2px;
+  padding: 10px 0;
+  border-top: 1px solid rgba(23, 32, 51, 0.1);
+  font-weight: 900;
+}
+
+.map-sample-list small {
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.map-filter-button {
+  width: 100%;
+  min-height: 44px;
+  border: 1px solid var(--teal-dark);
+  border-radius: 10px;
+  background: var(--teal-dark);
+  color: #fff;
+  font: inherit;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.map-filter-button:hover,
+.map-filter-button:focus-visible {
+  background: #fff;
+  color: var(--teal-dark);
 }
 
 .hospital-card {

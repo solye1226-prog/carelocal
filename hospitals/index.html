@@ -6,7 +6,7 @@
     <title>병원 찾기 | 케어로컬</title>
     <meta name="description" content="지역, 진료 유형, 방문 전 확인 기준에 따라 중증진료 병원과 암센터 정보를 탐색하는 케어로컬 병원 찾기 페이지입니다.">
     <link rel="canonical" href="https://hospital.hbuby.com/hospitals/">
-    <link rel="stylesheet" href="/assets/site.css?v=20260601-hospital-map">
+    <link rel="stylesheet" href="/assets/site.css?v=20260601-region-map">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2258793659580551"
      crossorigin="anonymous"></script>
 </head>
@@ -33,16 +33,16 @@
           <div>
             <p class="eyebrow">Hospital Map</p>
             <h2>지도에서 병원 위치를 눌러보세요</h2>
-            <p class="muted">상급종합병원과 종합병원 위치를 간단한 전국 지도 위에 표시합니다. 아래 검색·지역 필터를 바꾸면 지도 마커도 함께 바뀝니다.</p>
+            <p class="muted">상급종합병원과 종합병원 분포를 전국 지도 이미지 위에 지역별로 표시합니다. 지역을 누르면 병원 목록을 바로 좁혀볼 수 있습니다.</p>
           </div>
           <strong data-hospital-map-count>지도 불러오는 중</strong>
         </div>
         <div class="hospital-map-layout">
-          <div class="hospital-map-canvas" data-hospital-map aria-label="전국 병원 위치 마커"></div>
+          <div class="hospital-map-canvas" data-hospital-map aria-label="전국 병원 지역별 지도"></div>
           <aside class="hospital-map-detail" data-hospital-map-detail>
             <span class="card-label">Map Guide</span>
-            <h3>마커를 선택하세요</h3>
-            <p>병원명을 누르면 주소, 전화번호, 공식 홈페이지와 네이버 지도 링크를 확인할 수 있습니다.</p>
+            <h3>지역을 선택하세요</h3>
+            <p>지역별 병원 수와 대표 병원을 확인한 뒤, 해당 지역 병원 목록으로 바로 이동할 수 있습니다.</p>
           </aside>
         </div>
       </section>
@@ -76,6 +76,6 @@
       </section>
       <div class="notice">케어로컬은 병원을 추천하거나 의료 판단을 제공하지 않습니다. 실제 진료 가능 여부는 병원 공식 홈페이지 또는 전화로 확인해야 합니다.</div>
     </main>
-    <script src="/assets/hospitals.js?v=20260601-hospital-map" defer></script>
+    <script src="/assets/hospitals.js?v=20260601-region-map" defer></script>
   </body>
 </html>
