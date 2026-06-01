@@ -667,6 +667,12 @@ button:focus {
   box-shadow: 0 16px 36px rgba(23, 32, 51, 0.06);
 }
 
+.home-hospital-map-panel .section-title > strong {
+  display: inline-flex;
+  min-width: max-content;
+  white-space: nowrap;
+}
+
 .hospital-map-layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
