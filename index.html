@@ -76,12 +76,36 @@
         </div>
       </section>
 
-      <section class="portal-container decision-flow" aria-label="진단 후 확인 흐름">
-        <div class="decision-step"><span>01</span><strong>진단명</strong><small>진단서·검사 결과 확인</small></div>
-        <div class="decision-step"><span>02</span><strong>치료 이해</strong><small>수술·항암·검사 흐름</small></div>
-        <div class="decision-step"><span>03</span><strong>비용 항목</strong><small>검사비·입원비·비급여</small></div>
-        <div class="decision-step"><span>04</span><strong>보험 항목</strong><small>실비·진단비·수술비</small></div>
-        <div class="decision-step"><span>05</span><strong>청구서류</strong><small>진단서·세부내역서</small></div>
+      <section class="portal-container intent-section" aria-label="자주 찾는 보험금 확인 주제">
+        <div class="section-heading split-heading">
+          <div>
+            <p class="eyebrow">What to Check</p>
+            <h2>지금 많이 헷갈리는 항목부터 확인하세요</h2>
+            <p class="muted">단계 설명보다 실제로 자주 검색하는 상황을 먼저 배치했습니다. 각 항목은 관련 가이드로 바로 이어집니다.</p>
+          </div>
+        </div>
+        <div class="intent-grid">
+          <a class="intent-card" href="/guides/cancer-treatment-cost.html">
+            <span>치료비</span>
+            <h3>암 치료비는 어떤 항목을 봐야 하나요?</h3>
+            <p>검사, 수술, 항암, 방사선, 입원, 비급여 항목을 먼저 구분합니다.</p>
+          </a>
+          <a class="intent-card" href="/checkups/endoscopy.html">
+            <span>실비</span>
+            <h3>대장내시경 용종 제거도 청구할 수 있나요?</h3>
+            <p>용종 제거, 조직검사, 세부내역서, 진료확인서 준비 기준을 봅니다.</p>
+          </a>
+          <a class="intent-card" href="/cancers/thyroid-cancer.html">
+            <span>진단비</span>
+            <h3>갑상선암은 일반암인지 유사암인지 확인이 필요합니다</h3>
+            <p>가입 시기와 약관에 따라 분류가 달라질 수 있어 진단명 확인이 중요합니다.</p>
+          </a>
+          <a class="intent-card" href="/guides/robotic-surgery.html">
+            <span>수술비</span>
+            <h3>로봇수술은 수술비 특약에서 어떻게 확인하나요?</h3>
+            <p>수술명, 수술확인서, 비급여 비용, 특약 분류를 함께 확인합니다.</p>
+          </a>
+        </div>
       </section>
 
       <section class="portal-container checklist-lead" aria-label="체크리스트 자료">
@@ -107,25 +131,6 @@
             <small>수술명, 수술확인서, 특약 분류 확인</small>
           </a>
         </div>
-      </section>
-
-      <section class="portal-container coverage-tool" aria-label="보장 확인 도구" data-coverage-check>
-        <div class="section-heading split-heading">
-          <div>
-            <p class="eyebrow">Coverage Check</p>
-            <h2>보험금 계산기 대신, 확인할 항목을 체크해 보세요</h2>
-            <p class="muted">금액을 단정하지 않고 진단명·치료명 기준으로 약관 확인이 필요한 항목만 정리합니다.</p>
-          </div>
-          <strong data-coverage-result>확인이 필요한 항목 0개</strong>
-        </div>
-        <div class="coverage-grid">
-          <label><input type="checkbox" data-coverage-item> 암진단비 또는 유사암 진단비 가입 여부</label>
-          <label><input type="checkbox" data-coverage-item> 실손보험 가입 시기와 비급여 보장 범위</label>
-          <label><input type="checkbox" data-coverage-item> 질병수술비·종수술비·암수술비 특약 여부</label>
-          <label><input type="checkbox" data-coverage-item> 입원일당, 간병 관련 특약 여부</label>
-          <label><input type="checkbox" data-coverage-item> 진단서, 수술확인서, 진료비 세부내역서 준비 여부</label>
-        </div>
-        <p class="compliance-note">보험금 지급 여부는 가입 상품, 약관, 가입 시기, 보험사 심사 기준에 따라 달라질 수 있습니다.</p>
       </section>
 
       <section class="portal-container treatment-section" aria-label="건강검진 가이드">
@@ -298,6 +303,5 @@
       </div>
     </footer>
     <script src="/assets/hospital-map.js?v=20260601-home-map" defer></script>
-    <script src="/assets/coverage-check.js?v=20260601-insurance-platform" defer></script>
   </body>
 </html>

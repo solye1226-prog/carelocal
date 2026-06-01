@@ -1012,46 +1012,68 @@ summary {
   font-weight: 850;
 }
 
-.decision-flow {
-  display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
-  gap: 10px;
-  margin-top: 28px;
+.intent-section {
+  margin-top: 34px;
   margin-bottom: 54px;
 }
 
-.decision-step {
-  min-height: 124px;
+.intent-grid {
   display: grid;
-  align-content: center;
-  gap: 5px;
-  padding: 17px;
-  border: 1px solid rgba(23, 32, 51, 0.12);
-  border-radius: 14px;
-  background: #fff;
-  box-shadow: 0 14px 34px rgba(23, 32, 51, 0.06);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
 }
 
-.decision-step span {
-  width: 34px;
-  height: 34px;
-  display: grid;
-  place-items: center;
-  border-radius: 12px;
-  background: var(--sky);
+.intent-card {
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 22px;
+  border: 1px solid rgba(23, 32, 51, 0.12);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 14px 34px rgba(23, 32, 51, 0.06);
+  transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
+}
+
+.intent-card span {
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: #eef1f6;
   color: var(--teal-dark);
   font-size: 13px;
   font-weight: 900;
 }
 
-.decision-step strong {
-  font-size: 19px;
+.intent-card h3 {
+  font-size: 21px;
 }
 
-.decision-step small {
+.intent-card p {
+  margin-top: auto;
   color: var(--muted);
-  font-size: 13px;
-  font-weight: 750;
+}
+
+.intent-card:hover,
+.intent-card:focus-visible {
+  transform: translateY(-2px);
+  background: var(--teal-dark);
+  border-color: var(--teal-dark);
+}
+
+.intent-card:hover span,
+.intent-card:hover h3,
+.intent-card:hover p,
+.intent-card:focus-visible span,
+.intent-card:focus-visible h3,
+.intent-card:focus-visible p {
+  color: #fff;
+}
+
+.intent-card:hover span,
+.intent-card:focus-visible span {
+  background: rgba(255, 255, 255, 0.16);
 }
 
 .checklist-lead {
@@ -1063,7 +1085,7 @@ summary {
 }
 
 .checklist-copy,
-.coverage-tool {
+.intent-card {
   border: 1px solid rgba(23, 32, 51, 0.12);
   border-radius: 18px;
   background: #fff;
@@ -1136,42 +1158,6 @@ summary {
 .checklist-card:focus-visible strong,
 .checklist-card:focus-visible small {
   color: #fff;
-}
-
-.coverage-tool {
-  padding: 26px;
-  margin-bottom: 58px;
-}
-
-.coverage-tool .section-heading > strong {
-  min-width: max-content;
-  color: var(--teal-dark);
-}
-
-.coverage-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 10px;
-}
-
-.coverage-grid label {
-  min-height: 58px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 14px 15px;
-  border: 1px solid rgba(23, 32, 51, 0.12);
-  border-radius: 12px;
-  background: #f8fafc;
-  color: #2f3b4b;
-  font-weight: 850;
-}
-
-.coverage-grid input {
-  width: 18px;
-  height: 18px;
-  accent-color: var(--teal-dark);
-  flex: none;
 }
 
 .compliance-note {
@@ -1694,10 +1680,9 @@ summary {
   .tool-grid,
   .treatment-grid,
   .cancer-path-grid,
-  .decision-flow,
+  .intent-grid,
   .checklist-lead,
   .checklist-grid,
-  .coverage-grid,
   .code-grid,
   .insight-layout,
   .feature-rail,
@@ -1733,7 +1718,7 @@ summary {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .decision-flow,
+  .intent-grid,
   .checklist-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -1805,13 +1790,9 @@ summary {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .decision-flow,
+  .intent-grid,
   .checklist-grid {
     grid-template-columns: 1fr;
-  }
-
-  .coverage-tool {
-    padding: 20px;
   }
 
   .guide-visual {
