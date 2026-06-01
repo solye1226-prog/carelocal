@@ -4,6 +4,9 @@ const count = document.querySelector("[data-hospital-data-count]");
 const search = document.querySelector("[data-hospital-data-search]");
 const region = document.querySelector("[data-hospital-data-region]");
 const type = document.querySelector("[data-hospital-data-type]");
+const hospitalMap = document.querySelector("[data-hospital-map]");
+const hospitalMapDetail = document.querySelector("[data-hospital-map-detail]");
+const hospitalMapCount = document.querySelector("[data-hospital-map-count]");
 
 let hospitals = [];
 
@@ -96,6 +99,102 @@ function formatDate(value) {
   return `${text.slice(0, 4)}.${text.slice(4, 6)}.${text.slice(6, 8)} 개설`;
 }
 
+function getMapUrl(hospital) {
+  if (!hospital.address) return "";
+  return `https://map.naver.com/p/search/${encodeURIComponent(hospital.address)}`;
+}
+
+function getMapPosition(hospital) {
+  const longitude = Number(hospital.longitude);
+  const latitude = Number(hospital.latitude);
+  if (!Number.isFinite(longitude) || !Number.isFinite(latitude)) return null;
+
+  const bounds = {
+    minLng: 124.4,
+    maxLng: 131.5,
+    minLat: 33,
+    maxLat: 39.2,
+  };
+  const x = ((longitude - bounds.minLng) / (bounds.maxLng - bounds.minLng)) * 100;
+  const y = ((bounds.maxLat - latitude) / (bounds.maxLat - bounds.minLat)) * 100;
+  return {
+    x: Math.min(96, Math.max(4, x)),
+    y: Math.min(94, Math.max(5, y)),
+  };
+}
+
+function renderMapDetail(hospital) {
+  if (!hospitalMapDetail) return;
+
+  const mapUrl = getMapUrl(hospital);
+  const website = hospital.website ? `<a class="text-link" href="${hospital.website}" target="_blank" rel="noopener">공식 홈페이지</a>` : "";
+  const mapLink = mapUrl ? `<a class="text-link" href="${mapUrl}" target="_blank" rel="noopener">네이버 지도</a>` : "";
+  hospitalMapDetail.innerHTML = `
+    <span class="card-label">${hospital.type || "의료기관"} · ${hospital.sido || "지역 미상"}</span>
+    <h3>${hospital.name}</h3>
+    <p>${hospital.address || "주소 정보 확인 필요"}</p>
+    <div class="hospital-meta">
+      <span>${hospital.phone || "전화 확인 필요"}</span>
+      ${hospital.district ? `<span>${hospital.district}</span>` : ""}
+      ${hospital.doctorCount ? `<span>의사 ${formatCount(hospital.doctorCount)}명</span>` : ""}
+      ${website}
+      ${mapLink}
+    </div>
+  `;
+}
+
+function renderHospitalMap(filtered) {
+  if (!hospitalMap || !hospitalMapDetail || !hospitalMapCount) return;
+
+  const mapHospitals = filtered
+    .filter((hospital) => getMapPosition(hospital))
+    .sort((a, b) => {
+      if (a.typeCode === b.typeCode) return String(a.name).localeCompare(String(b.name), "ko");
+      return a.typeCode === "01" ? -1 : 1;
+    })
+    .slice(0, 120);
+
+  hospitalMap.innerHTML = `
+    <span class="map-region-label map-region-seoul">서울·경기</span>
+    <span class="map-region-label map-region-gangwon">강원</span>
+    <span class="map-region-label map-region-chungcheong">충청</span>
+    <span class="map-region-label map-region-yeongnam">영남</span>
+    <span class="map-region-label map-region-honam">호남</span>
+    <span class="map-region-label map-region-jeju">제주</span>
+  `;
+  hospitalMapCount.textContent = `${formatCount(mapHospitals.length)}개 위치 표시`;
+
+  mapHospitals.forEach((hospital, index) => {
+    const position = getMapPosition(hospital);
+    const marker = document.createElement("button");
+    marker.type = "button";
+    marker.className = `hospital-map-marker${hospital.typeCode === "01" ? " is-advanced" : ""}`;
+    marker.style.left = `${position.x}%`;
+    marker.style.top = `${position.y}%`;
+    marker.title = hospital.name;
+    marker.setAttribute("aria-label", `${hospital.name} 위치 보기`);
+    marker.addEventListener("click", () => {
+      hospitalMap.querySelectorAll(".hospital-map-marker").forEach((node) => node.classList.remove("is-active"));
+      marker.classList.add("is-active");
+      renderMapDetail(hospital);
+    });
+    hospitalMap.append(marker);
+
+    if (index === 0) {
+      marker.classList.add("is-active");
+      renderMapDetail(hospital);
+    }
+  });
+
+  if (!mapHospitals.length) {
+    hospitalMapDetail.innerHTML = `
+      <span class="card-label">No Result</span>
+      <h3>표시할 위치가 없습니다</h3>
+      <p>검색어 또는 지역 필터를 바꿔 다시 확인해 주세요.</p>
+    `;
+  }
+}
+
 function getDiagnosisSearch() {
   const query = normalize(search?.value);
   if (!query) return null;
@@ -160,6 +259,7 @@ function renderHospitals() {
   const filtered = hospitals.filter(hospitalMatches);
   count.textContent = `${formatCount(filtered.length)}개 병원`;
   list.innerHTML = "";
+  renderHospitalMap(filtered);
 
   if (diagnosis) {
     const note = document.createElement("div");
@@ -176,7 +276,7 @@ function renderHospitals() {
     const card = document.createElement("article");
     card.className = "hospital-card";
     const website = hospital.website ? `<a class="text-link" href="${hospital.website}" target="_blank" rel="noopener">공식 홈페이지</a>` : "";
-    const mapUrl = hospital.address ? `https://map.naver.com/p/search/${encodeURIComponent(hospital.address)}` : "";
+    const mapUrl = getMapUrl(hospital);
     const mapLink = mapUrl ? `<a class="text-link" href="${mapUrl}" target="_blank" rel="noopener">지도에서 보기</a>` : "";
     const established = formatDate(hospital.establishedAt);
     card.innerHTML = `

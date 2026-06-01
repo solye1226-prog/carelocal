@@ -6,7 +6,7 @@
     <title>병원 찾기 | 케어로컬</title>
     <meta name="description" content="지역, 진료 유형, 방문 전 확인 기준에 따라 중증진료 병원과 암센터 정보를 탐색하는 케어로컬 병원 찾기 페이지입니다.">
     <link rel="canonical" href="https://hospital.hbuby.com/hospitals/">
-    <link rel="stylesheet" href="/assets/site.css?v=20260528-guide-compact">
+    <link rel="stylesheet" href="/assets/site.css?v=20260601-hospital-map">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2258793659580551"
      crossorigin="anonymous"></script>
 </head>
@@ -28,6 +28,24 @@
         <a class="card" href="/hospitals/?type=11"><span class="card-label">종합병원</span><h3>지역 종합병원 확인</h3><p>거주지와 보호자 이동 동선을 기준으로 가까운 종합병원을 확인합니다.</p></a>
         <a class="card" href="/hospitals/seoul/"><span class="card-label">지역 예시</span><h3>서울 중증진료 병원</h3><p>서울권 주요 대형병원과 암센터, 초진 준비 기준을 별도 페이지로 정리했습니다.</p></a>
       </div>
+      <section class="hospital-map-panel" aria-label="전국 병원 위치 지도">
+        <div class="section-title">
+          <div>
+            <p class="eyebrow">Hospital Map</p>
+            <h2>지도에서 병원 위치를 눌러보세요</h2>
+            <p class="muted">상급종합병원과 종합병원 위치를 간단한 전국 지도 위에 표시합니다. 아래 검색·지역 필터를 바꾸면 지도 마커도 함께 바뀝니다.</p>
+          </div>
+          <strong data-hospital-map-count>지도 불러오는 중</strong>
+        </div>
+        <div class="hospital-map-layout">
+          <div class="hospital-map-canvas" data-hospital-map aria-label="전국 병원 위치 마커"></div>
+          <aside class="hospital-map-detail" data-hospital-map-detail>
+            <span class="card-label">Map Guide</span>
+            <h3>마커를 선택하세요</h3>
+            <p>병원명을 누르면 주소, 전화번호, 공식 홈페이지와 네이버 지도 링크를 확인할 수 있습니다.</p>
+          </aside>
+        </div>
+      </section>
       <section class="live-hospital-panel" id="hospital-data" data-hospital-data-panel hidden>
         <div class="section-title">
           <div>
@@ -58,6 +76,6 @@
       </section>
       <div class="notice">케어로컬은 병원을 추천하거나 의료 판단을 제공하지 않습니다. 실제 진료 가능 여부는 병원 공식 홈페이지 또는 전화로 확인해야 합니다.</div>
     </main>
-    <script src="/assets/hospitals.js?v=20260528-diagnosis-search" defer></script>
+    <script src="/assets/hospitals.js?v=20260601-hospital-map" defer></script>
   </body>
 </html>
