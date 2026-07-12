@@ -1031,6 +1031,152 @@ summary {
   font-weight: 850;
 }
 
+.resource-hub {
+  margin-top: 34px;
+  margin-bottom: 34px;
+}
+
+.hub-heading {
+  max-width: 760px;
+  margin-bottom: 18px;
+}
+
+.hub-heading h2 {
+  font-size: clamp(26px, 3vw, 40px);
+}
+
+.hub-heading p:last-child {
+  color: var(--muted);
+}
+
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.resource-card {
+  min-height: 230px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 24px;
+  border: 1px solid rgba(23, 32, 51, 0.12);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 18px 42px rgba(23, 32, 51, 0.06);
+  transition: transform 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+}
+
+.resource-card span {
+  width: 42px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  border-radius: 12px;
+  background: #eef1f6;
+  color: var(--teal-dark);
+  font-weight: 950;
+}
+
+.resource-card h3 {
+  font-size: 23px;
+  margin: 2px 0 0;
+}
+
+.resource-card p {
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.resource-card small {
+  margin-top: auto;
+  color: #526072;
+  font-size: 14px;
+  font-weight: 850;
+}
+
+.resource-card:hover,
+.resource-card:focus-visible {
+  transform: translateY(-2px);
+  background: var(--teal-dark);
+  border-color: var(--teal-dark);
+}
+
+.resource-card:hover *,
+.resource-card:focus-visible * {
+  color: #fff;
+}
+
+.resource-card:hover span,
+.resource-card:focus-visible span {
+  background: rgba(255, 255, 255, 0.16);
+}
+
+.compact-library {
+  margin-top: 16px;
+  margin-bottom: 42px;
+}
+
+.library-columns {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.library-column {
+  padding: 20px;
+  border: 1px solid rgba(23, 32, 51, 0.12);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 14px 34px rgba(23, 32, 51, 0.05);
+}
+
+.library-column h3 {
+  margin-bottom: 12px;
+  font-size: 19px;
+}
+
+.library-column a {
+  display: block;
+  padding: 10px 0;
+  border-top: 1px solid rgba(23, 32, 51, 0.08);
+  color: #334155;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.library-column a:hover,
+.library-column a:focus-visible {
+  color: var(--teal);
+}
+
+.quick-topic-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: -10px;
+  margin-bottom: 40px;
+}
+
+.quick-topic-strip a {
+  padding: 10px 15px;
+  border: 1px solid rgba(23, 32, 51, 0.12);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--teal-dark);
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.quick-topic-strip a:hover,
+.quick-topic-strip a:focus-visible {
+  background: var(--teal-dark);
+  border-color: var(--teal-dark);
+  color: #fff;
+}
+
 .intent-section {
   display: grid;
   grid-template-columns: minmax(260px, 0.55fr) minmax(0, 1.45fr);
@@ -1725,6 +1871,8 @@ summary {
   .tool-grid,
   .treatment-grid,
   .cancer-path-grid,
+  .resource-grid,
+  .library-columns,
   .intent-section,
   .checklist-lead,
   .checklist-grid,
@@ -1831,6 +1979,8 @@ summary {
   }
 
   .intent-grid,
+  .resource-grid,
+  .library-columns,
   .checklist-grid {
     grid-template-columns: 1fr;
   }
