@@ -2219,9 +2219,12 @@ summary {
     margin-bottom: 48px;
   }
 
-  .image-feature img,
-  .guide-image-panel img {
+  .image-feature img {
     min-height: 220px;
+  }
+
+  .guide-image-panel img {
+    min-height: 0;
   }
 
   .quick-wrap {
