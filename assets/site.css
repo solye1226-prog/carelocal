@@ -508,6 +508,8 @@ p {
   border-radius: 8px;
   background: #fff;
   overflow: hidden;
+  margin: 22px 0 28px;
+  box-shadow: 0 14px 34px rgba(23, 32, 51, 0.05);
 }
 
 .code-guide {
@@ -549,7 +551,7 @@ p {
   display: grid;
   grid-template-columns: 120px minmax(0, 1fr) minmax(240px, 0.8fr);
   gap: 18px;
-  padding: 18px;
+  padding: 22px 24px;
   border-top: 1px solid var(--line);
 }
 
@@ -558,7 +560,7 @@ p {
 }
 
 .matrix-row span {
-  color: var(--coral);
+  color: var(--teal-dark);
   font-weight: 900;
 }
 
@@ -880,8 +882,8 @@ summary {
 .article-body td,
 .article-body th,
 .article-body details {
-  font-size: 18px;
-  line-height: 1.78;
+  font-size: 19px;
+  line-height: 1.82;
 }
 
 .article-body h1 {
@@ -899,17 +901,62 @@ summary {
 }
 
 .article-body h2 {
-  margin-top: 34px;
+  margin-top: 44px;
+  margin-bottom: 18px;
   font-size: clamp(22px, 2.4vw, 29px);
 }
 
 .article-body .lead {
-  font-size: 20px;
-  line-height: 1.75;
+  font-size: 21px;
+  line-height: 1.78;
 }
 
 .article-body .notice {
-  font-size: 17px;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.article-body table {
+  width: 100%;
+  margin: 22px 0 30px;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border: 1px solid rgba(23, 32, 51, 0.14);
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 14px 34px rgba(23, 32, 51, 0.05);
+}
+
+.article-body thead th {
+  background: #17212b;
+  color: #fff;
+  font-weight: 900;
+}
+
+.article-body th,
+.article-body td {
+  padding: 18px 20px;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+.article-body tbody tr:nth-child(even) td {
+  background: #f8fafc;
+}
+
+.article-body tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.article-body td:first-child,
+.article-body th:first-child {
+  font-weight: 900;
+  color: var(--teal-dark);
+}
+
+.article-body thead th:first-child {
+  color: #fff;
 }
 
 .site-footer {
@@ -2213,13 +2260,26 @@ summary {
   .article-body td,
   .article-body th,
   .article-body details {
-    font-size: 16.5px;
+    font-size: 17px;
     line-height: 1.72;
   }
 
   .article-body .lead {
-    font-size: 17px;
-    line-height: 1.68;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+
+  .article-body table {
+    display: block;
+    overflow-x: auto;
+    border-radius: 10px;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .article-body th,
+  .article-body td {
+    min-width: 170px;
+    padding: 15px 16px;
   }
 
   .hero-actions .button {
