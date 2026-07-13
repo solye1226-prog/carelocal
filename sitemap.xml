@@ -26,6 +26,7 @@
   <url><loc>https://hospital.hbuby.com/claims/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/medical-expense-claim-documents.html</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/hospitalization-claim-documents.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/surgery-claim-documents.html</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/driver-injury-14.html</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/family-liability-water-leak-deductible.html</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/insurance-companies/</loc><priority>0.8</priority></url>
