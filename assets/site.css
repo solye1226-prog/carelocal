@@ -921,6 +921,7 @@ summary {
   margin: 22px 0 30px;
   border-collapse: separate;
   border-spacing: 0;
+  table-layout: fixed;
   overflow: hidden;
   border: 1px solid rgba(23, 32, 51, 0.14);
   border-radius: 10px;
@@ -953,10 +954,23 @@ summary {
 .article-body th:first-child {
   font-weight: 900;
   color: var(--teal-dark);
+  width: 22%;
+  min-width: 180px;
+  word-break: keep-all;
 }
 
 .article-body thead th:first-child {
   color: #fff;
+}
+
+.article-body th:nth-child(2),
+.article-body td:nth-child(2) {
+  width: 38%;
+}
+
+.article-body th:nth-child(3),
+.article-body td:nth-child(3) {
+  width: 40%;
 }
 
 .site-footer {
@@ -2278,8 +2292,14 @@ summary {
 
   .article-body th,
   .article-body td {
-    min-width: 170px;
+    min-width: 190px;
     padding: 15px 16px;
+  }
+
+  .article-body td:first-child,
+  .article-body th:first-child {
+    min-width: 120px;
+    width: 120px;
   }
 
   .hero-actions .button {
