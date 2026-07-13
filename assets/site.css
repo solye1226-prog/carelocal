@@ -2040,7 +2040,8 @@ summary {
   line-height: 1.6;
 }
 
-.kakao-inquiry-cta {
+.kakao-inquiry-cta,
+.contact-cta {
   margin: 34px 0 28px;
   padding: 28px;
   border: 1px solid #d8e6fb;
@@ -2049,7 +2050,8 @@ summary {
   box-shadow: 0 18px 42px rgba(43, 100, 216, 0.08);
 }
 
-.kakao-inquiry-cta .cta-label {
+.kakao-inquiry-cta .cta-label,
+.contact-cta .cta-label {
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -2060,19 +2062,22 @@ summary {
   font-weight: 900;
 }
 
-.kakao-inquiry-cta h2 {
+.kakao-inquiry-cta h2,
+.contact-cta h2 {
   margin: 0 0 12px;
   font-size: clamp(24px, 2.5vw, 34px);
 }
 
-.kakao-inquiry-cta p {
+.kakao-inquiry-cta p,
+.contact-cta p {
   max-width: 780px;
   color: #2f4668;
   font-size: 17px;
   line-height: 1.8;
 }
 
-.kakao-inquiry-cta .kakao-button {
+.kakao-inquiry-cta .kakao-button,
+.contact-cta .kakao-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -2089,7 +2094,9 @@ summary {
 }
 
 .kakao-inquiry-cta .kakao-button:hover,
-.kakao-inquiry-cta .kakao-button:focus-visible {
+.kakao-inquiry-cta .kakao-button:focus-visible,
+.contact-cta .kakao-button:hover,
+.contact-cta .kakao-button:focus-visible {
   background: #172033;
   color: #fff;
 }
