@@ -2004,6 +2004,52 @@ summary {
   color: #fff;
 }
 
+.post-list {
+  display: grid;
+  gap: 10px;
+  margin: 14px 0 34px;
+}
+
+.post-list a {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 6px 18px;
+  align-items: start;
+  padding: 18px 20px;
+  border: 1px solid rgba(23, 32, 51, 0.14);
+  border-radius: 10px;
+  background: #fff;
+  color: var(--ink);
+  text-decoration: none;
+  box-shadow: 0 10px 24px rgba(23, 32, 51, 0.04);
+  transition: border-color 0.16s ease, box-shadow 0.16s ease, transform 0.16s ease;
+}
+
+.post-list a:hover,
+.post-list a:focus-visible {
+  border-color: rgba(23, 32, 51, 0.32);
+  box-shadow: 0 16px 30px rgba(23, 32, 51, 0.08);
+  transform: translateY(-1px);
+}
+
+.post-list span {
+  grid-row: span 2;
+  color: var(--teal-dark);
+  font-weight: 950;
+  word-break: keep-all;
+}
+
+.post-list strong {
+  font-size: 20px;
+  line-height: 1.35;
+}
+
+.post-list small {
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.55;
+}
+
 .insurance-company-cta {
   margin: 22px 0 28px;
   padding: 4px 0;
@@ -2310,6 +2356,20 @@ summary {
   .article-body th:first-child {
     min-width: 120px;
     width: 120px;
+  }
+
+  .post-list a {
+    grid-template-columns: 1fr;
+    gap: 5px;
+    padding: 16px;
+  }
+
+  .post-list span {
+    grid-row: auto;
+  }
+
+  .post-list strong {
+    font-size: 18px;
   }
 
   .hero-actions .button {
