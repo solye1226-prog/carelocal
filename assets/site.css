@@ -1184,31 +1184,6 @@ summary {
   color: var(--teal);
 }
 
-.quick-topic-strip {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: -10px;
-  margin-bottom: 40px;
-}
-
-.quick-topic-strip a {
-  padding: 10px 15px;
-  border: 1px solid rgba(23, 32, 51, 0.12);
-  border-radius: 999px;
-  background: #fff;
-  color: var(--teal-dark);
-  font-size: 15px;
-  font-weight: 900;
-}
-
-.quick-topic-strip a:hover,
-.quick-topic-strip a:focus-visible {
-  background: var(--teal-dark);
-  border-color: var(--teal-dark);
-  color: #fff;
-}
-
 .intent-section {
   display: grid;
   grid-template-columns: minmax(260px, 0.55fr) minmax(0, 1.45fr);
