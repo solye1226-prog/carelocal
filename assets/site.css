@@ -2140,6 +2140,44 @@ summary {
   overflow: hidden;
 }
 
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin: -12px 0 44px;
+}
+
+.pagination a,
+.pagination span {
+  display: inline-flex;
+  min-width: 42px;
+  height: 42px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 14px;
+  border: 1px solid rgba(23, 32, 51, 0.16);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  font-weight: 900;
+  text-decoration: none;
+  box-shadow: 0 8px 18px rgba(23, 32, 51, 0.05);
+}
+
+.pagination span {
+  background: var(--ink);
+  color: #fff;
+  border-color: var(--ink);
+}
+
+.pagination a:hover,
+.pagination a:focus-visible {
+  border-color: var(--ink);
+  transform: translateY(-1px);
+}
+
 .insurance-company-cta {
   margin: 22px 0 28px;
   padding: 4px 0;
