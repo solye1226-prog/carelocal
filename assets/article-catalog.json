@@ -1,0 +1,252 @@
+[
+  {
+    "path": "/claims/cancer-diagnosis-benefit-documents",
+    "title": "암 진단비 청구서류 총정리, 보험금 청구 절차까지",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/driver-injury-14",
+    "title": "자동차부상치료비 청구 방법 | 운전자보험 자부치 14급 서류",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/family-liability-water-leak-deductible",
+    "title": "누수 사고 일배책 자기부담금 확인 기준 | 케어로컬",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/hospitalization-claim-documents",
+    "title": "입원비 보험금 청구서류, 입퇴원확인서만 있으면 될까요?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-appeal",
+    "title": "보험금 청구가 거절됐다면? 이의신청 방법과 절차",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-denial-reasons",
+    "title": "보험금 청구가 거절되는 대표적인 사유와 대응 방법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-documents",
+    "title": "보험금 청구 시 필요한 서류 총정리, 상황별 준비 서류 안내",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-limitation",
+    "title": "보험금 청구 소멸시효, 기간이 지나면 어떻게 될까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-method",
+    "title": "보험금 청구 방법 총정리, 필요한 서류부터 지급 절차까지",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-payment-delay",
+    "title": "보험금 지급이 늦어지는 이유와 대처 방법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-payout-period",
+    "title": "보험금 지급 기간은 얼마나 걸릴까? 지급 지연 기준까지",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-period",
+    "title": "보험금 청구 기간은 언제까지? 소멸시효와 청구 가능 기간 정리",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-process",
+    "title": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-supplement-documents",
+    "title": "보험금 청구 보완서류 요청을 받았다면? 추가 제출 서류 정리",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/medical-expense-claim-documents",
+    "title": "실비보험 청구서류 정리 | 진료비 영수증·세부내역서·처방전",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "title": "수술비 보험금 청구 시 필요한 서류와 접수 방법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/silbi/current-silbi",
+    "title": "최신 실비보험 구조 | 4세대 실비·비급여·보험료 할증",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/generation-comparison",
+    "title": "실비보험 세대별 비교 | 1세대·2세대·3세대·4세대 차이",
+    "category": "실비보험"
+  },
+  {
+    "path": "/diagnosis-benefit/cerebrovascular-living-cost",
+    "title": "심뇌혈관보험 치료 중 생활비 확인 기준 | 케어로컬",
+    "category": "진단비"
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "title": "수술분류표 확인 | 1종·2종·3종 수술비 보험 기준",
+    "category": "수술비"
+  },
+  {
+    "path": "/treatment-costs/cartistem-stem-cell-knee-cost",
+    "title": "카티스템 줄기세포 치료 비용과 보험 확인 기준 | 케어로컬",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/leqembi-cost-insurance",
+    "title": "레켐비 치료비와 치매 보험 확인 기준 | 케어로컬",
+    "category": "치료비"
+  },
+  {
+    "path": "/underwriting/simplified-health-insurance-cancer-brain",
+    "title": "유병자보험 암·뇌혈관 치료비 확인 기준 | 케어로컬",
+    "category": "가입 심사"
+  },
+  {
+    "path": "/cancers/bladder-cancer",
+    "title": "방광암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/breast-cancer",
+    "title": "유방암 치료법과 유방암센터 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/cervical-cancer",
+    "title": "자궁경부암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/colorectal-cancer",
+    "title": "대장암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/kidney-cancer",
+    "title": "신장암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/liver-cancer",
+    "title": "간암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/lung-cancer",
+    "title": "폐암 치료법과 폐암센터 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/ovarian-cancer",
+    "title": "난소암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/pancreatic-cancer",
+    "title": "췌장암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/prostate-cancer",
+    "title": "전립선암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/stomach-cancer",
+    "title": "위암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/cancers/thyroid-cancer",
+    "title": "갑상선암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보"
+  },
+  {
+    "path": "/caregiver/caregiver-insurance-renewal-period",
+    "title": "간병인보험 갱신주기 확인 기준 | 케어로컬",
+    "category": "간병"
+  },
+  {
+    "path": "/checkups/abnormal-results",
+    "title": "건강검진 이상 소견 확인 가이드 | 케어로컬",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/cancer-screening",
+    "title": "국가암검진 확인 가이드 | 케어로컬",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/endoscopy",
+    "title": "위·대장내시경 준비와 결과 확인 | 케어로컬",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/national-health-checkup",
+    "title": "국가건강검진 연령별 항목 가이드 | 케어로컬",
+    "category": "건강검진"
+  },
+  {
+    "path": "/guides/alzheimer-injection-therapy",
+    "title": "알츠하이머 치매 주사 치료 확인 가이드 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/cancer-treatment-cost",
+    "title": "암치료비 확인 포인트 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/caregiver-application",
+    "title": "간병인 신청 준비 가이드 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/heavy-ion-therapy",
+    "title": "중입자치료 확인 가이드 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/night-hospital-checklist",
+    "title": "야간진료와 응급실 이용 기준 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/proton-therapy",
+    "title": "양성자치료 확인 가이드 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/psychiatry-first-visit",
+    "title": "정신건강의학과 첫 방문 준비 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/robotic-surgery",
+    "title": "로봇수술 확인 가이드 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/sunday-hospital-checklist",
+    "title": "주말 진료 병원 체크리스트 | 케어로컬",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/targeted-immunotherapy",
+    "title": "표적·면역항암치료 확인 가이드 | 케어로컬",
+    "category": "방문 가이드"
+  }
+]

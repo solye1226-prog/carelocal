@@ -1,24 +1,39 @@
 <!doctype html>
 <html lang="ko">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="noindex, nofollow, noarchive">
-    <meta name="referrer" content="no-referrer">
-    <meta http-equiv="refresh" content="0;url=https://dash.cloudflare.com/711d4c4f4c33bbf38637e372b5141b94/web-analytics/overview?siteTag~in=4c272d6ba9604360826d7c1090a5adbb">
-    <title>케어로컬 방문 통계</title>
-    <style>
-      body { margin: 0; padding: 48px 24px; color: #172033; background: #f7f8fa; font-family: system-ui, sans-serif; line-height: 1.7; }
-      main { max-width: 640px; margin: 0 auto; }
-      h1 { font-size: 28px; }
-      a { color: #1859a7; font-weight: 700; }
-    </style>
-  </head>
-  <body>
-    <main>
-      <h1>케어로컬 방문 통계</h1>
-      <p>Cloudflare 통계 화면으로 이동합니다. 사이트를 관리하는 계정으로 로그인해 주세요.</p>
-      <a href="https://dash.cloudflare.com/711d4c4f4c33bbf38637e372b5141b94/web-analytics/overview?siteTag~in=4c272d6ba9604360826d7c1090a5adbb">방문 통계 열기</a>
-    </main>
-  </body>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<title>게시글 조회수 · 유입 경로 | 케어로컬</title>
+<link rel="stylesheet" href="/assets/site.css?v=20260917-live">
+<link rel="stylesheet" href="/assets/analytics-live.css?v=3">
+</head>
+<body class="analytics-page">
+<main class="analytics-shell">
+<header class="analytics-header"><a class="brand" href="/">케어로컬</a><span>hospital.hbuby.com · 운영 통계</span></header>
+<section class="live-heading"><h1>게시글 통계</h1><p id="status" role="status">통계 연결 상태를 확인하고 있습니다.</p></section>
+<form id="login" hidden><label for="password">운영자 비밀번호</label><input id="password" type="password" autocomplete="current-password" required><button type="submit">통계 보기</button></form>
+<div class="live-toolbar"><label for="period">조회 기간</label><select id="period"><option value="1">오늘</option><option value="7" selected>최근 7일</option><option value="30">최근 30일</option></select><button id="refresh" type="button" title="통계 새로고침" aria-label="통계 새로고침">↻</button><span id="updated">자동 갱신 대기</span><button id="logout" type="button" hidden>잠금</button></div>
+<section id="overview" class="live-section">
+<div class="live-toolbar"><h2 id="detail-heading">사이트 전체</h2><button id="all-pages" type="button" hidden>전체 통계</button><span id="date-range" class="live-note"></span></div>
+<div class="chart-controls"><label><input id="show-views" type="checkbox" checked> <span class="legend views"></span>조회수</label><label><input id="show-visits" type="checkbox" checked> <span class="legend visits"></span>방문 횟수</label><select id="chart-mode" aria-label="그래프 형태"><option value="line">선 그래프</option><option value="bar">막대그래프</option></select></div>
+<div id="chart" class="live-chart"><p>통계 연결 후 그래프가 표시됩니다.</p></div>
+<details class="chart-data"><summary>날짜별 수치</summary><div id="daily-data"></div></details>
+<section class="analytics-summary-grid" aria-label="방문 통계 요약">
+<article class="analytics-metric-card"><span>페이지 조회수</span><strong id="views">—</strong><small>대시보드 방문 제외</small></article>
+<article class="analytics-metric-card"><span>방문 횟수</span><strong id="visits">—</strong><small>고유 방문자 수와 다릅니다</small></article>
+</section>
+<div class="live-split"><section><h2>최다 조회 글</h2><div id="top-posts">통계 연결 후 표시됩니다.</div></section><section><h2>유입 출처 <small>상위 100개</small></h2><div class="analytics-table-wrap"><table class="analytics-table"><thead><tr><th scope="col">출처</th><th scope="col">조회수</th></tr></thead><tbody id="referrers"><tr><td colspan="2">통계 연결 후 표시됩니다.</td></tr></tbody></table></div><p class="live-note">직접 방문·출처 미확인에는 유입 정보가 전달되지 않은 방문이 포함됩니다. 내부 이동은 별도로 표시합니다.</p></section></div>
+<section class="device-section"><h2>이용 기기</h2><div id="devices">통계 연결 후 표시됩니다.</div></section>
+</section>
+<section class="live-section" aria-labelledby="articles-heading"><h2 id="articles-heading">게시글별 조회수 <small id="article-count"></small></h2>
+<div class="live-toolbar"><label for="search">글 검색</label><input id="search" type="search" placeholder="제목 또는 분류" autocomplete="off"><label for="sort">정렬</label><select id="sort"><option value="views">조회수 높은 순</option><option value="title">제목순</option></select></div>
+<p class="live-note" id="list-note">조회수는 통계 연결 후 표시됩니다.</p>
+<div class="analytics-table-wrap"><table class="analytics-table"><thead><tr><th scope="col">게시글</th><th scope="col">조회수</th><th scope="col">상세</th></tr></thead><tbody id="pages"><tr><td colspan="3">글 목록을 불러오고 있습니다.</td></tr></tbody></table></div>
+<nav class="live-pagination" aria-label="게시글 목록 페이지"><button id="previous" type="button" aria-label="이전 페이지">←</button><span id="page-number"></span><button id="next" type="button" aria-label="다음 페이지">→</button></nav></section>
+<section class="live-section"><h2>유입 검색어 <small>서치콘솔 미연결</small></h2><p>검색어 통계가 아직 연결되지 않았습니다. Google Search Console 연결 후 검색어별 노출수와 클릭수를 확인할 수 있습니다.</p></section>
+<p class="live-note">Cloudflare Web Analytics 기준 · 한국 시간 · 오늘 포함 기간 · 5분마다 갱신. 수집 이전 기록은 제공되지 않으며, 집계 지연·차단·표본 처리에 따라 수치가 달라질 수 있습니다.</p>
+</main>
+<script src="/assets/analytics-live.js?v=3" defer></script>
+</body>
 </html>
