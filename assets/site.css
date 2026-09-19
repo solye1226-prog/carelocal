@@ -900,6 +900,17 @@ summary {
   text-align: center;
 }
 
+.insurance-series-article > h1 {
+  max-width: 1100px;
+}
+
+.insurance-series-article .guide-image-panel {
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+}
+
 .article-body h2 {
   margin-top: 44px;
   margin-bottom: 18px;
@@ -2982,6 +2993,45 @@ summary {
   .article-body td {
     min-width: 190px;
     padding: 15px 16px;
+  }
+
+  .insurance-series-article table,
+  .insurance-series-article table tbody,
+  .insurance-series-article table tr,
+  .insurance-series-article table td {
+    display: block;
+    width: 100%;
+  }
+
+  .insurance-series-article table {
+    overflow: hidden;
+    table-layout: auto;
+  }
+
+  .insurance-series-article table thead {
+    display: none;
+  }
+
+  .insurance-series-article table tr {
+    border-bottom: 1px solid var(--line);
+  }
+
+  .insurance-series-article table tr:last-child {
+    border-bottom: 0;
+  }
+
+  .insurance-series-article table td,
+  .insurance-series-article table td:first-child,
+  .insurance-series-article table td:not(:first-child) {
+    min-width: 0;
+    width: 100%;
+    padding: 10px 14px;
+    border-bottom: 0;
+  }
+
+  .insurance-series-article table td:first-child {
+    background: #17212b;
+    color: #fff;
   }
 
   .article-body td:first-child,

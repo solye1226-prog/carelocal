@@ -5,6 +5,16 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/colonoscopy-polyp-insurance-claim",
+    "title": "대장내시경 용종 제거 보험금, 실비와 수술비는 어떻게 확인할까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/downstairs-water-leak-insurance",
+    "title": "아랫집 누수 보험 처리, 일상생활배상책임 청구 순서와 서류",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/driver-injury-14",
     "title": "자동차부상치료비 청구 방법 | 운전자보험 자부치 14급 서류",
     "category": "보험금 청구"
@@ -12,6 +22,11 @@
   {
     "path": "/claims/family-liability-water-leak-deductible",
     "title": "누수 사고 일배책 자기부담금 확인 기준 | 케어로컬",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/home-fire-insurance-water-leak",
+    "title": "주택화재보험 누수 보상, 일배책과 무엇이 다를까?",
     "category": "보험금 청구"
   },
   {
@@ -80,6 +95,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/traffic-accident-outpatient-silbi-claim",
+    "title": "교통사고 통원치료 실비 청구, 자동차보험 처리 내역부터 확인하세요",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/silbi/current-silbi",
     "title": "최신 실비보험 구조 | 4세대 실비·비급여·보험료 할증",
     "category": "실비보험"
@@ -90,13 +110,38 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/mri-silbi-claim",
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/silson24-hospital-not-found",
+    "title": "실손24에서 병원·약국이 안 뜰 때, 실비 청구는 어떻게 할까?",
+    "category": "실비보험"
+  },
+  {
+    "path": "/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
+    "title": "뇌혈관질환 진단비 청구서류, 진단서 외 확인할 자료는?",
+    "category": "진단비"
+  },
+  {
     "path": "/diagnosis-benefit/cerebrovascular-living-cost",
     "title": "심뇌혈관보험 치료 중 생활비 확인 기준 | 케어로컬",
     "category": "진단비"
   },
   {
+    "path": "/diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "title": "갑상선암 진단비 청구, 유사암 구분과 필요한 서류",
+    "category": "진단비"
+  },
+  {
     "path": "/surgery-benefit/surgery-classification",
     "title": "수술분류표 확인 | 1종·2종·3종 수술비 보험 기준",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/type-surgery-benefit-claim",
+    "title": "종수술비 보험금 청구, 수술확인서와 수술분류표 대조 방법",
     "category": "수술비"
   },
   {
@@ -173,6 +218,11 @@
     "path": "/cancers/thyroid-cancer",
     "title": "갑상선암 치료법과 병원 확인 가이드 | 케어로컬",
     "category": "암 정보"
+  },
+  {
+    "path": "/caregiver/caregiver-insurance-claim-documents",
+    "title": "간병인보험 청구서류, 이용내역과 입원 증빙 확인 방법",
+    "category": "간병"
   },
   {
     "path": "/caregiver/caregiver-insurance-renewal-period",
