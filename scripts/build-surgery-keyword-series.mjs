@@ -80,6 +80,7 @@ const articles = [
       ['수술', '담낭절제술의 실제 수술명과 방법', '복강경·개복, 동반 시술 여부 기록'],
       ['계약', '질병수술비·종수술비 가입 여부', '가입 당시 약관의 수술분류표와 제외 규정']
     ],
+    codeSection: true,
     sections: [
       ['담석 진단과 담낭절제술은 다른 정보입니다', '담석증은 담낭이나 담도에 결석이 생기는 질환입니다. 담석이 발견됐다고 모두 담낭절제술을 받는 것은 아니며, 증상이나 합병증 등에 따라 치료가 달라집니다.', '보험금 청구에서는 진단서의 질병명과 수술확인서의 시행 행위를 분리해 봐야 합니다. 단순 검사나 담도 관련 내시경 처치와 담낭 자체를 절제한 수술은 같은 표현으로 묶지 마세요.'],
       ['복강경·개복이라는 표현을 어떻게 보나요?', '수술확인서와 필요 시 수술기록지에서 실제 담낭을 절제했는지, 수술 접근 방식과 동반 시행 행위가 무엇인지 확인합니다. 병원에서 쓰는 한글·영문 수술명이 약관 용어와 다를 수 있습니다.', '어느 종에 해당하는지는 수술 방법의 이름만으로 단정할 수 없습니다. 가입 당시 수술분류표의 항목·주석·제외 조항까지 확인하고, 불명확하면 보험사에 해당 약관 조항을 근거로 설명해 달라고 요청하세요.'],
@@ -93,7 +94,7 @@ const articles = [
       ['담도 내시경 처치도 함께 받았으면 두 번 지급되나요?', '동시수술·처치에 관한 약관을 확인해야 하며 자동으로 두 번 지급되는 것은 아닙니다.'],
       ['실비보험도 따로 접수할 수 있나요?', '가입한 실손계약의 보장 대상 의료비인지 확인하고 영수증·세부내역서를 준비하세요.']
     ],
-    related: [['수술분류표 확인', '/surgery-benefit/surgery-classification.html'], ['종수술비 청구', '/surgery-benefit/type-surgery-benefit-claim'], ['수술비 청구서류', '/claims/surgery-claim-documents.html']],
+    related: [['담석증 수술 청구서류', '/claims/gallstone-surgery-claim-documents'], ['수술분류표 확인', '/surgery-benefit/surgery-classification.html'], ['종수술비 청구', '/surgery-benefit/type-surgery-benefit-claim']],
     sources: [source, ['질병관리청 국가건강정보포털 담석증', 'https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6735']]
   },
   {
@@ -162,6 +163,7 @@ const articles = [
 const escape = (value) => String(value).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
 const link = ([label, href]) => `<a href="${escape(href)}"${href.startsWith('http') ? ' target="_blank" rel="noopener"' : ''}>${escape(label)}</a>`;
 const figure = (file, alt, eager = false) => `<figure class="guide-image-panel"><img src="/assets/images/${file}" width="1672" height="941" loading="${eager ? 'eager' : 'lazy'}" decoding="async" alt="${escape(alt)}"></figure>`;
+const codeSection = `<h2>질병코드·진료행위코드·보험 수술분류는 무엇이 다른가요?</h2><p>같은 담석증 치료라도 서류마다 표시하는 정보가 다릅니다. 진단서의 질병분류기호는 무엇을 진단받았는지, 진료비 세부내역서의 진료행위코드는 병원이 어떤 의료행위를 청구했는지를 설명합니다. 보험 약관의 수술분류는 가입한 특약에서 어떤 수술을 어떻게 정했는지 보는 별도 기준입니다.</p><table><thead><tr><th>구분</th><th>주로 확인하는 서류</th><th>답하는 질문</th></tr></thead><tbody><tr><td>질병분류기호</td><td>진단서·진료확인서</td><td>담낭결석, 담관결석, 담낭염 등 최종 진단은 무엇인가?</td></tr><tr><td>진료행위코드</td><td>진료비 세부내역서</td><td>담낭절제술 또는 담도 내시경 처치 중 어떤 행위가 기록됐는가?</td></tr><tr><td>약관 수술분류</td><td>가입 당시 보험약관·수술분류표</td><td>해당 계약의 수술 정의와 분류·제외 조항에 맞는가?</td></tr></tbody></table><p>진료행위코드 한 개를 보고 보험의 1종·2종·3종을 바로 정할 수는 없습니다. 수술확인서의 정확한 수술명과 시행일, 필요하면 수술기록지까지 확인한 뒤 보험사에 적용한 약관 조항과 분류 근거를 요청하세요. 담낭절제술과 내시경 역행 담췌관 조영술(ERCP)을 함께 받았다면 두 행위를 한 수술명으로 합치지 말고 각각 기록된 날짜와 내용을 확인해야 합니다.</p><p><a href="/claims/gallstone-surgery-claim-documents">담석증 수술 보험금 청구서류를 치료 방법별로 확인하기</a></p>`;
 
 for (const a of articles) {
   const path = `/surgery-benefit/${a.slug}`;
@@ -175,7 +177,7 @@ for (const a of articles) {
 <body><header class="site-header"><nav class="nav" aria-label="주요 메뉴"><a class="brand" href="/"><span class="brand-mark">CL</span><span><strong>케어로컬</strong><small>보험 정보 자료실</small></span></a><div class="nav-links"><a href="/claims/">보험금 청구</a><a href="/silbi/">실비보험</a><a href="/diagnosis-benefit/">진단비</a><a href="/surgery-benefit/">수술비</a><a href="/standards/">약관·기준</a></div></nav></header>
 <main class="section article-body insurance-series-article"><div class="breadcrumb"><a href="/">홈</a> / <a href="/surgery-benefit/">수술비</a> / ${escape(a.keyword)}</div><p class="eyebrow">Surgery Benefit</p><h1>${escape(a.title)}</h1><p class="lead">${escape(a.lead)}</p><div class="insurance-company-cta"><a href="/insurance-companies/">보험사별 공식 홈페이지 확인하기</a></div>${figure(a.thumb, `${a.keyword} 확인 가이드 카드뉴스`, true)}<div class="notice">본 콘텐츠는 일반적인 의료 및 보험 정보 제공을 목적으로 작성되었습니다. 보험금 지급 여부는 가입 상품, 약관, 가입 시기와 보험사 심사 기준에 따라 달라질 수 있습니다. 정확한 보장 여부는 개별 계약과 약관 확인이 필요합니다.</div>
 <h2>${escape(a.keyword)} 핵심 확인</h2><table><thead><tr><th>항목</th><th>확인할 내용</th><th>주의할 점</th></tr></thead><tbody>${rows}</tbody></table>
-${sections}
+${a.codeSection ? `${codeSection}\n` : ''}${sections}
 <h2>청구 전에 확인할 서류</h2><table><thead><tr><th>자료</th><th>확인 목적</th><th>준비할 때</th></tr></thead><tbody><tr><td>보험증권·가입 당시 약관</td><td>담보명과 수술 정의·분류표 확인</td><td>현재 판매 상품과 혼동하지 않기</td></tr><tr><td>수술확인서</td><td>수술명·시행일·방법 확인</td><td>기재가 모호하면 병원에 문의</td></tr><tr><td>진단서·진료확인서</td><td>질병명과 진단 시점 확인</td><td>담보별 요구 여부 확인</td></tr><tr><td>수술기록지</td><td>실제 시행 행위가 불분명한 경우</td><td>보험사 요청 시 추가 제출 가능</td></tr><tr><td>영수증·세부내역서</td><td>실손의료비를 함께 확인하는 경우</td><td>급여·비급여 구분 확인</td></tr></tbody></table>
 <h2>확인 순서</h2><ol><li>가입 보험의 정확한 담보명과 가입 시기를 확인합니다.</li><li>병원 자료에서 최종 진단명과 실제 수술명·방법·날짜를 적습니다.</li><li>해당 계약의 수술 정의, 분류표, 지급 횟수 및 제외 규정을 대조합니다.</li><li>보험사 공식 안내에서 필요한 서류를 확인해 접수하고 결과를 기록합니다.</li></ol>
 <h2>자주 묻는 질문</h2><div class="faq">${faq}</div><h2>함께 보면 좋은 글</h2><div class="article-actions">${a.related.map(link).join('')}</div><h2>공식 확인처</h2><ul>${a.sources.map((x) => `<li>${link(x)}</li>`).join('')}</ul><div class="insurance-company-cta"><a href="/insurance-companies/">보험사별 공식 홈페이지 확인하기</a></div><section class="kakao-inquiry-cta" aria-labelledby="contact-title"><p class="cta-label">문의 안내 <span>보험</span></p><h2 id="contact-title">가입한 보험의 보장이 궁금하신가요?</h2><p>가입한 보험의 보장 내용이나 콘텐츠와 관련해 궁금한 점이 있다면 카카오톡으로 문의해 주세요. 주민등록번호·진단서·영수증 등 민감한 개인정보가 포함된 자료는 전송하지 않는 것을 권장합니다.</p><a class="kakao-button" href="https://open.kakao.com/o/sVyT7uph" target="_blank" rel="noopener">카카오톡으로 문의하기</a></section></main></body></html>`;

@@ -1,5 +1,10 @@
 [
   {
+    "path": "/claims/appendicitis-surgery-claim-documents",
+    "title": "충수염 수술 보험금 청구서류, 충수절제술 확인부터 접수까지",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/cancer-diagnosis-benefit-documents",
     "title": "암 진단비 청구서류 총정리, 보험금 청구 절차까지",
     "category": "보험금 청구"
@@ -22,6 +27,11 @@
   {
     "path": "/claims/family-liability-water-leak-deductible",
     "title": "누수 사고 일배책 자기부담금 확인 기준 | 케어로컬",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "title": "담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?",
     "category": "보험금 청구"
   },
   {
