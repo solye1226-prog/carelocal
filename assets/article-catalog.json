@@ -91,7 +91,7 @@
   },
   {
     "path": "/claims/surgery-claim-documents",
-    "title": "수술비 보험금 청구 시 필요한 서류와 접수 방법",
+    "title": "수술비 청구서류, 수술확인서·진단서·수술기록지 중 무엇이 필요할까?",
     "category": "보험금 청구"
   },
   {
@@ -135,8 +135,33 @@
     "category": "진단비"
   },
   {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "title": "백내장 수술비 몇 종일까? 인공수정체·수술명과 약관 확인 방법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/disease-vs-type-surgery-benefit",
+    "title": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "title": "담낭절제술 종수술비, 복강경 수술명과 약관을 확인하는 방법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
+    "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/surgery-classification",
     "title": "수술분류표 확인 | 1종·2종·3종 수술비 보험 기준",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/thyroid-surgery-benefit",
+    "title": "갑상선암 수술비, 절제 범위와 진단비를 따로 확인하는 방법",
     "category": "수술비"
   },
   {
@@ -146,12 +171,12 @@
   },
   {
     "path": "/treatment-costs/cartistem-stem-cell-knee-cost",
-    "title": "카티스템 줄기세포 치료 비용과 보험 확인 기준 | 케어로컬",
+    "title": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
     "category": "치료비"
   },
   {
     "path": "/treatment-costs/leqembi-cost-insurance",
-    "title": "레켐비 치료비와 치매 보험 확인 기준 | 케어로컬",
+    "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
     "category": "치료비"
   },
   {
@@ -251,7 +276,7 @@
   },
   {
     "path": "/guides/alzheimer-injection-therapy",
-    "title": "알츠하이머 치매 주사 치료 확인 가이드 | 케어로컬",
+    "title": "치매 주사 치료는 누가 받을까? 알츠하이머 치료 대상·검사·주의사항",
     "category": "방문 가이드"
   },
   {
@@ -286,7 +311,7 @@
   },
   {
     "path": "/guides/robotic-surgery",
-    "title": "로봇수술 확인 가이드 | 케어로컬",
+    "title": "로봇수술 종수술비, 수술 방식과 보험 약관은 어떻게 확인할까?",
     "category": "방문 가이드"
   },
   {
