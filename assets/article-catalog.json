@@ -160,6 +160,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/third-tier-surgery-classification",
+    "title": "3종 수술분류표, 내 수술이 해당하는지 약관에서 찾는 방법",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/thyroid-surgery-benefit",
     "title": "갑상선암 수술비, 절제 범위와 진단비를 따로 확인하는 방법",
     "category": "수술비"
