@@ -45,6 +45,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/inguinal-hernia-surgery-claim-documents",
+    "title": "서혜부 탈장 수술 보험금 청구서류, 복강경·절개 수술명 확인하기",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/insurance-claim-appeal",
     "title": "보험금 청구가 거절됐다면? 이의신청 방법과 절차",
     "category": "보험금 청구"
@@ -95,6 +100,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/knee-surgery-claim-documents",
+    "title": "무릎 수술 보험금 청구서류, 관절경·인공관절 수술명별 확인 방법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/medical-expense-claim-documents",
     "title": "실비보험 청구서류 정리 | 진료비 영수증·세부내역서·처방전",
     "category": "보험금 청구"
@@ -107,6 +117,16 @@
   {
     "path": "/claims/traffic-accident-outpatient-silbi-claim",
     "title": "교통사고 통원치료 실비 청구, 자동차보험 처리 내역부터 확인하세요",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/urinary-stone-treatment-claim-documents",
+    "title": "요로결석 치료 보험금 청구서류, 체외충격파·요관경 시술 구분하기",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/uterine-fibroid-surgery-claim-documents",
+    "title": "자궁근종 수술 보험금 청구서류, 근종절제술과 자궁절제술 구분하기",
     "category": "보험금 청구"
   },
   {

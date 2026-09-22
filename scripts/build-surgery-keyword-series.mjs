@@ -50,6 +50,7 @@ const articles = [
       ['질병수술비', '약관상 수술 정의와 백내장 관련 제외 사항', '수술확인서와 진단명'],
       ['실손의료비', '본인 부담 의료비와 급여·비급여 항목', '인공수정체 비용, 세부내역서, 계약 조건']
     ],
+    codeGuide: '백내장 진단서의 질병분류기호는 진단을, 진료비 세부내역서의 행위코드는 시행한 의료행위를 보여줍니다. 보험의 수술 종수는 가입 당시 약관의 수술분류표를 별도로 확인해야 합니다. 좌안·우안과 각각의 수술일이 표시된 수술확인서를 기준으로 대조하세요. 인공수정체 가격이나 의료행위코드 한 개로 종수를 확정하지 마세요.',
     sections: [
       ['백내장 수술비 종수를 한 숫자로 말할 수 없는 이유', '백내장 수술은 혼탁해진 수정체를 제거하고 인공수정체를 삽입하는 과정으로 이뤄집니다. 수술 방법은 환자 상태에 따라 달라질 수 있습니다. 그러나 의료행위의 설명이 보험 약관의 분류를 자동으로 정해 주지는 않습니다.', '1~3종 또는 1~5종처럼 분류 방식부터 계약마다 다를 수 있습니다. 다른 사람이 받은 보험금 액수나 온라인 수술분류표만 보고 내 계약의 종수를 추정하지 마세요.'],
       ['인공수정체 종류와 보험금 항목은 구분하세요', '단초점, 연속초점·다초점, 난시교정용 등 렌즈 선택은 눈 상태와 생활상 필요에 따른 의료 상담의 영역입니다. 렌즈 가격이 높다고 종수술비 종수가 높아지는 것은 아닙니다.', '실손의료비는 실제 의료비의 급여·비급여 구성과 계약 조건을 별도로 봅니다. 렌즈 관련 비용, 검사비, 수술비가 진료비 세부산정내역서에 어떻게 기재됐는지 확인하세요.'],
@@ -111,6 +112,7 @@ const articles = [
       ['결찰·경화 등', '비수술적 처치인지 실제 시행 내용 확인', '병원 표현과 보험상 수술 정의를 구분'],
       ['보험 담보', '질병수술비·종수술비·실손 가입 여부', '각각의 약관과 제출서류가 다름']
     ],
+    codeGuide: '치핵이라는 질병분류기호와 병원에서 청구한 진료행위코드는 보험 약관의 수술 종수와 별개입니다. 치핵절제술, 고무밴드 결찰, 경화술 중 실제 시행한 행위를 수술확인서·진료기록에서 확인한 뒤 가입 당시 수술 정의·분류표와 대조하세요. 같은 질병명이라도 처치 방법이 다를 수 있습니다.',
     sections: [
       ['치핵 치료는 수술만 있는 것이 아닙니다', '질병관리청은 치핵 치료를 보존적 치료, 고무밴드 결찰·경화 등 보조요법, 치핵절제술 같은 수술적 방법으로 구분합니다. 증상과 치핵 상태에 따라 의료진이 치료법을 정합니다.', '보험에서는 치료를 받았다는 사실뿐 아니라 실제 시행한 행위가 가입 약관에서 정의하는 수술인지 확인해야 합니다. 외래에서 간단하게 받았거나 입원했다는 사실만으로 결론을 내릴 수 없습니다.'],
       ['치핵 수술비 종수는 어디서 확인하나요?', '보험증권의 종수술비 담보명과 가입 시기를 확인한 뒤 그 계약의 수술분류표를 찾습니다. 병원의 수술확인서에 적힌 정확한 수술명과 방법을 대조하세요.', '치핵절제술도 수술 방법이 한 가지가 아닙니다. 온라인에서 “치핵은 몇 종”이라는 사례를 보더라도 자신의 수술기록과 약관에 그대로 적용하지 마세요.'],
@@ -142,6 +144,7 @@ const articles = [
       ['질병수술비', '약관상 질병 수술 지급 요건', '수술 정의와 제외·횟수 규정'],
       ['실손의료비', '본인 부담 의료비의 계약상 보장', '영수증·세부내역서']
     ],
+    codeGuide: '갑상선암 진단서의 질병분류기호와 병리결과지는 진단을 확인하는 자료이고, 진료비 세부내역서의 행위코드와 수술확인서는 실제 절제 행위를 확인하는 자료입니다. 진단비의 일반암·유사암 분류와 수술비의 종수도 서로 다른 약관 기준입니다. 부분절제·전절제와 동반 림프절 수술을 구분해 가입 당시 수술분류표를 확인하세요.',
     sections: [
       ['갑상선암 진단비와 수술비는 질문이 다릅니다', '진단비는 계약에서 정한 암 진단확정 요건과 분류를 확인합니다. 수술비는 실제 시행한 수술이 해당 특약의 지급 사유인지 확인합니다. 진단비를 청구했더라도 수술비 특약 가입 여부는 별도로 확인할 필요가 있습니다.', '갑상선암을 일반암·유사암 등으로 구분하는 방식은 계약마다 다를 수 있습니다. 진단비 분류를 수술비의 종수와 동일한 기준으로 보지 마세요.'],
       ['부분절제·전절제·로봇수술을 구분하세요', '갑상선암 수술에는 갑상선의 일부 또는 전부를 절제하는 방식이 있으며, 환자 상태에 따라 접근 방법도 달라질 수 있습니다. 국가암정보센터도 내시경·로봇수술 등 여러 방법을 설명합니다.', '수술확인서에서 실제 절제 범위와 수술명, 날짜를 확인하고 필요하면 수술기록지를 받으세요. 로봇을 이용했다는 사실이나 비용이 높다는 사정만으로 종수술비 분류가 확정되지는 않습니다.'],
@@ -164,6 +167,7 @@ const escape = (value) => String(value).replaceAll('&', '&amp;').replaceAll('<',
 const link = ([label, href]) => `<a href="${escape(href)}"${href.startsWith('http') ? ' target="_blank" rel="noopener"' : ''}>${escape(label)}</a>`;
 const figure = (file, alt, eager = false) => `<figure class="guide-image-panel"><img src="/assets/images/${file}" width="1672" height="941" loading="${eager ? 'eager' : 'lazy'}" decoding="async" alt="${escape(alt)}"></figure>`;
 const codeSection = `<h2>질병코드·진료행위코드·보험 수술분류는 무엇이 다른가요?</h2><p>같은 담석증 치료라도 서류마다 표시하는 정보가 다릅니다. 진단서의 질병분류기호는 무엇을 진단받았는지, 진료비 세부내역서의 진료행위코드는 병원이 어떤 의료행위를 청구했는지를 설명합니다. 보험 약관의 수술분류는 가입한 특약에서 어떤 수술을 어떻게 정했는지 보는 별도 기준입니다.</p><table><thead><tr><th>구분</th><th>주로 확인하는 서류</th><th>답하는 질문</th></tr></thead><tbody><tr><td>질병분류기호</td><td>진단서·진료확인서</td><td>담낭결석, 담관결석, 담낭염 등 최종 진단은 무엇인가?</td></tr><tr><td>진료행위코드</td><td>진료비 세부내역서</td><td>담낭절제술 또는 담도 내시경 처치 중 어떤 행위가 기록됐는가?</td></tr><tr><td>약관 수술분류</td><td>가입 당시 보험약관·수술분류표</td><td>해당 계약의 수술 정의와 분류·제외 조항에 맞는가?</td></tr></tbody></table><p>진료행위코드 한 개를 보고 보험의 1종·2종·3종을 바로 정할 수는 없습니다. 수술확인서의 정확한 수술명과 시행일, 필요하면 수술기록지까지 확인한 뒤 보험사에 적용한 약관 조항과 분류 근거를 요청하세요. 담낭절제술과 내시경 역행 담췌관 조영술(ERCP)을 함께 받았다면 두 행위를 한 수술명으로 합치지 말고 각각 기록된 날짜와 내용을 확인해야 합니다.</p><p><a href="/claims/gallstone-surgery-claim-documents">담석증 수술 보험금 청구서류를 치료 방법별로 확인하기</a></p>`;
+const gallbladderCodeExample = `<p><a href="https://www.hira.or.kr/ebooksc/2026/01/BZ202601272870642.pdf" target="_blank" rel="noopener">심평원 진료행위 자료</a>에는 담낭절제술 Q7380과 담(총)석제거술의 한 방법인 Q7764가 서로 다른 의료행위로 나옵니다. 이는 의료행위코드의 예시이며 보험 수술비의 종수를 뜻하지 않습니다. 자신의 실제 적용 코드는 병원 자료에서 확인하세요.</p>`;
 
 for (const a of articles) {
   const path = `/surgery-benefit/${a.slug}`;
@@ -177,7 +181,7 @@ for (const a of articles) {
 <body><header class="site-header"><nav class="nav" aria-label="주요 메뉴"><a class="brand" href="/"><span class="brand-mark">CL</span><span><strong>케어로컬</strong><small>보험 정보 자료실</small></span></a><div class="nav-links"><a href="/claims/">보험금 청구</a><a href="/silbi/">실비보험</a><a href="/diagnosis-benefit/">진단비</a><a href="/surgery-benefit/">수술비</a><a href="/standards/">약관·기준</a></div></nav></header>
 <main class="section article-body insurance-series-article"><div class="breadcrumb"><a href="/">홈</a> / <a href="/surgery-benefit/">수술비</a> / ${escape(a.keyword)}</div><p class="eyebrow">Surgery Benefit</p><h1>${escape(a.title)}</h1><p class="lead">${escape(a.lead)}</p><div class="insurance-company-cta"><a href="/insurance-companies/">보험사별 공식 홈페이지 확인하기</a></div>${figure(a.thumb, `${a.keyword} 확인 가이드 카드뉴스`, true)}<div class="notice">본 콘텐츠는 일반적인 의료 및 보험 정보 제공을 목적으로 작성되었습니다. 보험금 지급 여부는 가입 상품, 약관, 가입 시기와 보험사 심사 기준에 따라 달라질 수 있습니다. 정확한 보장 여부는 개별 계약과 약관 확인이 필요합니다.</div>
 <h2>${escape(a.keyword)} 핵심 확인</h2><table><thead><tr><th>항목</th><th>확인할 내용</th><th>주의할 점</th></tr></thead><tbody>${rows}</tbody></table>
-${a.codeSection ? `${codeSection}\n` : ''}${sections}
+${a.codeSection ? `${codeSection}${gallbladderCodeExample}\n` : ''}${a.codeGuide ? `<h2>질병코드와 수술코드가 보험 종수를 정하나요?</h2><p>${escape(a.codeGuide)}</p><p><a href="/surgery-benefit/surgery-classification.html">가입한 수술분류표를 확인하는 방법</a></p>\n` : ''}${sections}
 <h2>청구 전에 확인할 서류</h2><table><thead><tr><th>자료</th><th>확인 목적</th><th>준비할 때</th></tr></thead><tbody><tr><td>보험증권·가입 당시 약관</td><td>담보명과 수술 정의·분류표 확인</td><td>현재 판매 상품과 혼동하지 않기</td></tr><tr><td>수술확인서</td><td>수술명·시행일·방법 확인</td><td>기재가 모호하면 병원에 문의</td></tr><tr><td>진단서·진료확인서</td><td>질병명과 진단 시점 확인</td><td>담보별 요구 여부 확인</td></tr><tr><td>수술기록지</td><td>실제 시행 행위가 불분명한 경우</td><td>보험사 요청 시 추가 제출 가능</td></tr><tr><td>영수증·세부내역서</td><td>실손의료비를 함께 확인하는 경우</td><td>급여·비급여 구분 확인</td></tr></tbody></table>
 <h2>확인 순서</h2><ol><li>가입 보험의 정확한 담보명과 가입 시기를 확인합니다.</li><li>병원 자료에서 최종 진단명과 실제 수술명·방법·날짜를 적습니다.</li><li>해당 계약의 수술 정의, 분류표, 지급 횟수 및 제외 규정을 대조합니다.</li><li>보험사 공식 안내에서 필요한 서류를 확인해 접수하고 결과를 기록합니다.</li></ol>
 <h2>자주 묻는 질문</h2><div class="faq">${faq}</div><h2>함께 보면 좋은 글</h2><div class="article-actions">${a.related.map(link).join('')}</div><h2>공식 확인처</h2><ul>${a.sources.map((x) => `<li>${link(x)}</li>`).join('')}</ul><div class="insurance-company-cta"><a href="/insurance-companies/">보험사별 공식 홈페이지 확인하기</a></div><section class="kakao-inquiry-cta" aria-labelledby="contact-title"><p class="cta-label">문의 안내 <span>보험</span></p><h2 id="contact-title">가입한 보험의 보장이 궁금하신가요?</h2><p>가입한 보험의 보장 내용이나 콘텐츠와 관련해 궁금한 점이 있다면 카카오톡으로 문의해 주세요. 주민등록번호·진단서·영수증 등 민감한 개인정보가 포함된 자료는 전송하지 않는 것을 권장합니다.</p><a class="kakao-button" href="https://open.kakao.com/o/sVyT7uph" target="_blank" rel="noopener">카카오톡으로 문의하기</a></section></main></body></html>`;
