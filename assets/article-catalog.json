@@ -100,6 +100,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/silbi/cartistem-silbi-claim",
+    "title": "카티스템 실비 청구 가능할까? 재료대·수술료 구분과 필요서류",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/current-silbi",
     "title": "최신 실비보험 구조 | 4세대 실비·비급여·보험료 할증",
     "category": "실비보험"
@@ -107,6 +112,11 @@
   {
     "path": "/silbi/generation-comparison",
     "title": "실비보험 세대별 비교 | 1세대·2세대·3세대·4세대 차이",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/leqembi-silbi-claim",
+    "title": "치매 주사 레켐비 실비 청구, 약제비·MRI 검사비와 서류 확인",
     "category": "실비보험"
   },
   {
