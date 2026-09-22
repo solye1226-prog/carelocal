@@ -106,12 +106,12 @@
   },
   {
     "path": "/silbi/current-silbi",
-    "title": "최신 실비보험 구조 | 4세대 실비·비급여·보험료 할증",
+    "title": "5세대 실손보험 구조, 급여·중증·비중증 비급여 차이",
     "category": "실비보험"
   },
   {
     "path": "/silbi/generation-comparison",
-    "title": "실비보험 세대별 비교 | 1세대·2세대·3세대·4세대 차이",
+    "title": "실비보험 1~5세대 차이, 내 가입 시기와 보장 구조 확인법",
     "category": "실비보험"
   },
   {
@@ -193,6 +193,11 @@
     "path": "/treatment-costs/leqembi-cost-insurance",
     "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
     "category": "치료비"
+  },
+  {
+    "path": "/standards/actual-vs-fixed-benefit",
+    "title": "실손보상과 정액보상 차이, 실비보험·진단비는 어떻게 다를까?",
+    "category": "약관·기준"
   },
   {
     "path": "/underwriting/simplified-health-insurance-cancer-brain",
