@@ -105,8 +105,18 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/covered-vs-noncovered-medical-costs",
+    "title": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/current-silbi",
     "title": "5세대 실손보험 구조, 급여·중증·비중증 비급여 차이",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/deductible-vs-copayment",
+    "title": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
     "category": "실비보험"
   },
   {
@@ -197,6 +207,81 @@
   {
     "path": "/standards/actual-vs-fixed-benefit",
     "title": "실손보상과 정액보상 차이, 실비보험·진단비는 어떻게 다를까?",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/auto-liability-one-vs-two",
+    "title": "대인배상 I·II 차이, 자동차보험에서 상대방 피해를 보장하는 범위",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/disclosure-vs-notification-duty",
+    "title": "고지의무와 통지의무 차이: 가입 전 병력과 가입 후 직업 변경",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/duplicate-vs-coinsurance",
+    "title": "중복보험과 공동보험은 다릅니다: 보험 여러 건의 보상 구조",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/full-partial-over-insurance",
+    "title": "전부보험·일부보험·초과보험, 가입금액에 따라 무엇이 달라질까?",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/indemnity-proportional-compensation",
+    "title": "이득금지·실손보상·비례보상, 보험금 계산에서 헷갈리는 세 원칙",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/insurable-value-vs-insured-amount",
+    "title": "보험가액과 보험가입금액 차이, 집값과 보장한도는 같을까요?",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/main-contract-vs-rider",
+    "title": "주계약과 특약 차이, 보험증권에서 실제 가입한 보장 찾는 법",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/personal-injury-vs-auto-injury",
+    "title": "자기신체사고와 자동차상해 차이, 치료비·휴업손해를 비교하는 기준",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/policyholder-insured-beneficiary",
+    "title": "보험계약자·피보험자·보험수익자, 내 보험증권의 이름은 왜 다를까?",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/premium-benefit-surrender-value",
+    "title": "보험료·보험금·해약환급금 차이, 낸 돈과 돌려받는 돈 구별하기",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/reinstatement-renewal-reenrollment",
+    "title": "보험 부활·갱신·재가입 차이, 끊긴 계약과 만기가 된 계약",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/renewable-vs-nonrenewable",
+    "title": "갱신형과 비갱신형 차이, 보험료·납입기간·보장기간 따로 보기",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/termination-invalidity-cancellation-withdrawal",
+    "title": "보험 해지·무효·취소·청약철회 차이, 돌려받는 돈도 다를까요?",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/third-sector-insurance",
+    "title": "제3보험이란? 상해·질병·간병보험과 실손·정액 보상의 관계",
+    "category": "약관·기준"
+  },
+  {
+    "path": "/standards/waiting-reduction-exclusion",
+    "title": "면책기간·감액기간·부담보 차이, 가입했는데 보장이 제한되는 이유",
     "category": "약관·기준"
   },
   {

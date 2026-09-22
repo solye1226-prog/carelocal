@@ -1,0 +1,431 @@
+[
+  {
+    "order": 4,
+    "title": "보험가액과 보험가입금액 차이, 집값과 보장한도는 같을까요?",
+    "keyword": "보험가액과 보험가입금액",
+    "path": "/standards/insurable-value-vs-insured-amount",
+    "sources": [
+      [
+        "상법 제665조: 손해보험자의 책임",
+        "https://www.law.go.kr/법령/상법/제665조"
+      ],
+      [
+        "상법 제670조: 기평가보험",
+        "https://www.law.go.kr/법령/상법/제670조"
+      ],
+      [
+        "상법 제671조: 미평가보험",
+        "https://www.law.go.kr/법령/상법/제671조"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-insurable-value-vs-insured-amount-thumb.webp",
+      "/assets/images/terms-insurable-value-vs-insured-amount-body1.webp",
+      "/assets/images/terms-insurable-value-vs-insured-amount-body2.webp"
+    ]
+  },
+  {
+    "order": 5,
+    "title": "전부보험·일부보험·초과보험, 가입금액에 따라 무엇이 달라질까?",
+    "keyword": "전부보험 일부보험 초과보험",
+    "path": "/standards/full-partial-over-insurance",
+    "sources": [
+      [
+        "상법 제669조: 초과보험",
+        "https://www.law.go.kr/법령/상법/제669조"
+      ],
+      [
+        "상법 제674조: 일부보험",
+        "https://www.law.go.kr/법령/상법/제674조"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-full-partial-over-insurance-thumb.webp",
+      "/assets/images/terms-full-partial-over-insurance-body1.webp",
+      "/assets/images/terms-full-partial-over-insurance-body2.webp"
+    ]
+  },
+  {
+    "order": 6,
+    "title": "중복보험과 공동보험은 다릅니다: 보험 여러 건의 보상 구조",
+    "keyword": "중복보험과 공동보험",
+    "path": "/standards/duplicate-vs-coinsurance",
+    "sources": [
+      [
+        "상법 제672조: 중복보험",
+        "https://www.law.go.kr/법령/상법/제672조"
+      ],
+      [
+        "롯데손해보험 공시 약관: 공동보험 특별약관의 인수비율 예시",
+        "https://www.lotteins.co.kr/upload/C/down/yak/exective.pdf"
+      ],
+      [
+        "손해보험협회 소비자포털: 보험계약 FAQ",
+        "https://consumer.knia.or.kr/consumer/center/faq.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-duplicate-vs-coinsurance-thumb.webp",
+      "/assets/images/terms-duplicate-vs-coinsurance-body1.webp",
+      "/assets/images/terms-duplicate-vs-coinsurance-body2.webp"
+    ]
+  },
+  {
+    "order": 7,
+    "title": "이득금지·실손보상·비례보상, 보험금 계산에서 헷갈리는 세 원칙",
+    "keyword": "이득금지 실손보상 비례보상",
+    "path": "/standards/indemnity-proportional-compensation",
+    "sources": [
+      [
+        "상법 제665조: 손해보험자의 책임",
+        "https://www.law.go.kr/법령/상법/제665조"
+      ],
+      [
+        "상법 제672조: 중복보험",
+        "https://www.law.go.kr/법령/상법/제672조"
+      ],
+      [
+        "상법 제674조: 일부보험",
+        "https://www.law.go.kr/법령/상법/제674조"
+      ],
+      [
+        "손해보험협회 소비자포털: 보험계약 FAQ",
+        "https://consumer.knia.or.kr/consumer/center/faq.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-indemnity-proportional-compensation-thumb.webp",
+      "/assets/images/terms-indemnity-proportional-compensation-body1.webp",
+      "/assets/images/terms-indemnity-proportional-compensation-body2.webp"
+    ]
+  },
+  {
+    "order": 8,
+    "title": "고지의무와 통지의무 차이: 가입 전 병력과 가입 후 직업 변경",
+    "keyword": "고지의무와 통지의무",
+    "path": "/standards/disclosure-vs-notification-duty",
+    "sources": [
+      [
+        "상법 제651조: 고지의무 위반에 따른 해지",
+        "https://www.law.go.kr/법령/상법/제651조"
+      ],
+      [
+        "상법 제652조: 위험 변경·증가의 통지",
+        "https://www.law.go.kr/법령/상법/제652조"
+      ],
+      [
+        "상법 제655조: 계약 해지와 보험금 청구",
+        "https://www.law.go.kr/법령/상법/제655조"
+      ],
+      [
+        "대법원: 고지의무와 통지의무의 구분",
+        "https://www.law.go.kr/LSW/precInfoP.do?precSeq=240965"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-disclosure-vs-notification-duty-thumb.webp",
+      "/assets/images/terms-disclosure-vs-notification-duty-body1.webp",
+      "/assets/images/terms-disclosure-vs-notification-duty-body2.webp"
+    ]
+  },
+  {
+    "order": 9,
+    "title": "보험계약자·피보험자·보험수익자, 내 보험증권의 이름은 왜 다를까?",
+    "keyword": "보험계약자 피보험자 보험수익자",
+    "path": "/standards/policyholder-insured-beneficiary",
+    "sources": [
+      [
+        "상법 제639조: 타인을 위한 보험계약",
+        "https://www.law.go.kr/법령/상법/제639조"
+      ],
+      [
+        "상법 제731조: 타인의 사망보험",
+        "https://www.law.go.kr/법령/상법/제731조"
+      ],
+      [
+        "상법 제733조: 보험수익자의 지정·변경",
+        "https://www.law.go.kr/법령/상법/제733조"
+      ],
+      [
+        "손해보험협회 소비자포털: 보험계약 FAQ",
+        "https://consumer.knia.or.kr/consumer/center/faq.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-policyholder-insured-beneficiary-thumb.webp",
+      "/assets/images/terms-policyholder-insured-beneficiary-body1.webp",
+      "/assets/images/terms-policyholder-insured-beneficiary-body2.webp"
+    ]
+  },
+  {
+    "order": 10,
+    "title": "보험 해지·무효·취소·청약철회 차이, 돌려받는 돈도 다를까요?",
+    "keyword": "보험 해지 무효 취소 청약철회",
+    "path": "/standards/termination-invalidity-cancellation-withdrawal",
+    "sources": [
+      [
+        "찾기쉬운 생활법령정보: 금융상품 청약철회권",
+        "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?ccfNo=1&cciNo=2&cnpClsNo=1&csmSeq=1771"
+      ],
+      [
+        "상법 제648조: 보험계약 무효와 보험료 반환",
+        "https://www.law.go.kr/법령/상법/제648조"
+      ],
+      [
+        "상법 제649조: 계약자의 임의해지",
+        "https://www.law.go.kr/법령/상법/제649조"
+      ],
+      [
+        "손해보험협회 소비자포털: 보험계약 FAQ",
+        "https://consumer.knia.or.kr/consumer/center/faq.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-termination-invalidity-cancellation-withdrawal-thumb.webp",
+      "/assets/images/terms-termination-invalidity-cancellation-withdrawal-body1.webp",
+      "/assets/images/terms-termination-invalidity-cancellation-withdrawal-body2.webp"
+    ]
+  },
+  {
+    "order": 11,
+    "title": "보험 부활·갱신·재가입 차이, 끊긴 계약과 만기가 된 계약",
+    "keyword": "보험 부활 갱신 재가입",
+    "path": "/standards/reinstatement-renewal-reenrollment",
+    "sources": [
+      [
+        "상법 제650조의2: 보험계약의 부활",
+        "https://www.law.go.kr/법령/상법/제650조의2"
+      ],
+      [
+        "금융위원회: 갱신·재가입 안내 개선",
+        "https://www.fsc.go.kr/po010101/74094"
+      ],
+      [
+        "찾기쉬운 생활법령정보: 해지된 보험계약의 부활",
+        "https://easylaw.go.kr/CSP/CnpClsMain.laf?ccfNo=4&cciNo=2&cnpClsNo=1&csmSeq=2588&popMenu=ov"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-reinstatement-renewal-reenrollment-thumb.webp",
+      "/assets/images/terms-reinstatement-renewal-reenrollment-body1.webp",
+      "/assets/images/terms-reinstatement-renewal-reenrollment-body2.webp"
+    ]
+  },
+  {
+    "order": 12,
+    "title": "면책기간·감액기간·부담보 차이, 가입했는데 보장이 제한되는 이유",
+    "keyword": "면책기간 감액기간 부담보",
+    "path": "/standards/waiting-reduction-exclusion",
+    "sources": [
+      [
+        "금융위원회: 보험약관 개선과 면책·감액 안내",
+        "https://www.fsc.go.kr/po010105/74513"
+      ],
+      [
+        "손해보험협회 소비자포털: 보험계약 FAQ",
+        "https://consumer.knia.or.kr/consumer/center/faq.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-waiting-reduction-exclusion-thumb.webp",
+      "/assets/images/terms-waiting-reduction-exclusion-body1.webp",
+      "/assets/images/terms-waiting-reduction-exclusion-body2.webp"
+    ]
+  },
+  {
+    "order": 13,
+    "title": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+    "keyword": "급여와 비급여 차이",
+    "path": "/silbi/covered-vs-noncovered-medical-costs",
+    "sources": [
+      [
+        "국민건강보험공단: 비급여 이해하기",
+        "https://www.nhis.or.kr/nbinfo/htmc_under.do"
+      ],
+      [
+        "건강보험심사평가원: 영수증의 전액본인부담과 비급여 확인",
+        "https://www.hira.or.kr/dummy.do?cmsurl=/cms/popup/02/03/1341836_26943.html&isNewWindow=Y&isPopupYn=Y&pgmid=HIRAA010002080000"
+      ],
+      [
+        "금융위원회: 5세대 실손보험 출시 안내",
+        "https://www.fsc.go.kr/po010103/86831"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-covered-vs-noncovered-medical-costs-thumb.webp",
+      "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+      "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp"
+    ]
+  },
+  {
+    "order": 14,
+    "title": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+    "keyword": "자기부담금과 공제금액",
+    "path": "/silbi/deductible-vs-copayment",
+    "sources": [
+      [
+        "금융위원회: 4세대 실손보험 급여·비급여 공제 구조",
+        "https://www.fsc.go.kr/po040200/76060"
+      ],
+      [
+        "금융위원회: 5세대 실손보험의 자기부담 구조",
+        "https://www.fsc.go.kr/po010103/86831"
+      ],
+      [
+        "국민건강보험공단: 건강보험과 비급여 비용 구분",
+        "https://www.nhis.or.kr/nbinfo/htmc_under.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-deductible-vs-copayment-thumb.webp",
+      "/assets/images/terms-deductible-vs-copayment-body1.webp",
+      "/assets/images/terms-deductible-vs-copayment-body2.webp"
+    ]
+  },
+  {
+    "order": 15,
+    "title": "갱신형과 비갱신형 차이, 보험료·납입기간·보장기간 따로 보기",
+    "keyword": "갱신형과 비갱신형 차이",
+    "path": "/standards/renewable-vs-nonrenewable",
+    "sources": [
+      [
+        "금융위원회: 보험상품 갱신·재가입 안내",
+        "https://www.fsc.go.kr/po010101/74094"
+      ],
+      [
+        "손해보험협회 소비자포털: 보험계약 FAQ",
+        "https://consumer.knia.or.kr/consumer/center/faq.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-renewable-vs-nonrenewable-thumb.webp",
+      "/assets/images/terms-renewable-vs-nonrenewable-body1.webp",
+      "/assets/images/terms-renewable-vs-nonrenewable-body2.webp"
+    ]
+  },
+  {
+    "order": 16,
+    "title": "주계약과 특약 차이, 보험증권에서 실제 가입한 보장 찾는 법",
+    "keyword": "주계약과 특약",
+    "path": "/standards/main-contract-vs-rider",
+    "sources": [
+      [
+        "국가법령정보센터: 보험업감독규정",
+        "https://www.law.go.kr/행정규칙/보험업감독규정"
+      ],
+      [
+        "금융위원회: 이해하기 쉬운 보험약관 안내",
+        "https://www.fsc.go.kr/po010105/74513"
+      ],
+      [
+        "손해보험협회 소비자포털: 보험계약 FAQ",
+        "https://consumer.knia.or.kr/consumer/center/faq.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-main-contract-vs-rider-thumb.webp",
+      "/assets/images/terms-main-contract-vs-rider-body1.webp",
+      "/assets/images/terms-main-contract-vs-rider-body2.webp"
+    ]
+  },
+  {
+    "order": 17,
+    "title": "보험료·보험금·해약환급금 차이, 낸 돈과 돌려받는 돈 구별하기",
+    "keyword": "보험료 보험금 해약환급금",
+    "path": "/standards/premium-benefit-surrender-value",
+    "sources": [
+      [
+        "금융위원회: 무·저해지환급금 보험 가입 유의사항",
+        "https://www.fsc.go.kr/po010101/73932"
+      ],
+      [
+        "상법 제649조: 계약자의 임의해지",
+        "https://www.law.go.kr/법령/상법/제649조"
+      ],
+      [
+        "손해보험협회 소비자포털: 보험계약 FAQ",
+        "https://consumer.knia.or.kr/consumer/center/faq.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-premium-benefit-surrender-value-thumb.webp",
+      "/assets/images/terms-premium-benefit-surrender-value-body1.webp",
+      "/assets/images/terms-premium-benefit-surrender-value-body2.webp"
+    ]
+  },
+  {
+    "order": 18,
+    "title": "대인배상 I·II 차이, 자동차보험에서 상대방 피해를 보장하는 범위",
+    "keyword": "대인배상 I II 차이",
+    "path": "/standards/auto-liability-one-vs-two",
+    "sources": [
+      [
+        "국가법령정보센터: 자동차손해배상 보장법 제5조",
+        "https://www.law.go.kr/법령/자동차손해배상보장법/제5조"
+      ],
+      [
+        "국가법령정보센터: 자동차손해배상 보장법 시행령 제3조",
+        "https://www.law.go.kr/법령/자동차손해배상보장법시행령/제3조"
+      ],
+      [
+        "현대해상 공식 자동차보험 담보 안내(개별 상품)",
+        "https://platform.hi.co.kr/"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-auto-liability-one-vs-two-thumb.webp",
+      "/assets/images/terms-auto-liability-one-vs-two-body1.webp",
+      "/assets/images/terms-auto-liability-one-vs-two-body2.webp"
+    ]
+  },
+  {
+    "order": 19,
+    "title": "자기신체사고와 자동차상해 차이, 치료비·휴업손해를 비교하는 기준",
+    "keyword": "자기신체사고와 자동차상해 차이",
+    "path": "/standards/personal-injury-vs-auto-injury",
+    "sources": [
+      [
+        "현대해상 공식 자동차보험 보장 안내(개별 상품)",
+        "https://platform.hi.co.kr/"
+      ],
+      [
+        "현대해상 자동차보험 약관: 자동차상해·공제·피보험자(계약 버전별 상이)",
+        "https://mdirect.hi.co.kr/dhNAS/terms/CM5306_20250901.pdf"
+      ],
+      [
+        "삼성화재 자동차보험 안내: 자기신체사고·자동차상해 지급 구조(계약 버전별 상이)",
+        "https://www.samsungfire.com/publication/pdf/20051_0_20230101_file1.pdf"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-personal-injury-vs-auto-injury-thumb.webp",
+      "/assets/images/terms-personal-injury-vs-auto-injury-body1.webp",
+      "/assets/images/terms-personal-injury-vs-auto-injury-body2.webp"
+    ]
+  },
+  {
+    "order": 20,
+    "title": "제3보험이란? 상해·질병·간병보험과 실손·정액 보상의 관계",
+    "keyword": "제3보험이란",
+    "path": "/standards/third-sector-insurance",
+    "sources": [
+      [
+        "보험업법 제2조: 제3보험상품의 정의",
+        "https://www.law.go.kr/법령/보험업법/제2조"
+      ],
+      [
+        "보험업법 제4조: 보험업의 허가와 보험종목",
+        "https://www.law.go.kr/법령/보험업법/제4조"
+      ],
+      [
+        "손해보험협회: 보험상품과 위험의 기초 안내",
+        "https://consumer.knia.or.kr/consumer/general-guide/0101.do"
+      ]
+    ],
+    "images": [
+      "/assets/images/terms-third-sector-insurance-thumb.webp",
+      "/assets/images/terms-third-sector-insurance-body1.webp",
+      "/assets/images/terms-third-sector-insurance-body2.webp"
+    ]
+  }
+]

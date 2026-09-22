@@ -1,0 +1,111 @@
+.terms-article {
+  max-width: 1060px;
+  margin-inline: auto;
+}
+
+.terms-article > h1 {
+  max-width: 100%;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.terms-article section > p,
+.terms-article li,
+.terms-article td {
+  font-size: 20px;
+  line-height: 1.85;
+}
+
+.terms-article .article-byline {
+  font-size: 15px;
+  color: #56616d;
+}
+
+.terms-article p {
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.terms-article > section:not(.kakao-inquiry-cta) {
+  margin-block: 42px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+.terms-article .guide-image-panel img,
+.terms-index .post-thumb img {
+  object-fit: contain;
+  height: auto;
+  max-height: none;
+}
+
+.terms-article table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.terms-article caption {
+  text-align: left;
+  font-weight: 800;
+  padding-block: 12px;
+  font-size: 24px;
+}
+
+.terms-article th:first-child,
+.terms-article td:first-child {
+  width: 22%;
+  min-width: 165px;
+  word-break: keep-all;
+}
+
+.terms-toc {
+  padding-block: 24px;
+  border-block: 1px solid #d6e1e5;
+}
+
+.terms-toc ol { margin-bottom: 0; }
+.terms-toc a,
+.terms-related a,
+.terms-sources a {
+  color: #07675e;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  overflow-wrap: anywhere;
+}
+.terms-related li,
+.terms-sources li { margin-block: 12px; }
+.terms-index .post-card { border-radius: 8px; }
+.terms-article .kakao-inquiry-cta { margin-top: 36px; }
+
+@media (max-width: 680px) {
+  .terms-article section > p,
+  .terms-article li,
+  .terms-article td { font-size: 18px; line-height: 1.8; }
+  .terms-article table,
+  .terms-article table tbody,
+  .terms-article table tr,
+  .terms-article table td,
+  .terms-article table td:first-child,
+  .terms-article table td:not(:first-child) {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+  .terms-article table thead { display: none; }
+  .terms-article table tbody tr:nth-child(n) td:first-child {
+    background: #17212b;
+    color: #fff;
+  }
+  .terms-article table td:not(:first-child)::before {
+    content: attr(data-label);
+    display: block;
+    color: #07675e;
+    font-weight: 800;
+    font-size: 15px;
+    margin-bottom: 3px;
+  }
+  .terms-article caption { display: block; font-size: 21px; }
+  .terms-article > section:not(.kakao-inquiry-cta) { margin-block: 32px; }
+}
