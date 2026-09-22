@@ -164,7 +164,7 @@ const link = ([label, href]) => `<a href="${escape(href)}"${href.startsWith('htt
 const figure = (file, alt, eager = false) => `<figure class="guide-image-panel"><img src="/assets/images/${file}" width="1672" height="941" loading="${eager ? 'eager' : 'lazy'}" decoding="async" alt="${escape(alt)}"></figure>`;
 
 for (const a of articles) {
-  const path = `/surgery-benefit/${a.slug}.html`;
+  const path = `/surgery-benefit/${a.slug}`;
   const articleJson = JSON.stringify({ '@context': 'https://schema.org', '@type': 'Article', headline: a.title, description: a.description, image: `${origin}/assets/images/${a.thumb}`, author: { '@type': 'Organization', name: '케어로컬' }, publisher: { '@type': 'Organization', name: '케어로컬' }, datePublished: '2026-09-22', dateModified: '2026-09-22', inLanguage: 'ko-KR' });
   const sections = a.sections.map(([heading, first, second], index) => `<h2>${escape(heading)}</h2><p>${escape(first)}</p>${index === 0 ? figure(a.images[0], a.imageAlts[0]) : ''}<p>${escape(second)}</p>${index === 2 ? figure(a.images[1], a.imageAlts[1]) : ''}`).join('\n');
   const rows = a.rows.map(([item, check, note]) => `<tr><td>${escape(item)}</td><td>${escape(check)}</td><td>${escape(note)}</td></tr>`).join('');
