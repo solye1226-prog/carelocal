@@ -105,6 +105,16 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/mammotome-claim-denied",
+    "title": "맘모톰 보험금 지급 거절, 사유별 추가서류와 대응 순서",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/mammotome-claim-documents",
+    "title": "맘모톰 보험청구서류, 진단서와 조직검사 결과지 모두 필요할까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/medical-expense-claim-documents",
     "title": "실비보험 청구서류 정리 | 진료비 영수증·세부내역서·처방전",
     "category": "보험금 청구"
@@ -160,6 +170,16 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/mammotome-day-admission",
+    "title": "맘모톰 당일 입원 실비, 입퇴원확인서만으로 인정될까?",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/mammotome-low-payout",
+    "title": "맘모톰 실비 보험금이 적게 나왔다면? 공제·한도·제외 항목 확인",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/mammotome-silbi-claim",
     "title": "맘모톰 실비 청구, 조직검사 결과와 제거 목적이 중요한 이유",
     "category": "실비보험"
@@ -212,6 +232,11 @@
   {
     "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
     "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/mammotome-surgery-benefit",
+    "title": "맘모톰 수술비 보험, 질병수술비와 종수술비는 어떻게 확인할까?",
     "category": "수술비"
   },
   {
