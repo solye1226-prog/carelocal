@@ -36,6 +36,7 @@
   <url><loc>https://hospital.hbuby.com/claims/driver-injury-14.html</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/family-liability-water-leak-deductible.html</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/page/2/</loc><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/page/3/</loc><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/insurance-companies/</loc><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/generation-comparison.html</loc><priority>0.9</priority></url>
@@ -94,7 +95,12 @@
   <url><loc>https://hospital.hbuby.com/silbi/mri-silbi-claim</loc><lastmod>2026-09-19</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/cartistem-silbi-claim</loc><lastmod>2026-09-22</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/leqembi-silbi-claim</loc><lastmod>2026-09-22</lastmod><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim</loc><lastmod>2026-09-22</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/screening-polyp-removal-silbi</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/polyp-removal-claim-documents</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim</loc><lastmod>2026-09-19</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents</loc><lastmod>2026-09-19</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim</loc><lastmod>2026-09-19</lastmod><priority>0.9</priority></url>

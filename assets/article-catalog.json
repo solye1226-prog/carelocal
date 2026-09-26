@@ -120,6 +120,31 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/multiple-polyps-surgery-benefit",
+    "title": "대장 용종 여러 개 제거하면 수술비도 여러 번 받을까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/polyp-pathology-diagnosis-benefit",
+    "title": "대장 용종 조직검사에서 선종·암이 나오면 진단비는 어떻게 확인할까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/polyp-removal-claim-documents",
+    "title": "대장 용종 제거 보험금 청구서류, 확인서와 검사결과지 어디까지 필요할까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/polyp-removal-surgery-benefit-tier",
+    "title": "대장 용종 제거 수술비는 몇 종일까? 질병수술비와 분류표 확인법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/screening-polyp-removal-silbi",
+    "title": "건강검진 중 대장 용종을 제거했다면 실비 청구가 될까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/surgery-claim-documents",
     "title": "수술비 청구서류, 수술확인서·진단서·수술기록지 중 무엇이 필요할까?",
     "category": "보험금 청구"
