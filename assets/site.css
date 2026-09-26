@@ -3029,7 +3029,7 @@ summary {
     border-bottom: 0;
   }
 
-  .insurance-series-article table td:first-child {
+  .insurance-series-article table tbody tr td:first-child {
     background: #17212b;
     color: #fff;
   }
