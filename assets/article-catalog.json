@@ -185,6 +185,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/varicose-insurance-low-payout-denied",
+    "title": "하지정맥류 보험금이 적거나 거절됐다면? 사유별 확인 순서",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/silbi/cartistem-silbi-claim",
     "title": "카티스템 실비 청구 가능할까? 재료대·수술료 구분과 필요서류",
     "category": "실비보험"
@@ -240,8 +245,23 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/varicose-laser-silbi-claim",
+    "title": "하지정맥류 레이저 수술 실비 청구, 필요한 서류와 비용 확인 방법",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/varicose-radiofrequency-insurance",
+    "title": "하지정맥류 고주파 수술, 실비와 수술비 특약은 어떻게 다를까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/varicose-vein-silbi-claim",
     "title": "하지정맥류 실비, 수술 방법에 따라 확인할 보장 기준과 청구서류",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/varicose-venaseal-clarivein-silbi",
+    "title": "베나실·클라리베인 하지정맥류 실비, 시술비와 재료비 어떻게 볼까?",
     "category": "실비보험"
   },
   {

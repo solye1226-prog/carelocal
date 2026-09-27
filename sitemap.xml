@@ -137,7 +137,7 @@
   <url><loc>https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/claims/knee-surgery-claim-documents</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents</loc><lastmod>2026-09-22</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim</loc><lastmod>2026-09-26</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/mammotome-silbi-claim</loc><lastmod>2026-09-26</lastmod></url>
   <url><loc>https://hospital.hbuby.com/claims/mammotome-claim-documents</loc><lastmod>2026-09-26</lastmod></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit</loc><lastmod>2026-09-26</lastmod></url>
@@ -148,4 +148,8 @@
   <url><loc>https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
 </urlset>
