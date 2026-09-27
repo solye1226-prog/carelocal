@@ -55,6 +55,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/hemorrhoid-surgery-claim-documents",
+    "title": "치질 수술 보험금 청구서류, 실비와 수술비는 무엇을 준비할까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/home-fire-insurance-water-leak",
     "title": "주택화재보험 누수 보상, 일배책과 무엇이 다를까?",
     "category": "보험금 청구"
@@ -215,6 +220,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/hemorrhoid-surgery-silbi-claim",
+    "title": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/leqembi-silbi-claim",
     "title": "치매 주사 레켐비 실비 청구, 약제비·MRI 검사비와 서류 확인",
     "category": "실비보험"
@@ -278,6 +288,11 @@
     "path": "/diagnosis-benefit/thyroid-cancer-benefit-claim",
     "title": "갑상선암 진단비 청구, 유사암 구분과 필요한 서류",
     "category": "진단비"
+  },
+  {
+    "path": "/surgery-benefit/anal-fistula-surgery-benefit",
+    "title": "치루 수술비 보험금, 치핵 수술과 약관 기준이 다를까?",
+    "category": "수술비"
   },
   {
     "path": "/surgery-benefit/cataract-surgery-benefit",
