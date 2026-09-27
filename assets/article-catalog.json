@@ -10,6 +10,26 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/cataract-both-eyes-surgery-benefit",
+    "title": "양쪽 눈 백내장 수술비, 두 번 받을까? 수술일과 약관 지급 단위",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/cataract-day-surgery-inpatient-outpatient",
+    "title": "백내장 당일 수술은 입원일까 통원일까? 실비 청구 전 확인할 기준",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/cataract-multifocal-lens-silbi",
+    "title": "백내장 다초점 인공수정체 비용, 실비보험은 어디까지 확인할까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/cataract-surgery-claim-documents",
+    "title": "백내장 수술 보험금 청구서류, 실비와 수술비는 무엇을 준비할까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/colonoscopy-polyp-insurance-claim",
     "title": "대장내시경 용종 제거 보험금, 실비와 수술비는 어떻게 확인할까?",
     "category": "보험금 청구"
