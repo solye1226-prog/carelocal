@@ -902,6 +902,7 @@ summary {
 
 .insurance-series-article > h1 {
   max-width: 1100px;
+  text-wrap: balance;
 }
 
 .insurance-series-article .guide-image-panel {
