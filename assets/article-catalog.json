@@ -365,6 +365,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/second-tier-surgery-benefit",
+    "title": "2종 수술보험금, 내 수술이 해당하는지 확인하는 법",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/surgery-classification",
     "title": "수술분류표 확인 | 1종·2종·3종 수술비 보험 기준",
     "category": "수술비"
