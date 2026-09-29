@@ -375,6 +375,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/surgery-code-insurance-guide",
+    "title": "수술코드로 보험금 몇 종인지 알 수 있을까? 진단코드·행위코드·약관 구분법",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/surgery-name-mismatch",
     "title": "수술확인서 수술명이 분류표와 다를 때, 보험사에 무엇을 확인할까?",
     "category": "수술비"
