@@ -2016,6 +2016,59 @@ summary {
   color: #fff;
 }
 
+.article-next {
+  margin: 22px 0 30px;
+  padding: 17px 0 19px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.article-next p {
+  margin: 0 0 10px;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.article-next-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.article-next-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 9px 14px;
+  border: 1px solid var(--ink);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 800;
+  text-align: center;
+  text-decoration: none;
+}
+
+.article-next-links a:first-child {
+  background: var(--ink);
+  color: #fff;
+}
+
+.article-next-links a:hover,
+.article-next-links a:focus-visible {
+  background: #0756be;
+  border-color: #0756be;
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .article-next-links a {
+    width: 100%;
+  }
+}
+
 .post-list {
   display: grid;
   gap: 10px;
