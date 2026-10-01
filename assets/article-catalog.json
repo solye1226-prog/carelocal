@@ -430,6 +430,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/tonsil-adenoid-same-day-benefit",
+    "title": "편도·아데노이드 동시수술, 수술비는 각각 청구할 수 있을까?",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/type-surgery-benefit-claim",
     "title": "종수술비 보험금 청구, 수술확인서와 수술분류표 대조 방법",
     "category": "수술비"
