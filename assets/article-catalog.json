@@ -255,6 +255,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/thyroid-nodule-rfa-silbi-claim",
+    "title": "갑상선 결절 고주파 실비 청구, 시술비·전극 재료비와 서류 확인",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/treatment-material-cost-silbi",
     "title": "치료재료대 실비 청구 가능할까? 진료비 세부내역서 확인법",
     "category": "실비보험"
