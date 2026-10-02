@@ -36,7 +36,7 @@ The table combines canonical, `.html`, and trailing-slash paths. It lists all in
 4. Authenticate on `/dashboard/`, compare live numbers with the Cloudflare hostname-filtered Web Analytics report, and test an article detail request.
 5. Confirm mobile layout, period changes, search, pagination, lock and error states.
 
-Current status: analytics token saved in the production project. Live API tested for today, 7/30 days and an article path. Owner access secret and production authenticated verification are still pending.
+Current status: production authentication was verified through the owner dashboard on October 2. Site and article views loaded successfully, and both CSV files were saved and parsed locally. Statistics were locked and the verification tab closed afterward. No owner credentials were extracted or committed.
 
 Queries use windows of at most seven days and combine disjoint results; a single 30-day request returned zero on this low-traffic site despite recent events. Counts remain subject to Cloudflare sampling. Dashboard paths are excluded. Local preview credentials are temporary and are not production credentials.
 
@@ -49,5 +49,7 @@ Queries use windows of at most seven days and combine disjoint results; a single
 - Downloads are generated in the browser; no new tracking provider, event collection endpoint or storage permission is introduced.
 - Search-result CTR, internal navigation/button clicks and AdSense advertising metrics are distinct. Cloudflare referring hosts do not identify which button was clicked or establish original acquisition attribution.
 - For comparisons, retain equal-length periods, separate today's incomplete results and compare the same URL scope. Both 7/30-day options include today.
-- The public API returned 401 without an owner key on October 2. This confirms unauthorized requests are rejected, not that an authenticated production export has been tested.
-- Local link/catalog checks and 10 API/CSV tests passed. Production authenticated download remains unverified without the owner's access key.
+- The public API returned 401 without an owner key on October 2; the owner dashboard subsequently authenticated successfully using its existing browser-filled credentials.
+- Local link/catalog checks and 10 API/CSV tests passed. Production site and article CSVs were downloaded, parsed with Import-Csv and checked against displayed date ranges and totals. Daily totals matched summary totals; the article export contained only its selected canonical page.
+- The browser download event helper did not return for the blob download, but files were present in the normal Downloads directory and were independently parsed. A success message alone was not used as proof.
+- After verification, locking the dashboard cleared displayed metrics and disabled export. Metric CSVs and the screenshot remain local; neither was committed to the public repository.
