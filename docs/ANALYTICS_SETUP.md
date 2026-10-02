@@ -53,3 +53,28 @@ Queries use windows of at most seven days and combine disjoint results; a single
 - Local link/catalog checks and 10 API/CSV tests passed. Production site and article CSVs were downloaded, parsed with Import-Csv and checked against displayed date ranges and totals. Daily totals matched summary totals; the article export contained only its selected canonical page.
 - The browser download event helper did not return for the blob download, but files were present in the normal Downloads directory and were independently parsed. A success message alone was not used as proof.
 - After verification, locking the dashboard cleared displayed metrics and disabled export. Metric CSVs and the screenshot remain local; neither was committed to the public repository.
+
+## Navigation measurement audit - 2026-10-02
+
+Status: measurement limitations verified; button event tracking is NOT installed.
+
+- `functions/api/analytics.js` reads pageload aggregates only. Neither it nor the article HTML sends navigation click events. Dashboard buttons are report controls, not article event tracking.
+- Cloudflare Web Analytics currently does not support custom events or UTM query reporting: https://developers.cloudflare.com/web-analytics/faq/
+- A page view, a visit, a search-result click and an advertisement click are separate metrics. Internal referring-host counts cannot identify the originating button, distinguish header links from article links, or measure same-page anchors.
+- Do not label related-page views divided by source-page views as button CTR. A destination can receive search traffic or visits from other articles.
+- The navigation changes on October 2 are a comparison boundary, not proof of a revenue or engagement improvement. Some links existed earlier, and other site changes overlap the period.
+
+### Existing-data comparison
+
+Use complete Korea calendar days and the same hostname/URL scope. A possible equal-length comparison is September 18 through October 1 versus October 3 through October 16, excluding the October 2 transition day. Do not claim these historical ranges have been exported: the current API supports only rolling 1/7/30-day windows including today. Use a source report with explicit dates or add and validate date-range filtering before exporting these exact periods.
+
+Compare source-article views, related-article views and site views/visits as descriptive signals, not button clicks or unique users. Keep AdSense revenue and page RPM in a separate, hostname-matched report. Note incomplete days, sampling, changes to articles and traffic sources. Do not infer causality from a before/after comparison alone.
+
+### Requirements before exact button measurement
+
+- Choose and configure an event-capable collector/storage; none is currently bound in `wrangler.toml`. Review provider access, cost, retention and the site's privacy notice before enabling collection.
+- Track only designated editorial navigation: related articles, same-page sections and insurer-directory links. Never attach listeners to advertisements or embedded advertising frames.
+- Use allowlisted public article paths, static link IDs, destination paths/section IDs and an aggregate date. Exclude query strings, form values, medical records, contact details, cookies, persistent visitor IDs and fingerprinting. Avoid collecting/storing raw IPs or user agents in application records.
+- A reliable click rate additionally needs a defined denominator, such as measured visible button exposures. Event counts alone are not CTR, unique clickers or successful destination loads.
+- Preserve navigation if reporting fails; validate keyboard activation, same-page anchors, new-tab clicks, mobile layouts, duplicate prevention and crawler/bot limits. Verify storage and authenticated aggregate reports live before claiming activation.
+- Existing historical button clicks cannot be reconstructed. Synthetic verification events must be isolated from visitor reports.
