@@ -26,6 +26,7 @@ Reviewed: 2026-10-02. Six existing pages; no new posts.
 - 166 HTML files: local links resolve; catalog check: 139 articles.
 - Existing analytics/CSV tests: 10 passed.
 - Targeted invariants: titles, canonical URLs, publication dates, ad scripts preserved; one H1 per page; embedded JSON parses.
-- Public deployment and desktop/mobile verification recorded after publication.
+- Public deployment df93e39: all six extensionless URLs returned HTTP 200 and their individual new text markers.
+- Browser checks at 390px: all six pages fit the page viewport; long tables retain their existing inner horizontal scrolling. Desktop checklist and mobile article/table screenshots inspected. Existing late-loading ads can shift anchor positions or cover content; ad configuration remained unchanged as requested.
 - No indexing submissions, advertising configuration, tracking installation or claims of improved revenue/rankings.
 - Individual contracts still require insurer review; this is not medical/legal expert certification.
