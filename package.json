@@ -5,7 +5,7 @@
   "description": "Cloudflare Pages static site for Korean regional hospital information guides.",
   "scripts": {
     "start": "python scripts/server.py",
-    "check": "python scripts/check_links.py && python scripts/build-article-catalog.py --check && node --test scripts/test-analytics.mjs",
+    "check": "python scripts/check_links.py && python scripts/build-article-catalog.py --check && node --test scripts/test-analytics.mjs scripts/test-analytics-csv.mjs",
     "build:catalog": "python scripts/build-article-catalog.py",
     "refresh:hospitals": "node scripts/fetch-hira-hospitals.mjs"
   },

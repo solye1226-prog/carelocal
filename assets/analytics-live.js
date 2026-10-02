@@ -1,3 +1,5 @@
+import { buildAnalyticsCsv } from './analytics-csv.mjs';
+
 (() => {
   const $ = (id) => document.getElementById(id);
   const format = new Intl.NumberFormat('ko-KR');
@@ -140,6 +142,7 @@
   function clearData() {
     state.overall = null;
     state.detail = null;
+    $('export-csv').disabled = true;
     $('visits').textContent = $('views').textContent = '—';
     $('chart').textContent = $('devices').textContent = '통계 연결 후 표시됩니다.';
     $('daily-data').replaceChildren();
@@ -178,6 +181,7 @@
     state.controller = new AbortController();
     const timer = setTimeout(() => state.controller?.abort(), 45000);
     $('refresh').disabled = $('period').disabled = true;
+    $('export-csv').disabled = true;
     $('all-pages').disabled = true;
     renderList();
     try {
@@ -198,6 +202,7 @@
       state.busy = false;
       $('refresh').disabled = $('period').disabled = false;
       $('all-pages').disabled = false;
+      $('export-csv').disabled = !state.detail || !state.password;
       renderList();
     }
   }
@@ -221,6 +226,23 @@
     $('all-pages').hidden = true;
   });
   $('refresh').addEventListener('click', refresh);
+  $('export-csv').addEventListener('click', () => {
+    if (state.busy || !state.detail || !state.password) return;
+    try {
+      const blob = new Blob([buildAnalyticsCsv(state.detail, state.catalog)], { type: 'text/csv;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `carelocal-${state.detail.path ? 'article' : 'site'}-${state.detail.daily[0].date}-${state.detail.daily.at(-1).date}.csv`;
+      document.body.append(link);
+      link.click();
+      link.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+      $('status').textContent = '화면에 불러온 통계를 CSV로 내려받았습니다.';
+    } catch {
+      $('status').textContent = '통계 파일을 만들지 못했습니다. 통계를 새로 불러온 뒤 다시 시도하세요.';
+    }
+  });
   $('period').addEventListener('change', () => { clearData(); refresh(); });
   $('all-pages').addEventListener('click', () => { state.selected = null; refresh(); });
   $('search').addEventListener('input', () => { state.page = 1; renderList(); });

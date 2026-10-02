@@ -39,3 +39,15 @@ The table combines canonical, `.html`, and trailing-slash paths. It lists all in
 Current status: analytics token saved in the production project. Live API tested for today, 7/30 days and an article path. Owner access secret and production authenticated verification are still pending.
 
 Queries use windows of at most seven days and combine disjoint results; a single 30-day request returned zero on this low-traffic site despite recent events. Counts remain subject to Cloudflare sampling. Dashboard paths are excluded. Local preview credentials are temporary and are not production credentials.
+
+## CSV snapshots - 2026-10-02
+
+- The dashboard download control exports the currently loaded site or article report only after authentication and a successful load.
+- Files include date range, generatedAt, summary, daily views/visits, referring hosts, devices and canonical page counts. An incomplete page list leaves absent counts blank with unknown coverage rather than inventing zero.
+- Site reports include article titles and observed non-article paths such as the insurer directory. No password, API token, search query or individual visitor identifier is exported.
+- UTF-8 BOM supports Korean spreadsheet text; formula-like string cells are escaped.
+- Downloads are generated in the browser; no new tracking provider, event collection endpoint or storage permission is introduced.
+- Search-result CTR, internal navigation/button clicks and AdSense advertising metrics are distinct. Cloudflare referring hosts do not identify which button was clicked or establish original acquisition attribution.
+- For comparisons, retain equal-length periods, separate today's incomplete results and compare the same URL scope. Both 7/30-day options include today.
+- The public API returned 401 without an owner key on October 2. This confirms unauthorized requests are rejected, not that an authenticated production export has been tested.
+- Local link/catalog checks and 10 API/CSV tests passed. Production authenticated download remains unverified without the owner's access key.

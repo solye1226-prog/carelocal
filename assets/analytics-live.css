@@ -7,6 +7,7 @@
 .live-toolbar select, .analytics-page button, #password { font: inherit; padding: 10px 14px; border: 1px solid #cbd3da; border-radius: 6px; background: white; }
 .analytics-page button { cursor: pointer; color: white; background: #18695d; }
 .analytics-page button:disabled { opacity: .6; cursor: wait; }
+.analytics-page #export-csv { width: 44px; height: 44px; padding: 0; font-size: 24px; }
 #updated, .live-note { color: #606a78; font-size: 14px; }
 .analytics-summary-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
 .live-section { margin: 32px 0; border-top: 1px solid #dce2e8; padding-top: 24px; }
