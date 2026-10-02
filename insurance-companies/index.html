@@ -7,6 +7,8 @@
     <meta name="description" content="손해보험사와 생명보험사의 공식 홈페이지, 고객센터, 보험금 청구 안내를 한 곳에서 확인할 수 있도록 정리했습니다.">
     <link rel="canonical" href="https://hospital.hbuby.com/insurance-companies/">
     <link rel="stylesheet" href="/assets/site.css?v=20260714-feed-equal-height-v10">
+    <link rel="stylesheet" href="/assets/company-directory.css?v=20261002">
+    <script defer src="/assets/company-directory.js?v=20261002"></script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2258793659580551" crossorigin="anonymous"></script>
   </head>
   <body>
@@ -22,15 +24,22 @@
       <h1>보험사 고객센터와 보험금 청구 공식 링크</h1>
       <p class="lead">보험금 청구서류, 접수 방법, 모바일 청구 메뉴는 보험사와 상품에 따라 다릅니다. 손해보험사와 생명보험사의 공식 홈페이지를 한 곳에서 확인할 수 있도록 정리했습니다.</p>
       <div class="notice">대표번호와 ARS 메뉴는 변경될 수 있습니다. 실제 청구 전에는 가입한 보험사의 공식 홈페이지 또는 고객센터에서 최종 안내를 확인하세요.</div>
+      <p>보험증권이나 가입한 보험사의 앱에 표시된 회사명을 기준으로 확인하세요. 같은 질병이나 수술이라도 가입한 회사와 특약에 따라 접수처와 제출서류가 다릅니다. 이 페이지는 공식 안내로 연결하며 보험금 청구를 대신 접수하지 않습니다.</p>
+      <div class="company-search" hidden>
+        <label for="company-search">보험사 찾기</label>
+        <input id="company-search" type="search" placeholder="보험사 이름" autocomplete="off" aria-controls="nonlife-companies life-companies" aria-describedby="company-search-status">
+        <p id="company-search-status" role="status" aria-live="polite" aria-atomic="true"></p>
+      </div>
+      <p id="company-search-empty" class="notice" hidden>찾는 보험사가 없습니다. 보험증권에 적힌 회사명을 확인하세요.</p>
 
-      <h2>손해보험사</h2>
-      <p>실비보험, 운전자보험, 자동차보험, 배상책임, 화재보험처럼 손해보험 영역의 청구가 필요한 경우 먼저 확인할 수 있는 보험사입니다.</p>
-      <div class="company-directory">
+      <h2 id="nonlife-title">손해보험사</h2>
+      <p id="nonlife-description">아래에서 가입한 손해보험사를 확인하세요. 질병·수술·실손 청구는 본인의 계약과 해당 회사의 안내를 기준으로 준비합니다.</p>
+      <div id="nonlife-companies" class="company-directory" aria-labelledby="nonlife-title">
         <article class="company-card"><span>손해보험</span><h3>메리츠화재</h3><p><strong>대표전화</strong> 1566-7711</p><div class="button-row"><a class="button secondary" href="https://msea.meritzfire.com/mblAtcDocGuid/mblAtcDocGuid.do" target="_blank" rel="noopener">필요서류</a><a class="button secondary" href="https://www.meritzfire.com/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
         <article class="company-card"><span>손해보험</span><h3>한화손해보험</h3><p><strong>대표전화</strong> 1566-8000</p><div class="button-row"><a class="button secondary" href="https://www.hwgeneralins.com/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
         <article class="company-card"><span>손해보험</span><h3>롯데손해보험</h3><p><strong>대표전화</strong> 1588-3344</p><div class="button-row"><a class="button secondary" href="https://www.letclick.co.kr/web/C/C/B/ccb202.jsp" target="_blank" rel="noopener">청구서류</a><a class="button secondary" href="https://www.lotteins.co.kr/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
-        <article class="company-card"><span>손해보험</span><h3>흥국화재</h3><p><strong>대표전화</strong> 1688-1688</p><div class="button-row"><a class="button secondary" href="https://www.heungkukfire.co.kr/FRW/compensation/carCompInfo.do" target="_blank" rel="noopener">보상 안내</a><a class="button secondary" href="https://www.heungkukfire.co.kr/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
-        <article class="company-card"><span>손해보험</span><h3>삼성화재</h3><p><strong>대표전화</strong> 1588-5114</p><div class="button-row"><a class="button secondary" href="https://www.samsungfire.com/v2/html/customer/13/G_030_050_001.html" target="_blank" rel="noopener">고객센터</a><a class="button secondary" href="https://www.samsungfire.com/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
+        <article class="company-card"><span>손해보험</span><h3>흥국화재</h3><p><strong>대표전화</strong> 1688-1688</p><div class="button-row"><a class="button secondary" href="https://www.heungkukfire.co.kr/FRW/compensation/carCompInfo.do" target="_blank" rel="noopener">자동차 보상 안내</a><a class="button secondary" href="https://www.heungkukfire.co.kr/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
+        <article class="company-card"><span>손해보험</span><h3>삼성화재</h3><p><strong>대표전화</strong> 1588-5114</p><div class="button-row"><a class="button secondary" href="https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1" target="_blank" rel="noopener">질병·상해 청구서류</a><a class="button secondary" href="https://www.samsungfire.com/v2/html/customer/13/G_030_050_001.html" target="_blank" rel="noopener">고객센터</a><a class="button secondary" href="https://www.samsungfire.com/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
         <article class="company-card"><span>손해보험</span><h3>현대해상</h3><p><strong>대표전화</strong> 1588-5656</p><div class="button-row"><a class="button secondary" href="https://www.hi.co.kr/serviceAction.do?menuId=100631" target="_blank" rel="noopener">구비서류</a><a class="button secondary" href="https://www.hi.co.kr/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
         <article class="company-card"><span>손해보험</span><h3>KB손해보험</h3><p><strong>대표전화</strong> 1544-0114</p><div class="button-row"><a class="button secondary" href="https://www.kbinsure.co.kr/CG205010003.ec" target="_blank" rel="noopener">보험금청구</a><a class="button secondary" href="https://www.kbinsure.co.kr/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
         <article class="company-card"><span>손해보험</span><h3>DB손해보험</h3><p><strong>대표전화</strong> 1588-0100</p><p><strong>보험금청구</strong> 1566-1040</p><div class="button-row"><a class="button secondary" href="https://www.idbins.com/pc/bizxpress/ct/dc/FWCUSV1301.shtm" target="_blank" rel="noopener">필요서류</a><a class="button secondary" href="https://www.idbins.com/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
@@ -46,9 +55,9 @@
         <article class="company-card"><span>손해보험</span><h3>예별손해보험</h3><p><strong>대표전화</strong> 1588-5959</p><div class="button-row"><a class="button secondary" href="https://www.mggeneralins.com/PB031210DM.scp?menuId=MN0803006" target="_blank" rel="noopener">공시·고객안내</a></div></article>
       </div>
 
-      <h2>생명보험사</h2>
-      <p>암진단비, 뇌혈관·심장질환 진단비, 수술비, 입원일당, 사망보험금처럼 생명보험 영역의 청구가 필요한 경우 확인할 수 있는 보험사입니다.</p>
-      <div class="company-directory">
+      <h2 id="life-title">생명보험사</h2>
+      <p id="life-description">아래에서 가입한 생명보험사를 확인하세요. 진단비·수술비 등은 담보 이름만으로 접수할 회사를 정하지 말고 보험증권의 회사명을 확인합니다.</p>
+      <div id="life-companies" class="company-directory" aria-labelledby="life-title">
         <article class="company-card"><span>생명보험</span><h3>한화생명</h3><p><strong>대표전화</strong> 1588-6363</p><div class="button-row"><a class="button secondary" href="https://www.hanwhalife.com/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
         <article class="company-card"><span>생명보험</span><h3>ABL생명</h3><p><strong>대표전화</strong> 1588-6500</p><div class="button-row"><a class="button secondary" href="https://www.abllife.co.kr/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
         <article class="company-card"><span>생명보험</span><h3>삼성생명</h3><p><strong>대표전화</strong> 1588-3114</p><div class="button-row"><a class="button secondary" href="https://www.samsunglife.com/individual/mysamsunglife/insurance/internet/MDP-MYINT020110M" target="_blank" rel="noopener">보험금청구</a><a class="button secondary" href="https://www.samsunglife.com/" target="_blank" rel="noopener">공식 홈페이지</a></div></article>
@@ -82,6 +91,8 @@
       <h2>함께 보면 좋은 글</h2>
       <div class="article-actions">
         <a href="/claims/medical-expense-claim-documents.html">실비보험 청구서류</a>
+        <a href="/claims/surgery-claim-documents">수술비 청구서류</a>
+        <a href="/claims/insurance-claim-payment-delay">청구 후 추가서류·처리 확인</a>
         <a href="/claims/driver-injury-14.html">자동차부상치료비 청구</a>
         <a href="/claims/">보험금 청구 가이드</a>
       </div>
