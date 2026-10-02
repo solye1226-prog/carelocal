@@ -31,3 +31,14 @@
 - Search behavior should cover partial matches across both insurer groups, whitespace, letter case, no matches and clearing the input.
 - No indexing request, paid campaign or change to AdSense settings is part of this work.
 - Internal navigation changes do not prove improved search CTR or revenue.
+
+## Completed Verification
+
+- Local links: 166 HTML files, all resolved. Catalog: 139 articles, consistent.
+- node --check assets/company-directory.js and git diff --check passed.
+- Public directory returned HTTP 200 with the search input and new document link.
+- Deployed browser: partial Samsung query returned Samsung Fire and Samsung Life (2); spaced Samsung Fire returned 1; mixed-case aXa returned 1.
+- Nonexistent query returned 0 with the empty message and both group headings hidden.
+- Clearing the input restored all 39 companies and both groups.
+- Search input displayed at 390x844 and 1440x900. Mobile and desktop screenshots saved locally.
+- Existing auto ads remain visible; no claim is made that search results are free from advertising interruptions.
