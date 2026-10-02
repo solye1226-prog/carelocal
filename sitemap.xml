@@ -3,74 +3,74 @@
   <url><loc>https://hospital.hbuby.com/</loc><priority>1.0</priority></url>
   <url><loc>https://hospital.hbuby.com/hospitals/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/hospitals/seoul/</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/hospitals/seoul/sunday.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/hospitals/seoul/psychiatry-sunday.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/hospitals/seoul/sunday</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/hospitals/seoul/psychiatry-sunday</loc><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/cancers/</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/prostate-cancer.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/lung-cancer.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/breast-cancer.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/colorectal-cancer.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/stomach-cancer.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/liver-cancer.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/pancreatic-cancer.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/thyroid-cancer.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/cervical-cancer.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/ovarian-cancer.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/kidney-cancer.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/cancers/bladder-cancer.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/prostate-cancer</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/lung-cancer</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/breast-cancer</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/colorectal-cancer</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/stomach-cancer</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/liver-cancer</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/pancreatic-cancer</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/thyroid-cancer</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/cervical-cancer</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/ovarian-cancer</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/kidney-cancer</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/cancers/bladder-cancer</loc><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/checkups/national-health-checkup.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/checkups/cancer-screening.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/national-health-checkup</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/cancer-screening</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/endoscopy</loc><lastmod>2026-10-02</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/checkups/abnormal-results.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/abnormal-results</loc><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-method</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-process</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-documents</loc><lastmod>2026-10-01</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-period</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-limitation</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/medical-expense-claim-documents.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/hospitalization-claim-documents.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/medical-expense-claim-documents</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/hospitalization-claim-documents</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/surgery-claim-documents</loc><lastmod>2026-10-02</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/cancer-diagnosis-benefit-documents</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/driver-injury-14.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/family-liability-water-leak-deductible.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/driver-injury-14</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/family-liability-water-leak-deductible</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/page/2/</loc><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/page/3/</loc><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/insurance-companies/</loc><lastmod>2026-10-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/generation-comparison.html</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/current-silbi.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/generation-comparison</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/current-silbi</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/caregiver/</loc><lastmod>2026-10-02</lastmod><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/caregiver/caregiver-insurance-renewal-period.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/caregiver/caregiver-insurance-renewal-period</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/diagnosis-benefit/</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-living-cost.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-living-cost</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/surgery-classification</loc><lastmod>2026-10-02</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification</loc><lastmod>2026-10-02</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/standards/</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/standards/actual-vs-fixed-benefit.html</loc><lastmod>2026-10-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/standards/actual-vs-fixed-benefit</loc><lastmod>2026-10-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/cases/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/underwriting/</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain.html</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance</loc><lastmod>2026-09-22</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost</loc><lastmod>2026-09-22</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/guides/</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/guides/heavy-ion-therapy.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/guides/proton-therapy.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/heavy-ion-therapy</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/proton-therapy</loc><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/guides/robotic-surgery</loc><lastmod>2026-09-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/guides/targeted-immunotherapy.html</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/targeted-immunotherapy</loc><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/guides/alzheimer-injection-therapy</loc><lastmod>2026-09-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/guides/cancer-treatment-cost.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/guides/caregiver-application.html</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/guides/sunday-hospital-checklist.html</loc><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/guides/night-hospital-checklist.html</loc><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/guides/psychiatry-first-visit.html</loc><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/legal/about.html</loc><lastmod>2026-10-01</lastmod><priority>0.4</priority></url>
-  <url><loc>https://hospital.hbuby.com/legal/contact.html</loc><lastmod>2026-10-01</lastmod><priority>0.4</priority></url>
-  <url><loc>https://hospital.hbuby.com/legal/privacy.html</loc><priority>0.4</priority></url>
-  <url><loc>https://hospital.hbuby.com/legal/disclaimer.html</loc><priority>0.4</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/cancer-treatment-cost</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/caregiver-application</loc><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/sunday-hospital-checklist</loc><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/night-hospital-checklist</loc><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/guides/psychiatry-first-visit</loc><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/legal/about</loc><lastmod>2026-10-01</lastmod><priority>0.4</priority></url>
+  <url><loc>https://hospital.hbuby.com/legal/contact</loc><lastmod>2026-10-01</lastmod><priority>0.4</priority></url>
+  <url><loc>https://hospital.hbuby.com/legal/privacy</loc><priority>0.4</priority></url>
+  <url><loc>https://hospital.hbuby.com/legal/disclaimer</loc><priority>0.4</priority></url>
   <url>
     <loc>https://hospital.hbuby.com/claims/insurance-claim-payout-period</loc>
     <priority>0.9</priority>
