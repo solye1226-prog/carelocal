@@ -34,7 +34,13 @@ were compared with the previous Git revision and preserved.
 
 ## Public Verification
 
-Pending deployment and mobile/desktop browser checks.
+- Content commit 9c3d451 was pushed and all ten public pages showed the new navigation.
+- All ten pages checked at 390x1000 and 360x800 viewports; document widths matched client widths with no horizontal page overflow.
+- At 360px, all forty primary buttons were 317px wide and 44.75px high, inside the content area.
+- Desktop 1280x900 check of surgery-claim-documents showed the consolidated actions without overflow.
+- Ten mobile screenshots saved locally as docs/navigation-10-0-mobile-2026-10-04.jpg through docs/navigation-10-9-mobile-2026-10-04.jpg.
+- An actual checklist-link click triggered an AdSense vignette. The destination fragment exists, but the overlay interrupted the live navigation test; no uninterrupted click-through claim is made.
+- Temporary review tab closed and viewport override reset. AdSense settings were not changed.
 
 ## Measurement Boundary
 
