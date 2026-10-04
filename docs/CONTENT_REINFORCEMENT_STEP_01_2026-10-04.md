@@ -33,7 +33,14 @@ The new inquiry steps are editorial checklists, not insurer-mandated forms.
 
 ## Verification
 
-Pending local checks and deployment verification.
+- Content commit 693701e pushed; public page showed the updated lead, description and new comparison steps.
+- All local links pass (166 HTML files); canonicals pass (164 sitemap URLs); catalog check passes (139 entries).
+- Structured-data description matches the search meta description.
+- Public 390x1000, 360x800 and 1280x900 viewport checks showed no horizontal document overflow.
+- Mobile proof saved at docs/material-content-step01-mobile-2026-10-04.jpg.
+- Temporary tab closed and viewport reset. Ads were present; no ad interactions or setting changes made.
+- Same-day modification date and sitemap lastmod already 2026-10-04; no artificial date churn.
+- Search-result snippet adoption, CTR and revenue effects remain unmeasured.
 
 ## Remaining Queue
 
