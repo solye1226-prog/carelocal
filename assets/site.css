@@ -2940,6 +2940,17 @@ summary {
 }
 
 @media (max-width: 520px) {
+  .intent-section {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .intent-copy,
+  .intent-grid,
+  .intent-card {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
   .site-header {
     position: static;
   }
