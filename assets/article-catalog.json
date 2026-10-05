@@ -205,6 +205,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/claim-photo-upload-error",
+    "title": "실비보험 청구 사진 업로드가 안 될 때, 첨부 오류와 접수 확인 방법",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/covered-vs-noncovered-medical-costs",
     "title": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
     "category": "실비보험"
