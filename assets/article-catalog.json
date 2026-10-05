@@ -250,6 +250,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/medical-certificate-fee-insurance",
+    "title": "진단서 발급비 실비 청구될까? 발급 전 대체서류 확인 방법",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/mri-silbi-claim",
     "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
     "category": "실비보험"
