@@ -38,3 +38,15 @@ Final assets: assets/images/medical-certificate-fee-{thumb,counter,call}.webp
 - AdSense settings unchanged; existing auto ads were visible, including the anchor overlay.
 - Temporary browser tab closed and viewport reset. No Search Console indexing request submitted.
 - Publication is verified; indexing, ranking and revenue effects remain unverified.
+
+## Mobile Layout Follow-Up
+
+- User reported poor mobile composition. Page-scoped layout updated in commit 5935ad8.
+- Split the visible heading into title/subtitle, reduced lead length and top spacing,
+  and used four shorter section links in a two-column mobile grid.
+- Official directory CTA remains near the top, now below the representative image.
+- Public 390px, 360px and 1280px checks passed without document overflow.
+- At 360px each question button is 154.5px wide and 44px high.
+- Representative image begins at about 603px in the 390x1000 view and 640px in the 360x800 view.
+- Proof: docs/certificate-fee-mobile-layout-fixed-2026-10-05.jpg.
+- Existing automatic ads remain outside this layout change; no ad settings changed.
