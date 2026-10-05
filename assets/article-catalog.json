@@ -275,6 +275,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/silson24-transfer-failure",
+    "title": "실손24 서류 전송이 실패했을 때, 재전송과 보험사 접수 확인 방법",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/thyroid-nodule-rfa-silbi-claim",
     "title": "갑상선 결절 고주파 실비 청구, 시술비·전극 재료비와 서류 확인",
     "category": "실비보험"
