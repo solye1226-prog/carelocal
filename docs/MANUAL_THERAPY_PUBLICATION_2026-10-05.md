@@ -38,7 +38,13 @@ built-in image_gen 사용. 썸네일 최초 결과의 3세대 이후 묶음과 �
 
 ## 공개 확인
 
-배포 후 공개 페이지 결과를 추가합니다. 색인 요청·광고 설정 변경은 이번 범위에 포함하지 않습니다.
+- 콘텐츠 커밋 81a3236을 main에 push한 뒤 공개 URL의 제목·canonical·본문 반영 확인.
+- 공개 390x1000 / 360x800 / 1280x900 화면에서 문서 가로 넘침 없음.
+- 세대별 질문 링크 이동, 표 키보드 가로 스크롤 및 헤더 표시, 이미지 3장 로딩, 두 번째 FAQ 펼침을 실제 검증.
+- /silbi/ 목록과 /silbi/generation-comparison의 새 글 유입 링크 공개 반영 확인.
+- 증거: docs/manual-therapy-public-mobile-2026-10-05.png, docs/manual-therapy-public-360-2026-10-05.png.
+- 질문 링크 클릭 때 기존 전면 광고가 표시돼 광고 닫기 버튼으로 닫고 검증을 계속함. 광고 내용은 클릭하지 않았음.
+- 색인 요청·광고 설정 변경은 하지 않았음.
 
 ## 이미지 프롬프트
 
@@ -49,4 +55,3 @@ built-in image_gen 사용. 썸네일 최초 결과의 3세대 이후 묶음과 �
 3. Use case: photorealistic-natural. Wide 16:9 Korean home office scene. Adult preparing an insurer inquiry, smartphone held beside neatly arranged generic hospital receipt sheets and notebook, calendar with blank squares. Different angle from overhead: side view with warm daylight, blue folder and restrained yellow accent. No readable screen or document text, no personal information, no diagnosis, no amounts, no logos, no watermark. Illustrates asking what additional medical records are necessary before paid document issuance.
 
 썸네일 편집: Edit the supplied insurance thumbnail. Preserve the large correct text '도수치료 실비 청구' and '세대별 확인 기준', navy/blue/yellow colors, adult comparing generic papers, and wide layout. Remove all three small portrait badges and their labels '1세대', '2세대', '3세대 이후'. Remove the handwritten sales-like text on the right and text on the framed wall artwork, leaving clean neutral decor. Remove bottom checklist words. Use the freed lower-left area as quiet navy negative space. No new text, no labels, no numeric amounts. Do not change anatomy or headline text.
-
