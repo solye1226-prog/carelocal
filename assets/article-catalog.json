@@ -285,6 +285,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/sleep-study-cost-insurance",
+    "title": "수면다원검사 비용과 실비 청구 전 확인할 사항",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/thyroid-nodule-rfa-silbi-claim",
     "title": "갑상선 결절 고주파 실비 청구, 시술비·전극 재료비와 서류 확인",
     "category": "실비보험"
