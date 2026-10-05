@@ -39,7 +39,7 @@
   <url><loc>https://hospital.hbuby.com/claims/page/3/</loc><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/insurance-companies/</loc><lastmod>2026-10-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/</loc><lastmod>2026-10-05</lastmod><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/generation-comparison</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/generation-comparison</loc><lastmod>2026-10-05</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/current-silbi</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/caregiver/</loc><lastmod>2026-10-02</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/caregiver/caregiver-insurance-renewal-period</loc><priority>0.9</priority></url>
@@ -186,4 +186,5 @@
   <url><loc>https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/claim-photo-upload-error</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/silson24-transfer-failure</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim</loc><lastmod>2026-10-05</lastmod></url>
 </urlset>
