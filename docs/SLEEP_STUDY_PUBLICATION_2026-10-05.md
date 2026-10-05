@@ -49,4 +49,11 @@
 
 ## 배포와 공개 검증
 
-콘텐츠 배포와 공개 페이지 확인 후 이 항목을 갱신합니다.
+- 콘텐츠 커밋 `004dc45`, origin/main push 완료. Cloudflare 공개 반영 확인.
+- 공개 페이지의 제목, self-canonical, noindex 없음 확인.
+- 공개 화면 390×1000, 360×800, 1280×900의 문서 폭 375/345/1265로 viewport 초과 없음.
+- 공개 이미지 3장 로드, FAQ 펼침, 표 헤더 3개 및 좌우 스크롤 40 확인.
+- 공개 실비 허브와 급여·비급여 기존 글에서 새 글 유입 링크 확인.
+- 화면 증거: `docs/sleep-study-public-mobile-2026-10-05.png`, `docs/sleep-study-public-360-2026-10-05.png`.
+- 기존 자동 광고가 일부 화면 하단에 표시됨. 광고 설정은 변경하지 않음.
+- 로컬 sitemap·canonical·카탈로그 검증 통과. 공개 robots.txt·sitemap.xml 접근은 브라우저 ERR_BLOCKED_BY_CLIENT, Python HTTP 403으로 직접 확인하지 못함. 실제 색인·검색 유입은 확인하지 않았으며 별도 색인 요청 없음.
