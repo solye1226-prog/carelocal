@@ -28,4 +28,13 @@ Final assets: assets/images/medical-certificate-fee-{thumb,counter,call}.webp
 
 ## Verification
 
-Pending local tests and public deployment verification.
+- Content commit 44634f9 pushed; public page verified with title, lead, four section links and official sources.
+- 167 HTML files: all local links resolve. 165 sitemap URLs: clean self-canonicals. Catalog: 140 articles.
+- Public mobile checks at 390x1000 and 360x800, desktop at 1280x900: no horizontal document overflow.
+- Four primary section targets exist; mobile buttons are 44.75px high.
+- All three images loaded at 1672x941 after scrolling, confirmed through rendered DOM.
+- Public incoming links verified on /silbi/, /claims/medical-expense-claim-documents and /claims/surgery-claim-documents.
+- Mobile proof: docs/certificate-fee-public-mobile-2026-10-05.jpg.
+- AdSense settings unchanged; existing auto ads were visible, including the anchor overlay.
+- Temporary browser tab closed and viewport reset. No Search Console indexing request submitted.
+- Publication is verified; indexing, ranking and revenue effects remain unverified.
