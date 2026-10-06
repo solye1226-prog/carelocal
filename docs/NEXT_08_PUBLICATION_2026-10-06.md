@@ -22,4 +22,8 @@
   - Use case: illustration-story. Landscape 16:9 Korean editorial realistic illustration, contrasting composition: older adult and family member checking an abstract payment notice with a public insurance clerk, welcoming office. No text or logos or numbers or recognizable personal records. Bright daylight, blue and cream palette, realistic hands.
 
 ## 공개 검증
-배포 뒤 기록 추가 예정. 색인 요청과 발행은 별도 상태.
+- main 커밋·push 후 공개 제목·canonical·본문 반영 확인.
+- 360×800, 390×1000, 1280×900 실제 공개 화면 확인. 본문 가로 넘침 없음. 대표 증거 docs/next-08-public-390-2026-10-06.png.
+- 스크롤 후 이미지3 정상 로드(1672×941). 표 ArrowRight 가로 스크롤과 FAQ Enter 열림은 로컬 실제 브라우저 PASS.
+- 대표 모바일 화면에서 하단 자동 앵커 광고 표시 확인. 본문 자체 가로 넘침 없음. 전면광고는 관찰되지 않음. 광고 설정은 변경하지 않음.
+- 오늘 Search Console 요청 할당량은 이전 작업에서 소진. sitemap 포함, 색인 완료는 미확인.
