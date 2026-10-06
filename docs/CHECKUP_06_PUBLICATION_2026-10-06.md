@@ -26,4 +26,7 @@
   - 프롬프트: Use case: photorealistic-natural. Wide 16:9. Navy vivid blue white and yellow accents. No prices diagnoses patient information brand logos or watermark. Korean adult consulting hospital reception staff about screening appointment, bright reception area, generic folder. Monitor and papers abstract pale grey bars only with no text numbers or data. Respectful clear scene, no procedures.
 
 ## 공개 검증
-배포 후 갱신합니다.
+- 콘텐츠 커밋 0c09c2a, main push 및 공개 페이지 실제 반영 확인.
+- 공개 390/360/1280 화면 확인. 가로 넘침 없음. 이미지 3장 로딩·표 스크롤·FAQ 펼침 확인.
+- 공개 제목·본문·self-canonical 확인. 화면 증거: docs/checkup-06-public-390-2026-10-06.png.
+- 실제 검색 색인·검색 유입은 미확인. 기존 자동 광고가 표시될 수 있으며 광고 설정은 변경하지 않음.
