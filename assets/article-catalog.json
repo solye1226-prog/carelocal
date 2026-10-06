@@ -510,6 +510,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/noncovered-cost-price-comparison",
+    "title": "비급여 진료비 조회, 병원별 가격 비교 시 확인할 항목",
+    "category": "치료비"
+  },
+  {
     "path": "/standards/actual-vs-fixed-benefit",
     "title": "실손보상과 정액보상 차이, 실비보험·진단비는 어떻게 다를까?",
     "category": "약관·기준"
