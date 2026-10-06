@@ -675,6 +675,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/health-checkup-40s",
+    "title": "40대 건강검진, 일반검진과 암검진 대상 확인 방법",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/national-health-checkup",
     "title": "국가건강검진 연령별 항목 가이드 | 케어로컬",
     "category": "건강검진"
