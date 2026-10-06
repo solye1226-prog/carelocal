@@ -783,5 +783,10 @@
     "path": "/guides/targeted-immunotherapy",
     "title": "표적·면역항암치료 확인 가이드 | 케어로컬",
     "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/tertiary-hospital-referral-checkup",
+    "title": "상급종합병원 진료의뢰서, 검진결과서로 대신할 수 있을까?",
+    "category": "방문 가이드"
   }
 ]
