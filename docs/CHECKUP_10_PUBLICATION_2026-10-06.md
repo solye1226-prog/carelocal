@@ -26,4 +26,7 @@
   - 프롬프트: Use case: photorealistic-natural. Wide 16:9. Navy vivid blue white and yellow accents. No prices diagnoses patient information brand logos or watermark. Korean adult organizing generic receipt and detailed expense sheet while consulting insurance official support on phone at home. Papers and phone only abstract grey bars and blank icons, no readable words numbers real app or personal data. Calm realistic scene.
 
 ## 공개 검증
-배포 후 갱신합니다.
+- 콘텐츠 커밋 038cf11, main push 및 공개 페이지 실제 반영 확인.
+- 공개 390/360/1280 화면 확인. 가로 넘침 없음. 이미지 3장 로딩·표 스크롤·FAQ 펼침 확인.
+- 공개 제목·본문·self-canonical 확인. 화면 증거: docs/checkup-10-public-390-2026-10-06.png.
+- 실제 검색 색인·검색 유입은 미확인. 기존 자동 광고가 표시될 수 있으며 광고 설정은 변경하지 않음.
