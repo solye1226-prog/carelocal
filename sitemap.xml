@@ -18,8 +18,8 @@
   <url><loc>https://hospital.hbuby.com/cancers/ovarian-cancer</loc><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/cancers/kidney-cancer</loc><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/cancers/bladder-cancer</loc><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/checkups/</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/checkups/national-health-checkup</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/</loc><lastmod>2026-10-06</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/national-health-checkup</loc><lastmod>2026-10-06</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/cancer-screening</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/endoscopy</loc><lastmod>2026-10-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/abnormal-results</loc><priority>0.8</priority></url>
@@ -188,4 +188,5 @@
   <url><loc>https://hospital.hbuby.com/silbi/silson24-transfer-failure</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/sleep-study-cost-insurance</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-20s</loc><lastmod>2026-10-06</lastmod></url>
 </urlset>

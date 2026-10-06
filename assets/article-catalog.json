@@ -665,6 +665,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/health-checkup-20s",
+    "title": "20대 건강검진, 처음 예약할 때 확인할 항목과 비용",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/national-health-checkup",
     "title": "국가건강검진 연령별 항목 가이드 | 케어로컬",
     "category": "건강검진"
