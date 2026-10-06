@@ -22,4 +22,8 @@
   - Use case: illustration-story. Landscape 16:9 Korean editorial realistic illustration, contrasting composition: adult organizing generic receipts and insurance payment notice before talking to public insurance branch clerk. No text or logos or numbers or recognizable personal records. Bright daylight, blue and cream palette, realistic hands.
 
 ## 공개 검증
-배포 뒤 기록 추가 예정. 색인 요청과 발행은 별도 상태.
+- main 커밋·push 후 공개 제목·canonical·본문 반영 확인.
+- 360×800, 390×1000, 1280×900 실제 공개 화면 확인. 본문 가로 넘침 없음. 대표 증거 docs/next-09-public-390-2026-10-06.png.
+- 스크롤 후 이미지3 정상 로드(1672×941). 표 ArrowRight 가로 스크롤과 FAQ Enter 열림은 로컬 실제 브라우저 PASS.
+- 확인 화면에서 본문을 가리는 전면광고 없음. 자동 광고는 이후 상황에 따라 달라질 수 있음.
+- 오늘 Search Console 요청 할당량은 이전 작업에서 소진. sitemap 포함, 색인 완료는 미확인.

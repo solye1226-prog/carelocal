@@ -500,6 +500,11 @@
     "category": "수술비"
   },
   {
+    "path": "/treatment-costs/cancer-special-copayment-registration",
+    "title": "암 산정특례 등록, 신청 시점과 적용되는 병원비",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/cartistem-stem-cell-knee-cost",
     "title": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
     "category": "치료비"
