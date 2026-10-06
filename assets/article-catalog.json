@@ -690,6 +690,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/health-checkup-confirmatory-test",
+    "title": "건강검진 질환의심 판정 후 확진검사, 대상·기한·비용 확인",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/health-checkup-fasting-medication",
     "title": "건강검진 금식과 복용약, 예약 병원에 확인할 사항",
     "category": "건강검진"
