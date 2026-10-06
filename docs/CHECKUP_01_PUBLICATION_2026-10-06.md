@@ -29,4 +29,7 @@
   - 프롬프트: Use case: photorealistic-natural. Wide 16:9 respectful Korean clinic reception consultation, young adult asking staff about included screening items while pointing at a generic blank estimate. Camera side view, no procedure, warm natural light, navy folder yellow pen. All papers and monitors must contain abstract pale grey bars only, no readable text digits diagnosis personal data logos or watermark.
 
 ## 공개 검증
-배포 후 갱신합니다.
+- 콘텐츠 커밋 53b8ea4, main push 및 공개 반영 확인.
+- 공개 390/360/1280 화면과 문서 폭 375/345/1265 확인. 이미지 3장, 표 스크롤 40, FAQ 펼침 PASS.
+- 공개 제목·본문·self-canonical 확인. 화면 증거: docs/checkup-01-public-390-2026-10-06.png.
+- 실제 색인·검색 성과는 미확인. 광고 설정·색인 요청 없음.
