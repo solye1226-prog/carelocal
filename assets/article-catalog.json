@@ -680,6 +680,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/health-checkup-50s",
+    "title": "50대 건강검진, 성별·정확한 나이에 따라 달라지는 항목 확인",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/national-health-checkup",
     "title": "국가건강검진 연령별 항목 가이드 | 케어로컬",
     "category": "건강검진"
