@@ -205,6 +205,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/checkup-followup-test-insurance",
+    "title": "건강검진 후 재검사·정밀검사 비용, 실비 청구 전 확인할 사항",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/claim-photo-upload-error",
     "title": "실비보험 청구 사진 업로드가 안 될 때, 첨부 오류와 접수 확인 방법",
     "category": "실비보험"
