@@ -515,6 +515,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/noncovered-cost-review-request",
+    "title": "비급여 병원비가 잘못 청구됐다면? 심평원 진료비 확인 신청",
+    "category": "치료비"
+  },
+  {
     "path": "/standards/actual-vs-fixed-benefit",
     "title": "실손보상과 정액보상 차이, 실비보험·진단비는 어떻게 다를까?",
     "category": "약관·기준"
