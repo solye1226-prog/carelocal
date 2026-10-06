@@ -65,6 +65,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/hospital-receipt-reissue",
+    "title": "병원 영수증 분실 시 재발급, 진료비 세부내역서 요청 방법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/hospitalization-claim-documents",
     "title": "입원비 보험금 청구서류, 입퇴원확인서만 있으면 될까요?",
     "category": "보험금 청구"
