@@ -23,4 +23,8 @@
   - Use case: illustration-story. Landscape 16:9 editorial illustration, different close-up tabletop scene at home. Adult checking smartphone next to closed wallet and folded generic payment receipt before hospital visit, no readable screen or text or numbers. Bright daylight, blue and cream palette, realistic hands, no logos.
 
 ## 공개 검증
-배포 뒤 기록 추가 예정. 색인 요청과 발행은 별도 상태.
+- 발행 커밋 9bbfc17, 표 접근성 보완 ad6d5d2, main push 완료.
+- 공개 제목·canonical·이미지3 로드·360/390/1280 화면 확인. 390 증거 next-01-public-390-2026-10-06.png.
+- 표 가로 스크롤과 FAQ Enter 동작은 로컬 실제 브라우저에서 PASS. 공개 FAQ/표 클릭 시 자동 광고가 개입하여 클릭 통과로 기록하지 않음.
+- 공개 360 화면에서 자동 광고로 문서 폭이 375로 늘어나는 경우와 하단 앵커광고·전면광고 관찰. 본문은 모바일 너비에 맞으며 광고 설정은 변경하지 않음.
+- 오늘 Search Console 요청 할당량은 이전 작업에서 소진. 이번 글은 sitemap 포함, 색인 완료는 미확인.

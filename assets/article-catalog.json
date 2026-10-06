@@ -145,6 +145,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/medical-records-proxy-documents",
+    "title": "진료기록 사본 대리발급, 가족과 대리인의 준비서류",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/multiple-polyps-surgery-benefit",
     "title": "대장 용종 여러 개 제거하면 수술비도 여러 번 받을까?",
     "category": "보험금 청구"
