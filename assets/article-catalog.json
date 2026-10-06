@@ -520,6 +520,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/out-of-pocket-cap-refund",
+    "title": "본인부담상한제 환급, 대상 조회와 신청 방법",
+    "category": "치료비"
+  },
+  {
     "path": "/standards/actual-vs-fixed-benefit",
     "title": "실손보상과 정액보상 차이, 실비보험·진단비는 어떻게 다를까?",
     "category": "약관·기준"
