@@ -250,6 +250,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/emergency-room-cost-claim",
+    "title": "응급실 비용 실비 청구, 응급의료관리료부터 확인하세요",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/flu-test-cost-claim",
     "title": "독감 검사비 실비 청구, 예방접종 비용과 어떻게 다를까?",
     "category": "실비보험"
