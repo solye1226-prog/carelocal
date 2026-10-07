@@ -240,6 +240,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/flu-test-cost-claim",
+    "title": "독감 검사비 실비 청구, 예방접종 비용과 어떻게 다를까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/generation-comparison",
     "title": "실비보험 1~5세대 차이, 내 가입 시기와 보장 구조 확인법",
     "category": "실비보험"
