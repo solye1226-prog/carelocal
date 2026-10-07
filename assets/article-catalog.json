@@ -760,6 +760,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/cervical-screening-ascus-followup",
+    "title": "자궁경부암검진 비정형세포 ASC-US 판정, HPV 검사와 재검사 순서",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/chest-xray-abnormal-followup",
     "title": "흉부 엑스레이 이상 소견, 폐결절과 추가 CT 검사 구분",
     "category": "건강검진"
@@ -770,8 +775,23 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/fatty-liver-ultrasound-followup",
+    "title": "복부초음파 지방간 소견, 간수치 정상이어도 추가 검사가 필요할까?",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/fecal-occult-blood-positive",
     "title": "분변잠혈검사 양성, 대장내시경 예약과 비용 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/gallbladder-polyp-ultrasound-followup",
+    "title": "복부초음파 담낭용종 발견, 크기별 추적검사와 진료과 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/gastric-intestinal-metaplasia-followup",
+    "title": "위내시경 장상피화생 진단, 조직검사 결과와 추적내시경 확인",
     "category": "건강검진"
   },
   {
@@ -835,6 +855,16 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/health-checkup-low-egfr",
+    "title": "건강검진 신장기능 eGFR 낮게 나왔을 때, 크레아티닌 재검사와 진료과 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-low-hemoglobin",
+    "title": "건강검진 혈색소 낮음, 빈혈 재검사 항목과 내과 방문 기준",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/health-checkup-proteinuria",
     "title": "건강검진 단백뇨가 나왔을 때, 재검사와 진료과 확인",
     "category": "건강검진"
@@ -850,6 +880,16 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/high-psa-followup",
+    "title": "건강검진 전립선 PSA 수치 높음, 재검사와 비뇨의학과 방문 기준",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/kidney-cyst-ultrasound-followup",
+    "title": "복부초음파 신장낭종 발견, 단순 낭종과 추가 CT 검사 구분",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/mammography-abnormal-followup",
     "title": "유방촬영 이상 소견, 추가 촬영과 유방초음파 비용 확인",
     "category": "건강검진"
@@ -862,6 +902,16 @@
   {
     "path": "/checkups/national-health-checkup",
     "title": "국가건강검진 연령별 항목 가이드 | 케어로컬",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/osteopenia-bone-density-followup",
+    "title": "건강검진 골밀도 골감소증 판정, T점수 확인과 재검사 비용",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/thyroid-tsh-abnormal-followup",
+    "title": "갑상선기능검사 TSH 이상, 재검사 항목과 내분비내과 방문 기준",
     "category": "건강검진"
   },
   {

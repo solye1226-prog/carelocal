@@ -231,4 +231,14 @@
   <url><loc>https://hospital.hbuby.com/checkups/mammography-abnormal-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-result-reissue</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-low-egfr</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-low-hemoglobin</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/fatty-liver-ultrasound-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/gallbladder-polyp-ultrasound-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/osteopenia-bone-density-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/gastric-intestinal-metaplasia-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/high-psa-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/thyroid-tsh-abnormal-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/kidney-cyst-ultrasound-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
 </urlset>
