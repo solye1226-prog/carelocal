@@ -505,6 +505,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/gallbladder-ercp-combined-claim",
+    "title": "담낭절제술과 ERCP를 모두 받았다면 수술비는 각각 청구할까?",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/gallbladder-surgery-benefit",
     "title": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
     "category": "수술비"
