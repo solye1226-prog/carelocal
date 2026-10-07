@@ -440,6 +440,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+    "title": "당뇨망막병증 유리체절제술 수술비, 주사·레이저와 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/disease-vs-type-surgery-benefit",
     "title": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
     "category": "수술비"
