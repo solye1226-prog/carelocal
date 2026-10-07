@@ -300,6 +300,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/pharmacy-prescription-claim",
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/septoplasty-with-rhinoplasty-silbi",
     "title": "비중격만곡증 수술 실비, 코성형을 함께 받았다면?",
     "category": "실비보험"
