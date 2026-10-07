@@ -190,6 +190,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/surgery-certificate-missing-diagnosis",
+    "title": "수술확인서에 진단명이 없다면? 수술비 청구 전 확인 순서",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/surgery-claim-documents",
     "title": "수술비 청구서류, 수술확인서·진단서·수술기록지 중 무엇이 필요할까?",
     "category": "보험금 청구"
