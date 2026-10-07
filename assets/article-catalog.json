@@ -545,6 +545,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/tonsillectomy-surgery-benefit",
+    "title": "편도절제술 수술비 몇 종? 편도만 절제한 경우 확인법",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/type-surgery-benefit-claim",
     "title": "종수술비 보험금 청구, 수술확인서와 수술분류표 대조 방법",
     "category": "수술비"
