@@ -50,4 +50,12 @@
 - 중복 확인: 백내장 청구서류에 집중한 글이며 종수 판단 글과 분리한다.
 - 변경: 실손은 영수증·세부내역서, 수술비 특약은 진단명·수술명·수술일 자료라는 구분을 첫 화면에 배치했다. Article 수정일과 사이트맵 수정일을 갱신했다.
 - 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/cataract-docs-local-360.png`, `.deploy/cataract-docs-local-390.png`.
+- 발행 커밋: `366e1f4`. 공개 URL HTTP 200, 새 H1·도입 반영 확인. 공개 360px·390px 첫 화면에서 본문 가로 넘침 없음.
+
+## 7. 보험 수술분류표와 수술코드
+
+- 대상: `/surgery-benefit/surgery-code-insurance-guide`
+- 중복 확인: 대표 분류표 글과 달리 진단코드·진료행위코드·보험 분류표의 역할 차이를 다룬다.
+- 변경: 코드만으로 종수를 정할 수 없다는 답과 서류별 역할을 첫 화면에 배치했다. Article 수정일과 사이트맵 수정일을 갱신했다.
+- 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/surgery-code-local-360.png`, `.deploy/surgery-code-local-390.png`.
 - 발행 커밋·공개 확인: 진행 후 기록.
