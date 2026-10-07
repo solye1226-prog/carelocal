@@ -9,4 +9,13 @@
 - 변경: 병명만 보고 종수를 고르지 않는 가상 담낭절제술 예시를 자료 확인 표 바로 뒤에 추가했다. 모바일 H1을 짧게 하고 줄바꿈을 조정했다. 기존 SEO 제목·canonical과 관련 글은 유지했다.
 - 근거: 가입 당시 약관의 분류표가 계약 기준이며, [삼성화재 수술 청구서류 안내](https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1)는 진단명·수술명·수술일자를 포함한 서류를 안내한다. 한 회사의 서류 안내를 종수 공통 기준으로 일반화하지 않았다.
 - 검사: `pnpm run check` 통과. 로컬 360×800, 390×1000, 1280×900에서 본문 가로 넘침 없음. `.deploy/classification-update-360-v2.png` 첫 화면 확인.
+- 발행 커밋: `8fbd0ad`. 공개 URL HTTP 200, 가상 예시와 새 H1 반영 확인. 공개 360px·390px 첫 화면에서 본문 가로 넘침 없음. `.deploy/classification-public-360.png`, `.deploy/classification-public-390.png`.
+
+## 2. 보험금 청구서류
+
+- 대상: `/claims/insurance-claim-documents`
+- 중복 확인: 실비·진단비·수술비·입원비 서류를 한 페이지에서 분기하는 대표 글이며 세부 청구서류 글로 연결한다.
+- 변경: SEO 제목과 H1을 검색 질문에 맞게 명확히 하고 도입을 짧게 정리했다. OG 제목·이미지 주소, Article 수정일, 모바일 H1 줄바꿈을 맞췄다. 기존 서류 비교표와 상세 근거는 유지했다.
+- 공식 확인: [삼성화재 청구서류 안내](https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1)는 수술·실손·입원·진단 청구에 서로 다른 서류를 제시하며 상품에 따른 추가 요청 가능성을 명시한다. 이 회사의 항목을 모든 보험사 필수 목록으로 단정하지 않는다.
+- 로컬 모바일: 360×800·390×1000에서 제목·도입·첫 비교표 진입을 확인했고 본문 가로 넘침 없음. `.deploy/claim-documents-update-360.png`, `.deploy/claim-documents-update-390.png`.
 - 발행 커밋·공개 확인: 진행 후 기록.
