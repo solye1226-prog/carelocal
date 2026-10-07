@@ -470,6 +470,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/glaucoma-surgery-benefit",
+    "title": "녹내장 섬유주절제술 수술비, 레이저와 다른 점",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
     "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
     "category": "수술비"
