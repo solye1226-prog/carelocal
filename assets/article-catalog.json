@@ -230,6 +230,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/ct-scan-cost-claim",
+    "title": "CT 검사비 실비 청구, 조영제 비용과 필요서류 확인",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/current-silbi",
     "title": "5세대 실손보험 구조, 급여·중증·비중증 비급여 차이",
     "category": "실비보험"
