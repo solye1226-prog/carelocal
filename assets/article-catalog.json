@@ -540,6 +540,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/dental-implant-health-insurance",
+    "title": "임플란트 건강보험 적용, 나이·등록 절차·추가 비용 확인",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/leqembi-cost-insurance",
     "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
     "category": "치료비"
