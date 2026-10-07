@@ -200,6 +200,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/surgery-record-additional-request",
+    "title": "보험사가 수술기록지를 추가 요청했다면? 발급 범위 확인법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/traffic-accident-outpatient-silbi-claim",
     "title": "교통사고 통원치료 실비 청구, 자동차보험 처리 내역부터 확인하세요",
     "category": "보험금 청구"
