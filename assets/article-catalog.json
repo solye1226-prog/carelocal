@@ -220,6 +220,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/surgery-record-certificate-mismatch",
+    "title": "수술확인서와 수술기록지 내용이 다를 때, 청구 전 확인할 것",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/traffic-accident-outpatient-silbi-claim",
     "title": "교통사고 통원치료 실비 청구, 자동차보험 처리 내역부터 확인하세요",
     "category": "보험금 청구"
