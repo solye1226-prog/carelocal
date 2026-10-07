@@ -210,6 +210,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/silbi/abdominal-ultrasound-cost-claim",
+    "title": "복부초음파 검사비, 건강보험 적용과 실비 청구 확인법",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/cartistem-silbi-claim",
     "title": "카티스템 실비 청구 가능할까? 재료대·수술료 구분과 필요서류",
     "category": "실비보험"
