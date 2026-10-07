@@ -425,6 +425,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/breast-duct-excision-benefit",
+    "title": "유륜하 농양 유관절제술 수술비, 배농술과 구분하기",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/breast-fibroadenoma-excision-benefit",
     "title": "유방 섬유선종 절제 수술비, 맘모톰과 어떻게 다를까?",
     "category": "수술비"
