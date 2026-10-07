@@ -66,4 +66,12 @@
 - 중복 확인: 수술비 청구서류 대표 글에서 두 서류의 역할을 다루며, 수술명 불일치 글은 별도 상황에 한정한다.
 - 변경: 검색 질문을 H1에 반영하고 기본 확인 서류와 추가 수술기록지의 구분을 첫 화면에 명확히 했다. OG 이미지 절대 주소, Article·사이트맵 수정일을 갱신했다.
 - 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/surgery-docs-local-360.png`, `.deploy/surgery-docs-local-390.png`.
+- 발행 커밋: `306c863`. 공개 URL HTTP 200, 새 H1·도입 반영 확인. 공개 360px·390px 첫 화면에서 본문 가로 넘침 없음.
+
+## 9. 수술확인서 수술명과 약관의 이름이 다를 때
+
+- 대상: `/surgery-benefit/surgery-name-mismatch`
+- 중복 확인: 대표 청구서류 글과 달리 병원 기록명과 약관 항목명이 일치하지 않는 상황에 집중한다.
+- 변경: 실제 시행 행위를 대조하고 보험사에 적용한 분류표 항목·조항을 묻는 질문을 첫 화면에 추가했다. Article 수정일과 사이트맵 수정일을 갱신했다.
+- 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/name-mismatch-local-360.png`, `.deploy/name-mismatch-local-390.png`.
 - 발행 커밋·공개 확인: 진행 후 기록.
