@@ -510,6 +510,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/ptosis-surgery-benefit",
+    "title": "안검하수 교정 수술비, 눈꺼풀올림근 절제술 확인법",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/rotator-cuff",
     "title": "회전근개 봉합술 수술비, 어깨 관절경 기록에서 확인할 것",
     "category": "수술비"
