@@ -195,6 +195,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/surgery-certificate-unavailable",
+    "title": "수술확인서 발급이 어렵다면? 보험금 청구 대체자료 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/surgery-claim-documents",
     "title": "수술비 청구서류, 수술확인서·진단서·수술기록지 중 무엇이 필요할까?",
     "category": "보험금 청구"
