@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="목디스크 수술비, 경추 유합술은 어떻게 확인할까? 설명 그림">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b274b"/><stop offset="1" stop-color="#183b67"/></linearGradient></defs>
+<rect width="1200" height="675" fill="url(#bg)"/><circle cx="1020" cy="125" r="230" fill="#244c79" opacity=".55"/><circle cx="1040" cy="600" r="300" fill="#102e53" opacity=".7"/>
+<path d="M730 180h315q28 0 28 28v300q0 28-28 28H730q-28 0-28-28V208q0-28 28-28Z" fill="#eaf2fa"/><path d="M760 255h250M760 313h210M760 371h238" stroke="#94a9bf" stroke-width="17" stroke-linecap="round"/><circle cx="936" cy="453" r="48" fill="#f7cc45"/><path d="m913 452 18 18 34-39" fill="none" stroke="#163756" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="70" y="102" font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif" font-size="34" font-weight="700" fill="#a9c7e9">케어로컬 · 수술비 확인</text>
+<text x="70" y="260" font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif" font-size="70" font-weight="800" fill="#fff">목디스크</text>
+<text x="70" y="370" font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif" font-size="82" font-weight="800" fill="#ffda58">수술비</text>
+<path d="M70 405h520" stroke="#ffda58" stroke-width="7"/>
+<text x="70" y="488" font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif" font-size="30" font-weight="600" fill="#dceafa">경추 유합술·후방 수술 구분</text>
+<text x="70" y="610" font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif" font-size="25" fill="#abc5df">실제 수술명 · 가입 당시 약관 · 청구서류</text>
+</svg>
