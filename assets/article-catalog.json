@@ -325,6 +325,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/silson24-parent-third-party-claim",
+    "title": "실손24로 부모님 실비 대신 청구하려면? 본인 전송까지 확인",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/silson24-transfer-failure",
     "title": "실손24 서류 전송이 실패했을 때, 재전송과 보험사 접수 확인 방법",
     "category": "실비보험"
