@@ -505,6 +505,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/spinal-stenosis-surgery-benefit",
+    "title": "척추관협착증 감압술·유합술 수술비, 몇 종일까?",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/surgery-classification",
     "title": "수술분류표 확인 | 1종·2종·3종 수술비 보험 기준",
     "category": "수술비"
