@@ -565,6 +565,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/nhis-copayment-refund-notice",
+    "title": "본인부담금환급금 안내문을 받았다면? 공단 확인·신청 순서",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/noncovered-cost-price-comparison",
     "title": "비급여 진료비 조회, 병원별 가격 비교 시 확인할 항목",
     "category": "치료비"
