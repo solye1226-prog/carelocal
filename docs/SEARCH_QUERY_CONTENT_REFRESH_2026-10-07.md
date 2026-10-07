@@ -42,4 +42,12 @@
 - 중복 확인: 백내장 수술의 종수·렌즈·양안 지급 횟수를 구분하는 대표 글이며 청구서류 상세 글과 역할을 나눈다.
 - 변경: 첫 화면에 모든 계약에 공통인 종수가 없다는 답과 실제 수술명·가입 당시 약관의 대조 방법을 배치했다. Article 수정일과 사이트맵 수정일을 갱신했다.
 - 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/cataract-benefit-local-360.png`, `.deploy/cataract-benefit-local-390.png`.
+- 발행 커밋: `6e48a53`. 공개 URL HTTP 200, 새 H1·도입 반영 확인. 공개 360px·390px 첫 화면에서 본문 가로 넘침 없음.
+
+## 6. 백내장 수술 보험금 청구서류
+
+- 대상: `/claims/cataract-surgery-claim-documents`
+- 중복 확인: 백내장 청구서류에 집중한 글이며 종수 판단 글과 분리한다.
+- 변경: 실손은 영수증·세부내역서, 수술비 특약은 진단명·수술명·수술일 자료라는 구분을 첫 화면에 배치했다. Article 수정일과 사이트맵 수정일을 갱신했다.
+- 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/cataract-docs-local-360.png`, `.deploy/cataract-docs-local-390.png`.
 - 발행 커밋·공개 확인: 진행 후 기록.
