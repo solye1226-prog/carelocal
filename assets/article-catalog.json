@@ -190,6 +190,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/silbi-fixed-surgery-same-claim",
+    "title": "실손과 정액 수술비를 함께 청구할 때 서류는 어떻게 나눌까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/sinus-endoscopic-surgery-documents",
     "title": "부비동염 내시경 수술 보험금 청구서류, 무엇을 준비할까?",
     "category": "보험금 청구"
