@@ -520,6 +520,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/retinal-detachment-surgery-benefit",
+    "title": "망막박리 유리체절제술 수술비, 공막돌륭술과 구분하기",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/rotator-cuff",
     "title": "회전근개 봉합술 수술비, 어깨 관절경 기록에서 확인할 것",
     "category": "수술비"
