@@ -265,4 +265,5 @@
   <url><loc>https://hospital.hbuby.com/claims/surgery-record-additional-request</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/surgery-certificate-unavailable</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/gallbladder-pathology-request</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
 </urlset>

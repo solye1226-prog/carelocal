@@ -50,6 +50,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/gallbladder-pathology-request",
+    "title": "담낭절제술 후 조직검사 결과지 요청받았다면? 청구서류 구분",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/gallstone-surgery-claim-documents",
     "title": "담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?",
     "category": "보험금 청구"
