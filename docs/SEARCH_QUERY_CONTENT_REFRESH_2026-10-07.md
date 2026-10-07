@@ -34,4 +34,12 @@
 - 중복 확인: 이 글은 카티스템 치료의 실손 청구 판단을 다루며, 치료비 구성 글·일반 재료대 실비 글과 연결한다.
 - 변경: 첫 화면에서 항목별 비용과 가입 실손 약관을 대조하는 답이 바로 보이도록 H1·도입을 정리했다. Article 수정일과 사이트맵 수정일을 갱신했다.
 - 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/cartistem-local-360.png`, `.deploy/cartistem-local-390.png`.
+- 발행 커밋: `276ea95`. 공개 URL HTTP 200, 새 H1·도입 반영 확인. 공개 360px·390px 첫 화면에서 본문 가로 넘침 없음.
+
+## 5. 백내장 수술 몇 종
+
+- 대상: `/surgery-benefit/cataract-surgery-benefit`
+- 중복 확인: 백내장 수술의 종수·렌즈·양안 지급 횟수를 구분하는 대표 글이며 청구서류 상세 글과 역할을 나눈다.
+- 변경: 첫 화면에 모든 계약에 공통인 종수가 없다는 답과 실제 수술명·가입 당시 약관의 대조 방법을 배치했다. Article 수정일과 사이트맵 수정일을 갱신했다.
+- 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/cataract-benefit-local-360.png`, `.deploy/cataract-benefit-local-390.png`.
 - 발행 커밋·공개 확인: 진행 후 기록.
