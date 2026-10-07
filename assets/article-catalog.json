@@ -160,6 +160,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/overseas-hospital-bill-documents",
+    "title": "해외여행 중 병원비, 귀국 전 챙겨야 할 보험 청구서류",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/polyp-pathology-diagnosis-benefit",
     "title": "대장 용종 조직검사에서 선종·암이 나오면 진단비는 어떻게 확인할까?",
     "category": "보험금 청구"
