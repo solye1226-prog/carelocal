@@ -760,8 +760,18 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/chest-xray-abnormal-followup",
+    "title": "흉부 엑스레이 이상 소견, 폐결절과 추가 CT 검사 구분",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/endoscopy",
     "title": "위·대장내시경 준비와 결과 확인 | 케어로컬",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/fecal-occult-blood-positive",
+    "title": "분변잠혈검사 양성, 대장내시경 예약과 비용 확인",
     "category": "건강검진"
   },
   {
@@ -790,6 +800,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/health-checkup-cholesterol-abnormal",
+    "title": "건강검진 콜레스테롤 수치 이상, 재검사 항목과 비용 확인",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/health-checkup-confirmatory-test",
     "title": "건강검진 질환의심 판정 후 확진검사, 대상·기한·비용 확인",
     "category": "건강검진"
@@ -800,8 +815,43 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/health-checkup-hematuria",
+    "title": "건강검진 혈뇨 판정, 재검사와 비뇨의학과 방문 기준",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-high-blood-pressure",
+    "title": "건강검진 혈압 높게 나왔을 때, 고혈압 재측정과 확진검사 방법",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-high-fasting-glucose",
+    "title": "건강검진 공복혈당 높게 나왔을 때, 당뇨 확진검사와 비용 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-high-liver-enzymes",
+    "title": "건강검진 간수치 AST·ALT·감마지티피가 높을 때 확인할 것",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-proteinuria",
+    "title": "건강검진 단백뇨가 나왔을 때, 재검사와 진료과 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-result-reissue",
+    "title": "건강검진 결과표 재발급, 온라인 조회와 병원 발급 방법",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/health-checkup-target-2026",
     "title": "2026 건강검진 대상자 조회와 검진기관 찾는 방법",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/mammography-abnormal-followup",
+    "title": "유방촬영 이상 소견, 추가 촬영과 유방초음파 비용 확인",
     "category": "건강검진"
   },
   {
