@@ -58,4 +58,12 @@
 - 중복 확인: 대표 분류표 글과 달리 진단코드·진료행위코드·보험 분류표의 역할 차이를 다룬다.
 - 변경: 코드만으로 종수를 정할 수 없다는 답과 서류별 역할을 첫 화면에 배치했다. Article 수정일과 사이트맵 수정일을 갱신했다.
 - 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/surgery-code-local-360.png`, `.deploy/surgery-code-local-390.png`.
+- 발행 커밋: `2492f15`. 공개 URL HTTP 200, 새 H1·서류 역할 문장 반영 확인. 공개 360px·390px 첫 화면에서 본문 가로 넘침 없음.
+
+## 8. 수술확인서와 수술기록지
+
+- 대상: `/claims/surgery-claim-documents`
+- 중복 확인: 수술비 청구서류 대표 글에서 두 서류의 역할을 다루며, 수술명 불일치 글은 별도 상황에 한정한다.
+- 변경: 검색 질문을 H1에 반영하고 기본 확인 서류와 추가 수술기록지의 구분을 첫 화면에 명확히 했다. OG 이미지 절대 주소, Article·사이트맵 수정일을 갱신했다.
+- 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/surgery-docs-local-360.png`, `.deploy/surgery-docs-local-390.png`.
 - 발행 커밋·공개 확인: 진행 후 기록.
