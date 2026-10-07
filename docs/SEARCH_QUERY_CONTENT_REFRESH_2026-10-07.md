@@ -74,4 +74,12 @@
 - 중복 확인: 대표 청구서류 글과 달리 병원 기록명과 약관 항목명이 일치하지 않는 상황에 집중한다.
 - 변경: 실제 시행 행위를 대조하고 보험사에 적용한 분류표 항목·조항을 묻는 질문을 첫 화면에 추가했다. Article 수정일과 사이트맵 수정일을 갱신했다.
 - 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/name-mismatch-local-360.png`, `.deploy/name-mismatch-local-390.png`.
+- 발행 커밋: `3a33fb1`. 공개 URL HTTP 200, 새 H1·질문 문장 반영 확인. 공개 360px·390px 첫 화면에서 본문 가로 넘침 없음.
+
+## 10. 종수술비 보험금 청구
+
+- 대상: `/surgery-benefit/type-surgery-benefit-claim`
+- 중복 확인: 대표 분류표 글은 항목을 찾는 법, 이 글은 가입 특약 확인부터 청구 접수까지의 순서에 집중한다.
+- 변경: 계약 확인 → 수술서류·분류표 대조 → 공식 경로 접수의 순서를 첫 화면에 배치하고 접수 순서의 병원 서류 항목을 구체화했다. Article 수정일과 사이트맵 수정일을 갱신했다.
+- 로컬 확인: `pnpm run check` 통과. 360px·390px 첫 화면 확인, 가로 넘침 없음. `.deploy/type-claim-local-360.png`, `.deploy/type-claim-local-390.png`.
 - 발행 커밋·공개 확인: 진행 후 기록.
