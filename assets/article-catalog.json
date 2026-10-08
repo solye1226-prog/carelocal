@@ -430,6 +430,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/post-travel-domestic-followup-silbi",
+    "title": "해외여행 후 국내 재진료 실비 청구, 여행자보험과 구분",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/septoplasty-with-rhinoplasty-silbi",
     "title": "비중격만곡증 수술 실비, 코성형을 함께 받았다면?",
     "category": "실비보험"
