@@ -320,6 +320,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/hospital-interim-bill-silbi-claim",
+    "title": "입원 중간정산 영수증 실비 청구, 퇴원 전 확인할 것",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/leqembi-silbi-claim",
     "title": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
     "category": "실비보험"
