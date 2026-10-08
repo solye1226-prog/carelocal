@@ -375,6 +375,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/outpatient-prescription-diagnosis-code",
+    "title": "통원 실비 처방전에 진단명 코드가 없다면, 청구 전 확인 순서",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/pharmacy-prescription-claim",
     "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
     "category": "실비보험"
