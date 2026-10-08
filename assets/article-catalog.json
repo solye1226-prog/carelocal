@@ -90,6 +90,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/insurance-beneficiary-bank-account-mismatch",
+    "title": "보험금 청구 계좌 명의가 다를 때, 수익자와 지급계좌 확인법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/insurance-claim-appeal",
     "title": "보험금 청구가 거절됐다면? 이의신청 방법과 절차",
     "category": "보험금 청구"
