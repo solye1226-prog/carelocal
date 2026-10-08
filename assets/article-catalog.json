@@ -355,6 +355,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/multiple-silbi-insurers-document-forwarding",
+    "title": "실손보험 여러 개 청구, 서류 한 번만 내고 전송할 수 있을까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/pharmacy-prescription-claim",
     "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
     "category": "실비보험"
