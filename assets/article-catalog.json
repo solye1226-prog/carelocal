@@ -285,6 +285,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/corrected-hospital-bill-insurance-claim",
+    "title": "병원비 영수증 정정 후 실비 재청구, 환불액부터 대조하세요",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/covered-vs-noncovered-medical-costs",
     "title": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
     "category": "실비보험"
