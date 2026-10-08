@@ -35,6 +35,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "title": "치아보험 임플란트 청구서류, 발치 원인과 치아번호 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/downstairs-water-leak-insurance",
     "title": "아랫집 누수 보험 처리, 일상생활배상책임 청구 순서와 서류",
     "category": "보험금 청구"
