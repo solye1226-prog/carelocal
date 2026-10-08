@@ -160,6 +160,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/minor-child-insurance-claim-documents",
+    "title": "미성년자 보험금 청구서류, 부모가 접수할 때 확인할 것",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/multiple-polyps-surgery-benefit",
     "title": "대장 용종 여러 개 제거하면 수술비도 여러 번 받을까?",
     "category": "보험금 청구"
