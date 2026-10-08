@@ -370,6 +370,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/hospital-bill-correction-silbi-claim",
+    "title": "실비보험 청구 뒤 병원비 환불받았다면, 정산 확인 방법",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/hospital-interim-bill-silbi-claim",
     "title": "입원 중간정산 영수증 실비 청구, 퇴원 전 확인할 것",
     "category": "실비보험"
