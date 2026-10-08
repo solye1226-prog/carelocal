@@ -50,6 +50,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/family-proxy-insurance-claim-form",
+    "title": "보험금 청구 대리인 위임장, 가족이 대신 접수할 때 필요한 것",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/gallbladder-pathology-request",
     "title": "담낭절제술 후 조직검사 결과지 요청받았다면? 청구서류 구분",
     "category": "보험금 청구"
