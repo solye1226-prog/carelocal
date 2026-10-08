@@ -115,6 +115,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/insurance-claim-bank-account-change",
+    "title": "보험금 청구 후 계좌 변경, 지급 전 확인할 것",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/insurance-claim-denial-reasons",
     "title": "보험금 청구가 거절되는 대표적인 사유와 대응 방법",
     "category": "보험금 청구"
