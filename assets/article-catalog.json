@@ -40,6 +40,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/dental-extraction-implant-dates",
+    "title": "치아보험 발치일·임플란트 완료일 다를 때, 청구 시점 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/dental-implant-insurance-claim-documents",
     "title": "치아보험 임플란트 청구서류, 발치 원인과 치아번호 확인",
     "category": "보험금 청구"
