@@ -115,6 +115,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/insurance-claim-original-documents-request",
+    "title": "보험금 청구 원본 서류 요청, 사진 접수 뒤 무엇을 보내야 할까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/insurance-claim-payment-delay",
     "title": "보험금 지급이 늦어지는 이유와 대처 방법",
     "category": "보험금 청구"
