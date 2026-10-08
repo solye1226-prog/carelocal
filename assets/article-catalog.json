@@ -205,6 +205,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/overseas-hospital-card-slip-insurance",
+    "title": "해외 병원비 카드 영수증만 있다면, 여행자보험 청구서류 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/polyp-pathology-diagnosis-benefit",
     "title": "대장 용종 조직검사에서 선종·암이 나오면 진단비는 어떻게 확인할까?",
     "category": "보험금 청구"
