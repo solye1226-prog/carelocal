@@ -370,6 +370,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/noncovered-itemized-bill-silbi-documents",
+    "title": "비급여 진료비 세부내역서 실비 청구, 영수증과 함께 확인할 것",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/pharmacy-prescription-claim",
     "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
     "category": "실비보험"
