@@ -35,6 +35,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/dental-crown-insurance-claim-documents",
+    "title": "치아보험 크라운 청구서류, 치아번호와 치료 재료 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/dental-implant-insurance-claim-documents",
     "title": "치아보험 임플란트 청구서류, 발치 원인과 치아번호 확인",
     "category": "보험금 청구"
