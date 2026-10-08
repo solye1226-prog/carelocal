@@ -325,6 +325,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/hospital-receipt-vs-payment-certificate",
+    "title": "실비 청구 영수증과 진료비 납입확인서, 무엇이 다를까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/leqembi-silbi-claim",
     "title": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
     "category": "실비보험"
