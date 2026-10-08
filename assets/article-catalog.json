@@ -210,6 +210,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/overseas-medical-note-diagnosis-claim",
+    "title": "해외 진료 소견서에 진단명이 없다면, 여행자보험 보완 순서",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/overseas-pharmacy-prescription-claim",
     "title": "해외 약국 약값 보험청구, 처방전과 약제비 영수증 준비",
     "category": "보험금 청구"
