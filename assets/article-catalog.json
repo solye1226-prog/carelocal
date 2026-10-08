@@ -220,6 +220,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/same-tooth-repeat-dental-treatment-claim",
+    "title": "같은 치아 재치료 치아보험 청구, 이전 치료기록 확인 기준",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/screening-polyp-removal-silbi",
     "title": "건강검진 중 대장 용종을 제거했다면 실비 청구가 될까?",
     "category": "보험금 청구"
