@@ -880,6 +880,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/peritoneal-dialysis-supplies-reimbursement",
+    "title": "복막투석 소모성재료 요양비, 처방전·등록업소·청구서류 확인",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/powered-wheelchair-insurance-preapproval",
     "title": "전동휠체어 건강보험 지원, 구입 전 급여 승인부터 확인하세요",
     "category": "치료비"
