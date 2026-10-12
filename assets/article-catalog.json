@@ -890,6 +890,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/senior-eye-surgery-cost-aid-application",
+    "title": "노인 눈수술비 지원, 백내장 수술 전에 신청·선정 순서 확인",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/senior-knee-surgery-aid-before-operation",
     "title": "무릎 인공관절 수술비 지원, 수술 전에 보건소에 신청해야 할까?",
     "category": "치료비"
