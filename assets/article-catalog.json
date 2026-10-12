@@ -825,6 +825,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/denture-insurance-registration-cost",
+    "title": "틀니 건강보험 적용, 65세·등록·7년 기준과 본인부담 확인",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/hearing-aid-subsidy-before-purchase",
     "title": "보청기 지원금 신청, 구입 전에 장애등록·처방·급여제품을 확인하세요",
     "category": "치료비"
