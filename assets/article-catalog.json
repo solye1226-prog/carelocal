@@ -825,6 +825,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/dementia-test-cost-support-referral",
+    "title": "치매검사비 지원 신청, 병원 예약 전에 치매안심센터 의뢰 확인",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/dental-implant-health-insurance",
     "title": "임플란트 건강보험 적용, 나이·등록 절차·추가 비용 확인",
     "category": "치료비"
