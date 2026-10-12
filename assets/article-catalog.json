@@ -1010,6 +1010,11 @@
     "category": "간병"
   },
   {
+    "path": "/caregiver/integrated-nursing-care-cost-check",
+    "title": "간호·간병통합서비스 비용, 입원 전에 병원과 보험사에 확인할 항목",
+    "category": "간병"
+  },
+  {
     "path": "/checkups/abnormal-results",
     "title": "건강검진 이상 소견 확인 가이드 | 케어로컬",
     "category": "건강검진"
