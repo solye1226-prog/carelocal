@@ -190,6 +190,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/medical-certificate-online-first-issue",
+    "title": "진단서 인터넷 발급, 처음 받는 진단서와 사본 재발급은 다릅니다",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/medical-expense-claim-documents",
     "title": "실비보험 청구서류 정리 | 진료비 영수증·세부내역서·처방전",
     "category": "보험금 청구"
