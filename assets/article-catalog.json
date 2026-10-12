@@ -825,6 +825,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/hearing-aid-subsidy-before-purchase",
+    "title": "보청기 지원금 신청, 구입 전에 장애등록·처방·급여제품을 확인하세요",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/home-oxygen-rental-reimbursement",
     "title": "가정 산소치료기 대여비 지원, 처방전과 요양비 청구서류 확인",
     "category": "치료비"
