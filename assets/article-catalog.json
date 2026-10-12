@@ -1050,6 +1050,11 @@
     "category": "간병"
   },
   {
+    "path": "/caregiver/longterm-care-welfare-equipment-limit",
+    "title": "복지용구 지원 신청, 연 160만원 한도와 구입·대여 비용 확인",
+    "category": "간병"
+  },
+  {
     "path": "/checkups/abnormal-results",
     "title": "건강검진 이상 소견 확인 가이드 | 케어로컬",
     "category": "건강검진"
