@@ -815,6 +815,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/continuous-glucose-monitor-device-sensor-support",
+    "title": "연속혈당측정기 건강보험, 기기와 센서 지원을 따로 확인하세요",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/cpap-insurance-registration-adherence",
     "title": "양압기 건강보험 신청, 등록·처방전·순응기간을 먼저 확인하세요",
     "category": "치료비"
