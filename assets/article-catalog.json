@@ -830,6 +830,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/diabetes-consumables-reimbursement-documents",
+    "title": "당뇨 소모품 지원 신청, 혈당검사지·채혈침 구입 전 확인할 서류",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/hearing-aid-subsidy-before-purchase",
     "title": "보청기 지원금 신청, 구입 전에 장애등록·처방·급여제품을 확인하세요",
     "category": "치료비"
