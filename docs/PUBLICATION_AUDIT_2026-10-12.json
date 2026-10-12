@@ -1,0 +1,106 @@
+{
+  "checkedAt": "2026-10-12T23:09:00.3757884+09:00",
+  "catalogCount": 257,
+  "articles": [
+    {
+      "url": "https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/closed-hospital-records-request",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/pathology-slide-loan-return",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/lost-prescription-reissue-cost",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/medical-certificate-online-first-issue",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/caregiver/integrated-nursing-care-cost-check",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/home-oxygen-rental-reimbursement",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/temporary-wheelchair-free-rental",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/home-nursing-before-discharge",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    }
+  ]
+}
