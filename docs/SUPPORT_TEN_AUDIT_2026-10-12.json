@@ -1,0 +1,106 @@
+{
+  "checkedAt": "2026-10-13T00:16:05.3722963+09:00",
+  "catalogCount": 267,
+  "articles": [
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/hearing-aid-subsidy-before-purchase",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/denture-insurance-registration-cost",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/diabetes-consumables-reimbursement-documents",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/continuous-glucose-monitor-device-sensor-support",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/powered-wheelchair-insurance-preapproval",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/caregiver/longterm-care-welfare-equipment-limit",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/dementia-test-cost-support-referral",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/senior-knee-surgery-aid-before-operation",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/senior-eye-surgery-cost-aid-application",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/peritoneal-dialysis-supplies-reimbursement",
+      "status": 200,
+      "title": true,
+      "body": true,
+      "canonical": true,
+      "catalog": true,
+      "sitemap": true,
+      "incoming": true
+    }
+  ]
+}
