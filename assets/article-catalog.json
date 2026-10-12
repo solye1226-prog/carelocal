@@ -815,6 +815,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/cpap-insurance-registration-adherence",
+    "title": "양압기 건강보험 신청, 등록·처방전·순응기간을 먼저 확인하세요",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/dental-implant-health-insurance",
     "title": "임플란트 건강보험 적용, 나이·등록 절차·추가 비용 확인",
     "category": "치료비"
