@@ -65,6 +65,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/english-operative-record-insurance-check",
+    "title": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/family-liability-water-leak-deductible",
     "title": "누수 사고 일배책 자기부담금 확인 기준 | 케어로컬",
     "category": "보험금 청구"
