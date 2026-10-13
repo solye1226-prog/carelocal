@@ -1,0 +1,652 @@
+[
+  {
+    "path": "treatment-costs/peritoneal-dialysis-supplies-reimbursement",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/peritoneal-dialysis-supplies-reimbursement",
+    "imageBytes": [
+      81092,
+      93346,
+      117594
+    ]
+  },
+  {
+    "path": "treatment-costs/senior-eye-surgery-cost-aid-application",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/senior-eye-surgery-cost-aid-application",
+    "imageBytes": [
+      92070,
+      98312,
+      116488
+    ]
+  },
+  {
+    "path": "treatment-costs/senior-knee-surgery-aid-before-operation",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/senior-knee-surgery-aid-before-operation",
+    "imageBytes": [
+      80460,
+      99412,
+      111448
+    ]
+  },
+  {
+    "path": "treatment-costs/dementia-test-cost-support-referral",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/dementia-test-cost-support-referral",
+    "imageBytes": [
+      107176,
+      109996,
+      111888
+    ]
+  },
+  {
+    "path": "caregiver/longterm-care-welfare-equipment-limit",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/caregiver/longterm-care-welfare-equipment-limit",
+    "imageBytes": [
+      108942,
+      152628,
+      92340
+    ]
+  },
+  {
+    "path": "treatment-costs/powered-wheelchair-insurance-preapproval",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/powered-wheelchair-insurance-preapproval",
+    "imageBytes": [
+      89236,
+      103410,
+      138552
+    ]
+  },
+  {
+    "path": "treatment-costs/continuous-glucose-monitor-device-sensor-support",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/continuous-glucose-monitor-device-sensor-support",
+    "imageBytes": [
+      82290,
+      73450,
+      95262
+    ]
+  },
+  {
+    "path": "treatment-costs/diabetes-consumables-reimbursement-documents",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 3,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/diabetes-consumables-reimbursement-documents",
+    "imageBytes": [
+      68576,
+      122246,
+      110772
+    ]
+  },
+  {
+    "path": "treatment-costs/denture-insurance-registration-cost",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/denture-insurance-registration-cost",
+    "imageBytes": [
+      77246,
+      87600,
+      89282
+    ]
+  },
+  {
+    "path": "treatment-costs/hearing-aid-subsidy-before-purchase",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/hearing-aid-subsidy-before-purchase",
+    "imageBytes": [
+      78880,
+      90144,
+      82180
+    ]
+  },
+  {
+    "path": "guides/home-nursing-before-discharge",
+    "staticAnchorDepthFromHome": 3,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/guides/home-nursing-before-discharge",
+    "imageBytes": [
+      70396,
+      92266,
+      91916
+    ]
+  },
+  {
+    "path": "guides/temporary-wheelchair-free-rental",
+    "staticAnchorDepthFromHome": 3,
+    "inboundCount": 4,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/guides/temporary-wheelchair-free-rental",
+    "imageBytes": [
+      94290,
+      139980,
+      84202
+    ]
+  },
+  {
+    "path": "treatment-costs/home-oxygen-rental-reimbursement",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 3,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/home-oxygen-rental-reimbursement",
+    "imageBytes": [
+      67822,
+      150650,
+      107160
+    ]
+  },
+  {
+    "path": "treatment-costs/cpap-insurance-registration-adherence",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+    "imageBytes": [
+      59950,
+      123460,
+      84096
+    ]
+  },
+  {
+    "path": "caregiver/integrated-nursing-care-cost-check",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 3,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/caregiver/integrated-nursing-care-cost-check",
+    "imageBytes": [
+      75110,
+      113412,
+      84964
+    ]
+  },
+  {
+    "path": "claims/medical-certificate-online-first-issue",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/medical-certificate-online-first-issue",
+    "imageBytes": [
+      67892,
+      88678,
+      70854
+    ]
+  },
+  {
+    "path": "guides/lost-prescription-reissue-cost",
+    "staticAnchorDepthFromHome": 3,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/guides/lost-prescription-reissue-cost",
+    "imageBytes": [
+      55428,
+      92380,
+      60368
+    ]
+  },
+  {
+    "path": "guides/pathology-slide-loan-return",
+    "staticAnchorDepthFromHome": 3,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/guides/pathology-slide-loan-return",
+    "imageBytes": [
+      68976,
+      90116,
+      62896
+    ]
+  },
+  {
+    "path": "claims/closed-hospital-records-request",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/closed-hospital-records-request",
+    "imageBytes": [
+      66566,
+      101346,
+      68716
+    ]
+  },
+  {
+    "path": "guides/ct-mri-image-cd-transfer",
+    "staticAnchorDepthFromHome": 3,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer",
+    "imageBytes": [
+      57866,
+      91796,
+      156358
+    ]
+  },
+  {
+    "path": "silbi/hospital-bill-correction-silbi-claim",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/silbi/hospital-bill-correction-silbi-claim",
+    "imageBytes": [
+      40152,
+      119718,
+      58906
+    ]
+  },
+  {
+    "path": "claims/insurance-claim-bank-account-change",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/insurance-claim-bank-account-change",
+    "imageBytes": [
+      37732,
+      78116,
+      103596
+    ]
+  },
+  {
+    "path": "silbi/post-travel-domestic-followup-silbi",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi",
+    "imageBytes": [
+      38422,
+      95668,
+      58906
+    ]
+  },
+  {
+    "path": "claims/overseas-medical-note-diagnosis-claim",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/overseas-medical-note-diagnosis-claim",
+    "imageBytes": [
+      43866,
+      95596,
+      108902
+    ]
+  },
+  {
+    "path": "claims/overseas-pharmacy-prescription-claim",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/overseas-pharmacy-prescription-claim",
+    "imageBytes": [
+      47658,
+      78632,
+      95668
+    ]
+  },
+  {
+    "path": "claims/overseas-hospital-card-slip-insurance",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/overseas-hospital-card-slip-insurance",
+    "imageBytes": [
+      46134,
+      95596,
+      95668
+    ]
+  },
+  {
+    "path": "claims/same-tooth-repeat-dental-treatment-claim",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/same-tooth-repeat-dental-treatment-claim",
+    "imageBytes": [
+      42364,
+      95334,
+      123342
+    ]
+  },
+  {
+    "path": "claims/dental-extraction-implant-dates",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/dental-extraction-implant-dates",
+    "imageBytes": [
+      46684,
+      110102,
+      123342
+    ]
+  },
+  {
+    "path": "claims/dental-crown-insurance-claim-documents",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "imageBytes": [
+      49186,
+      123342,
+      95334
+    ]
+  },
+  {
+    "path": "claims/dental-implant-insurance-claim-documents",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 3,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents",
+    "imageBytes": [
+      50260,
+      95334,
+      127576
+    ]
+  },
+  {
+    "path": "silbi/corrected-hospital-bill-insurance-claim",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim",
+    "imageBytes": [
+      36290,
+      78620,
+      108902
+    ]
+  },
+  {
+    "path": "claims/insurance-beneficiary-bank-account-mismatch",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "imageBytes": [
+      40416,
+      78116,
+      103596
+    ]
+  },
+  {
+    "path": "silbi/outpatient-prescription-diagnosis-code",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code",
+    "imageBytes": [
+      35892,
+      78632,
+      98714
+    ]
+  },
+  {
+    "path": "silbi/noncovered-itemized-bill-silbi-documents",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents",
+    "imageBytes": [
+      39646,
+      107136,
+      58906
+    ]
+  },
+  {
+    "path": "silbi/hospital-receipt-vs-payment-certificate",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate",
+    "imageBytes": [
+      39312,
+      119718,
+      58906
+    ]
+  },
+  {
+    "path": "silbi/hospital-interim-bill-silbi-claim",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim",
+    "imageBytes": [
+      37976,
+      78620,
+      58906
+    ]
+  },
+  {
+    "path": "silbi/multiple-silbi-insurers-document-forwarding",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "imageBytes": [
+      43226,
+      58906,
+      103596
+    ]
+  },
+  {
+    "path": "claims/insurance-claim-original-documents-request",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/insurance-claim-original-documents-request",
+    "imageBytes": [
+      41570,
+      108902,
+      99646
+    ]
+  },
+  {
+    "path": "claims/family-proxy-insurance-claim-form",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form",
+    "imageBytes": [
+      47868,
+      110370,
+      78116
+    ]
+  },
+  {
+    "path": "claims/minor-child-insurance-claim-documents",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 1,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents",
+    "imageBytes": [
+      43874,
+      99646,
+      116356
+    ]
+  },
+  {
+    "path": "claims/surgery-record-certificate-mismatch",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+    "imageBytes": [
+      43776,
+      79832,
+      102794
+    ]
+  },
+  {
+    "path": "surgery-benefit/surgery-benefit-amount-review",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/surgery-benefit/surgery-benefit-amount-review",
+    "imageBytes": [
+      46012,
+      102794,
+      84808
+    ]
+  },
+  {
+    "path": "claims/silbi-fixed-surgery-same-claim",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim",
+    "imageBytes": [
+      35302,
+      79832,
+      84808
+    ]
+  },
+  {
+    "path": "surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "imageBytes": [
+      45090,
+      126468,
+      84808
+    ]
+  },
+  {
+    "path": "surgery-benefit/hemorrhoid-ligation-benefit",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 3,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-ligation-benefit",
+    "imageBytes": [
+      44944,
+      126468,
+      79832
+    ]
+  },
+  {
+    "path": "claims/gallbladder-pathology-request",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/gallbladder-pathology-request",
+    "imageBytes": [
+      44742,
+      90646,
+      79832
+    ]
+  },
+  {
+    "path": "surgery-benefit/gallbladder-ercp-combined-claim",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim",
+    "imageBytes": [
+      50126,
+      81664,
+      90646
+    ]
+  },
+  {
+    "path": "claims/surgery-certificate-unavailable",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/surgery-certificate-unavailable",
+    "imageBytes": [
+      50258,
+      79832,
+      84808
+    ]
+  },
+  {
+    "path": "claims/surgery-record-additional-request",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/surgery-record-additional-request",
+    "imageBytes": [
+      42664,
+      79832,
+      84808
+    ]
+  },
+  {
+    "path": "claims/surgery-certificate-missing-diagnosis",
+    "staticAnchorDepthFromHome": 2,
+    "inboundCount": 2,
+    "descriptionComplete": true,
+    "authorURL": "https://hospital.hbuby.com/legal/about",
+    "mainEntityOfPage": "https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis",
+    "imageBytes": [
+      39240,
+      79832,
+      84808
+    ]
+  }
+]

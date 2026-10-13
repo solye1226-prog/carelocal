@@ -261,26 +261,26 @@
   <url><loc>https://hospital.hbuby.com/checkups/high-psa-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/thyroid-tsh-abnormal-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/kidney-cyst-ultrasound-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/surgery-record-additional-request</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/surgery-certificate-unavailable</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/gallbladder-pathology-request</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/surgery-benefit/hemorrhoid-ligation-benefit</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/surgery-benefit/surgery-benefit-amount-review</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/insurance-claim-original-documents-request</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/surgery-record-additional-request</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/surgery-certificate-unavailable</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/gallbladder-pathology-request</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/surgery-benefit/hemorrhoid-ligation-benefit</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/surgery-benefit/surgery-benefit-amount-review</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/insurance-claim-original-documents-request</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/dental-extraction-implant-dates</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>

@@ -1,0 +1,220 @@
+[
+  {
+    "path": "silbi/hospital-bill-correction-silbi-claim",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/insurance-claim-bank-account-change",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "silbi/post-travel-domestic-followup-silbi",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/overseas-medical-note-diagnosis-claim",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/overseas-pharmacy-prescription-claim",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/overseas-hospital-card-slip-insurance",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/same-tooth-repeat-dental-treatment-claim",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/dental-extraction-implant-dates",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/dental-crown-insurance-claim-documents",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/dental-implant-insurance-claim-documents",
+    "changes": [
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "silbi/corrected-hospital-bill-insurance-claim",
+    "changes": [
+      "Separated pre-payment bill correction from paid-claim refund",
+      "Complete topic-specific description",
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/insurance-beneficiary-bank-account-mismatch",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "silbi/outpatient-prescription-diagnosis-code",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "silbi/noncovered-itemized-bill-silbi-documents",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "silbi/hospital-receipt-vs-payment-certificate",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "silbi/hospital-interim-bill-silbi-claim",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "silbi/multiple-silbi-insurers-document-forwarding",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/insurance-claim-original-documents-request",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/family-proxy-insurance-claim-form",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/minor-child-insurance-claim-documents",
+    "changes": [
+      "Replaced generic checklist with topic-specific actions",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/surgery-record-certificate-mismatch",
+    "changes": [
+      "Complete topic-specific description",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "surgery-benefit/surgery-benefit-amount-review",
+    "changes": [
+      "Complete topic-specific description",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/silbi-fixed-surgery-same-claim",
+    "changes": [
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "changes": [
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "surgery-benefit/hemorrhoid-ligation-benefit",
+    "changes": [
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/gallbladder-pathology-request",
+    "changes": [
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "surgery-benefit/gallbladder-ercp-combined-claim",
+    "changes": [
+      "Complete topic-specific description",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/surgery-certificate-unavailable",
+    "changes": [
+      "Complete topic-specific description",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/surgery-record-additional-request",
+    "changes": [
+      "Complete topic-specific description",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  },
+  {
+    "path": "claims/surgery-certificate-missing-diagnosis",
+    "changes": [
+      "Complete topic-specific description",
+      "Added detailed official-source button",
+      "Author URL and mainEntityOfPage clarification"
+    ]
+  }
+]

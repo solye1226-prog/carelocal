@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+    "received": true,
+    "textFile": ".deploy\\seo50-sources\\0.txt",
+    "length": 2536
+  },
+  {
+    "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+    "error": "curl: (22) The requested URL returned error: 411\r\n",
+    "resolution": "Primary desktop detail page read successfully with official web tool on 2026-10-13. Curl client 411 does not establish destination failure."
+  },
+  {
+    "url": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+    "error": "curl: (22) The requested URL returned error: 411\r\n",
+    "resolution": "Primary desktop detail page read successfully with official web tool on 2026-10-13. Curl client 411 does not establish destination failure."
+  },
+  {
+    "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5251",
+    "received": true,
+    "textFile": ".deploy\\seo50-sources\\3.txt",
+    "length": 13992
+  },
+  {
+    "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5818",
+    "received": true,
+    "textFile": ".deploy\\seo50-sources\\4.txt",
+    "length": 8914
+  },
+  {
+    "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6735",
+    "received": true,
+    "textFile": ".deploy\\seo50-sources\\5.txt",
+    "length": 12168
+  },
+  {
+    "url": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+    "received": true,
+    "textFile": ".deploy\\seo50-sources\\6.txt",
+    "length": 4379
+  }
+]
