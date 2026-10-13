@@ -1,0 +1,434 @@
+[
+  {
+    "path": "surgery-benefit/ercp",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/gallbladder-surgery-benefit",
+    "homeDepth": 1,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#policy-check",
+        "valid": true
+      },
+      {
+        "link": "/claims/gallstone-surgery-claim-documents#claim-documents",
+        "valid": true
+      },
+      {
+        "link": "/claims/gallstone-surgery-claim-documents#certificate-fields",
+        "valid": true
+      },
+      {
+        "link": "/claims/gallstone-surgery-claim-documents#certificate-fields",
+        "valid": true
+      },
+      {
+        "link": "/claims/gallstone-surgery-claim-documents#claim-documents",
+        "valid": true
+      },
+      {
+        "link": "/claims/gallstone-surgery-claim-documents#claim-documents",
+        "valid": true
+      },
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/cataract-surgery-benefit",
+    "homeDepth": 1,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "claims/cataract-surgery-claim-documents",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "treatment-costs/cartistem-stem-cell-knee-cost",
+    "homeDepth": 1,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "silbi/cartistem-silbi-claim",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/surgery-classification",
+    "homeDepth": 1,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "/surgery-benefit/third-tier-surgery-classification#third-tier-note",
+        "valid": true
+      },
+      {
+        "link": "#surgery-examples",
+        "valid": true
+      },
+      {
+        "link": "#name-mismatch",
+        "valid": true
+      },
+      {
+        "link": "#inquiry-note",
+        "valid": true
+      },
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "claims/surgery-record-additional-request",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/biliary-stent-removal-replacement-benefit",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "claims/gallbladder-polyp-surgery-insurance-documents",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/repeated-ercp-surgery-benefit",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/secondary-cataract-laser-benefit",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "silbi/cataract-preoperative-test-claim",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/cartistem-concurrent-procedure-records",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "silbi/cartistem-medical-necessity-supplement",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "surgery-benefit/same-surgery-different-policy-tiers",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  },
+  {
+    "path": "claims/english-operative-record-insurance-check",
+    "homeDepth": 2,
+    "reciprocalLinks": true,
+    "fragmentLinks": [
+      {
+        "link": "#record-check",
+        "valid": true
+      },
+      {
+        "link": "#insurer-question",
+        "valid": true
+      },
+      {
+        "link": "#next-steps",
+        "valid": true
+      },
+      {
+        "link": "#official-details",
+        "valid": true
+      }
+    ],
+    "duplicateIDs": [],
+    "pass": true
+  }
+]
