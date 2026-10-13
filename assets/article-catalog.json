@@ -725,6 +725,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/repeated-ercp-surgery-benefit",
+    "title": "담석 시술 후 다시 ERCP를 받았다면? 반복 시술 수술비 확인 순서",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/retinal-detachment-surgery-benefit",
     "title": "망막박리 유리체절제술 수술비, 공막돌륭술과 구분하기",
     "category": "수술비"
