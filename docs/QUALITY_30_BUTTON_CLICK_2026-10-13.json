@@ -1,0 +1,8 @@
+{
+  "from": "https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer",
+  "expected": "https://www.snuh.org/content/G004002004.do",
+  "actual": "https://www.snuh.org/content/G004002004.do",
+  "title": "서울대학교병원",
+  "newTab": true,
+  "exactTarget": true
+}
