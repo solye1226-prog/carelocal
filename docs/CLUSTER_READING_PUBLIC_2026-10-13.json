@@ -1,0 +1,2182 @@
+[
+  {
+    "path": "surgery-benefit/biliary-stent-removal-replacement-benefit",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 57,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 73,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 84,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 101,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 84,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 49,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 99,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 54,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 88,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 57,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 73,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 84,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 101,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 84,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 49,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 99,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 54,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 88,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "claims/gallbladder-polyp-surgery-insurance-documents",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 40,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 100,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 78,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 91,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 76,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 64,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 86,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 47,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 110,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 40,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 100,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 78,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 91,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 76,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 64,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 86,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 47,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 110,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 66,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 72,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 78,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 70,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 92,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 33,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 119,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 67,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 100,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 66,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 72,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 78,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 70,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 92,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 33,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 119,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 67,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 100,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/repeated-ercp-surgery-benefit",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 45,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 106,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 84,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 100,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 82,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 63,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 92,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 129,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 45,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 106,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 84,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 100,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 82,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 63,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 92,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 129,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/secondary-cataract-laser-benefit",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 58,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 80,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 83,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 78,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 87,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 47,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 101,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 136,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 58,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 80,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 83,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 78,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 87,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 47,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 101,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 136,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "silbi/cataract-preoperative-test-claim",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 58,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 83,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 84,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 60,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 111,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 91,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 76,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 42,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 111,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 58,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 83,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 84,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 60,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 111,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 91,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 76,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 42,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 111,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/cartistem-concurrent-procedure-records",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 61,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 85,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 81,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 104,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 94,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 37,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 106,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 110,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 61,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 85,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 81,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 104,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 94,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 37,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 106,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 110,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "silbi/cartistem-medical-necessity-supplement",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 75,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 89,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 82,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 64,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 94,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 56,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 107,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 70,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 88,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 75,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 89,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 82,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 64,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 94,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 56,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 107,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 70,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 88,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/same-surgery-different-policy-tiers",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 53,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 104,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 78,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 49,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 42,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 97,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 28,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 123,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 53,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 104,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 78,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 49,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 42,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 97,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 28,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 123,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  {
+    "path": "claims/english-operative-record-insurance-check",
+    "pass": true,
+    "checks": [
+      {
+        "width": 390,
+        "articleWidth": 390,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 39,
+            "font": "18px",
+            "lineHeight": "32.4px"
+          },
+          {
+            "chars": 107,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 80,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 48,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 104,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 36,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 112,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 84,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 80,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 114,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          },
+          {
+            "chars": 44,
+            "font": "17px",
+            "lineHeight": "31.45px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "block"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "block"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "width": 1440,
+        "articleWidth": 800,
+        "h1Align": "left",
+        "paragraphSizes": [
+          {
+            "chars": 39,
+            "font": "20px",
+            "lineHeight": "35px"
+          },
+          {
+            "chars": 107,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 80,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 48,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 104,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 36,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 112,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 84,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 80,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 114,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          },
+          {
+            "chars": 44,
+            "font": "18px",
+            "lineHeight": "34.2px"
+          }
+        ],
+        "labels": [
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          },
+          {
+            "text": "구분",
+            "display": "none"
+          },
+          {
+            "text": "자료에서 찾을 내용",
+            "display": "none"
+          },
+          {
+            "text": "확인할 쟁점",
+            "display": "none"
+          }
+        ],
+        "overflow": false,
+        "anchors": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  }
+]
