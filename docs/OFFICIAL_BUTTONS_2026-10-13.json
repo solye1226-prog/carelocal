@@ -1,0 +1,342 @@
+[
+  {
+    "path": "treatment-costs/hearing-aid-subsidy-before-purchase",
+    "buttons": [
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206_2.html",
+        "label": "보청기 급여 기준·청구서류 확인",
+        "description": "국민건강보험공단 · 페이지 내 보청기 항목"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "treatment-costs/denture-insurance-registration-cost",
+    "buttons": [
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0217.html",
+        "label": "틀니 대상·본인부담·등록 절차 확인",
+        "description": "국민건강보험공단 · 노인틀니 급여안내"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "treatment-costs/diabetes-consumables-reimbursement-documents",
+    "buttons": [
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0208.html",
+        "label": "당뇨 소모품 대상·청구서류 확인",
+        "description": "국민건강보험공단 · 소모성재료 구입비"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "treatment-costs/continuous-glucose-monitor-device-sensor-support",
+    "buttons": [
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0230.html",
+        "label": "연속혈당측정기 기기 지원 확인",
+        "description": "국민건강보험공단 · 당뇨병 관리기기"
+      },
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0208.html",
+        "label": "연속혈당측정 센서 지원 확인",
+        "description": "국민건강보험공단 · 소모성재료"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "treatment-costs/powered-wheelchair-insurance-preapproval",
+    "buttons": [
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206_2.html",
+        "label": "전동휠체어 승인·청구서류 확인",
+        "description": "국민건강보험공단 · 페이지 첫 전동휠체어 항목"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "caregiver/longterm-care-welfare-equipment-limit",
+    "buttons": [
+      {
+        "url": "https://www.knat.go.kr/knw/home/knat_DB/assist_detail.php?assist_biz_idx=3",
+        "label": "복지용구 한도·품목·이용 절차 확인",
+        "description": "국립재활원 중앙보조기기센터"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "treatment-costs/dementia-test-cost-support-referral",
+    "buttons": [
+      {
+        "url": "https://bokji.gangnam.go.kr/board/BBS_SUPPORT/2070/view.do?mid=ID03_02&type=",
+        "label": "강남구 치매검사비 지원 조건 확인",
+        "description": "강남구 · 연령·소득·신청서·문의처"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "treatment-costs/senior-knee-surgery-aid-before-operation",
+    "buttons": [
+      {
+        "url": "https://www.ok6595.or.kr/client/board/view_data.asp?p_idx=72",
+        "label": "2026년 신규 접수 종료 공지 확인",
+        "description": "노인의료나눔재단 · 예산 소진 관련 공지"
+      },
+      {
+        "url": "https://www.ok6595.or.kr/client/info/knee03.asp",
+        "label": "무릎 수술비 지원 대상·범위 확인",
+        "description": "노인의료나눔재단 · 사업내용"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "treatment-costs/senior-eye-surgery-cost-aid-application",
+    "buttons": [
+      {
+        "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001115&wlfareInfoReldBztpCd=01",
+        "label": "노인 눈수술비 지원 대상·신청 확인",
+        "description": "복지로 · 노인 안검진 및 개안수술"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "treatment-costs/peritoneal-dialysis-supplies-reimbursement",
+    "buttons": [
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0204.html",
+        "label": "복막투석 재료 지원·청구서류 확인",
+        "description": "국민건강보험공단 · 복막관류액·소모성재료"
+      }
+    ],
+    "preservedComponents": true
+  },
+  {
+    "path": "guides/home-nursing-before-discharge",
+    "buttons": [
+      {
+        "url": "https://www.snuh.org/content/Q005006003.do",
+        "label": "가정간호 신청·방문지역 확인",
+        "description": "서울대학교병원 이용안내 · 해당 병원 기준"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "guides/temporary-wheelchair-free-rental",
+    "buttons": [
+      {
+        "url": "https://www.suwon.go.kr/sw-www/deptHome/dep_welfare/welfare09/welfare09-10.jsp",
+        "label": "수원시 대여 창구·연락처 확인",
+        "description": "수원시 공식 안내 · 다른 지역은 관할 창구에 문의"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "treatment-costs/home-oxygen-rental-reimbursement",
+    "buttons": [
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0207.html",
+        "label": "산소치료 지원금·청구서류 확인",
+        "description": "국민건강보험공단 상세 안내"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "treatment-costs/cpap-insurance-registration-adherence",
+    "buttons": [
+      {
+        "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+        "label": "양압기 등록·순응기준 확인 (PDF)",
+        "description": "국민건강보험공단 요양비 질의응답"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "caregiver/integrated-nursing-care-cost-check",
+    "buttons": [
+      {
+        "url": "https://www.data.go.kr/data/15119453/fileData.do",
+        "label": "간호·간병통합서비스 운영현황 확인",
+        "description": "공공데이터포털 · 운영현황 자료, 현재 병상은 병원에 문의"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "claims/medical-certificate-online-first-issue",
+    "buttons": [
+      {
+        "url": "https://sdoc.snuh.org/main.do",
+        "label": "서울대병원 온라인 증명서 발급 안내",
+        "description": "서울대학교병원 · 최초 진단서와 사본 구분"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "guides/lost-prescription-reissue-cost",
+    "buttons": [
+      {
+        "url": "https://www.hira.or.kr/ebooksc/ebook_635/ebook_635_202104210859112080.pdf",
+        "label": "처방전 재발급 비용 기준 보기 (PDF)",
+        "description": "심평원 청구길라잡이 · 문서에서 처방전 검색"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "guides/pathology-slide-loan-return",
+    "buttons": [
+      {
+        "url": "https://gh.cauhs.or.kr/home/conts/102008000000000.do",
+        "label": "병리 슬라이드 신청·대출 규정 확인",
+        "description": "중앙대학교광명병원 · 해당 병원 기준"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "claims/closed-hospital-records-request",
+    "buttons": [
+      {
+        "url": "https://medichart.mohw.go.kr/",
+        "label": "폐업 병원 진료기록 발급포털 이동",
+        "description": "보건복지부 · 이관된 기록의 조회·발급 안내"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "guides/ct-mri-image-cd-transfer",
+    "buttons": [
+      {
+        "url": "https://www.snuh.org/content/G004002004.do",
+        "label": "영상 CD·판독지 발급서류 확인",
+        "description": "서울대학교병원 · 해당 병원 수수료·발급 절차"
+      }
+    ],
+    "topicSpecificChecklist": false
+  },
+  {
+    "path": "silbi/hospital-bill-correction-silbi-claim",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 실손 청구서류 확인",
+        "description": "환불 정산 절차는 기존 접수 건으로 별도 문의"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "claims/insurance-claim-bank-account-change",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 계좌·기본 제출서류 확인",
+        "description": "계좌 변경 가능 여부는 기존 접수 건으로 별도 문의"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "silbi/post-travel-domestic-followup-silbi",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 여행자보험 필요서류 확인",
+        "description": "공식 안내의 여행 중 질병/상해 항목 선택"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "claims/overseas-medical-note-diagnosis-claim",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 여행자보험 필요서류 확인",
+        "description": "공식 안내의 여행 중 질병/상해 항목 선택"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "claims/overseas-pharmacy-prescription-claim",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 여행자보험 필요서류 확인",
+        "description": "공식 안내의 여행 중 질병/상해 항목 선택"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "claims/overseas-hospital-card-slip-insurance",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 여행자보험 필요서류 확인",
+        "description": "공식 안내의 여행 중 질병/상해 항목 선택"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "claims/same-tooth-repeat-dental-treatment-claim",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 치아보험 필요서류 확인",
+        "description": "공식 안내의 치아 질병/상해 항목 선택"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "claims/dental-extraction-implant-dates",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 치아보험 필요서류 확인",
+        "description": "공식 안내의 치아 질병/상해 항목 선택"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "claims/dental-crown-insurance-claim-documents",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 치아보험 필요서류 확인",
+        "description": "공식 안내의 치아 질병/상해 항목 선택"
+      }
+    ],
+    "topicSpecificChecklist": true
+  },
+  {
+    "path": "claims/dental-implant-insurance-claim-documents",
+    "buttons": [
+      {
+        "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+        "label": "삼성화재 치아보험 필요서류 확인",
+        "description": "공식 안내의 치아 질병/상해 항목 선택"
+      }
+    ],
+    "topicSpecificChecklist": true
+  }
+]

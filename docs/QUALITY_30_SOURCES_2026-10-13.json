@@ -1,0 +1,324 @@
+[
+  {
+    "url": "https://ansan.go.kr/health/common/cntnts/selectContents.do?cntnts_id=C0001692",
+    "status": 200,
+    "finalURL": "https://ansan.go.kr/health/common/cntnts/selectContents.do?cntnts_id=C0001692",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\00.txt",
+    "characters": 3439
+  },
+  {
+    "url": "https://bokji.gangnam.go.kr/board/BBS_SUPPORT/2070/view.do?mid=ID03_02&type=",
+    "status": 200,
+    "finalURL": "https://bokji.gangnam.go.kr/board/BBS_SUPPORT/2070/view.do?mid=ID03_02&type=",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\01.txt",
+    "characters": 1503
+  },
+  {
+    "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+    "status": 200,
+    "finalURL": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\02.txt",
+    "characters": 6454
+  },
+  {
+    "url": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?ccfNo=3&cciNo=1&cnpClsNo=1&csmSeq=2038&popMenu=ov",
+    "status": 200,
+    "finalURL": "https://easylaw.go.kr/CSP/CnpClsMainBtr.laf?ccfNo=3&cciNo=1&cnpClsNo=1&csmSeq=2038&popMenu=ov",
+    "contentType": "text/html;charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\03.txt",
+    "characters": 5153
+  },
+  {
+    "url": "https://gh.cauhs.or.kr/home/conts/102008000000000.do",
+    "status": 200,
+    "finalURL": "https://gh.cauhs.or.kr/home/conts/102008000000000.do",
+    "contentType": "text/html; charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\04.txt",
+    "characters": 3703
+  },
+  {
+    "url": "https://mediahub.seoul.go.kr/archives/2009160",
+    "status": 200,
+    "finalURL": "https://mediahub.seoul.go.kr/archives/2009160",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\05.txt",
+    "characters": 6504
+  },
+  {
+    "url": "https://medichart.mohw.go.kr/",
+    "status": 200,
+    "finalURL": "https://medichart.mohw.go.kr/",
+    "contentType": "text/html;charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\06.txt",
+    "characters": 1134
+  },
+  {
+    "url": "https://minhospital.co.kr/guide/pathology-slide",
+    "status": 200,
+    "finalURL": "https://minhospital.co.kr/guide/pathology-slide",
+    "contentType": "text/html; charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\07.txt",
+    "characters": 5188
+  },
+  {
+    "url": "https://sdoc.snuh.org/main.do",
+    "status": 200,
+    "finalURL": "https://sdoc.snuh.org/main.do",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\08.txt",
+    "characters": 3425
+  },
+  {
+    "url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001115&wlfareInfoReldBztpCd=01",
+    "status": 200,
+    "finalURL": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001115&wlfareInfoReldBztpCd=01",
+    "contentType": "text/html;charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\09.txt",
+    "characters": 5,
+    "resolution": "Rendered in Chrome: 2026 노인 개안수술비 지원, eligibility confirmed. HTTP body alone was JavaScript shell."
+  },
+  {
+    "url": "https://www.busan.go.kr/depart/weldisabled0206",
+    "error": "<urlopen error [WinError 10054] 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다>",
+    "resolution": "Active article reference replaced with verified NHIS wbmac0206_1.html; failed URL is no longer linked."
+  },
+  {
+    "url": "https://www.data.go.kr/data/15119453/fileData.do",
+    "status": 200,
+    "finalURL": "https://www.data.go.kr/data/15119453/fileData.do",
+    "contentType": "text/html;charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\11.txt",
+    "characters": 6422
+  },
+  {
+    "url": "https://www.geumcheon.go.kr/health/contents.do?key=4523",
+    "status": 200,
+    "finalURL": "https://www.geumcheon.go.kr/health/contents.do?key=4523",
+    "contentType": "text/html; charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\12.txt",
+    "characters": 5992
+  },
+  {
+    "url": "https://www.hampyeong.go.kr/health/contentsView.do?pageId=health123",
+    "status": 200,
+    "finalURL": "https://www.hampyeong.go.kr/health/contentsView.do?pageId=health123",
+    "contentType": "text/html;charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\13.txt",
+    "characters": 1738
+  },
+  {
+    "url": "https://www.hira.or.kr/ebooksc/ebook_635/ebook_635_202104210859112080.pdf",
+    "status": 200,
+    "finalURL": "https://www.hira.or.kr/ebooksc/ebook_635/ebook_635_202104210859112080.pdf",
+    "contentType": "application/pdf",
+    "textFile": ".deploy\\quality30-sources\\14.txt",
+    "characters": 153144
+  },
+  {
+    "url": "https://www.hscity.go.kr/dongtan/user/bbs/BD_selectBbs.do?q_bbsCode=1048&q_bbscttSn=20260122101448215",
+    "status": 200,
+    "finalURL": "https://www.hscity.go.kr/dongtan/user/bbs/BD_selectBbs.do?q_bbsCode=1048&q_bbscttSn=20260122101448215",
+    "contentType": "text/html;charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\15.txt",
+    "characters": 867
+  },
+  {
+    "url": "https://www.hscity.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1018&q_bbscttSn=20260401115307093",
+    "status": 200,
+    "finalURL": "https://www.hscity.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1018&q_bbscttSn=20260401115307093",
+    "contentType": "text/html;charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\16.txt",
+    "characters": 4256
+  },
+  {
+    "url": "https://www.jongno.go.kr/health/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000548&menuId=401376&menuNo=401376&nttId=4747",
+    "status": 200,
+    "finalURL": "https://www.jongno.go.kr/health/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000548&menuId=401376&menuNo=401376&nttId=4747",
+    "contentType": "text/html; charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\17.txt",
+    "characters": 3585
+  },
+  {
+    "url": "https://www.knat.go.kr/knw/home/knat_DB/assist_detail.php?assist_biz_idx=3",
+    "status": 200,
+    "finalURL": "https://www.knat.go.kr/knw/home/knat_DB/assist_detail.php?assist_biz_idx=3",
+    "contentType": "text/html; charset=euc-kr",
+    "textFile": ".deploy\\quality30-sources\\18.txt",
+    "characters": 4291
+  },
+  {
+    "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148914071",
+    "status": 200,
+    "finalURL": "https://www.korea.kr/multi/visualNewsView.do?newsId=148914071",
+    "contentType": "text/html;charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\19.txt",
+    "characters": 5295
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/alim/paper/oldpaper/202309/sub/section2_5.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/alim/paper/oldpaper/202309/sub/section2_5.html",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\20.txt",
+    "characters": 878
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbha/d/a/wbhada13800m01_01.pdf",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbha/d/a/wbhada13800m01_01.pdf",
+    "contentType": "application/pdf",
+    "textFile": ".deploy\\quality30-sources\\21.txt",
+    "characters": 16856
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0204.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0204.html",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\22.txt",
+    "characters": 1326
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206.html",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\23.txt",
+    "characters": 1069
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206_2.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206_2.html",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\24.txt",
+    "characters": 17058
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0207.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0207.html",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\25.txt",
+    "characters": 2521
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0208.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0208.html",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\26.txt",
+    "characters": 3840
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0217.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0217.html",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\27.txt",
+    "characters": 4038
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+    "contentType": "application/pdf",
+    "textFile": ".deploy\\quality30-sources\\28.txt",
+    "characters": 20056
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0230.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0230.html",
+    "contentType": "text/html",
+    "textFile": ".deploy\\quality30-sources\\29.txt",
+    "characters": 3695
+  },
+  {
+    "url": "https://www.nrc.go.kr/hospital/html/content.do?depth=mi&menu_cd=01_06_08",
+    "status": 200,
+    "finalURL": "https://www.nrc.go.kr/hospital/html/content.do?depth=mi&menu_cd=01_06_08",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\30.txt",
+    "characters": 3641
+  },
+  {
+    "url": "https://www.ok6595.or.kr/client/board/view_data.asp?p_idx=72",
+    "status": 200,
+    "finalURL": "https://www.ok6595.or.kr/client/board/view_data.asp?p_idx=72",
+    "contentType": "text/html;charset=utf-8; Charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\31.txt",
+    "characters": 1162
+  },
+  {
+    "url": "https://www.ok6595.or.kr/client/info/knee03.asp",
+    "status": 200,
+    "finalURL": "https://www.ok6595.or.kr/client/info/knee03.asp",
+    "contentType": "text/html;charset=utf-8; Charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\32.txt",
+    "characters": 1663
+  },
+  {
+    "url": "https://www.snuh.org/content/G004002004.do",
+    "status": 200,
+    "finalURL": "https://www.snuh.org/content/G004002004.do",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\33.txt",
+    "characters": 4580
+  },
+  {
+    "url": "https://www.snuh.org/content/Q003012002.do",
+    "status": 200,
+    "finalURL": "https://www.snuh.org/content/Q003012002.do",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\34.txt",
+    "characters": 5182
+  },
+  {
+    "url": "https://www.snuh.org/content/Q005001002.do",
+    "status": 200,
+    "finalURL": "https://www.snuh.org/content/Q005001002.do",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\35.txt",
+    "characters": 4932
+  },
+  {
+    "url": "https://www.snuh.org/content/Q005006001.do",
+    "status": 200,
+    "finalURL": "https://www.snuh.org/content/Q005006001.do",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\36.txt",
+    "characters": 2233
+  },
+  {
+    "url": "https://www.snuh.org/content/Q005006002.do",
+    "status": 200,
+    "finalURL": "https://www.snuh.org/content/Q005006002.do",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\37.txt",
+    "characters": 2377
+  },
+  {
+    "url": "https://www.snuh.org/content/Q005006003.do",
+    "status": 200,
+    "finalURL": "https://www.snuh.org/content/Q005006003.do",
+    "contentType": "text/html; charset=utf-8",
+    "textFile": ".deploy\\quality30-sources\\38.txt",
+    "characters": 2211
+  },
+  {
+    "url": "https://www.suwon.go.kr/sw-www/deptHome/dep_welfare/welfare09/welfare09-10.jsp",
+    "status": 200,
+    "finalURL": "https://www.suwon.go.kr/sw-www/deptHome/dep_welfare/welfare09/welfare09-10.jsp",
+    "contentType": "text/html;charset=UTF-8",
+    "textFile": ".deploy\\quality30-sources\\39.txt",
+    "characters": 14106
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206_1.html",
+    "verification": "Live primary-source web page, general 90 percent and lowest-price criteria confirmed"
+  }
+]
