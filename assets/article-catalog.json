@@ -755,6 +755,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/same-surgery-different-policy-tiers",
+    "title": "보험사마다 같은 수술의 종수가 다르다면? 두 계약 약관 비교법",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/second-tier-surgery-benefit",
     "title": "2종 수술보험금, 내 수술이 해당하는지 확인하는 법",
     "category": "수술비"
