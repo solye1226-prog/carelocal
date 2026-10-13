@@ -80,6 +80,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/gallbladder-polyp-surgery-insurance-documents",
+    "title": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/gallstone-surgery-claim-documents",
     "title": "담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?",
     "category": "보험금 청구"
