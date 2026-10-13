@@ -1,0 +1,125 @@
+[
+  {
+    "path": "claims/gallbladder-polyp-surgery-insurance-documents",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항 관련 기록 확인을 안내하는 생성 썸네일"
+          },
+          {
+            "loaded": true,
+            "alt": "수술 관련 확인자료와 보험 청구 체크리스트를 대조하는 설명용 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "병원 확인자료와 청구서류를 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000290",
+            "height": 99.625,
+            "inside": true
+          },
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 99.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.snuh.org/content/M002005006.do",
+            "height": 99.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents",
+        "bodyLength": 2015
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항 관련 기록 확인을 안내하는 생성 썸네일"
+          },
+          {
+            "loaded": true,
+            "alt": "수술 관련 확인자료와 보험 청구 체크리스트를 대조하는 설명용 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "병원 확인자료와 청구서류를 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000290",
+            "height": 99.625,
+            "inside": true
+          },
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 99.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.snuh.org/content/M002005006.do",
+            "height": 99.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents",
+        "bodyLength": 2015
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항 관련 기록 확인을 안내하는 생성 썸네일"
+          },
+          {
+            "loaded": true,
+            "alt": "수술 관련 확인자료와 보험 청구 체크리스트를 대조하는 설명용 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "병원 확인자료와 청구서류를 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000290",
+            "height": 99.625,
+            "inside": true
+          },
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 99.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.snuh.org/content/M002005006.do",
+            "height": 99.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents",
+        "bodyLength": 2036
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1": [
+    "삼성화재 담보별 청구서류",
+    "수술·실손 서류 예시와 추가 요청 가능성. 개별 계약 지급 조항이 아님"
+  ],
+  "https://www.snuh.org/content/M002005006.do": [
+    "서울대학교병원 의무기록 발급",
+    "병원 기록 사본의 신청·발급 절차. 다른 병원 절차는 별도 확인"
+  ],
+  "https://news-en.amc.seoul.kr/news/con/detail.do?cntId=11548": [
+    "서울아산병원 ERCP 설명",
+    "ERCP의 검사와 결석 제거·확장·스텐트 삽입 구분. 반복 지급 기준이 아님"
+  ],
+  "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000290": [
+    "서울대학교병원 담낭절제술",
+    "담낭질환의 수술과 복강경에서 개복 전환 설명"
+  ],
+  "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000376": [
+    "서울대학교병원 백내장 수술",
+    "후낭혼탁과 후속 레이저 치료 설명"
+  ],
+  "https://www.medi-post.co.kr/cartistem/": [
+    "메디포스트 카티스템 제품 배경",
+    "제조사의 제품·무릎 연골 치료 설명. 치료 효과나 보험 지급 근거로 사용하지 않음"
+  ],
+  "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106062": [
+    "식약처 카티스템 품목 상세정보",
+    "효능효과·투여방법 원문. 허가사항과 개인 계약의 지급 판단은 구분"
+  ]
+}

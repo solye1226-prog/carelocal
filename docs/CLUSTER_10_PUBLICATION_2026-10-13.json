@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/surgery-benefit/biliary-stent-removal-replacement-benefit",
+    "title": "담도 스텐트 제거·교체도 수술비 청구할까? 삽입 때와 다른 확인사항",
+    "exactPublicHeadAndMain": true,
+    "commit": "38270bd4e8a45f98ebcf58432c186eb659722db8"
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents",
+    "title": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+    "exactPublicHeadAndMain": true,
+    "commit": "449badd644100aab07d894b23242898a9df0cff5"
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+    "title": "담낭 수술 중 개복으로 전환됐다면? 수술비 청구 기록 확인법",
+    "exactPublicHeadAndMain": true,
+    "commit": "a37a74911cc94c2c7ae4ed0a785dda2f34b27ef6"
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/surgery-benefit/repeated-ercp-surgery-benefit",
+    "title": "담석 시술 후 다시 ERCP를 받았다면? 반복 시술 수술비 확인 순서",
+    "exactPublicHeadAndMain": true,
+    "commit": "6a2687ff20a16a75538190fccce582b8fefee98b"
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/surgery-benefit/secondary-cataract-laser-benefit",
+    "title": "후발백내장 레이저 치료도 수술비 대상일까? 처음 수술과 구분하기",
+    "exactPublicHeadAndMain": true,
+    "commit": "c3a5632a266932a84f8e1763c3f8c6385e2bcede"
+  },
+  {
+    "number": 6,
+    "url": "https://hospital.hbuby.com/silbi/cataract-preoperative-test-claim",
+    "title": "백내장 수술 전 검사비 실비, 수술비 영수증과 어떻게 나눠 청구할까?",
+    "exactPublicHeadAndMain": true,
+    "commit": "52f3df5e071fd2d2791b1d2f42680af52388f34e"
+  },
+  {
+    "number": 7,
+    "url": "https://hospital.hbuby.com/surgery-benefit/cartistem-concurrent-procedure-records",
+    "title": "카티스템과 미세천공술을 함께 받았다면? 수술비 청구 기록 확인법",
+    "exactPublicHeadAndMain": true,
+    "commit": "ee93324c4f124bd0fccaef28e959ebf6bcf9ca39"
+  },
+  {
+    "number": 8,
+    "url": "https://hospital.hbuby.com/silbi/cartistem-medical-necessity-supplement",
+    "title": "카티스템 실비 심사에서 치료 필요성 자료를 요청받았다면?",
+    "exactPublicHeadAndMain": true,
+    "commit": "0dd2e3741f684ada6da9a958c4d9a47c856e8de8"
+  },
+  {
+    "number": 9,
+    "url": "https://hospital.hbuby.com/surgery-benefit/same-surgery-different-policy-tiers",
+    "title": "보험사마다 같은 수술의 종수가 다르다면? 두 계약 약관 비교법",
+    "exactPublicHeadAndMain": true,
+    "commit": "6380f94861066a041afa6a4e57c2328da4eb5ca0"
+  },
+  {
+    "number": 10,
+    "url": "https://hospital.hbuby.com/claims/english-operative-record-insurance-check",
+    "title": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
+    "exactPublicHeadAndMain": true,
+    "commit": "78989a69890bb9dfb9432973968a7afb369a512c"
+  }
+]

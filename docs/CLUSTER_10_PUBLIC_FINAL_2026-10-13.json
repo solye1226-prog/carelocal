@@ -1,0 +1,164 @@
+[
+  {
+    "path": "surgery-benefit/biliary-stent-removal-replacement-benefit",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "claims/gallbladder-polyp-surgery-insurance-documents",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "surgery-benefit/repeated-ercp-surgery-benefit",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "surgery-benefit/secondary-cataract-laser-benefit",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "silbi/cataract-preoperative-test-claim",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "surgery-benefit/cartistem-concurrent-procedure-records",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "silbi/cartistem-medical-necessity-supplement",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "surgery-benefit/same-surgery-different-policy-tiers",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "claims/english-operative-record-insurance-check",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": []
+  },
+  {
+    "path": "surgery-benefit/ercp",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": [
+      "surgery-benefit/biliary-stent-removal-replacement-benefit",
+      "surgery-benefit/repeated-ercp-surgery-benefit"
+    ]
+  },
+  {
+    "path": "surgery-benefit/gallbladder-surgery-benefit",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": [
+      "claims/gallbladder-polyp-surgery-insurance-documents",
+      "surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit"
+    ]
+  },
+  {
+    "path": "surgery-benefit/cataract-surgery-benefit",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": [
+      "surgery-benefit/secondary-cataract-laser-benefit"
+    ]
+  },
+  {
+    "path": "claims/cataract-surgery-claim-documents",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": [
+      "silbi/cataract-preoperative-test-claim"
+    ]
+  },
+  {
+    "path": "treatment-costs/cartistem-stem-cell-knee-cost",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": [
+      "surgery-benefit/cartistem-concurrent-procedure-records"
+    ]
+  },
+  {
+    "path": "silbi/cartistem-silbi-claim",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": [
+      "silbi/cartistem-medical-necessity-supplement"
+    ]
+  },
+  {
+    "path": "surgery-benefit/surgery-classification",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": [
+      "surgery-benefit/same-surgery-different-policy-tiers"
+    ]
+  },
+  {
+    "path": "claims/surgery-record-additional-request",
+    "http200": true,
+    "exactHead": true,
+    "exactMain": true,
+    "noindex": false,
+    "linksToNew": [
+      "claims/english-operative-record-insurance-check"
+    ]
+  }
+]

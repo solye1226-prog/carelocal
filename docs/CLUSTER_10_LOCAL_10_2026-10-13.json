@@ -1,0 +1,110 @@
+[
+  {
+    "path": "claims/english-operative-record-insurance-check",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법 관련 기록 확인을 안내하는 생성 썸네일"
+          },
+          {
+            "loaded": true,
+            "alt": "수술 관련 확인자료와 보험 청구 체크리스트를 대조하는 설명용 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "병원 확인자료와 청구서류를 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/content/M002005006.do",
+            "height": 99.625,
+            "inside": true
+          },
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 99.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/english-operative-record-insurance-check",
+        "bodyLength": 1910
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법 관련 기록 확인을 안내하는 생성 썸네일"
+          },
+          {
+            "loaded": true,
+            "alt": "수술 관련 확인자료와 보험 청구 체크리스트를 대조하는 설명용 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "병원 확인자료와 청구서류를 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/content/M002005006.do",
+            "height": 99.625,
+            "inside": true
+          },
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 99.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/english-operative-record-insurance-check",
+        "bodyLength": 1910
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법 관련 기록 확인을 안내하는 생성 썸네일"
+          },
+          {
+            "loaded": true,
+            "alt": "수술 관련 확인자료와 보험 청구 체크리스트를 대조하는 설명용 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "병원 확인자료와 청구서류를 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/content/M002005006.do",
+            "height": 79.484375,
+            "inside": true
+          },
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 79.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/english-operative-record-insurance-check",
+        "bodyLength": 1931
+      }
+    ]
+  }
+]
