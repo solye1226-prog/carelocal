@@ -1,0 +1,1430 @@
+[
+  {
+    "path": "surgery-benefit/gallbladder-surgery-benefit",
+    "pass": true,
+    "checks": [
+      {
+        "width": 360,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담낭절제술 종수술비 확인 가이드 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "담낭 모형을 보며 수술 방법을 설명받는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "담낭절제술 수술확인서와 약관을 대조하는 장면"
+          }
+        ],
+        "h1": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+        "articleWidth": 360,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 81.4375
+          },
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담낭절제술 종수술비 확인 가이드 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "담낭 모형을 보며 수술 방법을 설명받는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "담낭절제술 수술확인서와 약관을 대조하는 장면"
+          }
+        ],
+        "h1": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+        "articleWidth": 390,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 81.4375
+          },
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit"
+      },
+      {
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담낭절제술 종수술비 확인 가이드 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "담낭 모형을 보며 수술 방법을 설명받는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "담낭절제술 수술확인서와 약관을 대조하는 장면"
+          }
+        ],
+        "h1": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+        "articleWidth": 800,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 84.6875
+          },
+          {
+            "inside": true,
+            "height": 84.6875
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit"
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/ercp",
+    "pass": true,
+    "checks": [
+      {
+        "width": 360,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 카드뉴스형 대표 이미지"
+          },
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 관련 병원 상담 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 관련 수술확인서와 약관을 대조하는 장면"
+          }
+        ],
+        "h1": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까?",
+        "articleWidth": 360,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 103.53125
+          },
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/ercp"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 카드뉴스형 대표 이미지"
+          },
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 관련 병원 상담 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 관련 수술확인서와 약관을 대조하는 장면"
+          }
+        ],
+        "h1": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까?",
+        "articleWidth": 390,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 103.53125
+          },
+          {
+            "inside": true,
+            "height": 81.4375
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/ercp"
+      },
+      {
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 카드뉴스형 대표 이미지"
+          },
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 관련 병원 상담 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까? 관련 수술확인서와 약관을 대조하는 장면"
+          }
+        ],
+        "h1": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까?",
+        "articleWidth": 800,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 84.6875
+          },
+          {
+            "inside": true,
+            "height": 84.6875
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/ercp"
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/cataract-surgery-benefit",
+    "pass": true,
+    "checks": [
+      {
+        "width": 360,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "백내장 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "안과에서 백내장 수술과 인공수정체를 상담하는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "백내장 수술확인서와 진료비 서류를 살펴보는 장면"
+          }
+        ],
+        "h1": "백내장 수술, 보험에서는 몇 종일까?",
+        "articleWidth": 360,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 81.4375
+          },
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "백내장 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "안과에서 백내장 수술과 인공수정체를 상담하는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "백내장 수술확인서와 진료비 서류를 살펴보는 장면"
+          }
+        ],
+        "h1": "백내장 수술, 보험에서는 몇 종일까?",
+        "articleWidth": 390,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 81.4375
+          },
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit"
+      },
+      {
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "백내장 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "안과에서 백내장 수술과 인공수정체를 상담하는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "백내장 수술확인서와 진료비 서류를 살펴보는 장면"
+          }
+        ],
+        "h1": "백내장 수술, 보험에서는 몇 종일까?",
+        "articleWidth": 800,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 84.6875
+          },
+          {
+            "inside": true,
+            "height": 84.6875
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit"
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/surgery-classification",
+    "pass": true,
+    "checks": [
+      {
+        "width": 360,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "수술분류표 1종·2종·3종 확인 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "가입한 보험 약관과 수술확인서를 나란히 대조하는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "수술기록과 보험사 약관의 수술분류표를 확인하는 장면"
+          }
+        ],
+        "h1": "수술분류표에서 내 수술은 몇 종일까?",
+        "articleWidth": 360,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "수술분류표 1종·2종·3종 확인 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "가입한 보험 약관과 수술확인서를 나란히 대조하는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "수술기록과 보험사 약관의 수술분류표를 확인하는 장면"
+          }
+        ],
+        "h1": "수술분류표에서 내 수술은 몇 종일까?",
+        "articleWidth": 390,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification"
+      },
+      {
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "수술분류표 1종·2종·3종 확인 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "가입한 보험 약관과 수술확인서를 나란히 대조하는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "수술기록과 보험사 약관의 수술분류표를 확인하는 장면"
+          }
+        ],
+        "h1": "수술분류표에서 내 수술은 몇 종일까?",
+        "articleWidth": 800,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 84.6875
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification"
+      }
+    ]
+  },
+  {
+    "path": "silbi/cartistem-silbi-claim",
+    "pass": true,
+    "checks": [
+      {
+        "width": 360,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "카티스템 실비 청구 시 재료대와 수술료를 구분하는 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "무릎 치료 후 진료비 세부내역서와 영수증을 나누어 살펴보는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 치료 관련 보험 약관과 병원 영수증을 대조하는 장면"
+          }
+        ],
+        "h1": "카티스템 실비, 어떤 비용을 청구할 수 있을까?",
+        "articleWidth": 360,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 103.53125
+          },
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "카티스템 실비 청구 시 재료대와 수술료를 구분하는 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "무릎 치료 후 진료비 세부내역서와 영수증을 나누어 살펴보는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 치료 관련 보험 약관과 병원 영수증을 대조하는 장면"
+          }
+        ],
+        "h1": "카티스템 실비, 어떤 비용을 청구할 수 있을까?",
+        "articleWidth": 390,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 103.53125
+          },
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim"
+      },
+      {
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "카티스템 실비 청구 시 재료대와 수술료를 구분하는 카드뉴스"
+          },
+          {
+            "loaded": true,
+            "alt": "무릎 치료 후 진료비 세부내역서와 영수증을 나누어 살펴보는 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 치료 관련 보험 약관과 병원 영수증을 대조하는 장면"
+          }
+        ],
+        "h1": "카티스템 실비, 어떤 비용을 청구할 수 있을까?",
+        "articleWidth": 800,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 84.6875
+          },
+          {
+            "inside": true,
+            "height": 84.6875
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim"
+      }
+    ]
+  },
+  {
+    "path": "treatment-costs/cartistem-stem-cell-knee-cost",
+    "pass": true,
+    "checks": [
+      {
+        "width": 360,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "카티스템 비용과 청구자료를 구분하는 설명 이미지"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 진료비 영수증과 세부내역 확인 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 관련 비용과 가입 보험 약관을 대조하는 설명 장면"
+          }
+        ],
+        "h1": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
+        "articleWidth": 360,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 103.53125
+          },
+          {
+            "inside": true,
+            "height": 103.53125
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "카티스템 비용과 청구자료를 구분하는 설명 이미지"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 진료비 영수증과 세부내역 확인 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 관련 비용과 가입 보험 약관을 대조하는 설명 장면"
+          }
+        ],
+        "h1": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
+        "articleWidth": 390,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 103.53125
+          },
+          {
+            "inside": true,
+            "height": 81.4375
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": true
+          },
+          {
+            "text": "다음 확인",
+            "visible": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost"
+      },
+      {
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "images": [
+          {
+            "loaded": true,
+            "alt": "카티스템 비용과 청구자료를 구분하는 설명 이미지"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 진료비 영수증과 세부내역 확인 장면"
+          },
+          {
+            "loaded": true,
+            "alt": "카티스템 관련 비용과 가입 보험 약관을 대조하는 설명 장면"
+          }
+        ],
+        "h1": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
+        "articleWidth": 800,
+        "buttons": [
+          {
+            "inside": true,
+            "height": 84.6875
+          },
+          {
+            "inside": true,
+            "height": 84.6875
+          }
+        ],
+        "labels": [
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          },
+          {
+            "text": "확인 상황",
+            "visible": false
+          },
+          {
+            "text": "기록할 내용",
+            "visible": false
+          },
+          {
+            "text": "다음 확인",
+            "visible": false
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost"
+      }
+    ]
+  }
+]

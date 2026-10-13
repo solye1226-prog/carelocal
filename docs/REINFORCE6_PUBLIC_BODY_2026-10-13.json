@@ -1,0 +1,38 @@
+[
+  {
+    "path": "surgery-benefit/gallbladder-surgery-benefit",
+    "http200": true,
+    "exactHeadAndMain": true,
+    "noindex": false
+  },
+  {
+    "path": "surgery-benefit/ercp",
+    "http200": true,
+    "exactHeadAndMain": true,
+    "noindex": false
+  },
+  {
+    "path": "surgery-benefit/cataract-surgery-benefit",
+    "http200": true,
+    "exactHeadAndMain": true,
+    "noindex": false
+  },
+  {
+    "path": "surgery-benefit/surgery-classification",
+    "http200": true,
+    "exactHeadAndMain": true,
+    "noindex": false
+  },
+  {
+    "path": "silbi/cartistem-silbi-claim",
+    "http200": true,
+    "exactHeadAndMain": true,
+    "noindex": false
+  },
+  {
+    "path": "treatment-costs/cartistem-stem-cell-knee-cost",
+    "http200": true,
+    "exactHeadAndMain": true,
+    "noindex": false
+  }
+]

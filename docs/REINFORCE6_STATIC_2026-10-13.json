@@ -1,0 +1,74 @@
+[
+  {
+    "path": "surgery-benefit/gallbladder-surgery-benefit",
+    "titlePreserved": true,
+    "canonicalPreserved": true,
+    "imagesPreserved": true,
+    "followupLinksPreserved": true,
+    "imageCount": 3,
+    "removedGenericMFDSPDF": true,
+    "questionTablePresent": true,
+    "sourceButtons": 2,
+    "originalDatesPreserved": true
+  },
+  {
+    "path": "surgery-benefit/ercp",
+    "titlePreserved": true,
+    "canonicalPreserved": true,
+    "imagesPreserved": true,
+    "followupLinksPreserved": true,
+    "imageCount": 3,
+    "removedGenericMFDSPDF": true,
+    "questionTablePresent": true,
+    "sourceButtons": 2,
+    "originalDatesPreserved": true
+  },
+  {
+    "path": "surgery-benefit/cataract-surgery-benefit",
+    "titlePreserved": true,
+    "canonicalPreserved": true,
+    "imagesPreserved": true,
+    "followupLinksPreserved": true,
+    "imageCount": 3,
+    "removedGenericMFDSPDF": true,
+    "questionTablePresent": true,
+    "sourceButtons": 2,
+    "originalDatesPreserved": true
+  },
+  {
+    "path": "surgery-benefit/surgery-classification",
+    "titlePreserved": true,
+    "canonicalPreserved": true,
+    "imagesPreserved": true,
+    "followupLinksPreserved": true,
+    "imageCount": 3,
+    "removedGenericMFDSPDF": true,
+    "questionTablePresent": true,
+    "sourceButtons": 1,
+    "originalDatesPreserved": true
+  },
+  {
+    "path": "silbi/cartistem-silbi-claim",
+    "titlePreserved": true,
+    "canonicalPreserved": true,
+    "imagesPreserved": true,
+    "followupLinksPreserved": true,
+    "imageCount": 3,
+    "removedGenericMFDSPDF": true,
+    "questionTablePresent": true,
+    "sourceButtons": 2,
+    "originalDatesPreserved": true
+  },
+  {
+    "path": "treatment-costs/cartistem-stem-cell-knee-cost",
+    "titlePreserved": true,
+    "canonicalPreserved": true,
+    "imagesPreserved": true,
+    "followupLinksPreserved": true,
+    "imageCount": 3,
+    "removedGenericMFDSPDF": true,
+    "questionTablePresent": true,
+    "sourceButtons": 2,
+    "originalDatesPreserved": true
+  }
+]
