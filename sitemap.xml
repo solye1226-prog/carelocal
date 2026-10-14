@@ -277,7 +277,7 @@
   <url><loc>https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents</loc><lastmod>2026-10-14</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
@@ -336,4 +336,5 @@
 <url><loc>https://hospital.hbuby.com/silbi/heart-echo-exam-purpose</loc><lastmod>2026-10-14</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/gastroscopy-biopsy-pathology-cost</loc><lastmod>2026-10-14</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/h-pylori-eradication-pharmacy-test</loc><lastmod>2026-10-14</lastmod></url>
+<url><loc>https://hospital.hbuby.com/silbi/vitamin-infusion-drug-purpose</loc><lastmod>2026-10-14</lastmod></url>
 </urlset>

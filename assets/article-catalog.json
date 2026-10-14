@@ -615,6 +615,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/vitamin-infusion-drug-purpose",
+    "title": "비타민 수액 실비, 상품명보다 약제 성분·투여 목적을 확인하세요",
+    "category": "실비보험"
+  },
+  {
     "path": "/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
     "title": "뇌혈관질환 진단비 청구서류, 진단서 외 확인할 자료는?",
     "category": "진단비"
