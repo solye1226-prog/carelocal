@@ -55,6 +55,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/discharge-day-outpatient-silbi",
+    "title": "퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/downstairs-water-leak-insurance",
     "title": "아랫집 누수 보험 처리, 일상생활배상책임 청구 순서와 서류",
     "category": "보험금 청구"
