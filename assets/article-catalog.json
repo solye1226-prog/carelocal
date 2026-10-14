@@ -535,6 +535,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/osteoporosis-injection-drug-bill",
+    "title": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/outpatient-prescription-diagnosis-code",
     "title": "통원 실비 처방전에 진단명 코드가 없다면, 청구 전 확인 순서",
     "category": "실비보험"
