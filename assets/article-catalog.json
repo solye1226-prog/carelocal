@@ -190,6 +190,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/leqembi-mri-different-hospitals",
+    "title": "레켐비 투여와 MRI 병원이 다르면? 기관별 청구서류 연결 방법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/leqembi-repeat-claim-ledger",
     "title": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
     "category": "보험금 청구"
