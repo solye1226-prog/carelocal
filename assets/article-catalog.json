@@ -155,6 +155,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/insurance-claim-missing-visit-date",
+    "title": "보험금 청구한 진료일이 빠졌다면? 접수·지급내역 대조법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/insurance-claim-original-documents-request",
     "title": "보험금 청구 원본 서류 요청, 사진 접수 뒤 무엇을 보내야 할까?",
     "category": "보험금 청구"
