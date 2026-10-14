@@ -1,0 +1,134 @@
+[
+  {
+    "path": "silbi/hemorrhoid-surgery-silbi-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 청구 시 급여와 비급여를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-counter.webp",
+            "loaded": true,
+            "alt": "치질 수술 후 병원에서 진료비 세부내역서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-bill.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 지급액을 확인하려고 진료비 영수증과 세부내역서를 비교하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2671,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 청구 시 급여와 비급여를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-counter.webp",
+            "loaded": true,
+            "alt": "치질 수술 후 병원에서 진료비 세부내역서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-bill.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 지급액을 확인하려고 진료비 영수증과 세부내역서를 비교하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2671,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 청구 시 급여와 비급여를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-counter.webp",
+            "loaded": true,
+            "alt": "치질 수술 후 병원에서 진료비 세부내역서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-bill.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 지급액을 확인하려고 진료비 영수증과 세부내역서를 비교하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2629,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+      "httpSuccess": true,
+      "bytes": 66336,
+      "title": "필요서류 안내(질병) | KB손해보험 [A]",
+      "scope": "입원·통원·수술·진단 자료를 나누어 보는 회사별 예시. 모든 계약의 공통 지급 기준은 아닙니다."
+    },
+    {
+      "url": "https://www.kbinsure.co.kr/CG212030016.ec",
+      "httpSuccess": true,
+      "bytes": 42864,
+      "title": "내 보험금 청구 현황(내 보험금 청구 현황간편안내) | KB손해보험 [B]",
+      "scope": "로그인·본인확인 후 접수 건을 조회하는 공식 서비스. 다른 회사는 해당 회사의 조회 메뉴를 이용하세요."
+    },
+    {
+      "url": "https://www.kbinsure.co.kr/CG205010001.ec",
+      "httpSuccess": true,
+      "bytes": 54519,
+      "title": "보험금청구안내 | KB손해보험 [A]",
+      "scope": "서류 제출·담당자 지정·심사·결과 안내의 흐름과 접수 확인 방법. 취소·정정의 개별 승인 기준은 별도 문의하세요."
+    },
+    {
+      "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+      "httpSuccess": true,
+      "bytes": 48313,
+      "title": "FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer’s disease taking Leqembi (lecanemab) | FDA",
+      "scope": "미국의 약물 안전성 모니터링 자료입니다. 국내 치료 일정이나 보험 지급 규칙으로 적용하지 않습니다."
+    },
+    {
+      "url": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+      "httpSuccess": true,
+      "bytes": 31333,
+      "title": "손해보헙협회 소비자포털",
+      "scope": "실손 청구서류의 일반 안내. 본인 보험사의 실제 필요서류와 약관을 함께 확인하세요."
+    }
+  ],
+  "replacedUnavailableSource": {
+    "url": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+    "currentStatus": 404,
+    "replacement": "https://www.kbinsure.co.kr/CG205020003.ec"
+  }
+}

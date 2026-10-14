@@ -1,0 +1,134 @@
+[
+  {
+    "path": "claims/medical-expense-claim-documents",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/silbi-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "실비보험 청구서류와 모바일 청구 화면을 정리한 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "통원, 입원, 약제비, 비급여 실비보험 청구서류를 구분한 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "실비 접수 전 비용 자료와 목록을 비교하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+        "noindex": false,
+        "bodyLength": 4771,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/silbi-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "실비보험 청구서류와 모바일 청구 화면을 정리한 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "통원, 입원, 약제비, 비급여 실비보험 청구서류를 구분한 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "실비 접수 전 비용 자료와 목록을 비교하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+        "noindex": false,
+        "bodyLength": 4771,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/silbi-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "실비보험 청구서류와 모바일 청구 화면을 정리한 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "통원, 입원, 약제비, 비급여 실비보험 청구서류를 구분한 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "실비 접수 전 비용 자료와 목록을 비교하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+        "noindex": false,
+        "bodyLength": 4740,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

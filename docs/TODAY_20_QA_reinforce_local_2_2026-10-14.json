@@ -1,0 +1,134 @@
+[
+  {
+    "path": "treatment-costs/leqembi-cost-insurance",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 치료비 항목을 확인하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "치료 전 비용 항목을 문의하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "날짜별 치료 비용 자료를 정리하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+        "noindex": false,
+        "bodyLength": 3596,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 167,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 치료비 항목을 확인하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "치료 전 비용 항목을 문의하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "날짜별 치료 비용 자료를 정리하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+        "noindex": false,
+        "bodyLength": 3596,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 167,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 치료비 항목을 확인하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "치료 전 비용 항목을 문의하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "날짜별 치료 비용 자료를 정리하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+        "noindex": false,
+        "bodyLength": 3521,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 167,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

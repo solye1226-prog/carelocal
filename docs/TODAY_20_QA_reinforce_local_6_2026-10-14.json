@@ -1,0 +1,119 @@
+[
+  {
+    "path": "silbi/deductible-vs-copayment",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-thumb.webp",
+            "loaded": true,
+            "alt": "자기부담금과 공제금액, 무엇을 빼는 걸까요? 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body1.webp",
+            "loaded": true,
+            "alt": "진료비 영수증과 보험금 지급내역의 차이를 계산기로 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body2.webp",
+            "loaded": true,
+            "alt": "급여와 비급여 비용 서류를 두 파일로 나누어 정리한 책상"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+        "noindex": false,
+        "bodyLength": 2939,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-thumb.webp",
+            "loaded": true,
+            "alt": "자기부담금과 공제금액, 무엇을 빼는 걸까요? 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body1.webp",
+            "loaded": true,
+            "alt": "진료비 영수증과 보험금 지급내역의 차이를 계산기로 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body2.webp",
+            "loaded": true,
+            "alt": "급여와 비급여 비용 서류를 두 파일로 나누어 정리한 책상"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+        "noindex": false,
+        "bodyLength": 2939,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-thumb.webp",
+            "loaded": true,
+            "alt": "자기부담금과 공제금액, 무엇을 빼는 걸까요? 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body1.webp",
+            "loaded": true,
+            "alt": "진료비 영수증과 보험금 지급내역의 차이를 계산기로 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body2.webp",
+            "loaded": true,
+            "alt": "급여와 비급여 비용 서류를 두 파일로 나누어 정리한 책상"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+        "noindex": false,
+        "bodyLength": 2888,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

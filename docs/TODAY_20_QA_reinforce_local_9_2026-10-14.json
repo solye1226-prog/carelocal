@@ -1,0 +1,134 @@
+[
+  {
+    "path": "claims/insurance-claim-process",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-process-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차를 접수부터 지급까지 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수와 심사 보완서류를 확인하는 체크리스트 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-status.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수완료 심사중 지급 안내 상태를 확인하는 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-process",
+        "noindex": false,
+        "bodyLength": 4517,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 177,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-process-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차를 접수부터 지급까지 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수와 심사 보완서류를 확인하는 체크리스트 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-status.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수완료 심사중 지급 안내 상태를 확인하는 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-process",
+        "noindex": false,
+        "bodyLength": 4517,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 177,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-process-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차를 접수부터 지급까지 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수와 심사 보완서류를 확인하는 체크리스트 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-status.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수완료 심사중 지급 안내 상태를 확인하는 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-process",
+        "noindex": false,
+        "bodyLength": 4394,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 177,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

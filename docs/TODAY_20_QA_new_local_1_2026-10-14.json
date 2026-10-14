@@ -1,0 +1,137 @@
+[
+  {
+    "path": "claims/leqembi-repeat-claim-ledger",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-repeat-claim-ledger-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+        "noindex": false,
+        "bodyLength": 2175,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 158,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-repeat-claim-ledger-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+        "noindex": false,
+        "bodyLength": 2175,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 158,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-repeat-claim-ledger-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+        "noindex": false,
+        "bodyLength": 2157,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 158,
+        "h1Font": "34px",
+        "navigationClicked": true
+      }
+    ]
+  }
+]

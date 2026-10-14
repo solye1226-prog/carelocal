@@ -1,0 +1,137 @@
+[
+  {
+    "path": "claims/duplicate-insurance-claim-receipt",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보험금을 두 번 접수했다면? 접수번호 비교와 정정 문의 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/duplicate-insurance-claim-receipt-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt",
+        "noindex": false,
+        "bodyLength": 2133,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보험금을 두 번 접수했다면? 접수번호 비교와 정정 문의 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/duplicate-insurance-claim-receipt-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt",
+        "noindex": false,
+        "bodyLength": 2133,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보험금을 두 번 접수했다면? 접수번호 비교와 정정 문의 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/duplicate-insurance-claim-receipt-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt",
+        "noindex": false,
+        "bodyLength": 2109,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "34px",
+        "navigationClicked": true
+      }
+    ]
+  }
+]

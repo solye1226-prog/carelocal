@@ -1,0 +1,119 @@
+[
+  {
+    "path": "surgery-benefit/hemorrhoid-surgery-benefit",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "치핵 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "치핵 치료 방법을 의료진과 상담하는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "치핵 수술확인서와 보험 서류를 살펴보는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 3594,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "치핵 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "치핵 치료 방법을 의료진과 상담하는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "치핵 수술확인서와 보험 서류를 살펴보는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 3594,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "치핵 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "치핵 치료 방법을 의료진과 상담하는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "치핵 수술확인서와 보험 서류를 살펴보는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 3505,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

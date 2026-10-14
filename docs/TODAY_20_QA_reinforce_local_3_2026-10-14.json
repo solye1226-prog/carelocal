@@ -1,0 +1,119 @@
+[
+  {
+    "path": "claims/surgery-claim-documents",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지, 둘 다 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-claim-documents-thumb-cardnews-v2.webp",
+            "loaded": true,
+            "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-mobile.webp",
+            "loaded": true,
+            "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+        "noindex": false,
+        "bodyLength": 7340,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 188,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지, 둘 다 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-claim-documents-thumb-cardnews-v2.webp",
+            "loaded": true,
+            "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-mobile.webp",
+            "loaded": true,
+            "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+        "noindex": false,
+        "bodyLength": 7340,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 188,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지, 둘 다 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-claim-documents-thumb-cardnews-v2.webp",
+            "loaded": true,
+            "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-mobile.webp",
+            "loaded": true,
+            "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+        "noindex": false,
+        "bodyLength": 7175,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 188,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

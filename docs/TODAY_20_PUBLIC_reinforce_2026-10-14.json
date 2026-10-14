@@ -1,0 +1,62 @@
+[
+  {
+    "path": "silbi/leqembi-silbi-claim",
+    "title": "반복 치료비는 접수표와 지급표를 연결하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "69a9cd6aebc6298db13fda9275887a80ceec71cf"
+  },
+  {
+    "path": "treatment-costs/leqembi-cost-insurance",
+    "title": "견적서에서 포함된 비용과 별도 비용을 나눕니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "d8f2b7c25e985ff108d9dd72c71feec10e4a7dcc"
+  },
+  {
+    "path": "claims/surgery-claim-documents",
+    "title": "서류 이름보다 진단·수술·날짜가 확인되는지 봅니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "1ffecc0ee80ee5a407c36618b3b59249006575bc"
+  },
+  {
+    "path": "silbi/hemorrhoid-surgery-silbi-claim",
+    "title": "실비에서 적게 지급된 항목을 비용표로 표시합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "61c03955f58a186cb4197ac79cee88b50e903262"
+  },
+  {
+    "path": "surgery-benefit/hemorrhoid-surgery-benefit",
+    "title": "치핵 치료명과 계약의 지급 단위를 분리합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "d6a910ebc4ec368605c8dca5fc9867bbe6a5ff33"
+  },
+  {
+    "path": "silbi/deductible-vs-copayment",
+    "title": "가상 계산에서는 제외·공제·한도를 따로 표시합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "521fa6f3b8712090224f08bdbbe5e7d1ff39e658"
+  },
+  {
+    "path": "claims/insurance-claim-documents",
+    "title": "서류를 더 발급하기 전에 기존 제출물을 점검합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "b91d57ddb241c7dd19e90885dc2ef08f8e33a700"
+  },
+  {
+    "path": "claims/medical-expense-claim-documents",
+    "title": "비용 자료가 어느 날짜·기간을 담는지 확인하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "a5a99405a07a47c8fae83810a0f398159669e832"
+  },
+  {
+    "path": "claims/insurance-claim-process",
+    "title": "접수번호를 중심으로 자료·심사·지급을 연결합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "bb6379084998c5a88452ca0f83192412b5169e60"
+  },
+  {
+    "path": "silbi/mri-silbi-claim",
+    "title": "MRI는 검사 비용·판독 자료·전달 절차를 구분합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "94cb189a02106157398b3af0613b2828b5c2c17c"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "path": "silbi/mri-silbi-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MRI 실비 청구 핵심 확인 사항을 담은 카드뉴스"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-scanner.webp",
+            "loaded": true,
+            "alt": "MRI 검사실의 촬영 장비와 환자 준비 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-bill.webp",
+            "loaded": true,
+            "alt": "MRI 검사비 영수증과 진료비 세부내역서를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2824,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MRI 실비 청구 핵심 확인 사항을 담은 카드뉴스"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-scanner.webp",
+            "loaded": true,
+            "alt": "MRI 검사실의 촬영 장비와 환자 준비 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-bill.webp",
+            "loaded": true,
+            "alt": "MRI 검사비 영수증과 진료비 세부내역서를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2824,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MRI 실비 청구 핵심 확인 사항을 담은 카드뉴스"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-scanner.webp",
+            "loaded": true,
+            "alt": "MRI 검사실의 촬영 장비와 환자 준비 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-bill.webp",
+            "loaded": true,
+            "alt": "MRI 검사비 영수증과 진료비 세부내역서를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2759,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

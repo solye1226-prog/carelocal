@@ -1,0 +1,134 @@
+[
+  {
+    "path": "claims/insurance-claim-documents",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보험금 청구서류, 내 청구에는 무엇이 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+        "noindex": false,
+        "bodyLength": 7049,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보험금 청구서류, 내 청구에는 무엇이 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+        "noindex": false,
+        "bodyLength": 7049,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보험금 청구서류, 내 청구에는 무엇이 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+        "noindex": false,
+        "bodyLength": 6803,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]

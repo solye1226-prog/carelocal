@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0203.do",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5818",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://m.epostlife.go.kr/PYIMRD0002.do",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.chubb.com/kr-kr/claims/individual-insurance.html",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-leqembi",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.fsc.go.kr/po010103/72654",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.fsc.go.kr/po010103/86831",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.fsc.go.kr/po040200/76060",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.idbins.com/pc/bizxpress/ask/ia/FWCLAV1118.shtm",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.idbins.com/pc/bizxpress/ct/dc/FWCUSV1301.shtm",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.idblife.com/support/guide/acbf_clm_doc",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.kbinsure.co.kr/CG205010001.ec",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.kbinsure.co.kr/CG212030016.ec",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148791936",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.nhis.or.kr/nbinfo/htmc_under.do",
+    "status": "200",
+    "error": 0
+  },
+  {
+    "url": "https://www.silson24.or.kr/claim/web/custSupp/custSuppFAQ",
+    "status": "200",
+    "error": 0
+  }
+]

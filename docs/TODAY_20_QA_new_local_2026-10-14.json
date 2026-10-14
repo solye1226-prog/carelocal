@@ -1,0 +1,1892 @@
+[
+  {
+    "path": "claims/leqembi-repeat-claim-ledger",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-repeat-claim-ledger-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+        "noindex": false,
+        "bodyLength": 2178,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 158,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-repeat-claim-ledger-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+        "noindex": false,
+        "bodyLength": 2178,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 158,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-repeat-claim-ledger-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 반복 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+        "noindex": false,
+        "bodyLength": 2160,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 158,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/leqembi-mri-different-hospitals",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "레켐비 투여와 MRI 병원이 다르면? 기관별 청구서류 연결 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-mri-different-hospitals-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals",
+        "noindex": false,
+        "bodyLength": 2152,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 159,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "레켐비 투여와 MRI 병원이 다르면? 기관별 청구서류 연결 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-mri-different-hospitals-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals",
+        "noindex": false,
+        "bodyLength": 2152,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 159,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "레켐비 투여와 MRI 병원이 다르면? 기관별 청구서류 연결 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-mri-different-hospitals-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals",
+        "noindex": false,
+        "bodyLength": 2129,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 159,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/insurance-claim-missing-visit-date",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보험금 청구한 진료일이 빠졌다면? 접수·지급내역 대조법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-missing-visit-date-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-missing-visit-date",
+        "noindex": false,
+        "bodyLength": 2099,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 170,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보험금 청구한 진료일이 빠졌다면? 접수·지급내역 대조법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-missing-visit-date-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-missing-visit-date",
+        "noindex": false,
+        "bodyLength": 2099,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 170,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보험금 청구한 진료일이 빠졌다면? 접수·지급내역 대조법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-missing-visit-date-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 청구 진료일 누락 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-missing-visit-date",
+        "noindex": false,
+        "bodyLength": 2078,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 170,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/same-day-multiple-departments-silbi",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "같은 날 두 진료과 실비 청구, 영수증과 공제 단위 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/same-day-multiple-departments-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/same-day-multiple-departments-silbi",
+        "noindex": false,
+        "bodyLength": 2066,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 155,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "같은 날 두 진료과 실비 청구, 영수증과 공제 단위 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/same-day-multiple-departments-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/same-day-multiple-departments-silbi",
+        "noindex": false,
+        "bodyLength": 2066,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 155,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "같은 날 두 진료과 실비 청구, 영수증과 공제 단위 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/same-day-multiple-departments-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "같은 날 두 진료과 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/same-day-multiple-departments-silbi",
+        "noindex": false,
+        "bodyLength": 2043,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 155,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/spouse-card-medical-bill-silbi",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "가족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/spouse-card-medical-bill-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi",
+        "noindex": false,
+        "bodyLength": 2087,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "가족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/spouse-card-medical-bill-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi",
+        "noindex": false,
+        "bodyLength": 2087,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "가족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/spouse-card-medical-bill-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi",
+        "noindex": false,
+        "bodyLength": 2061,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/surgery-first-diagnosis-later-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "수술비 먼저, 진단비는 결과 후 청구할까? 담보별 접수 관리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-first-diagnosis-later-claim-thumb.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim",
+        "noindex": false,
+        "bodyLength": 2068,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "수술비 먼저, 진단비는 결과 후 청구할까? 담보별 접수 관리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-first-diagnosis-later-claim-thumb.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim",
+        "noindex": false,
+        "bodyLength": 2068,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "수술비 먼저, 진단비는 결과 후 청구할까? 담보별 접수 관리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-first-diagnosis-later-claim-thumb.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim",
+        "noindex": false,
+        "bodyLength": 2045,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/duplicate-insurance-claim-receipt",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보험금을 두 번 접수했다면? 접수번호 비교와 정정 문의 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/duplicate-insurance-claim-receipt-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt",
+        "noindex": false,
+        "bodyLength": 2133,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보험금을 두 번 접수했다면? 접수번호 비교와 정정 문의 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/duplicate-insurance-claim-receipt-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt",
+        "noindex": false,
+        "bodyLength": 2133,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보험금을 두 번 접수했다면? 접수번호 비교와 정정 문의 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/duplicate-insurance-claim-receipt-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 중복 접수 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt",
+        "noindex": false,
+        "bodyLength": 2109,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/discharge-day-outpatient-silbi",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/discharge-day-outpatient-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/discharge-day-outpatient-silbi",
+        "noindex": false,
+        "bodyLength": 2052,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 149,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/discharge-day-outpatient-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/discharge-day-outpatient-silbi",
+        "noindex": false,
+        "bodyLength": 2052,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 149,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/discharge-day-outpatient-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "퇴원일 외래 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/discharge-day-outpatient-silbi",
+        "noindex": false,
+        "bodyLength": 2040,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 149,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/operative-record-upload-missing-pages",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "수술기록지 사진에 페이지가 빠졌다면? 재발급 전 첨부 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/operative-record-upload-missing-pages-thumb.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/operative-record-upload-missing-pages",
+        "noindex": false,
+        "bodyLength": 2077,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 163,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "수술기록지 사진에 페이지가 빠졌다면? 재발급 전 첨부 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/operative-record-upload-missing-pages-thumb.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/operative-record-upload-missing-pages",
+        "noindex": false,
+        "bodyLength": 2077,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 163,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "수술기록지 사진에 페이지가 빠졌다면? 재발급 전 첨부 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/operative-record-upload-missing-pages-thumb.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술기록지 페이지 누락 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/operative-record-upload-missing-pages",
+        "noindex": false,
+        "bodyLength": 2059,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 163,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "claims/claim-paid-no-bank-deposit",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보험금 지급완료인데 입금이 안 보이면? 지급내역·계좌 확인 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/claim-paid-no-bank-deposit-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit",
+        "noindex": false,
+        "bodyLength": 2111,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 151,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보험금 지급완료인데 입금이 안 보이면? 지급내역·계좌 확인 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/claim-paid-no-bank-deposit-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit",
+        "noindex": false,
+        "bodyLength": 2111,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 151,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보험금 지급완료인데 입금이 안 보이면? 지급내역·계좌 확인 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/claim-paid-no-bank-deposit-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "보험금 지급완료 입금 안됨 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit",
+        "noindex": false,
+        "bodyLength": 2097,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 151,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

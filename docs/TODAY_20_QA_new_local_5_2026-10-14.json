@@ -1,0 +1,137 @@
+[
+  {
+    "path": "claims/spouse-card-medical-bill-silbi",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "가족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/spouse-card-medical-bill-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi",
+        "noindex": false,
+        "bodyLength": 2083,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "가족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/spouse-card-medical-bill-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi",
+        "noindex": false,
+        "bodyLength": 2083,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "가족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/spouse-card-medical-bill-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "가족 카드 병원비 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi",
+        "noindex": false,
+        "bodyLength": 2057,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "34px",
+        "navigationClicked": true
+      }
+    ]
+  }
+]

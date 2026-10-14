@@ -1,0 +1,137 @@
+[
+  {
+    "path": "claims/leqembi-mri-different-hospitals",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "레켐비 투여와 MRI 병원이 다르면? 기관별 청구서류 연결 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-mri-different-hospitals-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals",
+        "noindex": false,
+        "bodyLength": 2149,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 159,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "레켐비 투여와 MRI 병원이 다르면? 기관별 청구서류 연결 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-mri-different-hospitals-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals",
+        "noindex": false,
+        "bodyLength": 2149,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 159,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "레켐비 투여와 MRI 병원이 다르면? 기관별 청구서류 연결 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-mri-different-hospitals-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 MRI 다른 병원 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals",
+        "noindex": false,
+        "bodyLength": 2126,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 159,
+        "h1Font": "34px",
+        "navigationClicked": true
+      }
+    ]
+  }
+]

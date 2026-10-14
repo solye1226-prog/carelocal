@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-14",
+  "newPublished": 10,
+  "existingReinforced": 10,
+  "catalog": 287,
+  "sitemapURLs": 312,
+  "freshPublicHeadMain": 20,
+  "officialDetailButtons": 36,
+  "imagePlacements": 60,
+  "sourceHTTP": 20,
+  "QA": {
+    "new_local": {
+      "pages": 10,
+      "views": 30,
+      "allPass": true,
+      "record": "docs/TODAY_20_QA_new_local_2026-10-14.json"
+    },
+    "new_public": {
+      "pages": 10,
+      "views": 30,
+      "allPass": true,
+      "record": "docs/TODAY_20_QA_new_public_2026-10-14.json"
+    },
+    "reinforce_local": {
+      "pages": 10,
+      "views": 30,
+      "allPass": true,
+      "record": "docs/TODAY_20_QA_reinforce_local_2026-10-14.json"
+    },
+    "reinforce_public": {
+      "pages": 10,
+      "views": 30,
+      "allPass": true,
+      "record": "docs/TODAY_20_QA_reinforce_public_2026-10-14.json"
+    }
+  },
+  "contentCommit": "bc8c4d2d72ac97c85d25250611747426208cc4df",
+  "indexingVerified": false,
+  "fieldCoreWebVitalsVerified": false
+}

@@ -1,0 +1,1322 @@
+[
+  {
+    "path": "silbi/leqembi-silbi-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 실비 청구 시 약제비와 MRI 서류를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 관련 방문 영수증과 MRI 검사 자료를 구분하는 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 방문일별 의료비 영수증과 보험 약관을 정리하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+        "noindex": false,
+        "bodyLength": 4476,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 242,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 실비 청구 시 약제비와 MRI 서류를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 관련 방문 영수증과 MRI 검사 자료를 구분하는 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 방문일별 의료비 영수증과 보험 약관을 정리하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+        "noindex": false,
+        "bodyLength": 4476,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 242,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 실비 청구 시 약제비와 MRI 서류를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 관련 방문 영수증과 MRI 검사 자료를 구분하는 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 방문일별 의료비 영수증과 보험 약관을 정리하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+        "noindex": false,
+        "bodyLength": 4366,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 242,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "treatment-costs/leqembi-cost-insurance",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 치료비 항목을 확인하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "치료 전 비용 항목을 문의하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "날짜별 치료 비용 자료를 정리하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+        "noindex": false,
+        "bodyLength": 3557,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 167,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 치료비 항목을 확인하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "치료 전 비용 항목을 문의하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "날짜별 치료 비용 자료를 정리하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+        "noindex": false,
+        "bodyLength": 3557,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 167,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 치료비 항목을 확인하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "치료 전 비용 항목을 문의하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "날짜별 치료 비용 자료를 정리하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+        "noindex": false,
+        "bodyLength": 3482,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 167,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "claims/surgery-claim-documents",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지, 둘 다 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-claim-documents-thumb-cardnews-v2.webp",
+            "loaded": true,
+            "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-mobile.webp",
+            "loaded": true,
+            "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+        "noindex": false,
+        "bodyLength": 7326,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 190,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지, 둘 다 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-claim-documents-thumb-cardnews-v2.webp",
+            "loaded": true,
+            "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-mobile.webp",
+            "loaded": true,
+            "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+        "noindex": false,
+        "bodyLength": 7326,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 190,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지, 둘 다 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-claim-documents-thumb-cardnews-v2.webp",
+            "loaded": true,
+            "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-mobile.webp",
+            "loaded": true,
+            "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+        "noindex": false,
+        "bodyLength": 7161,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 190,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "silbi/hemorrhoid-surgery-silbi-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 청구 시 급여와 비급여를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-counter.webp",
+            "loaded": true,
+            "alt": "치질 수술 후 병원에서 진료비 세부내역서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-bill.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 지급액을 확인하려고 진료비 영수증과 세부내역서를 비교하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2676,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 청구 시 급여와 비급여를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-counter.webp",
+            "loaded": true,
+            "alt": "치질 수술 후 병원에서 진료비 세부내역서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-bill.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 지급액을 확인하려고 진료비 영수증과 세부내역서를 비교하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2676,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 청구 시 급여와 비급여를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-counter.webp",
+            "loaded": true,
+            "alt": "치질 수술 후 병원에서 진료비 세부내역서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-silbi-bill.webp",
+            "loaded": true,
+            "alt": "치질 수술 실비 지급액을 확인하려고 진료비 영수증과 세부내역서를 비교하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2634,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/hemorrhoid-surgery-benefit",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "치핵 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "치핵 치료 방법을 의료진과 상담하는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "치핵 수술확인서와 보험 서류를 살펴보는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 3572,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "치핵 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "치핵 치료 방법을 의료진과 상담하는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "치핵 수술확인서와 보험 서류를 살펴보는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 3572,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "치핵 수술비 몇 종 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "치핵 치료 방법을 의료진과 상담하는 장면"
+          },
+          {
+            "src": "/assets/images/hemorrhoid-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "치핵 수술확인서와 보험 서류를 살펴보는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 3483,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "silbi/deductible-vs-copayment",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-thumb.webp",
+            "loaded": true,
+            "alt": "자기부담금과 공제금액, 무엇을 빼는 걸까요? 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body1.webp",
+            "loaded": true,
+            "alt": "진료비 영수증과 보험금 지급내역의 차이를 계산기로 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body2.webp",
+            "loaded": true,
+            "alt": "급여와 비급여 비용 서류를 두 파일로 나누어 정리한 책상"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+        "noindex": false,
+        "bodyLength": 2932,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-thumb.webp",
+            "loaded": true,
+            "alt": "자기부담금과 공제금액, 무엇을 빼는 걸까요? 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body1.webp",
+            "loaded": true,
+            "alt": "진료비 영수증과 보험금 지급내역의 차이를 계산기로 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body2.webp",
+            "loaded": true,
+            "alt": "급여와 비급여 비용 서류를 두 파일로 나누어 정리한 책상"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+        "noindex": false,
+        "bodyLength": 2932,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-thumb.webp",
+            "loaded": true,
+            "alt": "자기부담금과 공제금액, 무엇을 빼는 걸까요? 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body1.webp",
+            "loaded": true,
+            "alt": "진료비 영수증과 보험금 지급내역의 차이를 계산기로 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-deductible-vs-copayment-body2.webp",
+            "loaded": true,
+            "alt": "급여와 비급여 비용 서류를 두 파일로 나누어 정리한 책상"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+        "noindex": false,
+        "bodyLength": 2881,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "claims/insurance-claim-documents",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보험금 청구서류, 내 청구에는 무엇이 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+        "noindex": false,
+        "bodyLength": 7032,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보험금 청구서류, 내 청구에는 무엇이 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+        "noindex": false,
+        "bodyLength": 7032,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보험금 청구서류, 내 청구에는 무엇이 필요할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+        "noindex": false,
+        "bodyLength": 6786,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 166,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "claims/medical-expense-claim-documents",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/silbi-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "실비보험 청구서류와 모바일 청구 화면을 정리한 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "통원, 입원, 약제비, 비급여 실비보험 청구서류를 구분한 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "실비 접수 전 비용 자료와 목록을 비교하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+        "noindex": false,
+        "bodyLength": 4748,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 163,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/silbi-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "실비보험 청구서류와 모바일 청구 화면을 정리한 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "통원, 입원, 약제비, 비급여 실비보험 청구서류를 구분한 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "실비 접수 전 비용 자료와 목록을 비교하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 103.53125,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+        "noindex": false,
+        "bodyLength": 4748,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 163,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/silbi-claim-documents-thumb.webp",
+            "loaded": true,
+            "alt": "실비보험 청구서류와 모바일 청구 화면을 정리한 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "통원, 입원, 약제비, 비급여 실비보험 청구서류를 구분한 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "실비 접수 전 비용 자료와 목록을 비교하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+        "noindex": false,
+        "bodyLength": 4717,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 163,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "claims/insurance-claim-process",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-process-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차를 접수부터 지급까지 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수와 심사 보완서류를 확인하는 체크리스트 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-status.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수완료 심사중 지급 안내 상태를 확인하는 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-process",
+        "noindex": false,
+        "bodyLength": 4501,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 177,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-process-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차를 접수부터 지급까지 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수와 심사 보완서류를 확인하는 체크리스트 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-status.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수완료 심사중 지급 안내 상태를 확인하는 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-process",
+        "noindex": false,
+        "bodyLength": 4501,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 177,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/insurance-claim-process-thumb.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차를 접수부터 지급까지 정리한 카드뉴스 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-checklist.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수와 심사 보완서류를 확인하는 체크리스트 이미지"
+          },
+          {
+            "src": "/assets/images/insurance-claim-process-status.webp",
+            "loaded": true,
+            "alt": "보험금 청구 절차에서 접수완료 심사중 지급 안내 상태를 확인하는 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/insurance-claim-process",
+        "noindex": false,
+        "bodyLength": 4378,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 177,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "silbi/mri-silbi-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MRI 실비 청구 핵심 확인 사항을 담은 카드뉴스"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-scanner.webp",
+            "loaded": true,
+            "alt": "MRI 검사실의 촬영 장비와 환자 준비 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-bill.webp",
+            "loaded": true,
+            "alt": "MRI 검사비 영수증과 진료비 세부내역서를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2807,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 136,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MRI 실비 청구 핵심 확인 사항을 담은 카드뉴스"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-scanner.webp",
+            "loaded": true,
+            "alt": "MRI 검사실의 촬영 장비와 환자 준비 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-bill.webp",
+            "loaded": true,
+            "alt": "MRI 검사비 영수증과 진료비 세부내역서를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2807,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 136,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mri-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MRI 실비 청구 핵심 확인 사항을 담은 카드뉴스"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-scanner.webp",
+            "loaded": true,
+            "alt": "MRI 검사실의 촬영 장비와 환자 준비 장면"
+          },
+          {
+            "src": "/assets/images/mri-silbi-claim-bill.webp",
+            "loaded": true,
+            "alt": "MRI 검사비 영수증과 진료비 세부내역서를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+        "noindex": false,
+        "bodyLength": 2742,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 136,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

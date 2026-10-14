@@ -1,0 +1,137 @@
+[
+  {
+    "path": "claims/surgery-first-diagnosis-later-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "수술비 먼저, 진단비는 결과 후 청구할까? 담보별 접수 관리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-first-diagnosis-later-claim-thumb.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim",
+        "noindex": false,
+        "bodyLength": 2066,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "수술비 먼저, 진단비는 결과 후 청구할까? 담보별 접수 관리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-first-diagnosis-later-claim-thumb.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim",
+        "noindex": false,
+        "bodyLength": 2066,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "25px",
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "수술비 먼저, 진단비는 결과 후 청구할까? 담보별 접수 관리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-first-diagnosis-later-claim-thumb.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/gallbladder-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "수술비 진단비 따로 청구 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205010001.ec",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim",
+        "noindex": false,
+        "bodyLength": 2043,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 148,
+        "h1Font": "34px",
+        "navigationClicked": true
+      }
+    ]
+  }
+]

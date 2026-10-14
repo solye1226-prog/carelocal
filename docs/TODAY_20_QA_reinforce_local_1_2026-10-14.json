@@ -1,0 +1,134 @@
+[
+  {
+    "path": "silbi/leqembi-silbi-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 실비 청구 시 약제비와 MRI 서류를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 관련 방문 영수증과 MRI 검사 자료를 구분하는 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 방문일별 의료비 영수증과 보험 약관을 정리하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+        "noindex": false,
+        "bodyLength": 4495,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 240,
+        "h1Font": "25px"
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 실비 청구 시 약제비와 MRI 서류를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 관련 방문 영수증과 MRI 검사 자료를 구분하는 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 방문일별 의료비 영수증과 보험 약관을 정리하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+        "noindex": false,
+        "bodyLength": 4495,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 240,
+        "h1Font": "25px"
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/leqembi-silbi-claim-thumb.webp",
+            "loaded": true,
+            "alt": "레켐비 실비 청구 시 약제비와 MRI 서류를 확인하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-visit.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 관련 방문 영수증과 MRI 검사 자료를 구분하는 장면"
+          },
+          {
+            "src": "/assets/images/leqembi-silbi-claim-records.webp",
+            "loaded": true,
+            "alt": "레켐비 치료 방문일별 의료비 영수증과 보험 약관을 정리하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://direct.samsungfire.com/m/claim/MP040202_001.html?tab=1",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG212030016.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+        "noindex": false,
+        "bodyLength": 4385,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 240,
+        "h1Font": "34px"
+      }
+    ]
+  }
+]
