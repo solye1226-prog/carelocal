@@ -1,0 +1,140 @@
+[
+  {
+    "path": "silbi/varicose-vein-silbi-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "하지정맥류 실비, 수술 방법에 따라 확인할 보장 기준과 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/varicose-vein-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "하지정맥류 실비 청구 전 확인할 서류를 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-documents.webp",
+            "loaded": true,
+            "alt": "하지정맥류 청구서류를 영수증·검사 기록·수술 기록으로 구분하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-mobile.webp",
+            "loaded": true,
+            "alt": "하지정맥류 실비 청구를 위해 스마트폰으로 서류를 촬영하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim",
+        "noindex": false,
+        "bodyLength": 5326,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "하지정맥류 실비, 수술 방법에 따라 확인할 보장 기준과 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/varicose-vein-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "하지정맥류 실비 청구 전 확인할 서류를 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-documents.webp",
+            "loaded": true,
+            "alt": "하지정맥류 청구서류를 영수증·검사 기록·수술 기록으로 구분하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-mobile.webp",
+            "loaded": true,
+            "alt": "하지정맥류 실비 청구를 위해 스마트폰으로 서류를 촬영하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim",
+        "noindex": false,
+        "bodyLength": 5326,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "하지정맥류 실비, 수술 방법에 따라 확인할 보장 기준과 청구서류",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/varicose-vein-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "하지정맥류 실비 청구 전 확인할 서류를 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-documents.webp",
+            "loaded": true,
+            "alt": "하지정맥류 청구서류를 영수증·검사 기록·수술 기록으로 구분하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-mobile.webp",
+            "loaded": true,
+            "alt": "하지정맥류 실비 청구를 위해 스마트폰으로 서류를 촬영하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim",
+        "noindex": false,
+        "bodyLength": 5156,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 181,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

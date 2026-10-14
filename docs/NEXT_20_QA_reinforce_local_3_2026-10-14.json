@@ -1,0 +1,155 @@
+[
+  {
+    "path": "silbi/covered-vs-noncovered-medical-costs",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-thumb.webp",
+            "loaded": true,
+            "alt": "급여와 비급여, 영수증에서 확인하세요 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+            "loaded": true,
+            "alt": "병원 수납 후 진료비 영수증의 서로 다른 비용 칸을 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+            "loaded": true,
+            "alt": "진료 전 비급여 비용 안내를 의료진에게 차분히 확인하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=517&tabIndex=0",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+        "noindex": false,
+        "bodyLength": 3363,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 143,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-thumb.webp",
+            "loaded": true,
+            "alt": "급여와 비급여, 영수증에서 확인하세요 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+            "loaded": true,
+            "alt": "병원 수납 후 진료비 영수증의 서로 다른 비용 칸을 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+            "loaded": true,
+            "alt": "진료 전 비급여 비용 안내를 의료진에게 차분히 확인하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=517&tabIndex=0",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+        "noindex": false,
+        "bodyLength": 3363,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 143,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-thumb.webp",
+            "loaded": true,
+            "alt": "급여와 비급여, 영수증에서 확인하세요 카드뉴스"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+            "loaded": true,
+            "alt": "병원 수납 후 진료비 영수증의 서로 다른 비용 칸을 확인하는 손"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+            "loaded": true,
+            "alt": "진료 전 비급여 비용 안내를 의료진에게 차분히 확인하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=517&tabIndex=0",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+        "noindex": false,
+        "bodyLength": 3308,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 143,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

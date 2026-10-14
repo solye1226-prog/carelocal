@@ -1,0 +1,112 @@
+[
+  {
+    "path": "checkups/mammography-abnormal-followup",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "silbi/thyroid-nodule-rfa-silbi-claim",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "silbi/covered-vs-noncovered-medical-costs",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "checkups/endoscopy",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "silbi/pharmacy-prescription-claim",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "silbi/noncovered-itemized-bill-silbi-documents",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "treatment-costs/hearing-aid-subsidy-before-purchase",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "checkups/osteopenia-bone-density-followup",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "silbi/varicose-vein-silbi-claim",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "surgery-benefit/injury-surgery-classification",
+    "originalInternalLinksLost": []
+  },
+  {
+    "path": "silbi/breast-ultrasound-silbi-purpose",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "silbi/thyroid-ultrasound-test-vs-rfa",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "silbi/heart-echo-exam-purpose",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "silbi/gastroscopy-biopsy-pathology-cost",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "silbi/h-pylori-eradication-pharmacy-test",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "silbi/vitamin-infusion-drug-purpose",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "silbi/audiometry-test-vs-hearing-aid",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "silbi/osteoporosis-injection-drug-bill",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "silbi/varicose-compression-stocking-cost",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  },
+  {
+    "path": "surgery-benefit/wound-suture-specific-rider",
+    "titleH1SchemaAligned": true,
+    "descriptionAligned": true,
+    "CTA": 2,
+    "kakao": 1
+  }
+]

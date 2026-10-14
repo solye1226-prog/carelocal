@@ -1,0 +1,191 @@
+[
+  {
+    "path": "surgery-benefit/wound-suture-specific-rider",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "창상봉합술 수술비, 상해수술비와 별도 치료비 담보를 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wound-suture-specific-rider-thumb.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider",
+        "noindex": false,
+        "bodyLength": 2037,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 144,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "창상봉합술 수술비, 상해수술비와 별도 치료비 담보를 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wound-suture-specific-rider-thumb.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider",
+        "noindex": false,
+        "bodyLength": 2037,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 144,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "창상봉합술 수술비, 상해수술비와 별도 치료비 담보를 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wound-suture-specific-rider-thumb.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider",
+        "noindex": false,
+        "bodyLength": 2015,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 144,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-14",
+  "newArticles": 10,
+  "reinforcedArticles": 10,
+  "articleCatalogBefore": 287,
+  "articleCatalogAfter": 297,
+  "sitemapURLs": 322,
+  "freshPublicHeadAndMain": 20,
+  "localViewsPassed": 60,
+  "publicViewsPassed": 60,
+  "widths": [
+    360,
+    390,
+    1280
+  ],
+  "newArticleAnchorChecks": 240,
+  "officialButtonPlacements": 54,
+  "imagePlacements": 60,
+  "officialURLsHTTP200": 25,
+  "oldTitlesCanonicalsImagesAndPublicationDatesPreserved": true,
+  "oldInternalLinksLost": 0,
+  "contentCommit": "6221fa08578cd2af42a97d9597ec2992cd2a56fe",
+  "adsRequestsBlockedDuringLayoutQA": true,
+  "indexingConfirmed": false,
+  "fieldCoreWebVitalsMeasured": false
+}

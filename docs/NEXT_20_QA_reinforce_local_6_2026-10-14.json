@@ -1,0 +1,170 @@
+[
+  {
+    "path": "silbi/noncovered-itemized-bill-silbi-documents",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "비급여 치료 뒤 세부내역서를 왜 요청할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/noncovered-itemized-bill-silbi-documents-thumb-v2.webp",
+            "loaded": true,
+            "alt": "비급여 치료 뒤 세부내역서를 왜 요청할까?에 필요한 자료를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/treatment-material-cost-silbi.webp",
+            "loaded": true,
+            "alt": "영수증과 세부내역서의 역할 관련 자료를 살펴보는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "약관의 비급여 담보를 찾습니다 관련 자료를 살펴보는 설명용 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.samsungfire.com/v2/html/publication/07/J_070_010_001.html",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents",
+        "noindex": false,
+        "bodyLength": 2278,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 147,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "비급여 치료 뒤 세부내역서를 왜 요청할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/noncovered-itemized-bill-silbi-documents-thumb-v2.webp",
+            "loaded": true,
+            "alt": "비급여 치료 뒤 세부내역서를 왜 요청할까?에 필요한 자료를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/treatment-material-cost-silbi.webp",
+            "loaded": true,
+            "alt": "영수증과 세부내역서의 역할 관련 자료를 살펴보는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "약관의 비급여 담보를 찾습니다 관련 자료를 살펴보는 설명용 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.samsungfire.com/v2/html/publication/07/J_070_010_001.html",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents",
+        "noindex": false,
+        "bodyLength": 2278,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 147,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "비급여 치료 뒤 세부내역서를 왜 요청할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/noncovered-itemized-bill-silbi-documents-thumb-v2.webp",
+            "loaded": true,
+            "alt": "비급여 치료 뒤 세부내역서를 왜 요청할까?에 필요한 자료를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/treatment-material-cost-silbi.webp",
+            "loaded": true,
+            "alt": "영수증과 세부내역서의 역할 관련 자료를 살펴보는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "약관의 비급여 담보를 찾습니다 관련 자료를 살펴보는 설명용 이미지"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.samsungfire.com/v2/html/publication/07/J_070_010_001.html",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents",
+        "noindex": false,
+        "bodyLength": 2256,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 147,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

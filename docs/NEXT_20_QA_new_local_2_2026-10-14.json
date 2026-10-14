@@ -1,0 +1,191 @@
+[
+  {
+    "path": "silbi/thyroid-ultrasound-test-vs-rfa",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "갑상선초음파 실비, 추적검사·세침검사·고주파 비용을 나누는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/thyroid-ultrasound-test-vs-rfa-thumb.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-consult.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-documents.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/mobile/healthinfo/management/managementDetail.do?managementId=4",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/thyroid-ultrasound-test-vs-rfa",
+        "noindex": false,
+        "bodyLength": 1959,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 132,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "갑상선초음파 실비, 추적검사·세침검사·고주파 비용을 나누는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/thyroid-ultrasound-test-vs-rfa-thumb.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-consult.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-documents.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/mobile/healthinfo/management/managementDetail.do?managementId=4",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/thyroid-ultrasound-test-vs-rfa",
+        "noindex": false,
+        "bodyLength": 1959,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 132,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "갑상선초음파 실비, 추적검사·세침검사·고주파 비용을 나누는 법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/thyroid-ultrasound-test-vs-rfa-thumb.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-consult.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-documents.webp",
+            "loaded": true,
+            "alt": "갑상선초음파 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/mobile/healthinfo/management/managementDetail.do?managementId=4",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/thyroid-ultrasound-test-vs-rfa",
+        "noindex": false,
+        "bodyLength": 1937,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 132,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

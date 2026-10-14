@@ -1,0 +1,160 @@
+{
+  "articlesCompared": 287,
+  "review": [
+    {
+      "new": "silbi/breast-ultrasound-silbi-purpose",
+      "keyword": "유방초음파 실비",
+      "existingBodyMatches": [
+        {
+          "path": "/surgery-benefit/breast-fibroadenoma-excision-benefit",
+          "title": "유방 섬유선종 절제 수술비, 맘모톰과 어떻게 다를까?"
+        },
+        {
+          "path": "/checkups/health-checkup-40s",
+          "title": "40대 건강검진, 일반검진과 암검진 대상 확인 방법"
+        },
+        {
+          "path": "/checkups/mammography-abnormal-followup",
+          "title": "유방촬영 이상 소견, 추가 촬영과 유방초음파 비용 확인"
+        }
+      ],
+      "parent": "checkups/mammography-abnormal-followup",
+      "distinctScope": "이상 결과의 해석·재검 일정이 아닌 초음파 비용의 검진/진료 구분과 청구 범위",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "silbi/thyroid-ultrasound-test-vs-rfa",
+      "keyword": "갑상선초음파 실비",
+      "existingBodyMatches": [],
+      "parent": "silbi/thyroid-nodule-rfa-silbi-claim",
+      "distinctScope": "고주파 치료 대표 글과 달리 초음파만/검사 동반 비용과 반복 검사 날짜를 분리",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "silbi/heart-echo-exam-purpose",
+      "keyword": "심장초음파 실비",
+      "existingBodyMatches": [
+        {
+          "path": "/claims/insurance-claim-documents",
+          "title": "보험금 청구서류 총정리, 실비·수술비·진단비별 준비물"
+        }
+      ],
+      "parent": "silbi/covered-vs-noncovered-medical-costs",
+      "distinctScope": "급여/비급여 일반 설명에서 확장한 심장 검사 유형·진단비의 경계",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "silbi/gastroscopy-biopsy-pathology-cost",
+      "keyword": "위내시경 조직검사 실비",
+      "existingBodyMatches": [
+        {
+          "path": "/checkups/abnormal-results",
+          "title": "건강검진 이상 소견 확인 가이드 | 케어로컬"
+        },
+        {
+          "path": "/checkups/gastric-intestinal-metaplasia-followup",
+          "title": "위내시경 장상피화생 진단, 조직검사 결과와 추적내시경 확인"
+        },
+        {
+          "path": "/checkups/health-checkup-40s",
+          "title": "40대 건강검진, 일반검진과 암검진 대상 확인 방법"
+        }
+      ],
+      "parent": "checkups/endoscopy",
+      "distinctScope": "내시경 준비 일반론이 아닌 조직검사 추가비용과 수술비 구분",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "silbi/h-pylori-eradication-pharmacy-test",
+      "keyword": "헬리코박터 제균치료 실비",
+      "existingBodyMatches": [
+        {
+          "path": "/checkups/gastric-intestinal-metaplasia-followup",
+          "title": "위내시경 장상피화생 진단, 조직검사 결과와 추적내시경 확인"
+        }
+      ],
+      "parent": "silbi/pharmacy-prescription-claim",
+      "distinctScope": "처방약 기본 청구에서 확장한 제균 전후 검사와 약국자료의 날짜 연결",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "silbi/vitamin-infusion-drug-purpose",
+      "keyword": "비타민 수액 실비",
+      "existingBodyMatches": [
+        {
+          "path": "/checkups/health-checkup-low-hemoglobin",
+          "title": "건강검진 혈색소 낮음, 빈혈 재검사 항목과 내과 방문 기준"
+        },
+        {
+          "path": "/checkups/osteopenia-bone-density-followup",
+          "title": "건강검진 골밀도 골감소증 판정, T점수 확인과 재검사 비용"
+        }
+      ],
+      "parent": "silbi/noncovered-itemized-bill-silbi-documents",
+      "distinctScope": "일반 비급여 서류 안내에서 확장한 수액 별칭/실제 약제/치료 목적의 대조",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "silbi/audiometry-test-vs-hearing-aid",
+      "keyword": "청력검사 실비",
+      "existingBodyMatches": [],
+      "parent": "treatment-costs/hearing-aid-subsidy-before-purchase",
+      "distinctScope": "보청기 구매 전 지원제도 글과 달리 의료 검사비/제품비/증명비 경계",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "silbi/osteoporosis-injection-drug-bill",
+      "keyword": "골다공증 주사 실비",
+      "existingBodyMatches": [
+        {
+          "path": "/checkups/osteopenia-bone-density-followup",
+          "title": "건강검진 골밀도 골감소증 판정, T점수 확인과 재검사 비용"
+        }
+      ],
+      "parent": "checkups/osteopenia-bone-density-followup",
+      "distinctScope": "골감소 검진 후 생활관리 글과 달리 실제 주사 약제비·투여비 청구",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "silbi/varicose-compression-stocking-cost",
+      "keyword": "하지정맥류 압박스타킹 실비",
+      "existingBodyMatches": [
+        {
+          "path": "/claims/varicose-insurance-low-payout-denied",
+          "title": "하지정맥류 보험금이 적거나 거절됐다면? 사유별 확인 순서"
+        },
+        {
+          "path": "/silbi/treatment-material-cost-silbi",
+          "title": "치료재료대 실비 청구 가능할까? 진료비 세부내역서 확인법"
+        },
+        {
+          "path": "/silbi/varicose-laser-silbi-claim",
+          "title": "하지정맥류 레이저 수술 실비 청구, 필요한 서류와 비용 확인 방법"
+        },
+        {
+          "path": "/silbi/varicose-radiofrequency-insurance",
+          "title": "하지정맥류 고주파 수술, 실비와 수술비 특약은 어떻게 다를까?"
+        },
+        {
+          "path": "/silbi/varicose-vein-silbi-claim",
+          "title": "하지정맥류 실비, 수술 방법에 따라 확인할 보장 기준과 청구서류"
+        },
+        {
+          "path": "/silbi/varicose-venaseal-clarivein-silbi",
+          "title": "베나실·클라리베인 하지정맥류 실비, 시술비와 재료비 어떻게 볼까?"
+        }
+      ],
+      "parent": "silbi/varicose-vein-silbi-claim",
+      "distinctScope": "하지정맥류 시술 실손 글과 구분되는 별도 압박제품 구입비·제외문구",
+      "newPathDoesNotExist": true
+    },
+    {
+      "new": "surgery-benefit/wound-suture-specific-rider",
+      "keyword": "창상봉합술 수술비",
+      "existingBodyMatches": [],
+      "parent": "surgery-benefit/injury-surgery-classification",
+      "distinctScope": "상해 종분류 대표 글과 달리 봉합 전용 치료비와 일반 수술 담보의 경계",
+      "newPathDoesNotExist": true
+    }
+  ]
+}

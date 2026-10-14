@@ -1,0 +1,155 @@
+[
+  {
+    "path": "checkups/endoscopy",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "위·대장내시경 준비와 결과 확인",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/gastroscopy-biopsy-pathology-cost-thumb.webp",
+            "loaded": true,
+            "alt": "내시경 조직검사 비용 구분을 설명하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-clinic.webp",
+            "loaded": true,
+            "alt": "검사 전 병원에 확인하는 설명용 생성 장면"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-receipt.webp",
+            "loaded": true,
+            "alt": "검진과 진료 영수증을 구분하는 설명용 생성 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/health/personal/checkInformation.do?checkno=11",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/endoscopy",
+        "noindex": false,
+        "bodyLength": 1951,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 137,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "위·대장내시경 준비와 결과 확인",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/gastroscopy-biopsy-pathology-cost-thumb.webp",
+            "loaded": true,
+            "alt": "내시경 조직검사 비용 구분을 설명하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-clinic.webp",
+            "loaded": true,
+            "alt": "검사 전 병원에 확인하는 설명용 생성 장면"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-receipt.webp",
+            "loaded": true,
+            "alt": "검진과 진료 영수증을 구분하는 설명용 생성 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/health/personal/checkInformation.do?checkno=11",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/endoscopy",
+        "noindex": false,
+        "bodyLength": 1951,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 137,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "위·대장내시경 준비와 결과 확인",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/gastroscopy-biopsy-pathology-cost-thumb.webp",
+            "loaded": true,
+            "alt": "내시경 조직검사 비용 구분을 설명하는 생성 이미지"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-clinic.webp",
+            "loaded": true,
+            "alt": "검사 전 병원에 확인하는 설명용 생성 장면"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-receipt.webp",
+            "loaded": true,
+            "alt": "검진과 진료 영수증을 구분하는 설명용 생성 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/health/personal/checkInformation.do?checkno=11",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/endoscopy",
+        "noindex": false,
+        "bodyLength": 1929,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 137,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

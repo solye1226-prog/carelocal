@@ -1,0 +1,206 @@
+[
+  {
+    "path": "silbi/osteoporosis-injection-drug-bill",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/osteoporosis-injection-drug-bill-thumb.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body1.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body2.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5833",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill",
+        "noindex": false,
+        "bodyLength": 1994,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/osteoporosis-injection-drug-bill-thumb.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body1.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body2.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5833",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill",
+        "noindex": false,
+        "bodyLength": 1994,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/osteoporosis-injection-drug-bill-thumb.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body1.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body2.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5833",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill",
+        "noindex": false,
+        "bodyLength": 1972,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

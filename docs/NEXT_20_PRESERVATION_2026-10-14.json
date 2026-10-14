@@ -1,0 +1,112 @@
+[
+  {
+    "path": "checkups/mammography-abnormal-followup",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 1442,
+    "newBodyCharacters": 2371,
+    "officialButtons": 3,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "silbi/thyroid-nodule-rfa-silbi-claim",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 3438,
+    "newBodyCharacters": 3870,
+    "officialButtons": 2,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "silbi/covered-vs-noncovered-medical-costs",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 2508,
+    "newBodyCharacters": 3430,
+    "officialButtons": 3,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "checkups/endoscopy",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 1054,
+    "newBodyCharacters": 1940,
+    "officialButtons": 3,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "silbi/pharmacy-prescription-claim",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 1533,
+    "newBodyCharacters": 2277,
+    "officialButtons": 2,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "silbi/noncovered-itemized-bill-silbi-documents",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 1410,
+    "newBodyCharacters": 2237,
+    "officialButtons": 4,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "treatment-costs/hearing-aid-subsidy-before-purchase",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 1678,
+    "newBodyCharacters": 2398,
+    "officialButtons": 4,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "checkups/osteopenia-bone-density-followup",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 1300,
+    "newBodyCharacters": 2176,
+    "officialButtons": 3,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "silbi/varicose-vein-silbi-claim",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 4996,
+    "newBodyCharacters": 5762,
+    "officialButtons": 2,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  },
+  {
+    "path": "surgery-benefit/injury-surgery-classification",
+    "originalImagesPreserved": true,
+    "h1Preserved": true,
+    "originalFragmentsPreserved": true,
+    "oldBodyCharacters": 3191,
+    "newBodyCharacters": 3809,
+    "officialButtons": 2,
+    "imageCount": 3,
+    "obsoleteClaimURLs": false
+  }
+]

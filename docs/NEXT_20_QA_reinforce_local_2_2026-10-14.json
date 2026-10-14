@@ -1,0 +1,140 @@
+[
+  {
+    "path": "silbi/thyroid-nodule-rfa-silbi-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "갑상선 결절 고주파 실비 청구, 시술비·전극 재료비와 서류 확인",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "갑상선 결절 고주파 실비와 시술비·재료비 확인을 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-consult.webp",
+            "loaded": true,
+            "alt": "갑상선 결절 초음파 소견과 치료 목적을 의료진에게 설명받는 연출 장면"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-documents.webp",
+            "loaded": true,
+            "alt": "갑상선 고주파 실비 청구를 위해 세부내역서와 진료기록, 약관을 나눠 보는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/mobile/healthinfo/management/managementDetail.do?managementId=4",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/thyroid-nodule-rfa-silbi-claim",
+        "noindex": false,
+        "bodyLength": 3572,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 188,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "갑상선 결절 고주파 실비 청구, 시술비·전극 재료비와 서류 확인",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "갑상선 결절 고주파 실비와 시술비·재료비 확인을 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-consult.webp",
+            "loaded": true,
+            "alt": "갑상선 결절 초음파 소견과 치료 목적을 의료진에게 설명받는 연출 장면"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-documents.webp",
+            "loaded": true,
+            "alt": "갑상선 고주파 실비 청구를 위해 세부내역서와 진료기록, 약관을 나눠 보는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/mobile/healthinfo/management/managementDetail.do?managementId=4",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/thyroid-nodule-rfa-silbi-claim",
+        "noindex": false,
+        "bodyLength": 3572,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 188,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "갑상선 결절 고주파 실비 청구, 시술비·전극 재료비와 서류 확인",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-thumb.webp",
+            "loaded": true,
+            "alt": "갑상선 결절 고주파 실비와 시술비·재료비 확인을 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-consult.webp",
+            "loaded": true,
+            "alt": "갑상선 결절 초음파 소견과 치료 목적을 의료진에게 설명받는 연출 장면"
+          },
+          {
+            "src": "/assets/images/thyroid-nodule-rfa-silbi-documents.webp",
+            "loaded": true,
+            "alt": "갑상선 고주파 실비 청구를 위해 세부내역서와 진료기록, 약관을 나눠 보는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/mobile/healthinfo/management/managementDetail.do?managementId=4",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/thyroid-nodule-rfa-silbi-claim",
+        "noindex": false,
+        "bodyLength": 3489,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 188,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

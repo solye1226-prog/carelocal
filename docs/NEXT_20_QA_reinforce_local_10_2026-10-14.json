@@ -1,0 +1,140 @@
+[
+  {
+    "path": "surgery-benefit/injury-surgery-classification",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "상해 종수술비 분류표는 어디서 확인할까?\n골절·인대 수술명 대조법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/injury-surgery-classification-thumb.webp",
+            "loaded": true,
+            "alt": "상해 종수술비 분류표 확인법을 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "상해 수술 후 병원에서 수술명과 날짜가 적힌 확인서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "수술확인서의 행위명과 가입 당시 상해 수술분류표를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+        "noindex": false,
+        "bodyLength": 3550,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "상해 종수술비 분류표는 어디서 확인할까?\n골절·인대 수술명 대조법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/injury-surgery-classification-thumb.webp",
+            "loaded": true,
+            "alt": "상해 종수술비 분류표 확인법을 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "상해 수술 후 병원에서 수술명과 날짜가 적힌 확인서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "수술확인서의 행위명과 가입 당시 상해 수술분류표를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+        "noindex": false,
+        "bodyLength": 3550,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "상해 종수술비 분류표는 어디서 확인할까?\n골절·인대 수술명 대조법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/injury-surgery-classification-thumb.webp",
+            "loaded": true,
+            "alt": "상해 종수술비 분류표 확인법을 안내하는 카드뉴스"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "상해 수술 후 병원에서 수술명과 날짜가 적힌 확인서를 받는 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "수술확인서의 행위명과 가입 당시 상해 수술분류표를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+        "noindex": false,
+        "bodyLength": 3492,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

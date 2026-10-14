@@ -1,0 +1,62 @@
+[
+  {
+    "path": "checkups/mammography-abnormal-followup",
+    "title": "이상 소견 후 검사 예약과 비용 문의를 나눕니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "88213fa2e0ec2a7a08240c3ebee185b78ca03573"
+  },
+  {
+    "path": "silbi/thyroid-nodule-rfa-silbi-claim",
+    "title": "초음파·조직검사·전극 재료비를 분리해 문의하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "6fc02bb110835ce294655b6cea8454f325c6a5b6"
+  },
+  {
+    "path": "silbi/covered-vs-noncovered-medical-costs",
+    "title": "영수증의 분류를 계약의 계산 항목으로 연결합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "2d946867092011671190336225463ab466e24e84"
+  },
+  {
+    "path": "checkups/endoscopy",
+    "title": "검사 당일 설명과 최종 병리 결과를 이어서 확인하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "3e0a263a70a69c71ef7805e1c861ed1482999ef2"
+  },
+  {
+    "path": "silbi/pharmacy-prescription-claim",
+    "title": "처방전 누락과 치료 후 재검 자료를 구분합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "b7d9e148343fafe045ea793933ed90d870d026e5"
+  },
+  {
+    "path": "silbi/noncovered-itemized-bill-silbi-documents",
+    "title": "비급여 이름·실제 성분·요청 이유를 맞춰 봅니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "477d29c857482ae976d40974936e594f99a516d6"
+  },
+  {
+    "path": "treatment-costs/hearing-aid-subsidy-before-purchase",
+    "title": "지원금·제품 가격·병원 검사비를 따로 계산합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "8b66eb854bf00ca4a8d6c50cff131bc39de2a713"
+  },
+  {
+    "path": "checkups/osteopenia-bone-density-followup",
+    "title": "검진 지원·추적 검사·주사 치료의 비용을 구분합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "c09627749b16d0eec26eecd77a57687d83e1b7d2"
+  },
+  {
+    "path": "silbi/varicose-vein-silbi-claim",
+    "title": "시술비와 별도 압박제품 비용을 나눠 접수합니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "18944d597d03d9c8022e4d461506adc687477e60"
+  },
+  {
+    "path": "surgery-benefit/injury-surgery-classification",
+    "title": "상해 수술 담보마다 정의와 대상표를 따로 봅니다",
+    "exactPublicHeadAndMain": true,
+    "commit": "59ac7108c30b6e6f6a1e33f2b290166a05859290"
+  }
+]

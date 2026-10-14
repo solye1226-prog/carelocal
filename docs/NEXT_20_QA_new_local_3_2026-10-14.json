@@ -1,0 +1,206 @@
+[
+  {
+    "path": "silbi/heart-echo-exam-purpose",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "심장초음파 실비 청구, 일반 검사와 약물부하 검사명부터 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/heart-echo-exam-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=517&tabIndex=0",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/heart-echo-exam-purpose",
+        "noindex": false,
+        "bodyLength": 2091,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "심장초음파 실비 청구, 일반 검사와 약물부하 검사명부터 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/heart-echo-exam-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=517&tabIndex=0",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/heart-echo-exam-purpose",
+        "noindex": false,
+        "bodyLength": 2091,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "심장초음파 실비 청구, 일반 검사와 약물부하 검사명부터 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/heart-echo-exam-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+            "loaded": true,
+            "alt": "심장초음파 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=517&tabIndex=0",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/heart-echo-exam-purpose",
+        "noindex": false,
+        "bodyLength": 2069,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

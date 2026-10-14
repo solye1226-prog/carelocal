@@ -1,0 +1,170 @@
+[
+  {
+    "path": "treatment-costs/hearing-aid-subsidy-before-purchase",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "보청기 지원금 신청, 구입 전에 장애등록·처방·급여제품을 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-thumb.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 안내 그림"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body1.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 상담 준비 장면"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body2.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 서류와 준비물 확인 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206_2.html",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://breast.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=3",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/hearing-aid-subsidy-before-purchase",
+        "noindex": false,
+        "bodyLength": 2452,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 157,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "보청기 지원금 신청, 구입 전에 장애등록·처방·급여제품을 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-thumb.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 안내 그림"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body1.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 상담 준비 장면"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body2.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 서류와 준비물 확인 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206_2.html",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://breast.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=3",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/hearing-aid-subsidy-before-purchase",
+        "noindex": false,
+        "bodyLength": 2452,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 157,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "보청기 지원금 신청, 구입 전에 장애등록·처방·급여제품을 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-thumb.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 안내 그림"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body1.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 상담 준비 장면"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body2.webp",
+            "loaded": true,
+            "alt": "보청기 지원금 신청 서류와 준비물 확인 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0206_2.html",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://breast.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=3",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/hearing-aid-subsidy-before-purchase",
+        "noindex": false,
+        "bodyLength": 2430,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 157,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

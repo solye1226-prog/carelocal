@@ -1,0 +1,155 @@
+[
+  {
+    "path": "checkups/mammography-abnormal-followup",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "유방촬영 이상\n재촬영·초음파 권고와 확정 진단을 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mammography-abnormal-followup-thumb.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/mammography-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mammography-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/examination/examView.do?examId=32928",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/mammography-abnormal-followup",
+        "noindex": false,
+        "bodyLength": 2349,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 149,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "유방촬영 이상\n재촬영·초음파 권고와 확정 진단을 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mammography-abnormal-followup-thumb.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/mammography-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mammography-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/examination/examView.do?examId=32928",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/mammography-abnormal-followup",
+        "noindex": false,
+        "bodyLength": 2349,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 149,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "유방촬영 이상\n재촬영·초음파 권고와 확정 진단을 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mammography-abnormal-followup-thumb.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/mammography-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/mammography-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "유방촬영 이상 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/examination/examView.do?examId=32928",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/mammography-abnormal-followup",
+        "noindex": false,
+        "bodyLength": 2307,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 149,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

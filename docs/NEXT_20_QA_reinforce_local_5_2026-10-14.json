@@ -1,0 +1,140 @@
+[
+  {
+    "path": "silbi/pharmacy-prescription-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?\n병원 영수증과 약국 영수증을 분리해 준비",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-thumb.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 대표 이미지"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body1.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 설명 장면 1"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body2.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 설명 장면 2"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32100",
+            "height": 129.875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+        "noindex": false,
+        "bodyLength": 2312,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 194,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?\n병원 영수증과 약국 영수증을 분리해 준비",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-thumb.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 대표 이미지"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body1.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 설명 장면 1"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body2.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 설명 장면 2"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32100",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+        "noindex": false,
+        "bodyLength": 2312,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 194,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?\n병원 영수증과 약국 영수증을 분리해 준비",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-thumb.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 대표 이미지"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body1.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 설명 장면 1"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body2.webp",
+            "loaded": true,
+            "alt": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까? 설명 장면 2"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32100",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+        "noindex": false,
+        "bodyLength": 2248,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 194,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

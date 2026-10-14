@@ -1,0 +1,1385 @@
+[
+  {
+    "path": "silbi/gastroscopy-biopsy-pathology-cost",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "위내시경 조직검사 실비, 내시경·병리·수면 비용을 따로 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/gastroscopy-biopsy-pathology-cost-thumb.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-clinic.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-receipt.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/health/personal/checkInformation.do?checkno=11",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/gastroscopy-biopsy-pathology-cost",
+        "noindex": false,
+        "bodyLength": 2132,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "위내시경 조직검사 실비, 내시경·병리·수면 비용을 따로 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/gastroscopy-biopsy-pathology-cost-thumb.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-clinic.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-receipt.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/health/personal/checkInformation.do?checkno=11",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/gastroscopy-biopsy-pathology-cost",
+        "noindex": false,
+        "bodyLength": 2132,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "위내시경 조직검사 실비, 내시경·병리·수면 비용을 따로 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/gastroscopy-biopsy-pathology-cost-thumb.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-clinic.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/polyp-screening-silbi-receipt.webp",
+            "loaded": true,
+            "alt": "위내시경 조직검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/health/personal/checkInformation.do?checkno=11",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/gastroscopy-biopsy-pathology-cost",
+        "noindex": false,
+        "bodyLength": 2110,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 165,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/h-pylori-eradication-pharmacy-test",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "헬리코박터 제균치료 실비, 검사·처방약·재검 비용 연결하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/h-pylori-eradication-pharmacy-test-thumb.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body1.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body2.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32100",
+            "height": 129.875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/h-pylori-eradication-pharmacy-test",
+        "noindex": false,
+        "bodyLength": 1964,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 139,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "헬리코박터 제균치료 실비, 검사·처방약·재검 비용 연결하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/h-pylori-eradication-pharmacy-test-thumb.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body1.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body2.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32100",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/h-pylori-eradication-pharmacy-test",
+        "noindex": false,
+        "bodyLength": 1964,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 139,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "헬리코박터 제균치료 실비, 검사·처방약·재검 비용 연결하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/h-pylori-eradication-pharmacy-test-thumb.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body1.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/pharmacy-prescription-claim-body2.webp",
+            "loaded": true,
+            "alt": "헬리코박터 제균치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32100",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/h-pylori-eradication-pharmacy-test",
+        "noindex": false,
+        "bodyLength": 1942,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 139,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/vitamin-infusion-drug-purpose",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "비타민 수액 실비, 상품명보다 약제 성분·투여 목적을 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/vitamin-infusion-drug-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/treatment-material-cost-silbi.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/v2/html/publication/07/J_070_010_001.html",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/vitamin-infusion-drug-purpose",
+        "noindex": false,
+        "bodyLength": 2228,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 143,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "비타민 수액 실비, 상품명보다 약제 성분·투여 목적을 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/vitamin-infusion-drug-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/treatment-material-cost-silbi.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/v2/html/publication/07/J_070_010_001.html",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/vitamin-infusion-drug-purpose",
+        "noindex": false,
+        "bodyLength": 2228,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 143,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "비타민 수액 실비, 상품명보다 약제 성분·투여 목적을 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/vitamin-infusion-drug-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/treatment-material-cost-silbi.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/silbi-claim-documents-types.webp",
+            "loaded": true,
+            "alt": "비타민 수액 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/v2/html/publication/07/J_070_010_001.html",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/vitamin-infusion-drug-purpose",
+        "noindex": false,
+        "bodyLength": 2206,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 143,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/audiometry-test-vs-hearing-aid",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "청력검사 실비, 병원 검사와 보청기 구입·지원금 서류 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/audiometry-test-vs-hearing-aid-thumb.webp",
+            "loaded": true,
+            "alt": "청력검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body1.webp",
+            "loaded": true,
+            "alt": "청력검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body2.webp",
+            "loaded": true,
+            "alt": "청력검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://breast.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=3",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid",
+        "noindex": false,
+        "bodyLength": 1971,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "청력검사 실비, 병원 검사와 보청기 구입·지원금 서류 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/audiometry-test-vs-hearing-aid-thumb.webp",
+            "loaded": true,
+            "alt": "청력검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body1.webp",
+            "loaded": true,
+            "alt": "청력검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body2.webp",
+            "loaded": true,
+            "alt": "청력검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://breast.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=3",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid",
+        "noindex": false,
+        "bodyLength": 1971,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "청력검사 실비, 병원 검사와 보청기 구입·지원금 서류 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/audiometry-test-vs-hearing-aid-thumb.webp",
+            "loaded": true,
+            "alt": "청력검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body1.webp",
+            "loaded": true,
+            "alt": "청력검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/hearing-aid-subsidy-before-purchase-body2.webp",
+            "loaded": true,
+            "alt": "청력검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://breast.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=3",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid",
+        "noindex": false,
+        "bodyLength": 1949,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/osteoporosis-injection-drug-bill",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/osteoporosis-injection-drug-bill-thumb.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body1.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body2.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5833",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill",
+        "noindex": false,
+        "bodyLength": 1994,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/osteoporosis-injection-drug-bill-thumb.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body1.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body2.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5833",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill",
+        "noindex": false,
+        "bodyLength": 1994,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/osteoporosis-injection-drug-bill-thumb.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body1.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/osteopenia-bone-density-followup-body2.webp",
+            "loaded": true,
+            "alt": "골다공증 주사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5833",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill",
+        "noindex": false,
+        "bodyLength": 1972,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/varicose-compression-stocking-cost",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "하지정맥류 압박스타킹 실비, 처방·구입 영수증이 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/varicose-compression-stocking-cost-thumb.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-documents.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-mobile.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/varicose-compression-stocking-cost",
+        "noindex": false,
+        "bodyLength": 2040,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 212,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "하지정맥류 압박스타킹 실비, 처방·구입 영수증이 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/varicose-compression-stocking-cost-thumb.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-documents.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-mobile.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/varicose-compression-stocking-cost",
+        "noindex": false,
+        "bodyLength": 2040,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 212,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "하지정맥류 압박스타킹 실비, 처방·구입 영수증이 있으면 될까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/varicose-compression-stocking-cost-thumb.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-documents.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/varicose-vein-silbi-mobile.webp",
+            "loaded": true,
+            "alt": "하지정맥류 압박스타킹 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/varicose-compression-stocking-cost",
+        "noindex": false,
+        "bodyLength": 2018,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 212,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/wound-suture-specific-rider",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "창상봉합술 수술비, 상해수술비와 별도 치료비 담보를 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wound-suture-specific-rider-thumb.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider",
+        "noindex": false,
+        "bodyLength": 2037,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 144,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "창상봉합술 수술비, 상해수술비와 별도 치료비 담보를 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wound-suture-specific-rider-thumb.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider",
+        "noindex": false,
+        "bodyLength": 2037,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 144,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "창상봉합술 수술비, 상해수술비와 별도 치료비 담보를 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wound-suture-specific-rider-thumb.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-hospital.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/injury-surgery-classification-policy.webp",
+            "loaded": true,
+            "alt": "창상봉합술 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.samsungfire.com/publication/pdf/ZPB403030_0_20260306_file1.pdf?_v=202603200612",
+            "height": 108.484375,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider",
+        "noindex": false,
+        "bodyLength": 2015,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 144,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

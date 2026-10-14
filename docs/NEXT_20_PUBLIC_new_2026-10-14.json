@@ -1,0 +1,62 @@
+[
+  {
+    "path": "silbi/breast-ultrasound-silbi-purpose",
+    "title": "유방초음파 실비, 검진 추가검사와 이상 소견 후 진료는 어떻게 다를까요?",
+    "exactPublicHeadAndMain": true,
+    "commit": "28f75a39804b383bac0516bfe2f94544ea1a9d23"
+  },
+  {
+    "path": "silbi/thyroid-ultrasound-test-vs-rfa",
+    "title": "갑상선초음파 실비, 추적검사·세침검사·고주파 비용을 나누는 법",
+    "exactPublicHeadAndMain": true,
+    "commit": "8ab890fdd8aa9ec03c46e964480bff11964e13a3"
+  },
+  {
+    "path": "silbi/heart-echo-exam-purpose",
+    "title": "심장초음파 실비 청구, 일반 검사와 약물부하 검사명부터 확인하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "e2033a3cfd7de2c900d098558802dcc9e6dd18db"
+  },
+  {
+    "path": "silbi/gastroscopy-biopsy-pathology-cost",
+    "title": "위내시경 조직검사 실비, 내시경·병리·수면 비용을 따로 확인하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "bd363f1340dbf2eda4a3b87e42bd0d7e74ef7e40"
+  },
+  {
+    "path": "silbi/h-pylori-eradication-pharmacy-test",
+    "title": "헬리코박터 제균치료 실비, 검사·처방약·재검 비용 연결하기",
+    "exactPublicHeadAndMain": true,
+    "commit": "4bbe748ac9fd67a37e65b5c8eb61fcf496df82d0"
+  },
+  {
+    "path": "silbi/vitamin-infusion-drug-purpose",
+    "title": "비타민 수액 실비, 상품명보다 약제 성분·투여 목적을 확인하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "47913179a8f736d602746df0077a3a6ae7b3e207"
+  },
+  {
+    "path": "silbi/audiometry-test-vs-hearing-aid",
+    "title": "청력검사 실비, 병원 검사와 보청기 구입·지원금 서류 구분하기",
+    "exactPublicHeadAndMain": true,
+    "commit": "84c37ee453d00142419040dd5a180126bf3d5244"
+  },
+  {
+    "path": "silbi/osteoporosis-injection-drug-bill",
+    "title": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+    "exactPublicHeadAndMain": true,
+    "commit": "f7bd72ba57129b64e761981e032cfae0a9112da5"
+  },
+  {
+    "path": "silbi/varicose-compression-stocking-cost",
+    "title": "하지정맥류 압박스타킹 실비, 처방·구입 영수증이 있으면 될까요?",
+    "exactPublicHeadAndMain": true,
+    "commit": "48f3cf24d162490b8b86c3d5c62aafe262d0e870"
+  },
+  {
+    "path": "surgery-benefit/wound-suture-specific-rider",
+    "title": "창상봉합술 수술비, 상해수술비와 별도 치료비 담보를 구분하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "3dc7822a48c6ff50a4a4e1ac19a53575ccc9774f"
+  }
+]
