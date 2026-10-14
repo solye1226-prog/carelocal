@@ -65,6 +65,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/duplicate-insurance-claim-receipt",
+    "title": "보험금을 두 번 접수했다면? 접수번호 비교와 정정 문의 순서",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/english-operative-record-insurance-check",
     "title": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
     "category": "보험금 청구"
