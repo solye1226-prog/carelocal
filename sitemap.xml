@@ -126,7 +126,7 @@
   <url><loc>https://hospital.hbuby.com/standards/termination-invalidity-cancellation-withdrawal</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/reinstatement-renewal-reenrollment</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/waiting-reduction-exclusion</loc><lastmod>2026-09-22</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/deductible-vs-copayment</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/renewable-vs-nonrenewable</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/main-contract-vs-rider</loc><lastmod>2026-09-22</lastmod></url>
@@ -333,4 +333,5 @@
 <url><loc>https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit</loc><lastmod>2026-10-14</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/breast-ultrasound-silbi-purpose</loc><lastmod>2026-10-14</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/thyroid-ultrasound-test-vs-rfa</loc><lastmod>2026-10-14</lastmod></url>
+<url><loc>https://hospital.hbuby.com/silbi/heart-echo-exam-purpose</loc><lastmod>2026-10-14</lastmod></url>
 </urlset>

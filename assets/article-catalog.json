@@ -450,6 +450,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/heart-echo-exam-purpose",
+    "title": "심장초음파 실비 청구, 일반 검사와 약물부하 검사명부터 확인하세요",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/hemorrhoid-surgery-silbi-claim",
     "title": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
     "category": "실비보험"
