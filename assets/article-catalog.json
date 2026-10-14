@@ -320,6 +320,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/surgery-first-diagnosis-later-claim",
+    "title": "수술비 먼저, 진단비는 결과 후 청구할까? 담보별 접수 관리",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/surgery-record-additional-request",
     "title": "보험사가 수술기록지를 추가 요청했다면? 발급 범위 확인법",
     "category": "보험금 청구"
