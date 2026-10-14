@@ -248,7 +248,7 @@
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-proteinuria</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-hematuria</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/fecal-occult-blood-positive</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/checkups/mammography-abnormal-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/mammography-abnormal-followup</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-result-reissue</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-low-egfr</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
@@ -331,4 +331,5 @@
 <url><loc>https://hospital.hbuby.com/claims/discharge-day-outpatient-silbi</loc><lastmod>2026-10-14</lastmod></url>
 <url><loc>https://hospital.hbuby.com/claims/operative-record-upload-missing-pages</loc><lastmod>2026-10-14</lastmod></url>
 <url><loc>https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit</loc><lastmod>2026-10-14</lastmod></url>
+<url><loc>https://hospital.hbuby.com/silbi/breast-ultrasound-silbi-purpose</loc><lastmod>2026-10-14</lastmod></url>
 </urlset>
