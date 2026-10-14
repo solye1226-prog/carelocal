@@ -300,6 +300,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/spouse-card-medical-bill-silbi",
+    "title": "가족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/surgery-certificate-missing-diagnosis",
     "title": "수술확인서에 진단명이 없다면? 수술비 청구 전 확인 순서",
     "category": "보험금 청구"
