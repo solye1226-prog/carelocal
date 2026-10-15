@@ -1520,6 +1520,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/severance-first-reservation-referral-upload",
+    "title": "세브란스 처음 예약, 의뢰서를 등록했어도 원본을 가져가야 할까?",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/severance-healthcheck-national-screening",
     "title": "세브란스 헬스체크업 예약, 국가건강검진과 어떻게 구분할까?",
     "category": "방문 가이드"

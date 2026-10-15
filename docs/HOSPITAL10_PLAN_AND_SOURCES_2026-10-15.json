@@ -670,5 +670,88 @@
     "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
     "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-c53ef8b8-1e95-4dc6-9da7-40f6b9a4f29e.png",
     "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"삼성서울병원 비용서류\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Two visibly distinct blank receipt sheets and itemized bill on desk beside phone. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
+  },
+  {
+    "path": "guides/severance-first-reservation-referral-upload",
+    "title": "세브란스 처음 예약, 의뢰서를 등록했어도 원본을 가져가야 할까?",
+    "lead": "세브란스병원은 처음 오신 분 빠른예약에서 의뢰서를 등록했더라도 내원 시 원본을 지참하도록 안내합니다. 상담 신청, 예약 확정, 진료 당일 서류 접수를 각각 확인하세요.",
+    "parent": "guides/tertiary-hospital-referral-checkup",
+    "source": "https://www.severance.healthcare/sev/patient-carer/appointment/treatment/apt-guide.do",
+    "sourceLabel": "세브란스병원 예약 안내·처음 오신 분 빠른예약",
+    "sections": [
+      [
+        "빠른예약 신청과 확정된 진료일을 구분합니다",
+        [
+          "공식 안내의 처음 오신 분 빠른예약은 전화번호를 남기면 상담원이 예약을 돕는 방식입니다. 신청 화면을 마쳤다고 원하는 날짜의 진료가 확정됐다고 해석하지 말고 상담 결과와 예약 내역을 확인하세요.",
+          "예약할 진료과가 정해졌는지, 의료진 선택으로 예약하는지에 따라 확인할 정보가 다를 수 있습니다. 본인의 증상과 기존 진료 자료를 기준으로 병원 상담을 받고 임의로 전문과를 단정하지 않는 것이 좋습니다."
+        ]
+      ],
+      [
+        "의뢰서 등록은 원본 지참 안내를 대신하지 않습니다",
+        [
+          "세브란스 공식 예약 안내는 의뢰서를 등록하면 예약 안내에 도움이 되지만 내원 시 의뢰서 원본을 지참하도록 설명합니다. 사진 업로드나 사전 등록과 진료일 원무 접수를 같은 단계로 보지 마세요.",
+          "원본을 잃었거나 재발급이 필요한 상황이면 진료 전에 병원에 대체 제출 가능 여부를 문의합니다. 사본이 있으니 괜찮다고 임의 판단하기보다 실제 예약과 자격에 맞는 안내를 받아야 합니다."
+        ]
+      ],
+      [
+        "환자 정보와 예약 경로를 함께 관리하세요",
+        [
+          "공식 안내는 본인 예약과 환자 정보를 추가하는 대리 예약 절차를 나누어 설명합니다. 보호자가 대신 예약했다면 보호자 이름으로 진료가 잡힌 것은 아닌지, 실제 환자의 예약 내역을 확인하세요.",
+          "환자 본인 신분확인 자료와 의뢰서, 필요 영상물을 따로 챙깁니다. 의료급여 환자는 건강보험과 준비 기준이 다를 수 있으므로 본인의 자격을 예약 창구에 알려 확인하세요."
+        ]
+      ],
+      [
+        "예약 변경과 서류 변경이 생기면 함께 알립니다",
+        [
+          "진료과나 날짜를 바꾸면 기존 의뢰서 내용과 새 예약의 연결을 다시 확인할 수 있습니다. 예약 변경만 끝내고 서류가 자동으로 다른 진료에 적용된다고 생각하지 마세요.",
+          "당일 접수 장소·도착 안내는 병원의 현재 예약 안내를 따릅니다. 온라인 신청이 어려우면 공식 페이지의 전화·방문 예약 경로를 확인하고, 같은 상담 신청을 여러 번 남기기 전에 진행 상태를 문의하세요."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "상담 신청",
+        "연락을 받을 예약 요청",
+        "희망일 확정과 구분"
+      ],
+      [
+        "의뢰서 등록",
+        "사전 상담용 자료",
+        "내원 시 원본 지참 안내 확인"
+      ],
+      [
+        "진료 당일",
+        "신분증·예약·서류 접수",
+        "환자 정보와 자격 대조"
+      ]
+    ],
+    "steps": [
+      "처음예약 신청 경로와 상담 결과를 확인합니다.",
+      "등록한 의뢰서 원본을 준비합니다.",
+      "실제 환자 예약과 진료 당일 접수를 확인합니다."
+    ],
+    "faq": [
+      [
+        "의뢰서 사진을 올렸는데 원본도 필요한가요?",
+        "세브란스 공식 빠른예약 안내는 사전 등록 후에도 내원 시 원본을 지참하도록 안내합니다. 분실한 경우 미리 병원에 문의하세요."
+      ]
+    ],
+    "distinct": "의뢰서 효력 일반 글과 달리 세브란스 빠른예약의 사전 등록·상담·원본 지참 흐름",
+    "bodypair": "tertiary-hospital-referral-checkup",
+    "number": 9,
+    "newThumb": "assets/images/severance-first-reservation-referral-upload-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/tertiary-hospital-referral-checkup-body1.webp",
+        "검진 후 동네 의원에서 진료의뢰서 필요 여부를 상담하는 설명 장면"
+      ],
+      [
+        "assets/images/tertiary-hospital-referral-checkup-body2.webp",
+        "상급종합병원 예약 전에 검진결과서와 진료의뢰서를 확인하는 설명 장면"
+      ]
+    ],
+    "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-da19d935-cb33-42d0-b96b-a6b6e437aa56.png",
+    "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"세브란스 의뢰서 등록\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult holding original blank referral in folder while using a plain phone at home. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
   }
 ]
