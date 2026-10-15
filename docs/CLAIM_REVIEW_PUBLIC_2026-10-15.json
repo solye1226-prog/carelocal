@@ -1,0 +1,97 @@
+{
+  "checkedAt": "2026-10-15T16:29:28+0900",
+  "pages": [
+    {
+      "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/cancer-diagnosis-benefit-documents",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/claims/cancer-diagnosis-benefit-documents",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "status": 200,
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "exactMain": true,
+      "exactHead": true,
+      "titlePreserved": true,
+      "imagesPreserved": true,
+      "noindex": false
+    }
+  ],
+  "cssExact": true,
+  "allPass": true
+}
