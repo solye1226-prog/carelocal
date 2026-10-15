@@ -1,0 +1,18 @@
+{
+  "checkedDate": "2026-10-15",
+  "method": "Official pages opened and relevant visible source paragraphs inspected using web tool",
+  "sources": [
+    {
+      "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+      "use": "입원·통원 구비서류, 비급여가 없는 세부내역서 생략, 진단명 자료. 해당 회사 예시로 범위 한정."
+    },
+    {
+      "url": "https://www.chubb.com/kr-kr/claims/individual-insurance.html",
+      "use": "입원일당/입원의료비 구분, 진단/암 검사자료, 수술명·수술일이 포함된 자료. 해당 회사 예시로 범위 한정."
+    },
+    {
+      "url": "https://www.snuh.org/content/M002005006.do",
+      "use": "사본발급 FAQ 1·3·4: 발급창구, 보험사에 필요서류 먼저 문의, 별도 수술확인서 대신 수술기록지 발급. 서울대학교병원만의 안내."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.claim-review-nav{margin:24px 0;padding:18px;border:1px solid #d4dfec;border-radius:12px;background:#f5f8fc}
+.article-body .claim-review-nav>p{font-size:16px;font-weight:700;margin:0 0 12px;line-height:1.6}
+.claim-review-nav .article-next-links{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.claim-review-nav .article-next-links a{min-height:48px;width:auto;padding:12px;font-size:15px;line-height:1.65;text-align:left;justify-content:flex-start;border:1px solid #c4d4e6;color:#164b82;background:#fff;word-break:keep-all;overflow-wrap:anywhere}
+.claim-review-nav .article-next-links a:hover{background:#e7eff8;color:#123c67}
+.claim-review-nav a:focus-visible{outline:3px solid #ae6510;outline-offset:3px}
+.official-guide-actions>.official-guide-button+.official-guide-button{margin-top:12px}
+@media(max-width:600px){.claim-review-nav{padding:14px}.claim-review-nav .article-next-links{grid-template-columns:1fr}.claim-review-nav .article-next-links a{font-size:15px}}
