@@ -515,6 +515,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/mast-allergy-test-claim",
+    "title": "MAST 검사 실비, 알레르기 검사 목적과 항목별 비용 확인하기",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/medical-certificate-fee-insurance",
     "title": "진단서 발급비 실비 청구될까? 발급 전 대체서류 확인 방법",
     "category": "실비보험"
