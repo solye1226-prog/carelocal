@@ -242,7 +242,7 @@
   <url><loc>https://hospital.hbuby.com/silbi/single-room-charge-difference</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-high-fasting-glucose</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure</loc><lastmod>2026-10-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-cholesterol-abnormal</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-high-liver-enzymes</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-proteinuria</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
@@ -343,4 +343,5 @@
 <url><loc>https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider</loc><lastmod>2026-10-14</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/mast-allergy-test-claim</loc><lastmod>2026-10-15</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim</loc><lastmod>2026-10-15</lastmod></url>
+<url><loc>https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim</loc><lastmod>2026-10-15</lastmod></url>
 </urlset>

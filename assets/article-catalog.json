@@ -480,6 +480,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/holter-ambulatory-ecg-claim",
+    "title": "홀터검사 실비, 24시간 심전도 부착·반납일과 비용 정리",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/hospital-bill-correction-silbi-claim",
     "title": "실비보험 청구 뒤 병원비 환불받았다면, 정산 확인 방법",
     "category": "실비보험"
