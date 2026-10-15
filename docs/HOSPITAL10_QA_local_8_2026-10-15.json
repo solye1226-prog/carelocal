@@ -1,0 +1,198 @@
+{
+  "path": "guides/smc-receipt-itemized-bill-download",
+  "pass": true,
+  "checks": [
+    {
+      "width": 360,
+      "status": 200,
+      "title": "삼성서울병원 영수증·세부내역서 발급, 납입확인서와 구분하기",
+      "canonical": "https://hospital.hbuby.com/guides/smc-receipt-itemized-bill-download",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/smc-receipt-itemized-bill-download-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/hospital-receipt-reissue-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/hospital-receipt-reissue-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2176,
+      "maxParagraph": 115,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 390,
+      "status": 200,
+      "title": "삼성서울병원 영수증·세부내역서 발급, 납입확인서와 구분하기",
+      "canonical": "https://hospital.hbuby.com/guides/smc-receipt-itemized-bill-download",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/smc-receipt-itemized-bill-download-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/hospital-receipt-reissue-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/hospital-receipt-reissue-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2176,
+      "maxParagraph": 115,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 1280,
+      "status": 200,
+      "title": "삼성서울병원 영수증·세부내역서 발급, 납입확인서와 구분하기",
+      "canonical": "https://hospital.hbuby.com/guides/smc-receipt-itemized-bill-download",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/smc-receipt-itemized-bill-download-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/hospital-receipt-reissue-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/hospital-receipt-reissue-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2150,
+      "maxParagraph": 115,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

@@ -587,5 +587,88 @@
     "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
     "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-082d9ce2-49ca-4d84-9593-61efe9643be4.png",
     "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"분당서울대병원 입원\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult checking room assignment message on blank phone beside a neatly packed small bag. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
+  },
+  {
+    "path": "guides/smc-receipt-itemized-bill-download",
+    "title": "삼성서울병원 영수증·세부내역서 발급, 납입확인서와 구분하기",
+    "lead": "삼성서울병원은 공식 제증명 목록에서 진료비 계산서·영수증, 납입확인서, 세부산정내역서를 구분합니다. 보험 청구를 위해 발급한다면 비용을 납부했다는 확인 자료와 항목별 내역 자료를 나누어 확인하세요.",
+    "parent": "claims/hospital-receipt-reissue",
+    "source": "https://www.samsunghospital.com/home/healthChart/issueService/InfoIssueCertiList.do",
+    "sourceLabel": "삼성서울병원 홈페이지·모바일 발급 가능 서류",
+    "sections": [
+      [
+        "세 문서는 이름과 용도가 다릅니다",
+        [
+          "공식 발급표는 진료비 계산서·영수증, 진료비 납입확인서, 진료비 세부산정내역서를 별도 문서로 안내합니다. 하나를 내려받았다고 다른 두 자료까지 발급됐다고 생각하지 마세요.",
+          "보험사가 필요한 자료를 요청했다면 정확한 서류명을 먼저 확인합니다. 연말정산 등 다른 용도로 발급받은 자료를 청구용 영수증과 같은 것으로 간주하면 다시 발급해야 할 수 있습니다."
+        ]
+      ],
+      [
+        "공식 제증명 목록에서 발급 경로를 확인하세요",
+        [
+          "삼성서울병원 안내는 해당 비용서류의 홈페이지 출력·다운로드와 모바일 다운로드 경로를 표시합니다. 실제 발급 화면에서는 본인인증과 해당 진료기간 선택을 확인하세요.",
+          "기기의 미리보기 화면과 저장된 최종 파일은 구분합니다. 파일이 열리는지, 진료일과 환자·기관 정보가 맞는지 확인한 뒤 제출용 사본을 준비하세요. 본인인증이나 파일 오류가 있으면 공식 발급 창구에 문의합니다."
+        ]
+      ],
+      [
+        "입원·외래·약국 비용을 같은 자료로 섞지 마세요",
+        [
+          "여러 진료일을 청구한다면 날짜별 영수증과 세부내역이 서로 대응하는지 확인합니다. 중간정산과 퇴원정산 자료가 함께 있다면 같은 비용을 두 번 더하지 않도록 포함 범위를 병원에 문의하세요.",
+          "병원 비용서류를 발급받았다고 외부 약국에서 결제한 비용까지 포함된다고 가정하지 않습니다. 필요한 약국 자료와 다른 기관 비용은 해당 발급처에서 따로 확인합니다."
+        ]
+      ],
+      [
+        "비용 자료 발급과 실비 심사는 별개입니다",
+        [
+          "공식 발급표에서 내려받을 수 있다는 사실은 민간 실손보험 지급 요건을 뜻하지 않습니다. 세부내역서의 필요 여부, 진단명 자료의 추가 제출과 공제·보장 범위는 가입한 보험사에 확인하세요.",
+          "이미 접수한 청구에 비용 정정이 생기면 기존 접수번호와 수정된 진료일을 함께 알려 보완합니다. 영수증을 새로 출력했다는 이유로 같은 진료를 다시 청구하지 않도록 주의하세요."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "영수증",
+        "진료일·실제 비용",
+        "카드 전표와 구분"
+      ],
+      [
+        "세부산정내역서",
+        "검사·처치·급여·비급여 항목",
+        "영수증과 같은 기간인지 대조"
+      ],
+      [
+        "납입확인서",
+        "납부 내역 확인 목적",
+        "청구용 대체 인정 여부는 별도"
+      ]
+    ],
+    "steps": [
+      "보험사가 요청한 서류명을 확인합니다.",
+      "공식 표에서 해당 문서의 발급 경로로 이동합니다.",
+      "기간·금액·누락 페이지를 확인해 제출합니다."
+    ],
+    "faq": [
+      [
+        "납입확인서만 내려받아도 되나요?",
+        "어떤 자료를 인정하는지는 제출처에 확인해야 합니다. 영수증·세부내역서와 같은 문서라고 가정하지 마세요."
+      ]
+    ],
+    "distinct": "영수증 분실 일반 글과 달리 삼성서울병원의 세 종류 비용서류·PC/모바일 경로 구분",
+    "bodypair": "hospital-receipt-reissue",
+    "number": 8,
+    "newThumb": "assets/images/smc-receipt-itemized-bill-download-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/hospital-receipt-reissue-body1.webp",
+        "병원 수납창구에서 분실한 진료비 영수증 재발급을 요청하는 설명 장면"
+      ],
+      [
+        "assets/images/hospital-receipt-reissue-body2.webp",
+        "진료비 영수증과 세부내역서를 구분해 보험 청구 자료를 정리하는 설명 장면"
+      ]
+    ],
+    "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-c53ef8b8-1e95-4dc6-9da7-40f6b9a4f29e.png",
+    "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"삼성서울병원 비용서류\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Two visibly distinct blank receipt sheets and itemized bill on desk beside phone. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
   }
 ]

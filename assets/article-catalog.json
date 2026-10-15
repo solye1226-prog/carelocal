@@ -1535,6 +1535,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/smc-receipt-itemized-bill-download",
+    "title": "삼성서울병원 영수증·세부내역서 발급, 납입확인서와 구분하기",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/snubh-admission-room-assignment",
     "title": "분당서울대학교병원 입원 예약, 병실 배정 알림 후 확인할 것",
     "category": "방문 가이드"
