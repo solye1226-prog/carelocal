@@ -255,5 +255,88 @@
     "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
     "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-c6a694f8-8433-4d82-85a8-fe870185a8af.png",
     "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"삼성서울병원 진단서\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult consulting a hospital clerk about certificate issuance, blank paperwork and smartphone. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
+  },
+  {
+    "path": "guides/severance-record-copy-proxy",
+    "title": "세브란스병원 의무기록 대리발급, 가족과 지정대리인 서류 구분",
+    "lead": "세브란스병원에서 가족의 의무기록을 발급받으려면 신청자가 친족인지 지정대리인인지부터 구분하세요. 환자 동의가 가능한 경우와 불가능한 경우의 구비서류가 다르며, 온라인 신청 범위도 별도로 확인해야 합니다.",
+    "parent": "claims/medical-records-proxy-documents",
+    "source": "https://www.severance.healthcare/sev/patient-carer/dvd/documents.do",
+    "sourceLabel": "세브란스병원 신청자별 구비서류",
+    "sections": [
+      [
+        "가족이면 같은 준비서류가 필요한 것은 아닙니다",
+        [
+          "세브란스병원 공식 구비서류 표는 배우자·직계존비속 등 친족과, 형제자매 등을 포함하는 지정대리인을 구분합니다. 동의 가능한 성인 환자 기준으로 친족에게는 가족관계 확인 자료를, 지정대리인에게는 위임장 등을 안내하므로 자신의 관계에 맞는 칸을 읽어야 합니다.",
+          "신청자 신분증만 챙기면 된다고 가정하지 마세요. 환자 신분 확인 자료, 자필 동의와 위임, 관계 확인 자료 중 무엇이 필요한지는 공식 표의 해당 유형을 대조합니다. 미성년자나 환자가 동의할 수 없는 상황은 별도 기준을 확인하세요."
+        ]
+      ],
+      [
+        "온라인 의무기록과 영상 CD 신청은 범위가 다릅니다",
+        [
+          "공식 발급 절차는 온라인 의무기록 사본 신청과 영상자료 우편발송 신청을 나누어 안내합니다. 특히 영상자료 온라인 신청은 환자 본인으로 제한한다고 안내하므로, 가족이 사본을 준비할 수 있다는 설명을 CD 신청에 그대로 적용하지 마세요.",
+          "온라인 접수라도 구비서류 심사가 끝나야 발급으로 이어집니다. 반려가 발생하면 서명·관계 자료·신청 자격 중 어느 항목이 부족한지 확인하고, 필요한 부분만 보완하세요."
+        ]
+      ],
+      [
+        "동의서와 위임장은 병원 서식의 조건을 확인하세요",
+        [
+          "공식 구비서류 안내에는 자필 동의서·위임장의 원본과 작성 시점에 관한 조건이 있습니다. 임의 양식이나 오래전에 받아둔 서명을 그대로 사용하기 전에 현재 서식과 조건을 확인합니다.",
+          "기록 발급 동의와 보험금 청구 위임은 같은 절차가 아닙니다. 병원에서 자료를 수령하는 권한과 보험사 접수·수령 권한을 나누어 확인해야 다른 기관의 위임장을 잘못 제출하는 일을 줄일 수 있습니다."
+        ]
+      ],
+      [
+        "방문 전에는 문서 범위와 수령 방법을 정하세요",
+        [
+          "발급할 기록의 진료과·기간·문서명을 미리 적습니다. 수술기록지인지 검사결과지인지 목적이 정해지면 불필요한 전체 기록 발급을 피할 수 있습니다.",
+          "방문 장소·운영시간은 공식 발급 절차에서 확인하세요. 온라인 신청 후 출력·다운로드를 기다리는 상황과 현장 수령을 신청한 상황을 혼동하지 않도록 신청 완료 내역을 보관합니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "신청자 관계",
+        "친족 또는 지정대리인",
+        "가족관계 자료와 위임장 구분"
+      ],
+      [
+        "환자 상태",
+        "동의 가능·미성년·동의 불가능",
+        "해당 유형의 공식 표 확인"
+      ],
+      [
+        "신청 방식",
+        "기록 사본 또는 영상자료",
+        "온라인 신청 가능 대상 별도 확인"
+      ]
+    ],
+    "steps": [
+      "환자 상태와 신청자 관계를 정합니다.",
+      "공식 표·최신 서식에 맞춰 준비합니다.",
+      "기간·문서명·수령 방식을 확인하고 접수합니다."
+    ],
+    "faq": [
+      [
+        "가족이 온라인으로 영상 CD를 신청할 수 있나요?",
+        "세브란스 공식 절차는 온라인 영상자료 우편발송 신청을 환자 본인으로 안내합니다. 의무기록 사본의 가족 신청 범위와 구분하세요."
+      ]
+    ],
+    "distinct": "일반 대리발급과 달리 세브란스의 친족/지정대리인 표·온라인 사본과 영상자료의 자격 차이",
+    "bodypair": "medical-records-proxy-documents",
+    "number": 4,
+    "newThumb": "assets/images/severance-record-copy-proxy-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/medical-records-proxy-documents-body1.webp",
+        "진료기록 창구에서 가족이 사본 발급 준비서류를 확인하는 설명 장면"
+      ],
+      [
+        "assets/images/medical-records-proxy-documents-body2.webp",
+        "진료기록 대리발급 동의서와 관계 확인 자료를 준비하는 설명 장면"
+      ]
+    ],
+    "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-a1f4bd64-2f90-44c5-8a4f-84246d11271d.png",
+    "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"세브란스 대리발급\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult family member checking an unsigned blank consent form and identity card face down at a records desk. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
   }
 ]
