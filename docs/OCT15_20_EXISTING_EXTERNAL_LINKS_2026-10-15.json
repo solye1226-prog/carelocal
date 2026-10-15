@@ -1,0 +1,312 @@
+[
+  {
+    "url": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+    "status": 200,
+    "finalURL": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+    "bytes": 105819,
+    "pages": [
+      "silbi/checkup-followup-test-insurance",
+      "silbi/mast-allergy-test-claim"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://d.samsungfire.com/docs/realloss.pdf",
+    "status": 200,
+    "finalURL": "https://d.samsungfire.com/docs/realloss.pdf",
+    "bytes": 2519879,
+    "pages": [
+      "silbi/checkup-followup-test-insurance",
+      "silbi/mast-allergy-test-claim",
+      "silbi/wart-cryotherapy-policy-exclusions"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+    "status": 200,
+    "finalURL": "https://www.kbinsure.co.kr/CG205020003.ec",
+    "bytes": 66336,
+    "pages": [
+      "checkups/health-checkup-high-blood-pressure",
+      "claims/surgery-record-certificate-mismatch",
+      "silbi/cervical-biopsy-pathology-claim",
+      "silbi/checkup-followup-test-insurance",
+      "silbi/cpap-rental-private-insurance-costs",
+      "silbi/cystoscopy-exam-biopsy-claim",
+      "silbi/emg-nerve-conduction-test-claim",
+      "silbi/holter-ambulatory-ecg-claim",
+      "silbi/mast-allergy-test-claim",
+      "silbi/pulmonary-function-test-purpose",
+      "silbi/wart-cryotherapy-policy-exclusions",
+      "surgery-benefit/carpal-tunnel-surgery-benefit",
+      "surgery-benefit/epidermal-cyst-drainage-vs-excision",
+      "surgery-benefit/lipoma-excision-operation-record"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://open.kakao.com/o/sVyT7uph",
+    "status": 200,
+    "finalURL": "https://open.kakao.com/o/sVyT7uph",
+    "bytes": 5065,
+    "pages": [
+      "checkups/health-checkup-high-blood-pressure",
+      "claims/surgery-record-certificate-mismatch",
+      "silbi/cervical-biopsy-pathology-claim",
+      "silbi/checkup-followup-test-insurance",
+      "silbi/cpap-rental-private-insurance-costs",
+      "silbi/cystoscopy-exam-biopsy-claim",
+      "silbi/emg-nerve-conduction-test-claim",
+      "silbi/generation-comparison",
+      "silbi/holter-ambulatory-ecg-claim",
+      "silbi/mast-allergy-test-claim",
+      "silbi/pulmonary-function-test-purpose",
+      "silbi/wart-cryotherapy-policy-exclusions",
+      "surgery-benefit/carpal-tunnel-surgery-benefit",
+      "surgery-benefit/disease-vs-type-surgery-benefit",
+      "surgery-benefit/epidermal-cyst-drainage-vs-excision",
+      "surgery-benefit/lipoma-excision-operation-record",
+      "treatment-costs/cpap-insurance-registration-adherence"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+    "status": 200,
+    "finalURL": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+    "bytes": 91436,
+    "pages": [
+      "silbi/emg-nerve-conduction-test-claim",
+      "surgery-benefit/carpal-tunnel-surgery-benefit"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+    "status": 200,
+    "finalURL": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+    "bytes": 47201,
+    "pages": [
+      "checkups/health-checkup-high-blood-pressure",
+      "silbi/holter-ambulatory-ecg-claim"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+    "status": 200,
+    "finalURL": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+    "bytes": 3182,
+    "pages": [
+      "silbi/cystoscopy-exam-biopsy-claim"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+    "status": 200,
+    "finalURL": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+    "bytes": 74941,
+    "pages": [
+      "silbi/cervical-biopsy-pathology-claim"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+    "status": 200,
+    "finalURL": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+    "bytes": 96073,
+    "pages": [
+      "silbi/pulmonary-function-test-purpose"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+    "bytes": 637904,
+    "pages": [
+      "silbi/cpap-rental-private-insurance-costs",
+      "treatment-costs/cpap-insurance-registration-adherence"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+    "status": 200,
+    "finalURL": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+    "bytes": 97687,
+    "pages": [
+      "surgery-benefit/lipoma-excision-operation-record"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+    "status": 200,
+    "finalURL": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+    "bytes": 97713,
+    "pages": [
+      "surgery-benefit/epidermal-cyst-drainage-vs-excision"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+    "status": 200,
+    "finalURL": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+    "bytes": 95041,
+    "pages": [
+      "silbi/wart-cryotherapy-policy-exclusions"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.samsungfire.com/publication/pdf/ZPB057080_0_20180401_file1.pdf#page=65",
+    "status": 200,
+    "finalURL": "https://www.samsungfire.com/publication/pdf/ZPB057080_0_20180401_file1.pdf#page=65",
+    "bytes": 2859856,
+    "pages": [
+      "silbi/checkup-followup-test-insurance"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.nhis.or.kr/nhis/healthin/wbhaca04500m01.do",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/nhis/healthin/wbhaca04500m01.do",
+    "bytes": 329325,
+    "pages": [
+      "checkups/chest-xray-abnormal-followup",
+      "checkups/health-checkup-high-blood-pressure",
+      "silbi/checkup-followup-test-insurance"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6292",
+    "status": 200,
+    "finalURL": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6292",
+    "bytes": 191696,
+    "pages": [
+      "surgery-benefit/carpal-tunnel-surgery-benefit"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.nhis.or.kr/renewal_popup/poster/20260204_poster_longdesc_1.html",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/renewal_popup/poster/20260204_poster_longdesc_1.html",
+    "bytes": 8503,
+    "pages": [
+      "checkups/health-checkup-high-blood-pressure"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5457",
+    "status": 200,
+    "finalURL": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5457",
+    "bytes": 186467,
+    "pages": [
+      "checkups/health-checkup-hematuria"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6711",
+    "status": 200,
+    "finalURL": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6711",
+    "bytes": 166807,
+    "pages": [
+      "checkups/health-checkup-hematuria"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877%2C&menu_seq=4886",
+    "status": 200,
+    "finalURL": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877%2C&menu_seq=4886",
+    "bytes": 71552,
+    "pages": [
+      "checkups/cervical-screening-ascus-followup"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.cancer.go.kr/download.do?uuid=5d5366bf-63fe-4f5e-82c4-7f4499c312bf.pdf",
+    "pages": [
+      "checkups/cervical-screening-ascus-followup"
+    ],
+    "pass": false,
+    "error": "The read operation timed out",
+    "retryError": "The read operation timed out",
+    "retiredAfterTwoTimeouts": true,
+    "replacement": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+    "replacementScope": "검진 질지침 PDF 대신 진단방법 상세 페이지; 자료의 역할을 새 버튼 이름에 명시"
+  },
+  {
+    "url": "https://www.nhis.or.kr/nhis/healthin/wbhaca04600m01.do",
+    "status": 200,
+    "finalURL": "https://www.nhis.or.kr/nhis/healthin/wbhaca04600m01.do",
+    "bytes": 326431,
+    "pages": [
+      "checkups/cervical-screening-ascus-followup",
+      "checkups/chest-xray-abnormal-followup"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.cancer.go.kr/lay1/bbs/S1T261C263/B/35/list.do",
+    "status": 200,
+    "finalURL": "https://www.cancer.go.kr/lay1/bbs/S1T261C263/B/35/list.do",
+    "bytes": 51194,
+    "pages": [
+      "checkups/chest-xray-abnormal-followup"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+    "status": 200,
+    "finalURL": "https://consumer.knia.or.kr/m/consumer/insurance-guide/0202.do",
+    "bytes": 31333,
+    "pages": [
+      "surgery-benefit/disease-vs-type-surgery-benefit"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://pay.naver.com/mymoney/insurance/contents/50",
+    "status": 200,
+    "finalURL": "https://pay.naver.com/mymoney/insurance/contents/50",
+    "bytes": 27213,
+    "pages": [
+      "surgery-benefit/disease-vs-type-surgery-benefit"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+    "status": 200,
+    "finalURL": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+    "bytes": 35202,
+    "pages": [
+      "claims/surgery-record-certificate-mismatch"
+    ],
+    "pass": true
+  },
+  {
+    "url": "https://www.fsc.go.kr/po010103/86831",
+    "status": 200,
+    "finalURL": "https://www.fsc.go.kr/po010103/86831",
+    "bytes": 280816,
+    "pages": [
+      "silbi/generation-comparison"
+    ],
+    "pass": true
+  }
+]

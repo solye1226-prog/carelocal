@@ -1,0 +1,155 @@
+[
+  {
+    "path": "silbi/checkup-followup-test-insurance",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "건강검진 후 재검사 실비\n정밀검사 비용과 청구서류 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-thumb.webp",
+            "loaded": true,
+            "alt": "검진 후 재검사 실비 확인사항 대표 이미지"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "검진비와 추가 진료비 자료를 나눠 정리하는 설명용 AI 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "재검사 비용 서류를 준비해 공식 보험사 상담을 문의하는 설명용 AI 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+        "noindex": false,
+        "bodyLength": 3291,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "건강검진 후 재검사 실비\n정밀검사 비용과 청구서류 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-thumb.webp",
+            "loaded": true,
+            "alt": "검진 후 재검사 실비 확인사항 대표 이미지"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "검진비와 추가 진료비 자료를 나눠 정리하는 설명용 AI 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "재검사 비용 서류를 준비해 공식 보험사 상담을 문의하는 설명용 AI 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+        "noindex": false,
+        "bodyLength": 3291,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "건강검진 후 재검사 실비\n정밀검사 비용과 청구서류 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-thumb.webp",
+            "loaded": true,
+            "alt": "검진 후 재검사 실비 확인사항 대표 이미지"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "검진비와 추가 진료비 자료를 나눠 정리하는 설명용 AI 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "재검사 비용 서류를 준비해 공식 보험사 상담을 문의하는 설명용 AI 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+        "noindex": false,
+        "bodyLength": 3239,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

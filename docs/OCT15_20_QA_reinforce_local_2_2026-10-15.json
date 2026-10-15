@@ -1,0 +1,140 @@
+[
+  {
+    "path": "surgery-benefit/carpal-tunnel-surgery-benefit",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "손목터널증후군 수술비, 신경 압박을 푸는 수술은 어떻게 확인할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "손목터널증후군 수술비와 실제 수술명 확인 카드뉴스"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "손목 신경 압박과 수술 방법을 의료진에게 확인하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "손목 수술확인서와 보험증권을 비교하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2332,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "손목터널증후군 수술비, 신경 압박을 푸는 수술은 어떻게 확인할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "손목터널증후군 수술비와 실제 수술명 확인 카드뉴스"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "손목 신경 압박과 수술 방법을 의료진에게 확인하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "손목 수술확인서와 보험증권을 비교하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2332,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "손목터널증후군 수술비, 신경 압박을 푸는 수술은 어떻게 확인할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "손목터널증후군 수술비와 실제 수술명 확인 카드뉴스"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "손목 신경 압박과 수술 방법을 의료진에게 확인하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "손목 수술확인서와 보험증권을 비교하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2289,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

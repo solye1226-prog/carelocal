@@ -1,0 +1,140 @@
+[
+  {
+    "path": "checkups/cervical-screening-ascus-followup",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "ASC-US 판정\n비정형세포 결과와 자궁경부암 확진을 같은 뜻으로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-thumb.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+        "noindex": false,
+        "bodyLength": 2085,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 104,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "ASC-US 판정\n비정형세포 결과와 자궁경부암 확진을 같은 뜻으로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-thumb.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+        "noindex": false,
+        "bodyLength": 2085,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 104,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "ASC-US 판정\n비정형세포 결과와 자궁경부암 확진을 같은 뜻으로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-thumb.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+        "noindex": false,
+        "bodyLength": 2041,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 104,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

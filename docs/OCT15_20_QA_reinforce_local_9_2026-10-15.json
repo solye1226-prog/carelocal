@@ -1,0 +1,155 @@
+[
+  {
+    "path": "claims/surgery-record-certificate-mismatch",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지가 다르게 적혔다면?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-record-mismatch-thumb.webp",
+            "loaded": true,
+            "alt": "수술확인서와 수술기록지가 다르게 적혔다면? 관련 서류를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "관련 의료기록과 보험서류를 확인하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "보험 약관과 청구자료를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+            "height": 81.4375,
+            "inside": true
+          },
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+        "noindex": false,
+        "bodyLength": 2156,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 127,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지가 다르게 적혔다면?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-record-mismatch-thumb.webp",
+            "loaded": true,
+            "alt": "수술확인서와 수술기록지가 다르게 적혔다면? 관련 서류를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "관련 의료기록과 보험서류를 확인하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "보험 약관과 청구자료를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+            "height": 81.4375,
+            "inside": true
+          },
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+        "noindex": false,
+        "bodyLength": 2156,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 127,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지가 다르게 적혔다면?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-record-mismatch-thumb.webp",
+            "loaded": true,
+            "alt": "수술확인서와 수술기록지가 다르게 적혔다면? 관련 서류를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "관련 의료기록과 보험서류를 확인하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "보험 약관과 청구자료를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+        "noindex": false,
+        "bodyLength": 2123,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 127,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

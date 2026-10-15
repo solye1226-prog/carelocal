@@ -1,0 +1,191 @@
+[
+  {
+    "path": "surgery-benefit/epidermal-cyst-drainage-vs-excision",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "표피낭종 제거 수술비, 피지낭종 배농과 낭종 절제 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/epidermal-cyst-drainage-vs-excision-thumb.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+        "noindex": false,
+        "bodyLength": 1818,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 116,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "표피낭종 제거 수술비, 피지낭종 배농과 낭종 절제 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/epidermal-cyst-drainage-vs-excision-thumb.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+        "noindex": false,
+        "bodyLength": 1818,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 116,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "표피낭종 제거 수술비, 피지낭종 배농과 낭종 절제 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/epidermal-cyst-drainage-vs-excision-thumb.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+        "noindex": false,
+        "bodyLength": 1794,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 116,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

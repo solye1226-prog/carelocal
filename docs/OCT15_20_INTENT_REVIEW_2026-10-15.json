@@ -1,0 +1,112 @@
+[
+  {
+    "path": "silbi/mast-allergy-test-claim",
+    "parent": "silbi/checkup-followup-test-insurance",
+    "distinct": "기존 검진 후속 일반 안내와 달리 MAST 패널·다른 알레르기 검사·결과와 목적의 구분",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": true,
+    "baseDemandVerified": true,
+    "medicalClaimSource": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "silbi/emg-nerve-conduction-test-claim",
+    "parent": "surgery-benefit/carpal-tunnel-surgery-benefit",
+    "distinct": "손목터널 수술 대표 글에서 다루지 않은 검사 항목·기관별 자료와 수술의 경계",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": true,
+    "baseDemandVerified": true,
+    "medicalClaimSource": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "silbi/holter-ambulatory-ecg-claim",
+    "parent": "checkups/health-checkup-high-blood-pressure",
+    "distinct": "고혈압 후속 진료 글과 별개인 심전도 장치의 착용·반납·비용 날짜 정리",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": false,
+    "baseDemandVerified": true,
+    "medicalClaimSource": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "silbi/cystoscopy-exam-biopsy-claim",
+    "parent": "checkups/health-checkup-hematuria",
+    "distinct": "혈뇨 후속 진료와 방광암 설명에서 독립한 내시경 실제 행위·비용 구분",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": false,
+    "baseDemandVerified": false,
+    "medicalClaimSource": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "silbi/cervical-biopsy-pathology-claim",
+    "parent": "checkups/cervical-screening-ascus-followup",
+    "distinct": "ASCUS 후속 일정 대신 실제 생검·병리·원추절제술의 비용과 담보 경계",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": false,
+    "baseDemandVerified": false,
+    "medicalClaimSource": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "silbi/pulmonary-function-test-purpose",
+    "parent": "checkups/chest-xray-abnormal-followup",
+    "distinct": "흉부 영상 이상 후속 글과 달리 기능 검사 종류·진료 목적·실제 비용 대조",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": false,
+    "baseDemandVerified": true,
+    "medicalClaimSource": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "silbi/cpap-rental-private-insurance-costs",
+    "parent": "treatment-costs/cpap-insurance-registration-adherence",
+    "distinct": "공단 등록·순응 지원 안내와 구별되는 민간 실손 대여료 계약 및 실납부액 경계",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": false,
+    "baseDemandVerified": false,
+    "medicalClaimSource": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "surgery-benefit/lipoma-excision-operation-record",
+    "parent": "surgery-benefit/disease-vs-type-surgery-benefit",
+    "distinct": "수술비 일반 비교에서 확장한 지방종의 실제 층·범위·다발성 동시 제거 기록",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": false,
+    "baseDemandVerified": true,
+    "medicalClaimSource": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "surgery-benefit/epidermal-cyst-drainage-vs-excision",
+    "parent": "claims/surgery-record-certificate-mismatch",
+    "distinct": "서류 불일치 대표 글에서 확장한 배농/낭종 제거와 단계별 날짜·횟수 구분",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": false,
+    "baseDemandVerified": false,
+    "medicalClaimSource": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  },
+  {
+    "path": "silbi/wart-cryotherapy-policy-exclusions",
+    "parent": "silbi/generation-comparison",
+    "distinct": "세대 비교 일반론과 다른 사마귀 비급여 제외 문구의 전제·반복 치료 자료",
+    "existingBodiesCompared": 297,
+    "exactLongTailDemandVerified": true,
+    "baseDemandVerified": true,
+    "medicalClaimSource": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+    "policyTierInferredFromCode": false,
+    "paymentGuaranteed": false
+  }
+]

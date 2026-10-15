@@ -1,0 +1,1922 @@
+[
+  {
+    "path": "silbi/mast-allergy-test-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "MAST 검사 실비, 알레르기 검사 목적과 항목별 비용 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mast-allergy-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+        "noindex": false,
+        "bodyLength": 2058,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "MAST 검사 실비, 알레르기 검사 목적과 항목별 비용 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mast-allergy-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+        "noindex": false,
+        "bodyLength": 2058,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "MAST 검사 실비, 알레르기 검사 목적과 항목별 비용 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mast-allergy-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+        "noindex": false,
+        "bodyLength": 2034,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/emg-nerve-conduction-test-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "근전도검사 실비, 신경전도검사와 수술비 청구를 나누는 기준",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/emg-nerve-conduction-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+        "noindex": false,
+        "bodyLength": 1847,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 114,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "근전도검사 실비, 신경전도검사와 수술비 청구를 나누는 기준",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/emg-nerve-conduction-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+        "noindex": false,
+        "bodyLength": 1847,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 114,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "근전도검사 실비, 신경전도검사와 수술비 청구를 나누는 기준",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/emg-nerve-conduction-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+        "noindex": false,
+        "bodyLength": 1823,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 114,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/holter-ambulatory-ecg-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "홀터검사 실비, 24시간 심전도 부착·반납일과 비용 정리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/holter-ambulatory-ecg-claim-thumb.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+        "noindex": false,
+        "bodyLength": 1832,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 131,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "홀터검사 실비, 24시간 심전도 부착·반납일과 비용 정리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/holter-ambulatory-ecg-claim-thumb.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+        "noindex": false,
+        "bodyLength": 1832,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 131,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "홀터검사 실비, 24시간 심전도 부착·반납일과 비용 정리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/holter-ambulatory-ecg-claim-thumb.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+        "noindex": false,
+        "bodyLength": 1808,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 131,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/cystoscopy-exam-biopsy-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "방광내시경 실비, 검사만 받은 경우와 조직 채취 비용 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cystoscopy-exam-biopsy-claim-thumb.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cystoscopy-exam-biopsy-claim",
+        "noindex": false,
+        "bodyLength": 1844,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 120,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "방광내시경 실비, 검사만 받은 경우와 조직 채취 비용 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cystoscopy-exam-biopsy-claim-thumb.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cystoscopy-exam-biopsy-claim",
+        "noindex": false,
+        "bodyLength": 1844,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 120,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "방광내시경 실비, 검사만 받은 경우와 조직 채취 비용 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cystoscopy-exam-biopsy-claim-thumb.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "방광내시경 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cystoscopy-exam-biopsy-claim",
+        "noindex": false,
+        "bodyLength": 1820,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 120,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/cervical-biopsy-pathology-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "자궁경부 조직검사 실비, 세포검사·HPV·원추절제술 비용 구분",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-biopsy-pathology-claim-thumb.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cervical-biopsy-pathology-claim",
+        "noindex": false,
+        "bodyLength": 1884,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 118,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "자궁경부 조직검사 실비, 세포검사·HPV·원추절제술 비용 구분",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-biopsy-pathology-claim-thumb.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cervical-biopsy-pathology-claim",
+        "noindex": false,
+        "bodyLength": 1884,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 118,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "자궁경부 조직검사 실비, 세포검사·HPV·원추절제술 비용 구분",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-biopsy-pathology-claim-thumb.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "자궁경부 조직검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cervical-biopsy-pathology-claim",
+        "noindex": false,
+        "bodyLength": 1860,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 118,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/pulmonary-function-test-purpose",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "폐기능검사 실비, 검진 추가 항목과 증상 평가 진료 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pulmonary-function-test-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+        "noindex": false,
+        "bodyLength": 1825,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 112,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "폐기능검사 실비, 검진 추가 항목과 증상 평가 진료 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pulmonary-function-test-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+        "noindex": false,
+        "bodyLength": 1825,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 112,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "폐기능검사 실비, 검진 추가 항목과 증상 평가 진료 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pulmonary-function-test-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+        "noindex": false,
+        "bodyLength": 1801,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 112,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/cpap-rental-private-insurance-costs",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "양압기 대여료 실비, 건강보험 요양비와 민간보험 비용 나누기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-rental-private-insurance-costs-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+        "noindex": false,
+        "bodyLength": 1941,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "양압기 대여료 실비, 건강보험 요양비와 민간보험 비용 나누기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-rental-private-insurance-costs-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+        "noindex": false,
+        "bodyLength": 1941,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "양압기 대여료 실비, 건강보험 요양비와 민간보험 비용 나누기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-rental-private-insurance-costs-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+        "noindex": false,
+        "bodyLength": 1917,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/lipoma-excision-operation-record",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "지방종 제거 수술비, 병명보다 실제 절제 범위와 약관 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/lipoma-excision-operation-record-thumb.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/lipoma-excision-operation-record",
+        "noindex": false,
+        "bodyLength": 1858,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 118,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "지방종 제거 수술비, 병명보다 실제 절제 범위와 약관 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/lipoma-excision-operation-record-thumb.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/lipoma-excision-operation-record",
+        "noindex": false,
+        "bodyLength": 1858,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 118,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "지방종 제거 수술비, 병명보다 실제 절제 범위와 약관 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/lipoma-excision-operation-record-thumb.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "지방종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/lipoma-excision-operation-record",
+        "noindex": false,
+        "bodyLength": 1834,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 118,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/epidermal-cyst-drainage-vs-excision",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "표피낭종 제거 수술비, 피지낭종 배농과 낭종 절제 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/epidermal-cyst-drainage-vs-excision-thumb.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+        "noindex": false,
+        "bodyLength": 1818,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 116,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "표피낭종 제거 수술비, 피지낭종 배농과 낭종 절제 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/epidermal-cyst-drainage-vs-excision-thumb.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+        "noindex": false,
+        "bodyLength": 1818,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 116,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "표피낭종 제거 수술비, 피지낭종 배농과 낭종 절제 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/epidermal-cyst-drainage-vs-excision-thumb.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "표피낭종 제거 수술비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+        "noindex": false,
+        "bodyLength": 1794,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 116,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  },
+  {
+    "path": "silbi/wart-cryotherapy-policy-exclusions",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "사마귀 냉동치료 실비, 급여·비급여와 약관 제외 문구 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wart-cryotherapy-policy-exclusions-thumb.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+        "noindex": false,
+        "bodyLength": 1981,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "사마귀 냉동치료 실비, 급여·비급여와 약관 제외 문구 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wart-cryotherapy-policy-exclusions-thumb.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+        "noindex": false,
+        "bodyLength": 1981,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "사마귀 냉동치료 실비, 급여·비급여와 약관 제외 문구 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wart-cryotherapy-policy-exclusions-thumb.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+        "noindex": false,
+        "bodyLength": 1957,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

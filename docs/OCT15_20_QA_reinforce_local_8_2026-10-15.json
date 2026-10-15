@@ -1,0 +1,140 @@
+[
+  {
+    "path": "surgery-benefit/disease-vs-type-surgery-benefit",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/disease-vs-type-surgery-thumb.webp",
+            "loaded": true,
+            "alt": "질병수술비 종수술비 차이 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "질병수술비와 종수술비 약관을 나란히 비교하는 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "수술확인서와 보험 약관을 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2960,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/disease-vs-type-surgery-thumb.webp",
+            "loaded": true,
+            "alt": "질병수술비 종수술비 차이 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "질병수술비와 종수술비 약관을 나란히 비교하는 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "수술확인서와 보험 약관을 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2960,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/disease-vs-type-surgery-thumb.webp",
+            "loaded": true,
+            "alt": "질병수술비 종수술비 차이 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "질병수술비와 종수술비 약관을 나란히 비교하는 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "수술확인서와 보험 약관을 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2868,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

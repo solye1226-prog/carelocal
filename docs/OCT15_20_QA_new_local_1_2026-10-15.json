@@ -1,0 +1,206 @@
+[
+  {
+    "path": "silbi/mast-allergy-test-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "MAST 검사 실비, 알레르기 검사 목적과 항목별 비용 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mast-allergy-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+        "noindex": false,
+        "bodyLength": 2058,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "MAST 검사 실비, 알레르기 검사 목적과 항목별 비용 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mast-allergy-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+        "noindex": false,
+        "bodyLength": 2058,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "MAST 검사 실비, 알레르기 검사 목적과 항목별 비용 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/mast-allergy-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "MAST 검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+        "noindex": false,
+        "bodyLength": 2034,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 140,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

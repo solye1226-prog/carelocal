@@ -1,0 +1,155 @@
+[
+  {
+    "path": "treatment-costs/cpap-insurance-registration-adherence",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "양압기 건강보험 신청, 등록·처방전·순응기간을 먼저 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 건강보험 안내 그림"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "사용내역을 의료진과 확인하는 설명 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "침실에 놓인 양압기 마스크와 튜브 설명 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 81.4375,
+            "inside": true
+          },
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+        "noindex": false,
+        "bodyLength": 2550,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 191,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "양압기 건강보험 신청, 등록·처방전·순응기간을 먼저 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 건강보험 안내 그림"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "사용내역을 의료진과 확인하는 설명 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "침실에 놓인 양압기 마스크와 튜브 설명 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 81.4375,
+            "inside": true
+          },
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+        "noindex": false,
+        "bodyLength": 2550,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 191,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "양압기 건강보험 신청, 등록·처방전·순응기간을 먼저 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 건강보험 안내 그림"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "사용내역을 의료진과 확인하는 설명 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "침실에 놓인 양압기 마스크와 튜브 설명 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+        "noindex": false,
+        "bodyLength": 2526,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 191,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "path": "silbi/holter-ambulatory-ecg-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "홀터검사 실비, 24시간 심전도 부착·반납일과 비용 정리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/holter-ambulatory-ecg-claim-thumb.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+        "noindex": false,
+        "bodyLength": 1832,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 131,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "홀터검사 실비, 24시간 심전도 부착·반납일과 비용 정리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/holter-ambulatory-ecg-claim-thumb.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+        "noindex": false,
+        "bodyLength": 1832,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 131,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "홀터검사 실비, 24시간 심전도 부착·반납일과 비용 정리",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/holter-ambulatory-ecg-claim-thumb.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "홀터검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+        "noindex": false,
+        "bodyLength": 1808,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 131,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,1442 @@
+[
+  {
+    "path": "silbi/checkup-followup-test-insurance",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "건강검진 후 재검사 실비\n정밀검사 비용과 청구서류 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-thumb.webp",
+            "loaded": true,
+            "alt": "검진 후 재검사 실비 확인사항 대표 이미지"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "검진비와 추가 진료비 자료를 나눠 정리하는 설명용 AI 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "재검사 비용 서류를 준비해 공식 보험사 상담을 문의하는 설명용 AI 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+        "noindex": false,
+        "bodyLength": 3291,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "건강검진 후 재검사 실비\n정밀검사 비용과 청구서류 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-thumb.webp",
+            "loaded": true,
+            "alt": "검진 후 재검사 실비 확인사항 대표 이미지"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "검진비와 추가 진료비 자료를 나눠 정리하는 설명용 AI 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "재검사 비용 서류를 준비해 공식 보험사 상담을 문의하는 설명용 AI 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+        "noindex": false,
+        "bodyLength": 3291,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "건강검진 후 재검사 실비\n정밀검사 비용과 청구서류 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-thumb.webp",
+            "loaded": true,
+            "alt": "검진 후 재검사 실비 확인사항 대표 이미지"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "검진비와 추가 진료비 자료를 나눠 정리하는 설명용 AI 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "재검사 비용 서류를 준비해 공식 보험사 상담을 문의하는 설명용 AI 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000088",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+        "noindex": false,
+        "bodyLength": 3239,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 161,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/carpal-tunnel-surgery-benefit",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "손목터널증후군 수술비, 신경 압박을 푸는 수술은 어떻게 확인할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "손목터널증후군 수술비와 실제 수술명 확인 카드뉴스"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "손목 신경 압박과 수술 방법을 의료진에게 확인하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "손목 수술확인서와 보험증권을 비교하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2332,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "손목터널증후군 수술비, 신경 압박을 푸는 수술은 어떻게 확인할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "손목터널증후군 수술비와 실제 수술명 확인 카드뉴스"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "손목 신경 압박과 수술 방법을 의료진에게 확인하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "손목 수술확인서와 보험증권을 비교하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2332,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "손목터널증후군 수술비, 신경 압박을 푸는 수술은 어떻게 확인할까?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-thumb.webp",
+            "loaded": true,
+            "alt": "손목터널증후군 수술비와 실제 수술명 확인 카드뉴스"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "손목 신경 압박과 수술 방법을 의료진에게 확인하는 연출 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "손목 수술확인서와 보험증권을 비교하는 연출 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2289,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 180,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "checkups/health-checkup-high-blood-pressure",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "혈압 높음\n검진실 한 번의 측정과 반복 측정을 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-thumb.webp",
+            "loaded": true,
+            "alt": "혈압 높음 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-body1.webp",
+            "loaded": true,
+            "alt": "혈압 높음 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-body2.webp",
+            "loaded": true,
+            "alt": "혈압 높음 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure",
+        "noindex": false,
+        "bodyLength": 2234,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 216,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "혈압 높음\n검진실 한 번의 측정과 반복 측정을 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-thumb.webp",
+            "loaded": true,
+            "alt": "혈압 높음 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-body1.webp",
+            "loaded": true,
+            "alt": "혈압 높음 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-body2.webp",
+            "loaded": true,
+            "alt": "혈압 높음 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure",
+        "noindex": false,
+        "bodyLength": 2234,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 216,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "혈압 높음\n검진실 한 번의 측정과 반복 측정을 구분하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-thumb.webp",
+            "loaded": true,
+            "alt": "혈압 높음 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-body1.webp",
+            "loaded": true,
+            "alt": "혈압 높음 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-high-blood-pressure-body2.webp",
+            "loaded": true,
+            "alt": "혈압 높음 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://heart.amc.seoul.kr/asan/depts/heart/K/content.do?menuId=5036",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure",
+        "noindex": false,
+        "bodyLength": 2190,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 216,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "checkups/health-checkup-hematuria",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "혈뇨 판정\n눈에 보이지 않는 혈뇨도 채취 조건과 반복 여부를 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-hematuria-thumb.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+        "noindex": false,
+        "bodyLength": 2141,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 138,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "혈뇨 판정\n눈에 보이지 않는 혈뇨도 채취 조건과 반복 여부를 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-hematuria-thumb.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+        "noindex": false,
+        "bodyLength": 2141,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 138,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "혈뇨 판정\n눈에 보이지 않는 혈뇨도 채취 조건과 반복 여부를 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-hematuria-thumb.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+        "noindex": false,
+        "bodyLength": 2097,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 138,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "checkups/cervical-screening-ascus-followup",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "ASC-US 판정\n비정형세포 결과와 자궁경부암 확진을 같은 뜻으로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-thumb.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+        "noindex": false,
+        "bodyLength": 2085,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 104,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "ASC-US 판정\n비정형세포 결과와 자궁경부암 확진을 같은 뜻으로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-thumb.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+        "noindex": false,
+        "bodyLength": 2085,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 104,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "ASC-US 판정\n비정형세포 결과와 자궁경부암 확진을 같은 뜻으로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-thumb.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body1.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cervical-screening-ascus-followup-body2.webp",
+            "loaded": true,
+            "alt": "ASC-US 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=4877,&menu_seq=4889",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+        "noindex": false,
+        "bodyLength": 2041,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 104,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "checkups/chest-xray-abnormal-followup",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "흉부촬영 이상\n검진 흉부촬영 결과와 저선량 폐 CT를 같은 검사로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-thumb.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup",
+        "noindex": false,
+        "bodyLength": 2154,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 135,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "흉부촬영 이상\n검진 흉부촬영 결과와 저선량 폐 CT를 같은 검사로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-thumb.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup",
+        "noindex": false,
+        "bodyLength": 2154,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 135,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "흉부촬영 이상\n검진 흉부촬영 결과와 저선량 폐 CT를 같은 검사로 보지 마세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-thumb.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "흉부촬영 이상 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup",
+        "noindex": false,
+        "bodyLength": 2110,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 135,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "treatment-costs/cpap-insurance-registration-adherence",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "양압기 건강보험 신청, 등록·처방전·순응기간을 먼저 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 건강보험 안내 그림"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "사용내역을 의료진과 확인하는 설명 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "침실에 놓인 양압기 마스크와 튜브 설명 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 81.4375,
+            "inside": true
+          },
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+        "noindex": false,
+        "bodyLength": 2550,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 191,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "양압기 건강보험 신청, 등록·처방전·순응기간을 먼저 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 건강보험 안내 그림"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "사용내역을 의료진과 확인하는 설명 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "침실에 놓인 양압기 마스크와 튜브 설명 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 81.4375,
+            "inside": true
+          },
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+        "noindex": false,
+        "bodyLength": 2550,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 191,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "양압기 건강보험 신청, 등록·처방전·순응기간을 먼저 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 건강보험 안내 그림"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "사용내역을 의료진과 확인하는 설명 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "침실에 놓인 양압기 마스크와 튜브 설명 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+        "noindex": false,
+        "bodyLength": 2526,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 191,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "surgery-benefit/disease-vs-type-surgery-benefit",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/disease-vs-type-surgery-thumb.webp",
+            "loaded": true,
+            "alt": "질병수술비 종수술비 차이 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "질병수술비와 종수술비 약관을 나란히 비교하는 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "수술확인서와 보험 약관을 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2960,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/disease-vs-type-surgery-thumb.webp",
+            "loaded": true,
+            "alt": "질병수술비 종수술비 차이 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "질병수술비와 종수술비 약관을 나란히 비교하는 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "수술확인서와 보험 약관을 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2960,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/disease-vs-type-surgery-thumb.webp",
+            "loaded": true,
+            "alt": "질병수술비 종수술비 차이 확인 가이드 카드뉴스"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-policy.webp",
+            "loaded": true,
+            "alt": "질병수술비와 종수술비 약관을 나란히 비교하는 장면"
+          },
+          {
+            "src": "/assets/images/disease-vs-type-surgery-review.webp",
+            "loaded": true,
+            "alt": "수술확인서와 보험 약관을 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31981",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+        "noindex": false,
+        "bodyLength": 2868,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 124,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "claims/surgery-record-certificate-mismatch",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지가 다르게 적혔다면?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-record-mismatch-thumb.webp",
+            "loaded": true,
+            "alt": "수술확인서와 수술기록지가 다르게 적혔다면? 관련 서류를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "관련 의료기록과 보험서류를 확인하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "보험 약관과 청구자료를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+            "height": 81.4375,
+            "inside": true
+          },
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+        "noindex": false,
+        "bodyLength": 2156,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 127,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지가 다르게 적혔다면?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-record-mismatch-thumb.webp",
+            "loaded": true,
+            "alt": "수술확인서와 수술기록지가 다르게 적혔다면? 관련 서류를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "관련 의료기록과 보험서류를 확인하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "보험 약관과 청구자료를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+            "height": 81.4375,
+            "inside": true
+          },
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+        "noindex": false,
+        "bodyLength": 2156,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 127,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "수술확인서와 수술기록지가 다르게 적혔다면?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/surgery-record-mismatch-thumb.webp",
+            "loaded": true,
+            "alt": "수술확인서와 수술기록지가 다르게 적혔다면? 관련 서류를 확인하는 설명용 이미지"
+          },
+          {
+            "src": "/assets/images/surgery-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "관련 의료기록과 보험서류를 확인하는 장면"
+          },
+          {
+            "src": "/assets/images/surgery-classification-review.webp",
+            "loaded": true,
+            "alt": "보험 약관과 청구자료를 대조하는 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1022124333",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32521",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+        "noindex": false,
+        "bodyLength": 2123,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 127,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  },
+  {
+    "path": "silbi/generation-comparison",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "실비보험 1~5세대 차이, 내 계약은 어디에 해당할까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/generation-comparison-thumb-20261015.webp",
+            "loaded": true,
+            "alt": "실손보험 세대 비교와 실제 약관 대조를 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "계약별 공제·제외 조건을 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "담보와 실제 진료 자료를 대조하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/generation-comparison",
+        "noindex": false,
+        "bodyLength": 2460,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 156,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "실비보험 1~5세대 차이, 내 계약은 어디에 해당할까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/generation-comparison-thumb-20261015.webp",
+            "loaded": true,
+            "alt": "실손보험 세대 비교와 실제 약관 대조를 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "계약별 공제·제외 조건을 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "담보와 실제 진료 자료를 대조하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/generation-comparison",
+        "noindex": false,
+        "bodyLength": 2460,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 156,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "실비보험 1~5세대 차이, 내 계약은 어디에 해당할까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/generation-comparison-thumb-20261015.webp",
+            "loaded": true,
+            "alt": "실손보험 세대 비교와 실제 약관 대조를 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "계약별 공제·제외 조건을 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "담보와 실제 진료 자료를 대조하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/generation-comparison",
+        "noindex": false,
+        "bodyLength": 2355,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 156,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

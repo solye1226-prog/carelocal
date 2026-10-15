@@ -1,0 +1,191 @@
+[
+  {
+    "path": "silbi/emg-nerve-conduction-test-claim",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "근전도검사 실비, 신경전도검사와 수술비 청구를 나누는 기준",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/emg-nerve-conduction-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+        "noindex": false,
+        "bodyLength": 1847,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 114,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "근전도검사 실비, 신경전도검사와 수술비 청구를 나누는 기준",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/emg-nerve-conduction-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+        "noindex": false,
+        "bodyLength": 1847,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 114,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "근전도검사 실비, 신경전도검사와 수술비 청구를 나누는 기준",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/emg-nerve-conduction-test-claim-thumb.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-consult.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/carpal-tunnel-surgery-benefit-documents.webp",
+            "loaded": true,
+            "alt": "근전도검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://iloveheart.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=34",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+        "noindex": false,
+        "bodyLength": 1823,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 114,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

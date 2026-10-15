@@ -1,0 +1,191 @@
+[
+  {
+    "path": "silbi/pulmonary-function-test-purpose",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "폐기능검사 실비, 검진 추가 항목과 증상 평가 진료 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pulmonary-function-test-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+        "noindex": false,
+        "bodyLength": 1825,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 112,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "폐기능검사 실비, 검진 추가 항목과 증상 평가 진료 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pulmonary-function-test-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+        "noindex": false,
+        "bodyLength": 1825,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 112,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "폐기능검사 실비, 검진 추가 항목과 증상 평가 진료 구분하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/pulmonary-function-test-purpose-thumb.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body1.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/chest-xray-abnormal-followup-body2.webp",
+            "loaded": true,
+            "alt": "폐기능검사 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=304",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+        "noindex": false,
+        "bodyLength": 1801,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 112,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

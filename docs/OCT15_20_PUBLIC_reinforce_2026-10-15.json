@@ -1,0 +1,62 @@
+[
+  {
+    "path": "silbi/checkup-followup-test-insurance",
+    "title": "알레르기 검사는 목적과 실제 항목을 연결하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "786636d8853fda0e687a63d7206f465357710ace"
+  },
+  {
+    "path": "surgery-benefit/carpal-tunnel-surgery-benefit",
+    "title": "손 저림 검사와 실제 감압 수술의 자료를 나누세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "a3a61e26746b86b2125a42649c05aa46a8606916"
+  },
+  {
+    "path": "checkups/health-checkup-high-blood-pressure",
+    "title": "24시간 혈압과 홀터 심전도 비용을 구분하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "e562ebd35b3011880e242b19b6c4ef0ee7dc94f7"
+  },
+  {
+    "path": "checkups/health-checkup-hematuria",
+    "title": "혈뇨 후 내시경에서는 실제 시행 항목을 확인하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "0a3bb1e1c290e77bd74ba006ff74605b8a2379f4"
+  },
+  {
+    "path": "checkups/cervical-screening-ascus-followup",
+    "title": "세포검사 이후 조직 채취와 병리 비용을 구분하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "672f9ce4ae4907c403bdea591b8d05b3f79e4e0d"
+  },
+  {
+    "path": "checkups/chest-xray-abnormal-followup",
+    "title": "흉부 영상과 폐기능 검사의 비용을 나누세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "ab6df6b82e875793bfe439a8bb0031e2a65482b0"
+  },
+  {
+    "path": "treatment-costs/cpap-insurance-registration-adherence",
+    "title": "공단 지원 반영 후 대여료와 병원비를 대조하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "2b6c3d0398bd3cecdf53d61f51b2f20e8fb2dd5d"
+  },
+  {
+    "path": "surgery-benefit/disease-vs-type-surgery-benefit",
+    "title": "피부 종양 제거는 실제 부위·방법을 확인하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "924850748d6be6bc98cf619f9658897262974357"
+  },
+  {
+    "path": "claims/surgery-record-certificate-mismatch",
+    "title": "배농 뒤 절제했다면 날짜별 기록을 대조하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "c799a261010ad814006d3f04714faba10e2a4ba3"
+  },
+  {
+    "path": "silbi/generation-comparison",
+    "title": "세대 이름보다 실제 제외 항목과 전제를 비교하세요",
+    "exactPublicHeadAndMain": true,
+    "commit": "a64232658fdf3198c81a2d3f8d487f0be3aa3bf0"
+  }
+]

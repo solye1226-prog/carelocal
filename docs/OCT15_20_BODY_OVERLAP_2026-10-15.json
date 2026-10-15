@@ -1,0 +1,192 @@
+[
+  {
+    "path": "silbi/mast-allergy-test-claim",
+    "closestBodyOverlap": [
+      [
+        0.05807622504537205,
+        "silbi/covered-vs-noncovered-medical-costs"
+      ],
+      [
+        0.056261343012704176,
+        "silbi/breast-ultrasound-silbi-purpose"
+      ],
+      [
+        0.050816696914700546,
+        "silbi/mammotome-silbi-claim"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 730
+  },
+  {
+    "path": "silbi/emg-nerve-conduction-test-claim",
+    "closestBodyOverlap": [
+      [
+        0.05555555555555555,
+        "silbi/mri-silbi-claim"
+      ],
+      [
+        0.04938271604938271,
+        "surgery-benefit/anal-fistula-surgery-benefit"
+      ],
+      [
+        0.043209876543209874,
+        "silbi/varicose-vein-silbi-claim"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 641
+  },
+  {
+    "path": "silbi/holter-ambulatory-ecg-claim",
+    "closestBodyOverlap": [
+      [
+        0.0405982905982906,
+        "silbi/h-pylori-eradication-pharmacy-test"
+      ],
+      [
+        0.038461538461538464,
+        "silbi/heart-echo-exam-purpose"
+      ],
+      [
+        0.03418803418803419,
+        "silbi/thyroid-nodule-rfa-silbi-claim"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 627
+  },
+  {
+    "path": "silbi/cystoscopy-exam-biopsy-claim",
+    "closestBodyOverlap": [
+      [
+        0.060851926977687626,
+        "surgery-benefit/injury-surgery-classification"
+      ],
+      [
+        0.058823529411764705,
+        "claims/insurance-claim-documents"
+      ],
+      [
+        0.056795131845841784,
+        "surgery-benefit/hemorrhoid-surgery-benefit"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 656
+  },
+  {
+    "path": "silbi/cervical-biopsy-pathology-claim",
+    "closestBodyOverlap": [
+      [
+        0.07170542635658915,
+        "silbi/mammotome-silbi-claim"
+      ],
+      [
+        0.0562015503875969,
+        "surgery-benefit/cataract-surgery-benefit"
+      ],
+      [
+        0.046511627906976744,
+        "silbi/thyroid-nodule-rfa-silbi-claim"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 677
+  },
+  {
+    "path": "silbi/pulmonary-function-test-purpose",
+    "closestBodyOverlap": [
+      [
+        0.046464646464646465,
+        "checkups/health-checkup-50s"
+      ],
+      [
+        0.044444444444444446,
+        "silbi/treatment-material-cost-silbi"
+      ],
+      [
+        0.03636363636363636,
+        "silbi/heart-echo-exam-purpose"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 655
+  },
+  {
+    "path": "silbi/cpap-rental-private-insurance-costs",
+    "closestBodyOverlap": [
+      [
+        0.05065666041275797,
+        "silbi/mammotome-silbi-claim"
+      ],
+      [
+        0.04878048780487805,
+        "silbi/treatment-material-cost-silbi"
+      ],
+      [
+        0.04690431519699812,
+        "surgery-benefit/cataract-surgery-benefit"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 702
+  },
+  {
+    "path": "surgery-benefit/lipoma-excision-operation-record",
+    "closestBodyOverlap": [
+      [
+        0.06444906444906445,
+        "surgery-benefit/gallbladder-surgery-benefit"
+      ],
+      [
+        0.060291060291060294,
+        "silbi/gastroscopy-biopsy-pathology-cost"
+      ],
+      [
+        0.058212058212058215,
+        "surgery-benefit/appendectomy"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 650
+  },
+  {
+    "path": "surgery-benefit/epidermal-cyst-drainage-vs-excision",
+    "closestBodyOverlap": [
+      [
+        0.052742616033755275,
+        "claims/surgery-claim-documents"
+      ],
+      [
+        0.046413502109704644,
+        "surgery-benefit/surgery-code-insurance-guide"
+      ],
+      [
+        0.046413502109704644,
+        "surgery-benefit/lumbar-disc"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 634
+  },
+  {
+    "path": "silbi/wart-cryotherapy-policy-exclusions",
+    "closestBodyOverlap": [
+      [
+        0.04716981132075472,
+        "silbi/gastroscopy-biopsy-pathology-cost"
+      ],
+      [
+        0.04150943396226415,
+        "silbi/mammotome-silbi-claim"
+      ],
+      [
+        0.03773584905660377,
+        "claims/insurance-claim-documents"
+      ]
+    ],
+    "review": "본문의 실제 확인 절차와 비용 경계를 비교하고 부모 글의 일반 안내와 별도 검색 의도로 분리함",
+    "newTextCharacters": 699
+  }
+]

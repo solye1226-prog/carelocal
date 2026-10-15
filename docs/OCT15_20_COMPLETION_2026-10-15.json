@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-15",
+  "newPublished": 10,
+  "existingReinforced": 10,
+  "catalogBefore": 297,
+  "catalogAfter": 307,
+  "sitemapBefore": 322,
+  "sitemapAfter": 332,
+  "localViewportChecks": 60,
+  "publicViewportChecks": 60,
+  "widths": [
+    360,
+    390,
+    1280
+  ],
+  "allPass": true,
+  "metadataAndLinks": [
+    {
+      "path": "silbi/mast-allergy-test-claim",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/emg-nerve-conduction-test-claim",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/holter-ambulatory-ecg-claim",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/cystoscopy-exam-biopsy-claim",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/cystoscopy-exam-biopsy-claim",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/cervical-biopsy-pathology-claim",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/cervical-biopsy-pathology-claim",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/pulmonary-function-test-purpose",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/cpap-rental-private-insurance-costs",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "surgery-benefit/lipoma-excision-operation-record",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/lipoma-excision-operation-record",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "surgery-benefit/epidermal-cyst-drainage-vs-excision",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/wart-cryotherapy-policy-exclusions",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "metadataAligned": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/checkup-followup-test-insurance",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "surgery-benefit/carpal-tunnel-surgery-benefit",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "checkups/health-checkup-high-blood-pressure",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "checkups/health-checkup-hematuria",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "checkups/cervical-screening-ascus-followup",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "checkups/chest-xray-abnormal-followup",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "treatment-costs/cpap-insurance-registration-adherence",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "surgery-benefit/disease-vs-type-surgery-benefit",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "claims/surgery-record-certificate-mismatch",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    },
+    {
+      "path": "silbi/generation-comparison",
+      "h1Count": 1,
+      "articleModified": "2026-10-15",
+      "canonical": "https://hospital.hbuby.com/silbi/generation-comparison",
+      "descriptionPresent": true,
+      "oldInternalLinksPreserved": true,
+      "pass": true
+    }
+  ],
+  "indexingConfirmed": false,
+  "fieldCoreWebVitalsMeasured": false,
+  "adRequestsBlockedDuringLayoutQA": true,
+  "currentExternalURLsVerified": 26,
+  "visualScreensInspected": 8,
+  "generatedThumbnails": 11,
+  "categorySitemapDatesUpdated": true
+}

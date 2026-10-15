@@ -1,0 +1,206 @@
+[
+  {
+    "path": "silbi/wart-cryotherapy-policy-exclusions",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "사마귀 냉동치료 실비, 급여·비급여와 약관 제외 문구 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wart-cryotherapy-policy-exclusions-thumb.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+        "noindex": false,
+        "bodyLength": 1981,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "사마귀 냉동치료 실비, 급여·비급여와 약관 제외 문구 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wart-cryotherapy-policy-exclusions-thumb.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+        "noindex": false,
+        "bodyLength": 1981,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "사마귀 냉동치료 실비, 급여·비급여와 약관 제외 문구 확인하기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/wart-cryotherapy-policy-exclusions-thumb.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/insurance-claim-method-documents.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/insurance-claim-documents-checklist.webp",
+            "loaded": true,
+            "alt": "사마귀 냉동치료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+        "noindex": false,
+        "bodyLength": 1957,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 142,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

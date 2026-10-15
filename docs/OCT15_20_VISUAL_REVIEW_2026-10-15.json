@@ -1,0 +1,15 @@
+{
+  "inspected": [
+    "oct15-20-final-core-desktop-table.png",
+    "oct15-20-final-core-desktop-top.png",
+    "oct15-20-final-core-mobile-table.png",
+    "oct15-20-final-core-mobile-top.png",
+    "oct15-20-final-new-desktop-table.png",
+    "oct15-20-final-new-desktop-top.png",
+    "oct15-20-final-new-mobile-table.png",
+    "oct15-20-final-new-mobile-top.png"
+  ],
+  "allPass": true,
+  "findings": "390px 카드형 표·버튼과 1280px 표·본문 폭·이미지의 실제 화면 확인; 내용 잘림·가로 넘침 없음",
+  "adRequestsBlocked": true
+}

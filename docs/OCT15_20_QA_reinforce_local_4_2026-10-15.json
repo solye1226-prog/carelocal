@@ -1,0 +1,140 @@
+[
+  {
+    "path": "checkups/health-checkup-hematuria",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "혈뇨 판정\n눈에 보이지 않는 혈뇨도 채취 조건과 반복 여부를 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-hematuria-thumb.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+        "noindex": false,
+        "bodyLength": 2141,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 138,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "혈뇨 판정\n눈에 보이지 않는 혈뇨도 채취 조건과 반복 여부를 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-hematuria-thumb.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+        "noindex": false,
+        "bodyLength": 2141,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 138,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "혈뇨 판정\n눈에 보이지 않는 혈뇨도 채취 조건과 반복 여부를 확인하세요",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/health-checkup-hematuria-thumb.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 후속 확인 대표 이미지"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body1.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 결과를 의료진과 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/health-checkup-hematuria-body2.webp",
+            "loaded": true,
+            "alt": "혈뇨 판정 재검사 준비자료를 정리한 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.amc.seoul.kr/asan/healthinfo/easymediterm/easyMediTermDetail.do?dictId=1420",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+        "noindex": false,
+        "bodyLength": 2097,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 138,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

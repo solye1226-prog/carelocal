@@ -1,0 +1,155 @@
+[
+  {
+    "path": "silbi/generation-comparison",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "실비보험 1~5세대 차이, 내 계약은 어디에 해당할까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/generation-comparison-thumb-20261015.webp",
+            "loaded": true,
+            "alt": "실손보험 세대 비교와 실제 약관 대조를 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "계약별 공제·제외 조건을 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "담보와 실제 진료 자료를 대조하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 151.96875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/generation-comparison",
+        "noindex": false,
+        "bodyLength": 2460,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 156,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "실비보험 1~5세대 차이, 내 계약은 어디에 해당할까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/generation-comparison-thumb-20261015.webp",
+            "loaded": true,
+            "alt": "실손보험 세대 비교와 실제 약관 대조를 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "계약별 공제·제외 조건을 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "담보와 실제 진료 자료를 대조하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/generation-comparison",
+        "noindex": false,
+        "bodyLength": 2460,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 156,
+        "h1Font": "25px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "실비보험 1~5세대 차이, 내 계약은 어디에 해당할까요?",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/generation-comparison-thumb-20261015.webp",
+            "loaded": true,
+            "alt": "실손보험 세대 비교와 실제 약관 대조를 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body1.webp",
+            "loaded": true,
+            "alt": "계약별 공제·제외 조건을 확인하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/checkup-followup-test-insurance-body2.webp",
+            "loaded": true,
+            "alt": "담보와 실제 진료 자료를 대조하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://child.snuh.org/health/nMedInfo/nView.do?category=TREAT&medid=BB000157",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://d.samsungfire.com/docs/realloss.pdf",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/generation-comparison",
+        "noindex": false,
+        "bodyLength": 2355,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 156,
+        "h1Font": "34px",
+        "navigationChecks": [],
+        "navigationClicked": false
+      }
+    ]
+  }
+]

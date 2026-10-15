@@ -1,0 +1,191 @@
+[
+  {
+    "path": "silbi/cpap-rental-private-insurance-costs",
+    "pass": true,
+    "widths": [
+      {
+        "width": 360,
+        "status": 200,
+        "h1": "양압기 대여료 실비, 건강보험 요양비와 민간보험 비용 나누기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-rental-private-insurance-costs-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 125.625,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+        "noindex": false,
+        "bodyLength": 1941,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 390,
+        "status": 200,
+        "h1": "양압기 대여료 실비, 건강보험 요양비와 민간보험 비용 나누기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-rental-private-insurance-costs-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 103.53125,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 125.625,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+        "noindex": false,
+        "bodyLength": 1941,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "25px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      },
+      {
+        "width": 1280,
+        "status": 200,
+        "h1": "양압기 대여료 실비, 건강보험 요양비와 민간보험 비용 나누기",
+        "overflow": false,
+        "images": [
+          {
+            "src": "/assets/images/cpap-rental-private-insurance-costs-thumb.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 자료 확인을 설명하는 생성 썸네일"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body1.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비의 날짜·기관·서류를 정리하는 설명용 장면"
+          },
+          {
+            "src": "/assets/images/cpap-insurance-registration-adherence-body2.webp",
+            "loaded": true,
+            "alt": "양압기 대여료 실비 관련 비용 또는 진료기록을 확인하는 설명용 장면"
+          }
+        ],
+        "buttons": [
+          {
+            "href": "https://www.nhis.or.kr/static/html/wbma/c/wbmac0228_9.pdf",
+            "height": 84.6875,
+            "inside": true
+          },
+          {
+            "href": "https://www.kbinsure.co.kr/CG205020003.ec",
+            "height": 84.6875,
+            "inside": true
+          }
+        ],
+        "canonical": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+        "noindex": false,
+        "bodyLength": 1917,
+        "labels": true,
+        "duplicateIds": [],
+        "paragraphMax": 126,
+        "h1Font": "34px",
+        "navigationChecks": [
+          {
+            "href": "#compare",
+            "clicked": true
+          },
+          {
+            "href": "#question",
+            "clicked": true
+          },
+          {
+            "href": "#steps",
+            "clicked": true
+          },
+          {
+            "href": "#sources",
+            "clicked": true
+          }
+        ],
+        "navigationClicked": true
+      }
+    ]
+  }
+]

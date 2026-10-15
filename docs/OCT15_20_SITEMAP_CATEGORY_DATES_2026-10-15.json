@@ -1,0 +1,15 @@
+{
+  "count": 332,
+  "changes": [
+    {
+      "url": "https://hospital.hbuby.com/silbi/",
+      "before": "<url><loc>https://hospital.hbuby.com/silbi/</loc><lastmod>2026-10-14</lastmod><priority>0.9</priority></url>",
+      "after": "<url><loc>https://hospital.hbuby.com/silbi/</loc><lastmod>2026-10-15</lastmod><priority>0.9</priority></url>"
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/",
+      "before": "<url><loc>https://hospital.hbuby.com/surgery-benefit/</loc><lastmod>2026-10-14</lastmod><priority>0.9</priority></url>",
+      "after": "<url><loc>https://hospital.hbuby.com/surgery-benefit/</loc><lastmod>2026-10-15</lastmod><priority>0.9</priority></url>"
+    }
+  ]
+}
