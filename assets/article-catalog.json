@@ -435,6 +435,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/cystoscopy-exam-biopsy-claim",
+    "title": "방광내시경 실비, 검사만 받은 경우와 조직 채취 비용 구분하기",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/deductible-vs-copayment",
     "title": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
     "category": "실비보험"

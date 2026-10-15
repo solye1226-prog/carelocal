@@ -246,7 +246,7 @@
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-cholesterol-abnormal</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-high-liver-enzymes</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-proteinuria</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-hematuria</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-hematuria</loc><lastmod>2026-10-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/fecal-occult-blood-positive</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/mammography-abnormal-followup</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
@@ -344,4 +344,5 @@
 <url><loc>https://hospital.hbuby.com/silbi/mast-allergy-test-claim</loc><lastmod>2026-10-15</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim</loc><lastmod>2026-10-15</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim</loc><lastmod>2026-10-15</lastmod></url>
+<url><loc>https://hospital.hbuby.com/silbi/cystoscopy-exam-biopsy-claim</loc><lastmod>2026-10-15</lastmod></url>
 </urlset>
