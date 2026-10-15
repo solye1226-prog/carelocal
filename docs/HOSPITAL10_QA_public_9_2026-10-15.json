@@ -1,0 +1,198 @@
+{
+  "path": "guides/severance-first-reservation-referral-upload",
+  "pass": true,
+  "checks": [
+    {
+      "width": 360,
+      "status": 200,
+      "title": "세브란스 처음 예약, 의뢰서를 등록했어도 원본을 가져가야 할까?",
+      "canonical": "https://hospital.hbuby.com/guides/severance-first-reservation-referral-upload",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/severance-first-reservation-referral-upload-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2054,
+      "maxParagraph": 112,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 390,
+      "status": 200,
+      "title": "세브란스 처음 예약, 의뢰서를 등록했어도 원본을 가져가야 할까?",
+      "canonical": "https://hospital.hbuby.com/guides/severance-first-reservation-referral-upload",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/severance-first-reservation-referral-upload-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2054,
+      "maxParagraph": 112,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 1280,
+      "status": 200,
+      "title": "세브란스 처음 예약, 의뢰서를 등록했어도 원본을 가져가야 할까?",
+      "canonical": "https://hospital.hbuby.com/guides/severance-first-reservation-referral-upload",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/severance-first-reservation-referral-upload-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2028,
+      "maxParagraph": 112,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

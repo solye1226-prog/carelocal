@@ -1,0 +1,132 @@
+{
+  "checkedAt": "2026-10-15T17:12:25+0900",
+  "publishedCount": 10,
+  "publicResponsiveConditions": 30,
+  "catalogArticles": 317,
+  "sitemapURLs": 342,
+  "publishedURLsIncluded": true,
+  "finalPages": [
+    {
+      "path": "guides/snuh-surgery-record-certificate",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/amc-external-image-cd-registration",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/smc-medical-certificate-first-reissue",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/severance-record-copy-proxy",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/snubh-first-visit-referral",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/severance-healthcheck-national-screening",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/snubh-admission-room-assignment",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/smc-receipt-itemized-bill-download",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/severance-first-reservation-referral-upload",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/snubh-parking-admission-discharge",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "claims/surgery-claim-documents",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/ct-mri-image-cd-transfer",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "claims/medical-certificate-online-first-issue",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "claims/medical-records-proxy-documents",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "guides/tertiary-hospital-referral-checkup",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "checkups/national-health-checkup",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "claims/hospitalization-claim-documents",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "claims/hospital-receipt-reissue",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    },
+    {
+      "path": "hospitals/",
+      "status": 200,
+      "headExact": true,
+      "mainExact": true
+    }
+  ],
+  "indexing": "not verified; no index requests submitted",
+  "allPass": true
+}

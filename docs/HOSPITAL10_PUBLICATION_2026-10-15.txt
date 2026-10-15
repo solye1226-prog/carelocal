@@ -1,0 +1,80 @@
+병원별 이용 준비 안내 10편 발행 보고서
+2026-10-15
+
+완료: 10편 순차 발행 및 공개 확인. 신규 글 10편 × 360/390/1280px = 30조건 통과. 새 글과 연결한 기존 글·카테고리의 최신 공개 head/main까지 대조. 공개 카탈로그 317편, 사이트맵 342개. 색인 완료를 의미하지 않음.
+
+
+작성 범위: 병원별 공식 이용 절차를 일반 청구/방문 가이드와 구분하여 신규 10편.
+원칙: 병원 추천/진료 효과/순위/보험 지급 보장 없음. 분원·센터 구분, 운영시간·비용은 공식 최신 안내로 연결.
+공식 상세 안내 버튼은 각 글 상단 비교표 다음과 하단에 배치. 병원 정보만 필요한 글에 보험 문의를 일괄 배치하지 않음.
+
+발행 순서
+1. 서울대학교병원 수술확인서가 없다면? 수술기록지 발급 준비
+https://hospital.hbuby.com/guides/snuh-surgery-record-certificate
+공식 근거: https://www.snuh.org/content/M002005006.do
+기존 연결 글: https://hospital.hbuby.com/claims/surgery-claim-documents
+구별되는 범위: 일반 대체서류 글과 달리 서울대학교병원의 별도 수술확인서 부재·실제 기록 발급 경로를 설명
+
+2. 서울아산병원 외부영상 CD 등록, 초진 전에 어느 창구로 갈까?
+https://hospital.hbuby.com/guides/amc-external-image-cd-registration
+공식 근거: https://www.amc.seoul.kr/asan/hospitalguide/lookaround/lookAroundPrint.do?placeId=394
+기존 연결 글: https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer
+구별되는 범위: 일반 영상 CD 발급 글과 달리 서울아산병원 도착 후 동관 외부영상 등록 동선·자료 목록 점검
+
+3. 삼성서울병원 진단서 발급, 최초 발급과 온라인 재발급 구분
+https://hospital.hbuby.com/guides/smc-medical-certificate-first-reissue
+공식 근거: https://www.samsunghospital.com/home/healthChart/issueService/InfoIssueCertiList.do
+기존 연결 글: https://hospital.hbuby.com/claims/medical-certificate-online-first-issue
+구별되는 범위: 일반 인터넷 진단서 글에서 삼성서울병원의 문서별 발급 표와 최초/재발급 경로로 구체화
+
+4. 세브란스병원 의무기록 대리발급, 가족과 지정대리인 서류 구분
+https://hospital.hbuby.com/guides/severance-record-copy-proxy
+공식 근거: https://www.severance.healthcare/sev/patient-carer/dvd/documents.do
+기존 연결 글: https://hospital.hbuby.com/claims/medical-records-proxy-documents
+구별되는 범위: 일반 대리발급과 달리 세브란스의 친족/지정대리인 표·온라인 사본과 영상자료의 자격 차이
+
+5. 분당서울대학교병원 초진, 진료의뢰서와 검진결과서 준비 기준
+https://hospital.hbuby.com/guides/snubh-first-visit-referral
+공식 근거: https://www.snubh.org/medical/out/clinic01.do
+기존 연결 글: https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup
+구별되는 범위: 일반 의뢰서 제도 설명과 달리 분당서울대 초진 창구·자격별 자료·지연 제출 확인 경로
+
+6. 세브란스 헬스체크업 예약, 국가건강검진과 어떻게 구분할까?
+https://hospital.hbuby.com/guides/severance-healthcheck-national-screening
+공식 근거: https://www.severance.healthcare/sev/department/center-clinic/sev-checkup-health-promotion-center.do
+기존 연결 글: https://hospital.hbuby.com/checkups/national-health-checkup
+구별되는 범위: 국가검진 일반 글과 달리 특정 센터의 시행 제외와 프로그램 예약 오인을 해결
+
+7. 분당서울대학교병원 입원 예약, 병실 배정 알림 후 확인할 것
+https://hospital.hbuby.com/guides/snubh-admission-room-assignment
+공식 근거: https://www.snubh.org/medical/inOut/hospital01.do
+기존 연결 글: https://hospital.hbuby.com/claims/hospitalization-claim-documents
+구별되는 범위: 입원비 청구와 별개인 분당서울대 병실 배정/모바일 수속/현장 출입증 단계 안내
+
+8. 삼성서울병원 영수증·세부내역서 발급, 납입확인서와 구분하기
+https://hospital.hbuby.com/guides/smc-receipt-itemized-bill-download
+공식 근거: https://www.samsunghospital.com/home/healthChart/issueService/InfoIssueCertiList.do
+기존 연결 글: https://hospital.hbuby.com/claims/hospital-receipt-reissue
+구별되는 범위: 영수증 분실 일반 글과 달리 삼성서울병원의 세 종류 비용서류·PC/모바일 경로 구분
+
+9. 세브란스 처음 예약, 의뢰서를 등록했어도 원본을 가져가야 할까?
+https://hospital.hbuby.com/guides/severance-first-reservation-referral-upload
+공식 근거: https://www.severance.healthcare/sev/patient-carer/appointment/treatment/apt-guide.do
+기존 연결 글: https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup
+구별되는 범위: 의뢰서 효력 일반 글과 달리 세브란스 빠른예약의 사전 등록·상담·원본 지참 흐름
+
+10. 분당서울대학교병원 주차, 입퇴원 당일과 입원 중 정산 차이
+https://hospital.hbuby.com/guides/snubh-parking-admission-discharge
+공식 근거: https://www.snubh.org/intro/map/parking.do
+기존 연결 글: https://hospital.hbuby.com/claims/hospitalization-claim-documents
+구별되는 범위: 입원 서류 글과 별개인 분당서울대 실제 주차 FAQ의 날짜·병실·차량·주차장별 정산
+
+검증 기록
+개별 발행·공개 확인: HOSPITAL10_PUBLICATION_PROOF_2026-10-15.json
+모바일·PC: HOSPITAL10_QA_public_*_2026-10-15.json
+본문 중복 검토: HOSPITAL10_INTENT_REVIEW_2026-10-15.json (문자열 유사도는 참고값이며 편집 판단과 구분)
+근거 범위: HOSPITAL10_FACT_REVIEW_2026-10-15.json
+이미지 생성 방식·프롬프트·저장 경로: HOSPITAL10_IMAGE_PROVENANCE_2026-10-15.json
+기획·본문·재사용 본문 이미지 경로: HOSPITAL10_PLAN_AND_SOURCES_2026-10-15.json
+이미지: built-in image_gen 대표 10장, 추가 본문 4장 제작. 나머지 본문은 실제 주제에 맞는 기존 설명 이미지 활용. 글마다 서로 다른 3장. 생성 이미지는 실제 병원 사진으로 소개하지 않음.
+발행과 검색 색인은 별개이며 이번 요청에서 색인 요청·색인 상태 재조회·광고 설정 변경은 하지 않음.

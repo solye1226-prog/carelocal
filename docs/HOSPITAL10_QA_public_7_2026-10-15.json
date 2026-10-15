@@ -1,0 +1,198 @@
+{
+  "path": "guides/snubh-admission-room-assignment",
+  "pass": true,
+  "checks": [
+    {
+      "width": 360,
+      "status": 200,
+      "title": "분당서울대학교병원 입원 예약, 병실 배정 알림 후 확인할 것",
+      "canonical": "https://hospital.hbuby.com/guides/snubh-admission-room-assignment",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2133,
+      "maxParagraph": 110,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 390,
+      "status": 200,
+      "title": "분당서울대학교병원 입원 예약, 병실 배정 알림 후 확인할 것",
+      "canonical": "https://hospital.hbuby.com/guides/snubh-admission-room-assignment",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2133,
+      "maxParagraph": 110,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 1280,
+      "status": 200,
+      "title": "분당서울대학교병원 입원 예약, 병실 배정 알림 후 확인할 것",
+      "canonical": "https://hospital.hbuby.com/guides/snubh-admission-room-assignment",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/snubh-admission-room-assignment-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2107,
+      "maxParagraph": 110,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

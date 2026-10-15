@@ -1,0 +1,198 @@
+{
+  "path": "guides/severance-healthcheck-national-screening",
+  "pass": true,
+  "checks": [
+    {
+      "width": 360,
+      "status": 200,
+      "title": "세브란스 헬스체크업 예약, 국가건강검진과 어떻게 구분할까?",
+      "canonical": "https://hospital.hbuby.com/guides/severance-healthcheck-national-screening",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/severance-healthcheck-national-screening-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/health-checkup-fasting-medication-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/health-checkup-fasting-medication-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2040,
+      "maxParagraph": 129,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 390,
+      "status": 200,
+      "title": "세브란스 헬스체크업 예약, 국가건강검진과 어떻게 구분할까?",
+      "canonical": "https://hospital.hbuby.com/guides/severance-healthcheck-national-screening",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/severance-healthcheck-national-screening-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/health-checkup-fasting-medication-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/health-checkup-fasting-medication-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2040,
+      "maxParagraph": 129,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 1280,
+      "status": 200,
+      "title": "세브란스 헬스체크업 예약, 국가건강검진과 어떻게 구분할까?",
+      "canonical": "https://hospital.hbuby.com/guides/severance-healthcheck-national-screening",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/severance-healthcheck-national-screening-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/health-checkup-fasting-medication-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/health-checkup-fasting-medication-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2014,
+      "maxParagraph": 129,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

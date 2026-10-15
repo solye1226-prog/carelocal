@@ -1,0 +1,122 @@
+[
+  {
+    "number": 1,
+    "path": "guides/snuh-surgery-record-certificate",
+    "title": "서울대학교병원 수술확인서가 없다면? 수술기록지 발급 준비",
+    "url": "https://hospital.hbuby.com/guides/snuh-surgery-record-certificate",
+    "commit": "49bf3ea66bba5ecf898ac3582bec0c60828fe962",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T16:58:32+0900"
+  },
+  {
+    "number": 2,
+    "path": "guides/amc-external-image-cd-registration",
+    "title": "서울아산병원 외부영상 CD 등록, 초진 전에 어느 창구로 갈까?",
+    "url": "https://hospital.hbuby.com/guides/amc-external-image-cd-registration",
+    "commit": "3eeebb159376ece1834fa200bc3ae3960be843fa",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:00:18+0900"
+  },
+  {
+    "number": 3,
+    "path": "guides/smc-medical-certificate-first-reissue",
+    "title": "삼성서울병원 진단서 발급, 최초 발급과 온라인 재발급 구분",
+    "url": "https://hospital.hbuby.com/guides/smc-medical-certificate-first-reissue",
+    "commit": "198a40f21caa7ebe0ebf9fe0e4e120f5a46bf4c8",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:01:54+0900"
+  },
+  {
+    "number": 4,
+    "path": "guides/severance-record-copy-proxy",
+    "title": "세브란스병원 의무기록 대리발급, 가족과 지정대리인 서류 구분",
+    "url": "https://hospital.hbuby.com/guides/severance-record-copy-proxy",
+    "commit": "9664340ddc821b0592ab0241afbf39798b7bffb1",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:03:19+0900"
+  },
+  {
+    "number": 5,
+    "path": "guides/snubh-first-visit-referral",
+    "title": "분당서울대학교병원 초진, 진료의뢰서와 검진결과서 준비 기준",
+    "url": "https://hospital.hbuby.com/guides/snubh-first-visit-referral",
+    "commit": "edfa2da771ae02ec2971dd3ccde58a9b87cba9ca",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:04:39+0900"
+  },
+  {
+    "number": 6,
+    "path": "guides/severance-healthcheck-national-screening",
+    "title": "세브란스 헬스체크업 예약, 국가건강검진과 어떻게 구분할까?",
+    "url": "https://hospital.hbuby.com/guides/severance-healthcheck-national-screening",
+    "commit": "b5c77a82f83592c5af9491126d2b7d31dc878302",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:06:39+0900"
+  },
+  {
+    "number": 7,
+    "path": "guides/snubh-admission-room-assignment",
+    "title": "분당서울대학교병원 입원 예약, 병실 배정 알림 후 확인할 것",
+    "url": "https://hospital.hbuby.com/guides/snubh-admission-room-assignment",
+    "commit": "bfb641859e26180176db5574758387358ea83fed",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:08:05+0900"
+  },
+  {
+    "number": 8,
+    "path": "guides/smc-receipt-itemized-bill-download",
+    "title": "삼성서울병원 영수증·세부내역서 발급, 납입확인서와 구분하기",
+    "url": "https://hospital.hbuby.com/guides/smc-receipt-itemized-bill-download",
+    "commit": "c585bbc245fb408001a04a2f7cfbe2879aea7c61",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:09:27+0900"
+  },
+  {
+    "number": 9,
+    "path": "guides/severance-first-reservation-referral-upload",
+    "title": "세브란스 처음 예약, 의뢰서를 등록했어도 원본을 가져가야 할까?",
+    "url": "https://hospital.hbuby.com/guides/severance-first-reservation-referral-upload",
+    "commit": "2526686424e0d2d5d509c5877b69f6934aa759d5",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:10:51+0900"
+  },
+  {
+    "number": 10,
+    "path": "guides/snubh-parking-admission-discharge",
+    "title": "분당서울대학교병원 주차, 입퇴원 당일과 입원 중 정산 차이",
+    "url": "https://hospital.hbuby.com/guides/snubh-parking-admission-discharge",
+    "commit": "3ad11115e17d831af57e4c11221b427ef05ef7cf",
+    "status": 200,
+    "exactPublicHeadMain": true,
+    "publicResponsivePass": true,
+    "indexing": "not checked or requested",
+    "checkedAt": "2026-10-15T17:12:18+0900"
+  }
+]

@@ -1,0 +1,198 @@
+{
+  "path": "guides/snubh-first-visit-referral",
+  "pass": true,
+  "checks": [
+    {
+      "width": 360,
+      "status": 200,
+      "title": "분당서울대학교병원 초진, 진료의뢰서와 검진결과서 준비 기준",
+      "canonical": "https://hospital.hbuby.com/guides/snubh-first-visit-referral",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snubh-first-visit-referral-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2051,
+      "maxParagraph": 124,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 390,
+      "status": 200,
+      "title": "분당서울대학교병원 초진, 진료의뢰서와 검진결과서 준비 기준",
+      "canonical": "https://hospital.hbuby.com/guides/snubh-first-visit-referral",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snubh-first-visit-referral-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2051,
+      "maxParagraph": 124,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 1280,
+      "status": 200,
+      "title": "분당서울대학교병원 초진, 진료의뢰서와 검진결과서 준비 기준",
+      "canonical": "https://hospital.hbuby.com/guides/snubh-first-visit-referral",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snubh-first-visit-referral-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body1.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/tertiary-hospital-referral-checkup-body2.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2025,
+      "maxParagraph": 124,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

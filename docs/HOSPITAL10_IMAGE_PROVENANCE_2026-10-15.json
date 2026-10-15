@@ -1,0 +1,91 @@
+{
+  "mode": "built-in image_gen; no CLI",
+  "newThumbnailCount": 10,
+  "newBodyImageCount": 4,
+  "thumbnailPrompts": [
+    {
+      "i": 0,
+      "title": "서울대병원 수술기록지",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"서울대병원 수술기록지\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: An adult at hospital medical records desk holding blank document folder, helpful clerk. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-dfafb48e-f520-4046-8aa3-acaf41351e6a.png"
+    },
+    {
+      "i": 1,
+      "title": "서울아산병원 영상 CD",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"서울아산병원 영상 CD\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult with plain unlabeled radiology CD case and blank folder at hospital information counter. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-799c406c-83cd-4447-ab35-ec84d18d91b2.png"
+    },
+    {
+      "i": 2,
+      "title": "삼성서울병원 진단서",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"삼성서울병원 진단서\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult consulting a hospital clerk about certificate issuance, blank paperwork and smartphone. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-c6a694f8-8433-4d82-85a8-fe870185a8af.png"
+    },
+    {
+      "i": 3,
+      "title": "세브란스 대리발급",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"세브란스 대리발급\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult family member checking an unsigned blank consent form and identity card face down at a records desk. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-a1f4bd64-2f90-44c5-8a4f-84246d11271d.png"
+    },
+    {
+      "i": 4,
+      "title": "분당서울대병원 초진",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"분당서울대병원 초진\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult arriving for first outpatient visit with referral envelope and radiology CD case. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-8f46b11f-52c5-4b01-adbb-fc9efd025f56.png"
+    },
+    {
+      "i": 5,
+      "title": "세브란스 건강검진 예약",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"세브란스 건강검진 예약\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult checking two generic appointment options on a blank smartphone with health-check reception in background. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-2ce12403-5c3c-45cf-808b-a914d6769ba3.png"
+    },
+    {
+      "i": 6,
+      "title": "분당서울대병원 입원",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"분당서울대병원 입원\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult checking room assignment message on blank phone beside a neatly packed small bag. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-082d9ce2-49ca-4d84-9593-61efe9643be4.png"
+    },
+    {
+      "i": 7,
+      "title": "삼성서울병원 비용서류",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"삼성서울병원 비용서류\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Two visibly distinct blank receipt sheets and itemized bill on desk beside phone. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-c53ef8b8-1e95-4dc6-9da7-40f6b9a4f29e.png"
+    },
+    {
+      "i": 8,
+      "title": "세브란스 의뢰서 등록",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"세브란스 의뢰서 등록\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult holding original blank referral in folder while using a plain phone at home. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-da19d935-cb33-42d0-b96b-a6b6e437aa56.png"
+    },
+    {
+      "i": 9,
+      "title": "분당서울대병원 주차",
+      "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"분당서울대병원 주차\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult checking parking validation at generic hospital parking payment kiosk beside car. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-aaa801c0-f93c-40b3-ba89-c63086362ced.png"
+    }
+  ],
+  "bodyPrompts": [
+    {
+      "key": "admission-room-bag",
+      "prompt": "Landscape 3:2 realistic editorial illustration for Korean hospital visit guide. A Korean adult and companion at a generic hospital admissions counter with a small packed bag, calmly checking blank phone and paperwork. Natural navy and muted blue accents, realistic anatomy, no readable text, logos, identifiable real buildings, real patient data or invented prices. Helpful everyday preparation scene. Not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-d1c3c8e1-e14c-4af1-8ebc-697a09ed06ad.png"
+    },
+    {
+      "key": "admission-room-arrival",
+      "prompt": "Landscape 3:2 realistic editorial illustration for Korean hospital visit guide. Hospital ward reception with an adult visitor holding a blank visitor pass face down, staff pointing gently toward the corridor, no sick patients visible. Natural navy and muted blue accents, realistic anatomy, no readable text, logos, identifiable real buildings, real patient data or invented prices. Helpful everyday preparation scene. Not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-1acea491-8056-4cc5-a81d-0b231325f0f4.png"
+    },
+    {
+      "key": "parking-validation",
+      "prompt": "Landscape 3:2 realistic editorial illustration for Korean hospital visit guide. Close view of an adult checking a generic hospital parking payment kiosk screen with no readable writing, car keys and plain receipt, bright clean parking lobby. Natural navy and muted blue accents, realistic anatomy, no readable text, logos, identifiable real buildings, real patient data or invented prices. Helpful everyday preparation scene. Not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-38f5dbff-1a9c-4098-b66f-5e2f1b98b18c.png"
+    },
+    {
+      "key": "parking-car",
+      "prompt": "Landscape 3:2 realistic editorial illustration for Korean hospital visit guide. Adult family companion beside a parked ordinary car in a clean hospital parking structure, checking blank smartphone directions before returning to the ward. Natural navy and muted blue accents, realistic anatomy, no readable text, logos, identifiable real buildings, real patient data or invented prices. Helpful everyday preparation scene. Not an actual hospital photo.",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-b0967184-95ad-4cf6-8c41-970ed488617d.png"
+    }
+  ],
+  "reusedBodyImages": "Existing relevant project illustrations, two distinct body scenes per article. Source file paths recorded in HOSPITAL10_PLAN_AND_SOURCES_2026-10-15.json.",
+  "visualReview": "14 new images inspected in contact sheet; title spelling, logos, privacy and scene relevance reviewed. No real hospital photograph claim."
+}
