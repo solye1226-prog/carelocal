@@ -753,5 +753,88 @@
     "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
     "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-da19d935-cb33-42d0-b96b-a6b6e437aa56.png",
     "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"세브란스 의뢰서 등록\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult holding original blank referral in folder while using a plain phone at home. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
+  },
+  {
+    "path": "guides/snubh-parking-admission-discharge",
+    "title": "분당서울대학교병원 주차, 입퇴원 당일과 입원 중 정산 차이",
+    "lead": "분당서울대학교병원의 입퇴원 당일 주차 안내와 입원 기간 중 주차 조건은 다릅니다. 진료·입퇴원 목적, 병실 구분, 지상·지하 주차장과 등록 차량을 나누어 확인하세요.",
+    "parent": "claims/hospitalization-claim-documents",
+    "source": "https://www.snubh.org/intro/map/parking.do",
+    "sourceLabel": "분당서울대학교병원 주차 안내·FAQ",
+    "sections": [
+      [
+        "입퇴원 당일 혜택을 입원 기간 전체에 적용하지 마세요",
+        [
+          "공식 주차 FAQ는 입퇴원 당일 차량 한 대에 대한 무료 조건과 그 외 입원 중 병실·주차장별 조건을 구분합니다. 수술 날짜라는 이유만으로 별도 무료 혜택이 있다고 해석하지 마세요.",
+          "보호자가 며칠 머문다면 입원 첫날, 입원 중 방문일, 퇴원일을 각각 나누어 비용을 알아보세요. 같은 차량이라도 방문 목적과 해당 날짜에 따라 확인할 조건이 달라질 수 있습니다."
+        ]
+      ],
+      [
+        "지상·지하 주차장과 차량 등록을 함께 확인합니다",
+        [
+          "공식 안내는 입원환자 할인권과 지상 주차장 이용 조건을 안내합니다. 입구에서 가까운 주차장만 보고 선택하기보다 장시간 주차할 차량에 어떤 조건이 적용되는지 미리 확인하세요.",
+          "등록 차량 자동 적용과 차량 변경 조건도 함께 봅니다. 보호자가 번갈아 오면 여러 대가 모두 같은 감면을 받는다고 가정하지 말고 원무팀·주차관리실에 등록 방법을 문의하세요."
+        ]
+      ],
+      [
+        "할인권과 다른 감면을 중복 계산하지 마세요",
+        [
+          "공식 안내는 할인·감면의 중복 적용 불가와 무인정산 후 출차 시간을 설명합니다. 할인권을 살 예정이라면 다른 감면을 함께 더해 예상 요금을 계산하지 않도록 적용 조건을 확인하세요.",
+          "요금이나 감면 기준은 바뀔 수 있으므로 이 글에 고정 금액을 옮겨 적기보다 공식 요금표와 방문 당일 안내를 확인하세요. 결제 전 표시된 차량·입차시각·감면 내역을 대조하면 잘못 정산된 항목을 찾는 데 도움이 됩니다."
+        ]
+      ],
+      [
+        "조건이 다르게 적용되면 출차 전에 문의하세요",
+        [
+          "정산기에 예상과 다른 금액이 나오면 방문 목적, 등록 차량, 해당 날짜와 주차장을 확인해 주차관리실에 문의하세요. 다른 환자의 정보를 입력해 감면받는 방식은 사용하지 않습니다.",
+          "출차 후 재정산이나 환불이 필요한 경우에는 주차 결제 내역과 입퇴원·진료 확인 자료 중 무엇이 필요한지 관리실에 물어보세요. 병원 진료비 환불이나 실비보험 청구와 주차 정산은 다른 절차입니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "방문 날짜",
+        "입원일·퇴원일 또는 입원 중",
+        "당일 혜택과 전체 기간 구분"
+      ],
+      [
+        "차량·주차장",
+        "등록 차량·지상/지하",
+        "동일 혜택을 여러 대에 가정하지 않기"
+      ],
+      [
+        "정산 단계",
+        "감면 내역·할인권·출차 안내",
+        "다른 할인과 중복 계산하지 않기"
+      ]
+    ],
+    "steps": [
+      "방문 날짜·목적과 주차할 차량을 정합니다.",
+      "공식 요금표에서 병실·주차장별 조건을 확인합니다.",
+      "결제 전 감면과 출차 안내를 대조합니다."
+    ],
+    "faq": [
+      [
+        "입원 중 수술하는 날이면 별도로 무료인가요?",
+        "공식 주차 FAQ는 수술일 자체에 별도 감면·할인이 없다고 안내합니다. 입퇴원 등 다른 적용 조건을 구분해 확인하세요."
+      ]
+    ],
+    "distinct": "입원 서류 글과 별개인 분당서울대 실제 주차 FAQ의 날짜·병실·차량·주차장별 정산",
+    "bodypair": "home-nursing-before-discharge",
+    "number": 10,
+    "newThumb": "assets/images/snubh-parking-admission-discharge-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/snubh-parking-admission-discharge-body1.webp",
+        "병원 주차 정산기의 할인 내역을 확인하는 설명 장면"
+      ],
+      [
+        "assets/images/snubh-parking-admission-discharge-body2.webp",
+        "주차장에서 차량과 방문 목적을 확인하는 설명 장면"
+      ]
+    ],
+    "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-aaa801c0-f93c-40b3-ba89-c63086362ced.png",
+    "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"분당서울대병원 주차\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult checking parking validation at generic hospital parking payment kiosk beside car. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
   }
 ]
