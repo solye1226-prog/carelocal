@@ -1,0 +1,198 @@
+{
+  "path": "guides/snuh-surgery-record-certificate",
+  "pass": true,
+  "checks": [
+    {
+      "width": 360,
+      "status": 200,
+      "title": "서울대학교병원 수술확인서가 없다면? 수술기록지 발급 준비",
+      "canonical": "https://hospital.hbuby.com/guides/snuh-surgery-record-certificate",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snuh-surgery-record-certificate-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/surgery-claim-documents-checklist.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/surgery-claim-documents-mobile.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        },
+        {
+          "height": 129.875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2352,
+      "maxParagraph": 121,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 390,
+      "status": 200,
+      "title": "서울대학교병원 수술확인서가 없다면? 수술기록지 발급 준비",
+      "canonical": "https://hospital.hbuby.com/guides/snuh-surgery-record-certificate",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snuh-surgery-record-certificate-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/surgery-claim-documents-checklist.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/surgery-claim-documents-mobile.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        },
+        {
+          "height": 103.53125,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2352,
+      "maxParagraph": 121,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "width": 1280,
+      "status": 200,
+      "title": "서울대학교병원 수술확인서가 없다면? 수술기록지 발급 준비",
+      "canonical": "https://hospital.hbuby.com/guides/snuh-surgery-record-certificate",
+      "h1Count": 1,
+      "overflow": false,
+      "noindex": false,
+      "images": [
+        {
+          "src": "/assets/images/snuh-surgery-record-certificate-thumb.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/surgery-claim-documents-checklist.webp",
+          "loaded": true,
+          "alt": true
+        },
+        {
+          "src": "/assets/images/surgery-claim-documents-mobile.webp",
+          "loaded": true,
+          "alt": true
+        }
+      ],
+      "buttons": [
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 50.75,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        },
+        {
+          "height": 84.6875,
+          "inside": true
+        }
+      ],
+      "brokenAnchors": [],
+      "duplicateIds": [],
+      "cellsLabelled": true,
+      "bodyChars": 2326,
+      "maxParagraph": 121,
+      "cssLoaded": true,
+      "nav": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

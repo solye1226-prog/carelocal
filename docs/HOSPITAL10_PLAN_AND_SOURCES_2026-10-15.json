@@ -1,0 +1,89 @@
+[
+  {
+    "path": "guides/snuh-surgery-record-certificate",
+    "title": "서울대학교병원 수술확인서가 없다면? 수술기록지 발급 준비",
+    "lead": "서울대학교병원은 별도 수술확인서 대신 수술날짜·수술명·수술내용이 적힌 수술기록지를 발급한다고 안내합니다. 보험사가 요구한 문서 이름과 병원이 발급하는 실제 기록이 다를 수 있으므로, 필요한 기재 항목을 먼저 확인하세요.",
+    "parent": "claims/surgery-claim-documents",
+    "source": "https://www.snuh.org/content/M002005006.do",
+    "sourceLabel": "서울대학교병원 진료기록 사본발급 FAQ",
+    "sections": [
+      [
+        "수술확인서라는 이름만 고집하지 않아도 됩니다",
+        [
+          "서울대학교병원 공식 사본발급 FAQ는 수술 여부를 확인할 수 있는 기록으로 수술기록지를 안내합니다. 다른 병원에서 수술확인서를 받았다는 사례를 그대로 적용해 같은 이름의 문서를 찾기보다 본원의 발급 방식을 확인하세요.",
+          "기록을 받았다는 사실과 보험사가 청구 자료로 인정했다는 사실은 별개입니다. 진단명·수술명·시행일 중 무엇이 필요한지 요청 내용을 적고, 기존 진단서나 다른 자료와 함께 접수할 수 있는지 가입 보험사에 문의합니다."
+        ]
+      ],
+      [
+        "병원에는 수술일과 필요한 기록 범위를 알려주세요",
+        [
+          "사본발급을 문의할 때는 진료받은 병원·진료과·수술일과 필요한 기록을 구체적으로 말하세요. 동명이거나 여러 차례 수술을 받은 경우에는 어느 날짜의 기록이 필요한지부터 좁혀야 합니다.",
+          "서울대학교병원은 차트·검사결과·영상자료를 의무기록 및 영상발급창구에서 구비서류 확인 후 발급한다고 안내합니다. 본인이 갈지 가족이 갈지 결정한 뒤 공식 페이지의 신청자별 자료를 확인하세요."
+        ]
+      ],
+      [
+        "수술기록지와 진단서의 역할을 나누어 봅니다",
+        [
+          "수술기록지에 실제 행위가 적혀 있어도 보험사가 요청한 진단 확인 자료가 모두 들어 있다고 가정하지 마세요. 기록에서 찾지 못한 항목만 추가 확인해야 불필요한 유료 서류 발급을 줄일 수 있습니다.",
+          "의학 용어나 영문 약어를 보험 종수로 직접 바꾸지 않습니다. 기록의 의미는 병원에, 적용 담보와 수술분류표는 보험사에 각각 확인하세요."
+        ]
+      ],
+      [
+        "발급 뒤에는 기존 접수번호에 연결하세요",
+        [
+          "이미 보험금을 접수했다면 새로 받은 기록이 어느 청구의 보완 자료인지 명확히 구분합니다. 다른 날짜의 수술 기록을 섞거나 별도 신규 청구로 중복 등록하지 않도록 접수 화면과 담당자의 안내를 확인하세요.",
+          "제출 전 환자·수술일·페이지가 맞는지 점검하고 제출 완료 내역을 보관합니다. 민감한 기록은 병원과 보험사의 공식 발급·접수 경로로 다루는 것이 좋습니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "보험사 요청",
+        "필요한 진단명·수술명·수술일",
+        "서류 이름과 기재 항목을 구분"
+      ],
+      [
+        "병원 발급",
+        "해당 수술일의 수술기록지",
+        "신청자별 구비서류 확인"
+      ],
+      [
+        "보험 접수",
+        "기존 접수번호와 보완 자료",
+        "기록 발급만으로 지급 확정 아님"
+      ]
+    ],
+    "steps": [
+      "보험사가 확인하려는 항목을 메모합니다.",
+      "공식 사본발급 안내에서 본인·대리인 절차를 확인합니다.",
+      "기록을 받은 뒤 날짜·페이지를 확인하고 기존 접수에 보완합니다."
+    ],
+    "faq": [
+      [
+        "기록지만 받으면 수술비가 지급되나요?",
+        "아닙니다. 발급 문서와 보험금 지급 판단은 별개입니다. 해당 담보의 필요 항목과 약관을 보험사에 확인하세요."
+      ],
+      [
+        "병원에 몇 종 수술인지 적어 달라고 하면 되나요?",
+        "실제 수술 기록의 확인과 보험 약관의 종수 판단은 다릅니다. 병원에는 실제 행위를, 보험사에는 분류 근거를 문의하세요."
+      ]
+    ],
+    "distinct": "일반 대체서류 글과 달리 서울대학교병원의 별도 수술확인서 부재·실제 기록 발급 경로를 설명",
+    "bodypair": "surgery-claim-documents",
+    "number": 1,
+    "newThumb": "assets/images/snuh-surgery-record-certificate-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/surgery-claim-documents-checklist.webp",
+        "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면"
+      ],
+      [
+        "assets/images/surgery-claim-documents-mobile.webp",
+        "모바일로 수술비 보험금 청구서류를 제출하는 장면"
+      ]
+    ],
+    "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-dfafb48e-f520-4046-8aa3-acaf41351e6a.png",
+    "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"서울대병원 수술기록지\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: An adult at hospital medical records desk holding blank document folder, helpful clerk. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
+  }
+]
