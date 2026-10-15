@@ -445,6 +445,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/emg-nerve-conduction-test-claim",
+    "title": "근전도검사 실비, 신경전도검사와 수술비 청구를 나누는 기준",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/flu-test-cost-claim",
     "title": "독감 검사비 실비 청구, 예방접종 비용과 어떻게 다를까?",
     "category": "실비보험"
