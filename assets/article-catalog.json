@@ -430,6 +430,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/cpap-rental-private-insurance-costs",
+    "title": "양압기 대여료 실비, 건강보험 요양비와 민간보험 비용 나누기",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/ct-scan-cost-claim",
     "title": "CT 검사비 실비 청구, 조영제 비용과 필요서류 확인",
     "category": "실비보험"
