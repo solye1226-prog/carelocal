@@ -338,5 +338,88 @@
     "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
     "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-a1f4bd64-2f90-44c5-8a4f-84246d11271d.png",
     "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"세브란스 대리발급\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult family member checking an unsigned blank consent form and identity card face down at a records desk. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
+  },
+  {
+    "path": "guides/snubh-first-visit-referral",
+    "title": "분당서울대학교병원 초진, 진료의뢰서와 검진결과서 준비 기준",
+    "lead": "분당서울대학교병원은 건강보험 환자의 초진 준비자료로 요양급여의뢰서 원본 또는 진료 소견이 기재된 건강검진결과서를 안내합니다. 예약 완료와 서류 접수는 별개이므로 내원 전 자신의 자격과 제출 자료를 확인하세요.",
+    "parent": "guides/tertiary-hospital-referral-checkup",
+    "source": "https://www.snubh.org/medical/out/clinic01.do",
+    "sourceLabel": "분당서울대학교병원 외래진료 안내",
+    "sections": [
+      [
+        "단순 결과 수치와 의사소견이 있는 결과서를 구분하세요",
+        [
+          "검진을 받았다는 사실만으로 모든 결과지가 의뢰서를 대신한다고 해석하지 마세요. 공식 안내의 핵심은 진료 소견이 기재된 결과서인지입니다. 현재 가진 서류의 문서명과 내용을 예약·원무 창구에 알려 인정 가능 여부를 문의하세요.",
+          "검진 결과 화면을 휴대전화로 보여주는 것과 병원이 요구하는 서류를 제출하는 것은 다를 수 있습니다. 원본 필요 여부와 실제 접수 방법은 병원 안내에 따라 준비합니다."
+        ]
+      ],
+      [
+        "건강보험과 의료급여 준비자료를 나눕니다",
+        [
+          "분당서울대학교병원은 의료급여 환자에게 2차 의료급여기관 발급 의뢰서 원본을 안내합니다. 건강보험 환자의 안내를 그대로 적용하지 말고 본인의 자격을 확인하세요.",
+          "공식 페이지에는 건강보험 환자의 일부 진료과 등에 관한 예외도 별도로 안내되어 있습니다. 예외에 해당하는지는 예약 진료과와 자격을 원무 창구에 알려 확인하며, 일반적인 대학병원 이용 경험으로 추측하지 않습니다."
+        ]
+      ],
+      [
+        "도착하면 진료 전 처음오신 창구를 확인하세요",
+        [
+          "공식 외래 안내는 처음 방문·초진 환자가 가져온 의뢰서와 타병원 영상물 등을 진료 전 처음오신 창구에 제출하도록 안내합니다. 예약 시간에 맞춰 진료실만 찾아가기 전에 서류 접수 위치를 확인하세요.",
+          "의뢰서와 영상 CD, 판독지는 서로 다른 자료입니다. 검사 날짜·기관·부위를 적어 준비하고, 예약 진료과에서 요구한 자료가 빠지지 않았는지 한 번에 대조하면 동선 혼선을 줄일 수 있습니다."
+        ]
+      ],
+      [
+        "의뢰서를 나중에 내는 경우는 원무팀에 문의하세요",
+        [
+          "공식 안내는 의뢰서 미제출 시 비용 부담과 제출 이후 적용을 설명합니다. 나중에 서류를 내면 이전 진료비까지 모두 돌려받는다고 가정하지 마세요.",
+          "진료일·의뢰서 발급일·제출일과 실제 수납 내역을 나누어 적고 정산 가능 여부를 문의하세요. 민간 실비보험의 지급 판단과 건강보험 자격 적용은 별도의 확인입니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "건강보험",
+        "의뢰서 원본 또는 소견 기재 검진결과서",
+        "단순 검진 수치만 있는 자료와 구분"
+      ],
+      [
+        "의료급여",
+        "2차 의료급여기관 의뢰서 원본",
+        "본인 자격에 맞는 기준 확인"
+      ],
+      [
+        "진료 전 접수",
+        "처음오신 창구와 영상물",
+        "예약 완료와 접수 완료 구분"
+      ]
+    ],
+    "steps": [
+      "건강보험·의료급여 자격과 예약 진료과를 확인합니다.",
+      "현재 가진 자료의 인정 여부를 병원에 문의합니다.",
+      "서류·영상물을 준비해 진료 전 접수합니다."
+    ],
+    "faq": [
+      [
+        "검진결과서면 모두 의뢰서를 대신하나요?",
+        "아닙니다. 공식 안내는 진료 소견이 기재된 결과서를 설명합니다. 실제 서류를 기준으로 병원에 확인하세요."
+      ]
+    ],
+    "distinct": "일반 의뢰서 제도 설명과 달리 분당서울대 초진 창구·자격별 자료·지연 제출 확인 경로",
+    "bodypair": "tertiary-hospital-referral-checkup",
+    "number": 5,
+    "newThumb": "assets/images/snubh-first-visit-referral-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/tertiary-hospital-referral-checkup-body1.webp",
+        "검진 후 동네 의원에서 진료의뢰서 필요 여부를 상담하는 설명 장면"
+      ],
+      [
+        "assets/images/tertiary-hospital-referral-checkup-body2.webp",
+        "상급종합병원 예약 전에 검진결과서와 진료의뢰서를 확인하는 설명 장면"
+      ]
+    ],
+    "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-8f46b11f-52c5-4b01-adbb-fc9efd025f56.png",
+    "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"분당서울대병원 초진\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult arriving for first outpatient visit with referral envelope and radiology CD case. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
   }
 ]
