@@ -840,6 +840,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/lipoma-excision-operation-record",
+    "title": "지방종 제거 수술비, 병명보다 실제 절제 범위와 약관 확인하기",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/lumbar-disc",
     "title": "허리디스크 수술비 몇 종일까? 디스크절제·신경감압 기록 확인",
     "category": "수술비"
