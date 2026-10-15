@@ -504,5 +504,88 @@
     "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
     "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-2ce12403-5c3c-45cf-808b-a914d6769ba3.png",
     "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"세브란스 건강검진 예약\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult checking two generic appointment options on a blank smartphone with health-check reception in background. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
+  },
+  {
+    "path": "guides/snubh-admission-room-assignment",
+    "title": "분당서울대학교병원 입원 예약, 병실 배정 알림 후 확인할 것",
+    "lead": "분당서울대학교병원은 입원 예약과 당일 병실 배정을 구분해 안내합니다. 입원 예정일만 보고 출발하기보다 배정 여부, 수속 시간·장소와 진료과의 별도 안내를 확인하세요.",
+    "parent": "claims/hospitalization-claim-documents",
+    "source": "https://www.snubh.org/medical/inOut/hospital01.do",
+    "sourceLabel": "분당서울대학교병원 입원 안내",
+    "sections": [
+      [
+        "예약이 있어도 희망 병실이 확정된 것은 아닙니다",
+        [
+          "공식 안내는 당일 병실 사정에 따라 희망 등급과 실제 배정이 다르거나 입원·수술 일정이 지연될 수 있다고 설명합니다. 특정 병실만 이용하려는 사정이 있다면 배정 내용을 확인한 뒤 병원과 상의하세요.",
+          "입원 날짜와 병실 등급, 수술 내원 시간은 각각 확인할 항목입니다. 진료과에서 별도 시간·장소를 안내받았다면 일반 입원 안내와 구분해 해당 지시를 확인해야 합니다."
+        ]
+      ],
+      [
+        "알림을 받으면 세 가지를 적어두세요",
+        [
+          "병실 배정 안내에서 병원 도착 시간, 입원 수속 장소, 배정 병실을 확인합니다. 단순히 메시지가 왔다는 사실보다 실제 배정 결과와 수속 안내를 확인하는 것이 중요합니다.",
+          "미배정 안내나 연락 지연이 있으면 원무팀·진료과의 후속 안내를 확인하세요. 직접 방문하면 병실을 받을 수 있다고 가정하거나 수술 일정을 스스로 변경하지 않습니다."
+        ]
+      ],
+      [
+        "모바일 수속 뒤에도 현장 절차를 확인합니다",
+        [
+          "공식 안내는 모바일 입원 수속을 한 경우에도 안내된 시간·장소에 방문해 병동 출입증을 발급받도록 설명합니다. 휴대전화 접수를 끝냈다는 이유로 바로 병동에 갈 수 있다고 생각하지 마세요.",
+          "환자와 상주 보호자의 신분확인 자료, 복용약·처방전, 개인물품 등 필요한 준비물은 병원의 입원 안내에서 확인합니다. 복용약은 임의 중단하지 않고 병동 의료진에게 전달할 정보를 정리하세요."
+        ]
+      ],
+      [
+        "퇴원 서류는 청구할 담보에 맞춰 준비합니다",
+        [
+          "입원 중 실비와 입원일당을 함께 청구할 계획이라면 영수증·세부내역서와 입원 기간 자료를 구분해 준비할 수 있습니다. 실제 필요한 항목과 대체 가능 여부는 가입 보험사에 문의하세요.",
+          "병실료의 수납 기준과 민간 보험의 보장 한도는 같은 판단이 아닙니다. 배정받은 병실과 실제 부담 비용을 확인한 뒤 자신의 계약에서 확인할 항목을 나누어 봅니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "예약 단계",
+        "예정일·희망 병실",
+        "입원 확정으로 오해하지 않기"
+      ],
+      [
+        "배정 안내",
+        "병실·수속 시간·장소",
+        "진료과 별도 안내 확인"
+      ],
+      [
+        "모바일 수속 후",
+        "현장 확인·병동 출입증",
+        "신분증과 준비물 지참"
+      ]
+    ],
+    "steps": [
+      "입원 예약 내용과 별도 진료과 안내를 정리합니다.",
+      "배정 결과와 수속 동선을 확인합니다.",
+      "준비물을 챙겨 지정된 절차에 따라 입실합니다."
+    ],
+    "faq": [
+      [
+        "모바일 수속을 했으면 바로 병동에 가나요?",
+        "공식 안내는 안내된 시간·장소에서 병동 출입증 발급 등 현장 절차를 거치도록 설명합니다. 당일 안내를 확인하세요."
+      ]
+    ],
+    "distinct": "입원비 청구와 별개인 분당서울대 병실 배정/모바일 수속/현장 출입증 단계 안내",
+    "bodypair": "home-nursing-before-discharge",
+    "number": 7,
+    "newThumb": "assets/images/snubh-admission-room-assignment-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/snubh-admission-room-assignment-body1.webp",
+        "병원 입원 수속에 앞서 짐과 필요한 자료를 확인하는 설명 장면"
+      ],
+      [
+        "assets/images/snubh-admission-room-assignment-body2.webp",
+        "병동 출입 절차를 안내받는 설명 장면"
+      ]
+    ],
+    "imageGenerator": "Built-in image_gen; thumbnail and selected body originals retained in CODEX_HOME; project WebP assets persisted",
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-082d9ce2-49ca-4d84-9593-61efe9643be4.png",
+    "prompt": "Create one polished Korean Carelocal informational blog thumbnail, landscape 3:2. Exact large readable Korean title \"분당서울대병원 입원\". Navy blue, white, vivid blue and a little yellow, clean editorial card style with generous margins. Illustrative realistic scene: Adult checking room assignment message on blank phone beside a neatly packed small bag. Only requested title is readable text. No hospital logos, no real hospital architecture, no real patient information, no numbers or invented forms, no additional slogans, no medical promises. This is a conceptual illustration, not an actual hospital photo."
   }
 ]
