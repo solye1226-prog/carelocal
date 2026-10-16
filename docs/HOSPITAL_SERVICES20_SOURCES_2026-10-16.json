@@ -1178,5 +1178,102 @@
     "bodyChars": 2277,
     "duplicateReview": "Existing 317 titles and related article bodies reviewed; specific institution procedure or new service intent",
     "indexing": "not yet requested"
+  },
+  {
+    "path": "guides/snuh-cancer-information-education-center",
+    "title": "서울대암병원 암정보교육센터, 환자·가족 교육은 어디서 확인할까?",
+    "lead": "서울대암병원 암정보교육센터는 진료예약과 별도로 암 관련 자료와 교육 정보를 확인할 수 있는 공간입니다. 환자와 가족이 이용할 교육을 찾는다면 프로그램 일정과 참여 방법을 센터에 먼저 문의하세요.",
+    "parent": "guides/cancer-treatment-cost",
+    "source": "https://cancer.snuh.org/reservation/meddept/CEIC/cancerIntro.do",
+    "sourceLabel": "서울대암병원 암정보교육센터 안내",
+    "rows": [
+      [
+        "이용 목적",
+        "자료 열람·교육 정보 확인",
+        "개별 진단·치료 상담과 구분"
+      ],
+      [
+        "참여 대상",
+        "환자·가족 등 관심 있는 이용자",
+        "프로그램별 참여 조건 확인"
+      ],
+      [
+        "방문 준비",
+        "운영일·교육 일정·신청 방법",
+        "공간 운영과 강의 시간을 구분"
+      ]
+    ],
+    "sections": [
+      [
+        "진료를 기다리는 동안 필요한 질문을 정리할 수 있습니다",
+        [
+          "서울대암병원은 암정보에 관심 있는 환자와 가족, 일반인이 이용할 수 있는 암정보교육센터를 안내합니다. 암과 치료에 관한 자료나 교육 프로그램을 찾을 때 활용할 수 있지만 개인의 검사 결과를 판독하거나 치료 방법을 결정하는 진료실과는 역할이 다릅니다.",
+          "진료에서 들은 설명 중 이해가 어려운 용어와 생활 관리에 관한 궁금증을 정리해보세요. 자료로 먼저 살펴볼 수 있는 내용인지, 반드시 담당 의료진에게 다시 물어야 하는 질문인지를 나누면 이용 목적이 더 뚜렷해집니다."
+        ]
+      ],
+      [
+        "암병원 1층 동행라운지 위치를 확인합니다",
+        [
+          "공식 안내는 암병원 1층 동행라운지를 센터 위치로 표시하고 평일 오전 9시~오후 5시 운영, 주말·공휴일 제외를 안내합니다. 문의 전화는 02-2072-7451입니다.",
+          "외래 진료와 같은 날 들를 계획이면 진료 건물과 이동 시간을 확인하세요. 센터가 열려 있는 시간과 특정 교육이 열리는 시간은 다릅니다. 방문일에 원하는 프로그램이 있는지, 신청이 필요한지 전화로 먼저 확인하면 기다림을 줄일 수 있습니다."
+        ]
+      ],
+      [
+        "교육은 프로그램별 일정과 참여 방법을 확인합니다",
+        [
+          "센터에서 운영하는 교육과 자료 안내가 있더라도 모든 프로그램이 매일 열리거나 예약 없이 참여할 수 있다고 가정하지 마세요. 주제, 대상, 진행 방식, 신청 절차를 해당 일정에서 확인해야 합니다.",
+          "가족이 대신 정보를 알아보는 경우에는 환자의 치료 과정에서 어떤 질문이 생겼는지 정리해 문의할 수 있습니다. 개인의 진단서 전체를 보내기보다 교육 주제에 필요한 범위로 질문하고, 치료 변경이나 약 복용에 관한 결정은 담당 의료진에게 확인합니다."
+        ]
+      ],
+      [
+        "자료를 읽은 뒤 다음 진료에서 확인할 질문을 남깁니다",
+        [
+          "교육 자료의 일반적인 설명이 자신의 상태와 똑같이 적용된다고 보지 마세요. 같은 암종이라도 치료 과정과 주의사항이 다를 수 있으므로 궁금한 내용을 적어 다음 진료 때 확인하는 방식으로 활용하는 것이 좋습니다.",
+          "가족끼리 자료를 공유할 때는 출처와 확인 날짜를 함께 적어두세요. 오래된 인터넷 후기와 공식 교육 내용을 섞어 결론을 내리기보다 현재 치료팀의 설명과 대조합니다. 경제적 지원이나 비용 상담이 필요하면 관련 담당 부서의 안내 경로도 센터에 문의할 수 있습니다."
+        ]
+      ]
+    ],
+    "steps": [
+      "필요한 교육 주제와 질문을 정리합니다.",
+      "센터 운영일과 위치를 공식 페이지에서 확인합니다.",
+      "방문할 날짜의 프로그램과 신청 방법을 문의합니다.",
+      "교육 후 개인 치료에 관한 질문은 담당 의료진에게 확인합니다."
+    ],
+    "faq": [
+      [
+        "교육센터에 가면 진료예약도 해결되나요?",
+        "교육 정보 이용과 진료예약은 별도입니다. 진료가 필요하면 병원의 공식 예약 경로를 확인해야 합니다."
+      ],
+      [
+        "가족 혼자 이용할 수 있나요?",
+        "공식 안내는 환자와 가족 등 암정보에 관심 있는 이용자를 대상으로 설명합니다. 특정 프로그램의 참여 조건은 센터에 확인하세요."
+      ]
+    ],
+    "number": 14,
+    "thumbnail": "assets/images/snuh-cancer-information-education-center-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/hospital-services-cancer-education.webp",
+        "암정보 교육자료를 읽고 가족과 질문을 정리하는 설명 장면"
+      ],
+      [
+        "assets/images/tertiary-hospital-referral-checkup-body1.webp",
+        "검진 후 동네 의원에서 진료의뢰서 필요 여부를 상담하는 설명 장면"
+      ]
+    ],
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-1d560773-0f21-4999-bc24-671b803f1fcf.png",
+    "thumbPrompt": "케어로컬 한국어 병원 이용 안내 블로그 대표 이미지. 가로 3:2 고품질 카드뉴스. 진한 남색, 선명한 파랑, 흰색, 작은 노랑 포인트. 정확한 큰 제목 '암정보 교육' 만 표시. 제목과 관련된 준비 행동을 하는 한국인 성인과 필요한 소품의 현실적인 편집용 설명 장면. 실제 병원 로고, 개인정보, 실제 앱 화면, 허위 수치, 혈액이나 수술 장면 금지. 모바일 가독성이 좋고 넓은 여백. 다른 문구 없음.",
+    "bodyImageOrigins": [
+      {
+        "key": "cancer-education",
+        "prompt": "가로 3:2, 한국 병원 이용 정보 블로그의 자연스럽고 신뢰감 있는 설명용 사진풍 이미지. 한국인 환자와 성인 가족이 병원 교육 라운지에서 암 관련 교육 자료를 함께 읽으며 질문을 노트에 정리하는 장면. 밝은 자연광과 흰색·부드러운 파랑 색조. 제목이나 자막 없음. 병원 로고 없음, 실제 환자나 실제 문서 사진으로 보증하지 않는 편집 이미지. 이상한 손가락과 읽을 수 있는 허위 문서 수치 금지.",
+        "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-e63e5c2d-4036-45d6-8f51-de6070e92736.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-e63e5c2d-4036-45d6-8f51-de6070e92736.png",
+        "asset": "assets/images/hospital-services-cancer-education.webp"
+      }
+    ],
+    "bodyChars": 2216,
+    "duplicateReview": "Existing 317 titles and related article bodies reviewed; specific institution procedure or new service intent",
+    "indexing": "not yet requested"
   }
 ]
