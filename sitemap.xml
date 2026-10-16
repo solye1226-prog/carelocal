@@ -233,7 +233,7 @@
   <url><loc>https://hospital.hbuby.com/silbi/ct-scan-cost-claim</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/pharmacy-prescription-claim</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/silbi/emergency-room-cost-claim</loc><lastmod>2026-10-07</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/silbi/emergency-room-cost-claim</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction</loc><lastmod>2026-10-07</lastmod></url>
@@ -370,4 +370,5 @@
 <url><loc>https://hospital.hbuby.com/guides/snubh-hipass-card-exclusions</loc><lastmod>2026-10-16</lastmod></url>
 <url><loc>https://hospital.hbuby.com/guides/snubh-sign-language-interpreter-reservation</loc><lastmod>2026-10-16</lastmod></url>
 <url><loc>https://hospital.hbuby.com/guides/smc-first-visit-quick-reservation</loc><lastmod>2026-10-16</lastmod></url>
+<url><loc>https://hospital.hbuby.com/guides/snubh-emergency-discharge-next-visit</loc><lastmod>2026-10-16</lastmod></url>
 </urlset>
