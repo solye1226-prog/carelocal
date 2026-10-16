@@ -1510,6 +1510,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/moonlight-childrens-hospital-night-search",
+    "title": "달빛어린이병원 찾기, 야간 소아진료 출발 전에 확인할 것",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/my-health-record-missing-hospital-data",
     "title": "나의건강기록 앱에 병원 기록이 안 보일 때, 참여기관·자료 종류 확인",
     "category": "방문 가이드"
