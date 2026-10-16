@@ -1560,6 +1560,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/snuh-appointment-cancel-test-prepaid",
+    "title": "서울대학교병원 예약 취소가 안 될 때, 검사예약·선결제 확인",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/snuh-surgery-record-certificate",
     "title": "서울대학교병원 수술확인서가 없다면? 수술기록지 발급 준비",
     "category": "방문 가이드"
