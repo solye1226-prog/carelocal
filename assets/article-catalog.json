@@ -1500,6 +1500,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/my-health-record-missing-hospital-data",
+    "title": "나의건강기록 앱에 병원 기록이 안 보일 때, 참여기관·자료 종류 확인",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/night-hospital-checklist",
     "title": "야간진료와 응급실 이용 기준 | 케어로컬",
     "category": "방문 가이드"
