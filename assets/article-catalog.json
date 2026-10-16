@@ -1485,6 +1485,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/hira-medication-history-before-admission",
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/home-nursing-before-discharge",
     "title": "퇴원 후 가정간호 신청, 상처 소독·관 관리가 필요하면 퇴원 전에 확인",
     "category": "방문 가이드"
