@@ -223,7 +223,7 @@
   <url><loc>https://hospital.hbuby.com/claims/hospital-receipt-reissue</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://hospital.hbuby.com/guides/parent-prescription-proxy</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application</loc><lastmod>2026-10-06</lastmod></url>
@@ -372,4 +372,5 @@
 <url><loc>https://hospital.hbuby.com/guides/smc-first-visit-quick-reservation</loc><lastmod>2026-10-16</lastmod></url>
 <url><loc>https://hospital.hbuby.com/guides/snubh-emergency-discharge-next-visit</loc><lastmod>2026-10-16</lastmod></url>
 <url><loc>https://hospital.hbuby.com/guides/amc-home-nursing-service-area</loc><lastmod>2026-10-16</lastmod></url>
+<url><loc>https://hospital.hbuby.com/guides/amc-noncovered-price-material-drug</loc><lastmod>2026-10-16</lastmod></url>
 </urlset>
