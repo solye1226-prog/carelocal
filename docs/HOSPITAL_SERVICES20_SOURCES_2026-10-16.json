@@ -1774,5 +1774,102 @@
     "bodyChars": 2249,
     "duplicateReview": "Existing 317 titles and related article bodies reviewed; specific institution procedure or new service intent",
     "indexing": "not yet requested"
+  },
+  {
+    "path": "guides/medical-dispute-counselling-records",
+    "title": "의료분쟁 상담 전 준비할 자료, 진료기록과 날짜를 어떻게 정리할까?",
+    "lead": "치료 과정에서 피해가 의심되어 의료분쟁 상담을 받으려면 진료 날짜, 발생한 문제, 병원 설명과 보유 자료를 먼저 정리하세요. 상담·조정 신청·사건 접수·절차 개시는 서로 다른 단계이며 신청만으로 과실이나 배상이 확정되지는 않습니다.",
+    "parent": "treatment-costs/noncovered-cost-review-request",
+    "source": "https://www.k-medi.or.kr/web/lay1/S1T132C158/contents.do",
+    "sourceLabel": "의료분쟁조정중재원 신청 절차 확인",
+    "rows": [
+      [
+        "사실 정리",
+        "진료일·문제 발생일·이후 진료 순서",
+        "기억과 기록 내용을 구분"
+      ],
+      [
+        "자료",
+        "보유 진료기록·검사결과·비용 자료",
+        "필요 범위는 상담 후 확인"
+      ],
+      [
+        "절차",
+        "상담·신청·접수·개시 구분",
+        "신청이 책임 인정이나 배상 확정은 아님"
+      ]
+    ],
+    "sections": [
+      [
+        "의료행위 피해와 비용·보험 문의를 구분합니다",
+        [
+          "한국의료분쟁조정중재원은 의료분쟁 상담과 조정·중재 신청 안내를 제공합니다. 단순히 민간보험금이 적게 지급된 문제인지, 진료비 급여·비급여 분류를 확인하려는 것인지, 의료행위로 인한 피해에 관한 분쟁인지 먼저 정리하면 상담 경로를 찾기 쉽습니다.",
+          "어느 절차인지 판단하기 어려우면 상담전화 1670-2545로 문의할 수 있습니다. 상담 전에 “어떤 치료 후 어떤 문제가 생겼고 무엇을 확인하고 싶다”는 문장을 적어보세요. 이 글은 개별 사건의 과실이나 법적 책임을 판단하는 자료가 아닙니다."
+        ]
+      ],
+      [
+        "날짜순 사실과 병원의 설명을 분리해 적습니다",
+        [
+          "첫 진료, 검사·시술·수술, 문제를 알아차린 시점, 추가 진료를 날짜순으로 나열합니다. 기억이 정확하지 않은 날짜는 추정이라고 표시하고 기록에서 확인된 날짜와 구분하세요. 병원이 설명한 내용과 본인이 느낀 문제도 각각 적는 편이 좋습니다.",
+          "예를 들어 “검사를 받았음”, “다음날 증상을 알게 됨”, “다른 기관에서 추가 진료를 받음”처럼 확인 가능한 사건을 먼저 정리합니다. 인터넷 후기와 비교해 특정 의료진의 잘못으로 단정하는 문장보다 실제 자료와 질문이 상담에 도움이 됩니다."
+        ]
+      ],
+      [
+        "서류는 필요한 범위를 확인한 뒤 준비합니다",
+        [
+          "공식 신청 안내는 신청서와 별지, 관련 구비서류를 확인하는 절차를 제시합니다. 현재 갖고 있는 진료기록, 검사결과, 비용 자료의 목록을 만들고 어떤 기간·종류의 자료가 더 필요한지 상담에서 확인하세요.",
+          "원본 자료를 편집하거나 일부 문구를 바꾸지 말고 발급받은 상태로 보관합니다. 설명을 위한 메모는 별도 문서로 정리하고, 의료기록을 공개 게시판이나 불특정인에게 전송하지 않습니다. 대리인이 신청하는 경우 필요한 자격 확인 자료도 공식 안내에서 확인해야 합니다."
+        ]
+      ],
+      [
+        "신청 완료와 조정 개시는 같은 상태가 아닙니다",
+        [
+          "의료분쟁조정중재원은 서류와 수수료 등 접수 절차를 거쳐 사건을 처리하고 상대방에게 신청 내용을 전달하는 흐름을 안내합니다. 일반적인 참여 동의 절차와 법에서 정한 자동개시 대상 등 조건이 있으므로 모든 사건이 같은 방식으로 시작된다고 보지 않습니다.",
+          "접수 후에는 사건번호, 추가 자료 요청, 현재 절차와 다음 연락 시점을 확인하세요. 처리 기간이나 결과를 인터넷의 다른 사례와 똑같이 예상하지 않습니다. 시효 등 권리와 관련된 쟁점이 걱정된다면 사건의 날짜와 자료를 가지고 전문 상담을 받아야 합니다."
+        ]
+      ]
+    ],
+    "steps": [
+      "확인하려는 문제가 의료행위·비용·보험 중 무엇인지 적습니다.",
+      "날짜순 경과와 보유 자료 목록을 정리합니다.",
+      "공식 상담에서 신청 대상과 필요한 서류를 확인합니다.",
+      "신청 뒤 사건번호와 접수·개시 상태를 구분해 확인합니다."
+    ],
+    "faq": [
+      [
+        "상담받으면 바로 조정 신청이 된 건가요?",
+        "상담과 신청은 별도 단계입니다. 신청서·자료·수수료 등 해당 절차의 완료 여부와 실제 접수 상태를 확인해야 합니다."
+      ],
+      [
+        "신청하면 병원의 잘못이 인정되나요?",
+        "신청만으로 과실이나 배상이 확정되지 않습니다. 사건별 사실과 자료, 적용 절차에 따라 검토가 진행됩니다."
+      ]
+    ],
+    "number": 20,
+    "thumbnail": "assets/images/medical-dispute-counselling-records-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/hospital-services-dispute-timeline.webp",
+        "의료분쟁 상담 전에 진료 날짜와 기록을 정리하는 설명 장면"
+      ],
+      [
+        "assets/images/medical-records-proxy-documents-body1.webp",
+        "진료기록 창구에서 가족이 사본 발급 준비서류를 확인하는 설명 장면"
+      ]
+    ],
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-743e04a0-65c3-4733-a69b-0e1b042303a3.png",
+    "thumbPrompt": "케어로컬 한국어 병원 이용 안내 블로그 대표 이미지. 가로 3:2 고품질 카드뉴스. 진한 남색, 선명한 파랑, 흰색, 작은 노랑 포인트. 정확한 큰 제목 '의료분쟁 상담' 만 표시. 제목과 관련된 준비 행동을 하는 한국인 성인과 필요한 소품의 현실적인 편집용 설명 장면. 실제 병원 로고, 개인정보, 실제 앱 화면, 허위 수치, 혈액이나 수술 장면 금지. 모바일 가독성이 좋고 넓은 여백. 다른 문구 없음.",
+    "bodyImageOrigins": [
+      {
+        "key": "dispute-timeline",
+        "prompt": "가로 3:2, 한국 병원 이용 정보 블로그의 자연스럽고 신뢰감 있는 설명용 사진풍 이미지. 한국인 성인이 책상에서 병원 진료기록을 날짜순으로 정리하고 상담할 질문을 별도 노트에 적는 장면. 감정적인 비난이나 법적 승소 연출 없음. 밝은 자연광과 흰색·부드러운 파랑 색조. 제목이나 자막 없음. 병원 로고 없음, 실제 환자나 실제 문서 사진으로 보증하지 않는 편집 이미지. 이상한 손가락과 읽을 수 있는 허위 문서 수치 금지.",
+        "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-9401c54a-e066-4dca-816d-adbcf4c3523e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-9401c54a-e066-4dca-816d-adbcf4c3523e.png",
+        "asset": "assets/images/hospital-services-dispute-timeline.webp"
+      }
+    ],
+    "bodyChars": 2341,
+    "duplicateReview": "Existing 317 titles and related article bodies reviewed; specific institution procedure or new service intent",
+    "indexing": "not yet requested"
   }
 ]
