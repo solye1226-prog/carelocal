@@ -1,0 +1,149 @@
+케어로컬 병원 이용 정보 20편 발행 및 네이버 요청 보고
+작업일: 2026-10-16
+
+완료: 20편 순차 발행, 공개 본문/이미지 확인, 네이버 수집 요청 20건 접수
+검증: 각 글 360/390/1280px, 로컬 60조건 및 공개 60조건 PASS
+공개 카탈로그: 337편 / 사이트맵: 362 URL
+각 글: 공식 안내 버튼 2개, 이미지 3개, 기존 관련 글과 상호 내부 링크
+주의: 수집 요청 접수는 색인 완료를 뜻하지 않습니다.
+소재는 기존 본문과 검색 의도를 대조하여 선정했습니다. 검색량/CPC는 별도 실측하지 않았습니다.
+
+01. 서울대학교병원 예약 취소가 안 될 때, 검사예약·선결제 확인
+https://hospital.hbuby.com/guides/snuh-appointment-cancel-test-prepaid
+공식 출처: https://www.snuh.org/content/Q005001001.do
+기존 연결 글: https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup
+발행 커밋: 997f2b914e85760ed38582d46a0dae1843f07cbc
+네이버 요청: 26.10.16 15:42:16 KST
+
+02. 서울대학교병원 외부영상 등록, USB 대신 CD를 준비해야 할까?
+https://hospital.hbuby.com/guides/snuh-external-image-cd-usb
+공식 출처: https://www.snuh.org/board/B009/view.do?bbs_no=85&pageIndex=1
+기존 연결 글: https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer
+발행 커밋: a20e547f5c7e9e287aa360769de08fb667e840a5
+네이버 요청: 26.10.16 15:42:22 KST
+
+03. 분당서울대병원 당일수술 준비, 전날 전화·보호자·귀가 확인
+https://hospital.hbuby.com/guides/snubh-day-surgery-call-guardian
+공식 출처: https://www.snubh.org/medical/day/surgeryCenter04.do
+기존 연결 글: https://hospital.hbuby.com/guides/snubh-admission-room-assignment
+발행 커밋: 3cca201edfe3ec8196a278a7570f285f4248ce36
+네이버 요청: 26.10.16 15:42:27 KST
+
+04. 분당서울대병원 면회 가능할까? 병동별 시간과 상주 보호자 확인
+https://hospital.hbuby.com/guides/snubh-visiting-ward-guardian
+공식 출처: https://www.snubh.org/medical/visit.do
+기존 연결 글: https://hospital.hbuby.com/guides/snubh-admission-room-assignment
+발행 커밋: 76ab8dbf774b0236fe2efb28ad52f53b560e89a6
+네이버 요청: 26.10.16 15:42:32 KST
+
+05. 분당서울대병원 간호간병통합병동 신청, 보호자가 상주해야 할까?
+https://hospital.hbuby.com/guides/snubh-integrated-nursing-ward-application
+공식 출처: https://www.snubh.org/medical/ncis.do
+기존 연결 글: https://hospital.hbuby.com/caregiver/integrated-nursing-care-cost-check
+발행 커밋: 04136c78cc564e327b0e1a12b9185e32c665b023
+네이버 요청: 26.10.16 15:45:45 KST
+
+06. 분당서울대병원 퇴원 수속, 결제·서류·퇴원약 받는 순서
+https://hospital.hbuby.com/guides/snubh-discharge-payment-medicine
+공식 출처: https://www.snubh.org/medical/inOut/hospital04.do
+기존 연결 글: https://hospital.hbuby.com/claims/hospitalization-claim-documents
+발행 커밋: 8f2c5560b4ea76c88906b4bf8503859dbdcf21a5
+네이버 요청: 26.10.16 15:45:50 KST
+
+07. 분당서울대병원 진료비 하이패스, 등록 가능한 카드와 별도 수납 항목
+https://hospital.hbuby.com/guides/snubh-hipass-card-exclusions
+공식 출처: https://www.snubh.org/medical/out/clinic09.do
+기존 연결 글: https://hospital.hbuby.com/claims/hospital-receipt-reissue
+발행 커밋: 542100ccfb525c7086b88f4064ceec6880850812
+네이버 요청: 26.10.16 15:45:56 KST
+
+08. 분당서울대병원 수어통역 신청, 진료 전에 어디로 예약할까?
+https://hospital.hbuby.com/guides/snubh-sign-language-interpreter-reservation
+공식 출처: https://www.snubh.org/intro/news/noti/view.do?BNO=1340
+기존 연결 글: https://hospital.hbuby.com/guides/mobile-health-insurance-id-error
+발행 커밋: a2331126df105495fbe4645ce605157c39e2d5c4
+네이버 요청: 26.10.16 15:46:01 KST
+
+09. 삼성서울병원 첫진료 예약, 빠른예약 접수와 예약 확정의 차이
+https://hospital.hbuby.com/guides/smc-first-visit-quick-reservation
+공식 출처: https://samsunghospital.com/home/reservation/onlineReservationInfo.do
+기존 연결 글: https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup
+발행 커밋: 98b32b17a8ffe53126e0cc547b78f430c3d243df
+네이버 요청: 26.10.16 15:46:06 KST
+
+10. 분당서울대병원 응급실 퇴실, 약·다음 진료·귀가 안내 확인
+https://hospital.hbuby.com/guides/snubh-emergency-discharge-next-visit
+공식 출처: https://www.snubh.org/medical/emergency/center.do
+기존 연결 글: https://hospital.hbuby.com/silbi/emergency-room-cost-claim
+발행 커밋: f004fcacae7aef03f634d9956d8ec2311280c43e
+네이버 요청: 26.10.16 15:47:03 KST
+
+11. 서울아산병원 가정간호 방문지역, 다른 병원 환자도 신청할 수 있을까?
+https://hospital.hbuby.com/guides/amc-home-nursing-service-area
+공식 출처: https://www.amc.seoul.kr/asan/mobile.treatment.homecareguide.howApply.sp
+기존 연결 글: https://hospital.hbuby.com/guides/home-nursing-before-discharge
+발행 커밋: 6c971b0d0c3d595c75fba1a2c4a695d39013ed00
+네이버 요청: 26.10.16 15:47:08 KST
+
+12. 서울아산병원 비급여 진료비 조회, 재료·약제 포함 표시 읽는 법
+https://hospital.hbuby.com/guides/amc-noncovered-price-material-drug
+공식 출처: https://www.amc.seoul.kr/asan/footer/nonpay.do
+기존 연결 글: https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison
+발행 커밋: 8d3424479734413f226b3327d29ed4273c1865d2
+네이버 요청: 26.10.16 15:50:59 KST
+
+13. 분당서울대병원 사전연명의료의향서 상담 예약, 대상과 준비물
+https://hospital.hbuby.com/guides/snubh-advance-directive-counselling
+공식 출처: https://www.snubh.org/dh/main/index.do?DP_CD=PSCC&MENU_ID=003010
+기존 연결 글: https://hospital.hbuby.com/guides/caregiver-application
+발행 커밋: 9dfc6c4a5b6666c87d987513e7cee5297a65d521
+네이버 요청: 26.10.16 15:51:05 KST
+
+14. 서울대암병원 암정보교육센터, 환자·가족 교육은 어디서 확인할까?
+https://hospital.hbuby.com/guides/snuh-cancer-information-education-center
+공식 출처: https://cancer.snuh.org/reservation/meddept/CEIC/cancerIntro.do
+기존 연결 글: https://hospital.hbuby.com/guides/cancer-treatment-cost
+발행 커밋: f3abe8194ea6952515fa863f6d156b89c0fd16a8
+네이버 요청: 26.10.16 15:51:10 KST
+
+15. 나의건강기록 앱에 병원 기록이 안 보일 때, 참여기관·자료 종류 확인
+https://hospital.hbuby.com/guides/my-health-record-missing-hospital-data
+공식 출처: https://www.khis.kr/menu.es?mid=a10214000000
+기존 연결 글: https://hospital.hbuby.com/claims/medical-records-proxy-documents
+발행 커밋: 9c665aa4a50132e007603481786c6c8c57c36c14
+네이버 요청: 26.10.16 15:51:15 KST
+
+16. 내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기
+https://hospital.hbuby.com/guides/hira-medication-history-before-admission
+공식 출처: https://www.hira.or.kr/rb/dur/form.do?pgmid=HIRAA050300000100
+기존 연결 글: https://hospital.hbuby.com/guides/parent-prescription-proxy
+발행 커밋: 961541abb1b9e13b8e1fa25b35cdf6c2bec84b67
+네이버 요청: 26.10.16 15:52:03 KST
+
+17. 진료정보교류 동의하면 전원 예약도 될까? 기록 전송·진료예약 구분
+https://hospital.hbuby.com/guides/medical-information-exchange-consent-transfer
+공식 출처: https://www.khis.kr/menu.es?mid=a10207000000
+기존 연결 글: https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer
+발행 커밋: f58a1edf464fbda07d285cf4532a7bbfa61b1408
+네이버 요청: 26.10.16 15:52:08 KST
+
+18. 달빛어린이병원 찾기, 야간 소아진료 출발 전에 확인할 것
+https://hospital.hbuby.com/guides/moonlight-childrens-hospital-night-search
+공식 출처: https://www.e-gen.or.kr/egen/boardimage_view.do?brdclscd=02&brdctsno=11682&currentPageNum=1&searchDatayear=&searchKeyword=&searchTarget=ALL&upperfixyn=N
+기존 연결 글: https://hospital.hbuby.com/guides/night-hospital-checklist
+발행 커밋: ebfe57ec92a21212cc843bd5afdf3417cb0348f1
+네이버 요청: 26.10.16 15:52:14 KST
+
+19. 지정헌혈 부탁받았다면, 수혈자등록번호·헌혈 종류부터 확인
+https://hospital.hbuby.com/guides/designated-blood-donation-recipient-number
+공식 출처: https://biss.bloodinfo.net/direct_donation.jsp
+기존 연결 글: https://hospital.hbuby.com/guides/snubh-admission-room-assignment
+발행 커밋: ccc08aed71f1ff0fd10b4c08b75c3663e032af4d
+네이버 요청: 26.10.16 15:52:19 KST
+
+20. 의료분쟁 상담 전 준비할 자료, 진료기록과 날짜를 어떻게 정리할까?
+https://hospital.hbuby.com/guides/medical-dispute-counselling-records
+공식 출처: https://www.k-medi.or.kr/web/lay1/S1T132C158/contents.do
+기존 연결 글: https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request
+발행 커밋: f809ec38291c97a3c91bf5f48bda9ba8d467523e
+네이버 요청: 26.10.16 15:52:45 KST
