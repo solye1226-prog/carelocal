@@ -1074,5 +1074,109 @@
     "bodyChars": 2210,
     "duplicateReview": "Existing 317 titles and related article bodies reviewed; specific institution procedure or new service intent",
     "indexing": "not yet requested"
+  },
+  {
+    "path": "guides/snubh-advance-directive-counselling",
+    "title": "분당서울대병원 사전연명의료의향서 상담 예약, 대상과 준비물",
+    "lead": "분당서울대학교병원에서 사전연명의료의향서 상담을 받으려면 대상 여부와 사전예약을 먼저 확인하세요. 본인이 설명을 듣고 자신의 의사를 확인하는 절차이므로 가족이 대신 작성할 준비로 접근하지 않습니다.",
+    "parent": "guides/caregiver-application",
+    "source": "https://www.snubh.org/dh/main/index.do?DP_CD=PSCC&MENU_ID=003010",
+    "sourceLabel": "분당서울대병원 연명의료 상담 안내",
+    "rows": [
+      [
+        "대상",
+        "만 19세 이상 등록 환자 기준 확인",
+        "의사 판단 능력 등 상담 대상 확인"
+      ],
+      [
+        "예약",
+        "1588-3369로 사전예약",
+        "일반 외래와 상담예약 구분"
+      ],
+      [
+        "준비",
+        "본인 신분증과 질문 목록",
+        "대리 작성으로 생각하지 않기"
+      ]
+    ],
+    "sections": [
+      [
+        "병원 상담 대상과 등록기관의 역할을 먼저 확인합니다",
+        [
+          "분당서울대병원 안내는 만 19세 이상 본원 등록 환자를 상담 대상으로 설명하며 미성년자와 의사 판단 능력이 없는 환자는 제외한다고 명시합니다. 가족이 상담을 알아보고 있다면 당사자가 설명을 듣고 의사를 표현할 수 있는지부터 병원에 문의하세요.",
+          "사전연명의료의향서는 향후 임종과정에 대비한 본인의 의향을 밝히는 문서로 안내됩니다. 지금 받는 모든 진료를 중단한다는 서류로 단순화하지 말고 문서의 적용 상황과 절차를 상담에서 설명받아야 합니다."
+        ]
+      ],
+      [
+        "사전예약과 신분증을 챙깁니다",
+        [
+          "병원은 1588-3369를 통한 사전예약을 필수로 안내하고 신분증 지참을 요청합니다. 운영시간은 평일 오전 9시~오후 6시이며 주말과 공휴일은 운영하지 않는다고 표시합니다.",
+          "상담실은 1동 1층 폐센터 외래 우측으로 안내됩니다. 예약할 때 정확한 날짜와 도착 장소를 다시 확인하세요. 다른 진료 예약이 있는 날 상담도 가능할지 문의할 수 있지만, 외래 예약만 잡았다고 상담 일정이 자동으로 생기지는 않습니다."
+        ]
+      ],
+      [
+        "가족은 질문 정리를 도울 수 있지만 본인 의사가 중심입니다",
+        [
+          "상담 전에 당사자가 궁금한 것을 자신의 말로 적을 수 있게 도와주세요. “어떤 상황에서 문서가 활용되나요?”, “지금 받고 있는 치료와 어떤 관계인가요?”, “생각이 달라지면 어디에 문의하나요?” 같은 질문을 준비할 수 있습니다.",
+          "가족의 편의를 위해 서둘러 결론을 내리거나 대신 선택하기보다 본인이 충분히 설명을 이해할 시간을 확보하는 것이 좋습니다. 서류 작성이나 보관 방식이 어려우면 등록기관에 구체적으로 설명을 요청하세요. 이 글은 개인의 치료 결정을 대신하지 않습니다."
+        ]
+      ],
+      [
+        "병원 등록 환자가 아니라면 다른 등록기관을 확인합니다",
+        [
+          "분당서울대병원 안내는 보건복지부 지정 등록기관에서 작성한 사전연명의료의향서의 법적 효력이 동일하다고 설명하고 등록기관 찾기 경로를 제공합니다. 병원 등록 환자가 아니라면 공식 페이지의 기관 찾기를 통해 가까운 곳의 상담 대상과 예약 방법을 확인할 수 있습니다.",
+          "병원 방문을 위해 불필요하게 새 진료를 예약하기 전에 해당 상담의 이용 조건부터 확인하세요. 상담과 작성, 등록 상태 확인은 각각 안내받은 경로로 진행하고, 민감한 문서 사진을 공개 게시판이나 불특정 상담창에 올리지 않습니다."
+        ]
+      ]
+    ],
+    "steps": [
+      "본인의 상담 의사와 병원 이용 대상 여부를 확인합니다.",
+      "대표번호로 사전연명의료 상담예약을 문의합니다.",
+      "신분증과 이해가 필요한 질문을 준비합니다.",
+      "설명을 듣고 작성·등록 절차와 이후 문의 경로를 확인합니다."
+    ],
+    "faq": [
+      [
+        "가족이 환자 대신 작성할 수 있나요?",
+        "사전연명의료의향서는 본인의 의향을 직접 밝히는 문서입니다. 대리 작성할 수 있다고 생각하지 말고 환자 상황에 맞는 상담 절차를 기관에 문의하세요."
+      ],
+      [
+        "꼭 분당서울대병원에서 작성해야 하나요?",
+        "공식 안내는 다른 보건복지부 지정 등록기관에서도 같은 효력의 문서를 작성할 수 있다고 설명합니다. 가까운 기관의 상담 조건과 예약을 확인할 수 있습니다."
+      ]
+    ],
+    "number": 13,
+    "thumbnail": "assets/images/snubh-advance-directive-counselling-thumb.webp",
+    "bodyImages": [
+      [
+        "assets/images/hospital-services-future-care.webp",
+        "사전연명의료의향서 상담에서 본인의 질문을 설명하는 생성 장면"
+      ],
+      [
+        "assets/images/hospital-services-dispute-timeline.webp",
+        "상담 전 필요한 문서와 질문을 정리하는 설명 장면"
+      ]
+    ],
+    "thumbOriginal": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-940c4fc2-94e3-40bd-a122-fdfda0e2f25f.png",
+    "thumbPrompt": "케어로컬 한국어 병원 이용 안내 블로그 대표 이미지. 가로 3:2 고품질 카드뉴스. 진한 남색, 선명한 파랑, 흰색, 작은 노랑 포인트. 정확한 큰 제목 '연명의료 상담' 만 표시. 제목과 관련된 준비 행동을 하는 한국인 성인과 필요한 소품의 현실적인 편집용 설명 장면. 실제 병원 로고, 개인정보, 실제 앱 화면, 허위 수치, 혈액이나 수술 장면 금지. 모바일 가독성이 좋고 넓은 여백. 다른 문구 없음.",
+    "bodyImageOrigins": [
+      {
+        "key": "future-care",
+        "prompt": "가로 3:2, 한국 병원 이용 정보 블로그의 자연스럽고 신뢰감 있는 설명용 사진풍 이미지. 중년 한국인 성인이 상담실에서 자신의 미래 의료 의사를 상담사에게 질문하고 설명을 듣는 장면. 가족은 옆에서 존중하며 듣고 있음. 서명 강요나 슬픔 강조 없이 차분함. 밝은 자연광과 흰색·부드러운 파랑 색조. 제목이나 자막 없음. 병원 로고 없음, 실제 환자나 실제 문서 사진으로 보증하지 않는 편집 이미지. 이상한 손가락과 읽을 수 있는 허위 문서 수치 금지.",
+        "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-e6748ef0-1255-42ab-aca1-ba2a1dbc3315.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-e6748ef0-1255-42ab-aca1-ba2a1dbc3315.png",
+        "asset": "assets/images/hospital-services-future-care.webp"
+      },
+      {
+        "key": "dispute-timeline",
+        "prompt": "가로 3:2, 한국 병원 이용 정보 블로그의 자연스럽고 신뢰감 있는 설명용 사진풍 이미지. 한국인 성인이 책상에서 병원 진료기록을 날짜순으로 정리하고 상담할 질문을 별도 노트에 적는 장면. 감정적인 비난이나 법적 승소 연출 없음. 밝은 자연광과 흰색·부드러운 파랑 색조. 제목이나 자막 없음. 병원 로고 없음, 실제 환자나 실제 문서 사진으로 보증하지 않는 편집 이미지. 이상한 손가락과 읽을 수 있는 허위 문서 수치 금지.",
+        "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-9401c54a-e066-4dca-816d-adbcf4c3523e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-9401c54a-e066-4dca-816d-adbcf4c3523e.png",
+        "asset": "assets/images/hospital-services-dispute-timeline.webp"
+      }
+    ],
+    "bodyChars": 2277,
+    "duplicateReview": "Existing 317 titles and related article bodies reviewed; specific institution procedure or new service intent",
+    "indexing": "not yet requested"
   }
 ]
