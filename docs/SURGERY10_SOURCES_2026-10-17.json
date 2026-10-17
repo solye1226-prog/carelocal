@@ -1,0 +1,89 @@
+[
+  {
+    "number": 1,
+    "path": "surgery-benefit/trigger-finger-release-claim",
+    "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+    "label": "방아쇠수지 수술비",
+    "lead": "방아쇠수지 수술비를 확인하려면 손가락에 주사를 맞은 날짜와 실제 활차를 절개한 수술일을 구분하세요. 진단명만으로 수술비가 정해지지 않으므로 어느 손의 어느 손가락에 어떤 행위를 받았는지 확인서와 시행 기록을 대조합니다.",
+    "source": "https://www.snubh.org/dh/main/index.do?DP_CD=JRC&MENU_ID=002007015",
+    "sourceLabel": "분당서울대병원 방아쇠수지 치료 안내",
+    "parent": "claims/surgery-claim-documents",
+    "medical": "분당서울대병원은 방아쇠수지 치료를 국소 주사와 수술적 치료로 구분하고, 수술에서는 힘줄을 조이는 통로를 절개한다고 설명합니다. 주사 후 좋아졌거나 손가락을 움직일 수 있게 됐다는 경험이 실제 절개 시행 기록을 대신하지는 않습니다.",
+    "sections": [
+      [
+        "진료 날짜마다 주사와 수술을 나누어 적습니다",
+        [
+          "처음에는 주사치료를 받고 나중에 수술한 경우, 첫 진단일과 주사일을 수술일로 적지 않도록 주의하세요. 병원 자료에 기재된 실제 수술일과 행위명을 확인하고 이전 주사치료 영수증은 날짜별로 따로 정리합니다.",
+          "손이 아프다는 공통점이 있어도 손목터널 감압술과 방아쇠수지의 활차절개술은 같은 행위가 아닙니다. 진단명이 약어로만 적혔다면 인터넷에서 수술명을 추정해 작성하지 말고 병원에 기록의 뜻을 물어보세요."
+        ]
+      ],
+      [
+        "손가락 번호와 좌우 손은 지급 횟수와 별개입니다",
+        [
+          "여러 손가락을 치료했다면 좌우와 손가락 번호, 시행일을 기록에서 확인합니다. 손가락이 여러 개라는 사실은 치료 부위를 확인하는 정보이지 보험금이 개수대로 나온다는 약속이 아닙니다.",
+          "보험사에는 해당 특약의 수술 정의와 같은 날 여러 부위를 치료했을 때의 지급 단위를 물어보세요. 다른 사람의 방아쇠수지 지급 종수 대신 본인 계약의 분류표 항목과 주석을 확인해야 합니다."
+        ]
+      ],
+      [
+        "확인서에 활차절개술이 적혀 있지 않다면",
+        [
+          "보유 확인서에 진단명과 수술일은 있지만 실제 행위가 모호하다면 보험사에 부족한 항목을 먼저 묻습니다. 병원에서 시행 내역이 확인되는 자료가 무엇인지 확인한 뒤 필요한 기록만 추가합니다.",
+          "수술실에 들어갔거나 국소마취를 했다는 사실만으로 약관상 수술 여부가 결정되지는 않습니다. 진료비 자료와 수술 사실 자료를 나누고 실손을 함께 청구하는 경우의 비용서류를 별도로 확인하세요."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "진단",
+        "방아쇠수지 진단명·질병분류코드",
+        "다른 손 질환과 구분"
+      ],
+      [
+        "행위",
+        "주사인지 활차 절개인지, 실제 수술명",
+        "마취 여부로 대신 판단하지 않기"
+      ],
+      [
+        "부위",
+        "좌우 손·손가락·시행일",
+        "부위 수와 지급 횟수는 별도"
+      ]
+    ],
+    "steps": [
+      "주사치료와 수술의 날짜를 구분합니다.",
+      "수술확인서에서 실제 행위명과 손가락 부위를 확인합니다.",
+      "보험사에 특약명·수술 정의·동일일 지급 단위를 문의합니다.",
+      "필요한 서류만 발급하고 접수번호와 첨부자료를 대조합니다."
+    ],
+    "faq": [
+      [
+        "주사를 맞았는데 방아쇠수지 수술비를 청구하나요?",
+        "주사치료를 활차절개술로 간주하면 안 됩니다. 실제 시행 행위와 해당 특약의 정의를 확인해야 합니다."
+      ],
+      [
+        "여러 손가락을 수술하면 각각 지급되나요?",
+        "부위와 시행일을 기록하되 지급 횟수는 특약의 동일일·동일질병 규정을 따로 확인합니다."
+      ]
+    ],
+    "url": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+    "images": [
+      "assets/images/trigger-finger-release-claim-thumb.webp",
+      "assets/images/surgery-claim-documents-checklist.webp",
+      "assets/images/surgery-claim-documents-mobile.webp"
+    ],
+    "bodyChars": 2586,
+    "imageOrigin": {
+      "i": 1,
+      "label": "방아쇠수지 수술비",
+      "prompt": "케어로컬 한국어 의료보험 정보 블로그 대표 이미지. 가로 3:2 카드뉴스, 고품질 사진풍 설명 장면. 진한 남색·파랑·흰색, 노란 작은 포인트. 큰 정확한 한국어 제목 '방아쇠수지 수술비' 하나만 표시. 손가락을 살펴보며 진료기록을 확인하는 손 전문 진료 상담. 실제 환자나 수술 장면이 아닌 연출된 설명 이미지. 사람은 손과 팔만 등장, 얼굴 없음. 의료기록은 글씨가 읽히지 않는 빈 서식. 개인정보, 병원 로고, 지급보장 표현, 금액, 피·상처, 주사시술 장면 없음. 전문적이며 모바일에서 제목이 잘 읽히고 여백 충분.",
+      "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-e4e157f8-f886-4004-9049-ecd850124c0f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "keys": [
+        "image_url",
+        "output_hint"
+      ],
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-e4e157f8-f886-4004-9049-ecd850124c0f.png"
+    },
+    "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
+    "keywordEvidence": "Search intent candidate; volume and CPC not measured."
+  }
+]
