@@ -433,5 +433,92 @@
     },
     "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
     "keywordEvidence": "Search intent candidate; volume and CPC not measured."
+  },
+  {
+    "number": 6,
+    "path": "surgery-benefit/tympanoplasty-ear-surgery-claim",
+    "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+    "label": "고막성형술 청구서류",
+    "lead": "중이염 수술비를 청구하려면 고막성형술·고실성형술·이소골 재건 중 실제로 어떤 수술을 받았는지 확인해야 합니다. 청력검사 결과만으로 수술을 증명할 수는 없으므로 수술명·좌우 귀·시행일이 있는 자료를 우선 대조하세요.",
+    "source": "https://www.snuh.org/health/nMedInfo/nView.do?category=DIS&medid=AA000184",
+    "sourceLabel": "서울대학교병원 만성 중이염·수술 설명",
+    "parent": "claims/surgery-claim-documents",
+    "medical": "서울대학교병원은 만성 중이염의 상태에 따라 고막성형술·고실성형술·이소골 재건술 등 기능 회복을 위한 수술을 설명합니다. 중이염이라는 진단과 시행된 수술 범위는 서로 다른 정보입니다.",
+    "sections": [
+      [
+        "고막을 고쳤다는 말과 확인서의 수술명을 맞춥니다",
+        [
+          "확인서에 고실성형술이라고 적혀 있는데 본인이 고막 수술로 기억한다면 두 표현이 같은 범위를 의미하는지 병원에 설명을 요청하세요. 인터넷에서 비슷한 수술명으로 바꿔 적는 대신 실제 기록을 사용합니다.",
+          "청구할 특약이 수술명 외에 범위·방법 확인을 요구하는지 보험사에 묻습니다. 추가 기록이 필요하다면 해당 수술일의 기록명과 요구 항목을 확인해 발급하고 전체 청력검사 자료를 무조건 보내지는 않습니다."
+        ]
+      ],
+      [
+        "청력검사와 수술 자료는 쓰임이 다릅니다",
+        [
+          "청력검사는 청력 상태를 살피는 자료이고 수술확인서·기록지는 실제 시행 행위를 확인하는 자료입니다. 검사비 실비, 정액 수술비, 청각 관련 다른 담보의 요건을 섞지 마세요.",
+          "청력이 나빠졌거나 수술을 받았다는 사실만으로 후유장해보험금이 확정되는 것은 아닙니다. 다른 담보를 검토한다면 별도 약관과 평가 자료를 확인하고 이 글의 수술 서류 목록을 그대로 적용하지 않습니다."
+        ]
+      ],
+      [
+        "좌우 귀와 여러 수술일을 표기합니다",
+        [
+          "반대쪽 귀를 다른 날 수술하거나 재수술했다면 진단명만 같은 자료를 묶지 말고 해당 귀·날짜·행위명을 연결합니다. 입원 기간과 수술일이 다르면 수술일을 입원 첫날로 임의 입력하지 않습니다.",
+          "실비를 함께 청구할 때는 입원 비용과 수술 전후 통원 검사비를 날짜별로 정리합니다. 여러 행위가 한 수술에 포함된 경우의 지급 횟수는 특약의 지급 단위와 분류표 주석에서 확인합니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "수술 확인",
+        "정확한 수술명·좌우 귀·수술일",
+        "입원일과 수술일 구분"
+      ],
+      [
+        "기록 추가",
+        "고막·중이·이소골 관련 실제 시행 범위",
+        "보험사가 요구한 범위만 확인"
+      ],
+      [
+        "비용·검사",
+        "입원·통원 비용과 청력검사 자료",
+        "수술비·실비·장해 담보를 구분"
+      ]
+    ],
+    "steps": [
+      "병원 자료의 실제 수술명과 좌우 귀를 확인합니다.",
+      "보험사가 필요한 수술 범위 정보를 갖췄는지 묻습니다.",
+      "추가 기록과 청력검사 자료는 요청 목적을 확인해 준비합니다.",
+      "수술비와 실비를 나누어 접수번호·심사 항목을 확인합니다."
+    ],
+    "faq": [
+      [
+        "청력검사 결과지만 있으면 수술비 청구가 되나요?",
+        "검사는 청력 상태 자료입니다. 실제 수술명과 시행일을 확인하는 자료 및 공통 접수서류가 필요한지 보험사에 확인하세요."
+      ],
+      [
+        "고막성형술과 고실성형술 종수는 같나요?",
+        "병원 명칭만으로 같은 종수를 단정할 수 없습니다. 실제 시행 범위와 본인 약관을 대조합니다."
+      ]
+    ],
+    "url": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+    "images": [
+      "assets/images/tympanoplasty-ear-surgery-claim-thumb.webp",
+      "assets/images/medical-records-proxy-documents-body1.webp",
+      "assets/images/insurance-claim-documents-checklist.webp"
+    ],
+    "bodyChars": 2583,
+    "imageOrigin": {
+      "i": 6,
+      "label": "고막성형술 청구서류",
+      "prompt": "케어로컬 한국어 의료보험 정보 블로그 대표 이미지. 가로 3:2 카드뉴스, 고품질 사진풍 설명 장면. 진한 남색·파랑·흰색, 노란 작은 포인트. 큰 정확한 한국어 제목 '고막성형술 청구서류' 하나만 표시. 귀 모형과 귀 수술 자료를 확인. 실제 환자나 수술 장면이 아닌 연출된 설명 이미지. 사람은 손과 팔만 등장, 얼굴 없음. 의료기록은 글씨가 읽히지 않는 빈 서식. 개인정보, 병원 로고, 지급보장 표현, 금액, 피·상처, 주사시술 장면 없음. 전문적이며 모바일에서 제목이 잘 읽히고 여백 충분.",
+      "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-6d9d165f-9dd7-4a33-96fa-b050006a2335.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "keys": [
+        "image_url",
+        "output_hint"
+      ],
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-6d9d165f-9dd7-4a33-96fa-b050006a2335.png"
+    },
+    "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
+    "keywordEvidence": "Search intent candidate; volume and CPC not measured."
   }
 ]

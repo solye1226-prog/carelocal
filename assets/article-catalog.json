@@ -1000,6 +1000,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/tympanoplasty-ear-surgery-claim",
+    "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/type-surgery-benefit-claim",
     "title": "종수술비 보험금 청구, 수술확인서와 수술분류표 대조 방법",
     "category": "수술비"
