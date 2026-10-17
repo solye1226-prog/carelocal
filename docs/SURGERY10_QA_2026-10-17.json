@@ -1,0 +1,3086 @@
+{
+  "local": [
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/trigger-finger-release-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+      "width": 360,
+      "number": 1,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/trigger-finger-release-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+      "width": 390,
+      "number": 1,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/trigger-finger-release-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+      "width": 1280,
+      "number": 1,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 103.53125,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ganglion-aspiration-excision-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+      "width": 360,
+      "number": 2,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ganglion-aspiration-excision-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+      "width": 390,
+      "number": 2,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ganglion-aspiration-excision-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+      "width": 1280,
+      "number": 2,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/hallux-valgus-osteotomy-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+      "width": 360,
+      "number": 3,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/hallux-valgus-osteotomy-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+      "width": 390,
+      "number": 3,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/hallux-valgus-osteotomy-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+      "width": 1280,
+      "number": 3,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/pterygium-excision-graft-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+      "width": 360,
+      "number": 4,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/pterygium-excision-graft-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+      "width": 390,
+      "number": 4,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/pterygium-excision-graft-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+      "width": 1280,
+      "number": 4,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tear-duct-dcr-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+      "width": 360,
+      "number": 5,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tear-duct-dcr-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+      "width": 390,
+      "number": 5,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tear-duct-dcr-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+      "width": 1280,
+      "number": 5,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tympanoplasty-ear-surgery-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+      "width": 360,
+      "number": 6,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 129.875,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tympanoplasty-ear-surgery-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+      "width": 390,
+      "number": 6,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tympanoplasty-ear-surgery-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+      "width": 1280,
+      "number": 6,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 103.53125,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/splenectomy-injury-disease-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+      "width": 360,
+      "number": 7,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/splenectomy-injury-disease-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+      "width": 390,
+      "number": 7,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/splenectomy-injury-disease-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+      "width": 1280,
+      "number": 7,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/achilles-rupture-repair-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+      "width": 360,
+      "number": 8,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 129.875,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/achilles-rupture-repair-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+      "width": 390,
+      "number": 8,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/achilles-rupture-repair-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+      "width": 1280,
+      "number": 8,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/gastric-adenoma-esd-claim-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+      "width": 360,
+      "number": 9,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/gastric-adenoma-esd-claim-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+      "width": 390,
+      "number": 9,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/gastric-adenoma-esd-claim-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+      "width": 1280,
+      "number": 9,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/frenotomy-child-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+      "width": 360,
+      "number": 10,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/frenotomy-child-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+      "width": 390,
+      "number": 10,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/frenotomy-child-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+      "width": 1280,
+      "number": 10,
+      "mode": "local",
+      "pass": true
+    }
+  ],
+  "public": [
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/trigger-finger-release-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+      "width": 360,
+      "number": 1,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/trigger-finger-release-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+      "width": 390,
+      "number": 1,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/trigger-finger-release-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+      "width": 1280,
+      "number": 1,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 103.53125,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ganglion-aspiration-excision-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+      "width": 360,
+      "number": 2,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ganglion-aspiration-excision-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+      "width": 390,
+      "number": 2,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/ganglion-aspiration-excision-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+      "width": 1280,
+      "number": 2,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/hallux-valgus-osteotomy-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+      "width": 360,
+      "number": 3,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/hallux-valgus-osteotomy-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+      "width": 390,
+      "number": 3,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/hallux-valgus-osteotomy-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+      "width": 1280,
+      "number": 3,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/pterygium-excision-graft-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+      "width": 360,
+      "number": 4,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/pterygium-excision-graft-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+      "width": 390,
+      "number": 4,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/pterygium-excision-graft-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+      "width": 1280,
+      "number": 4,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tear-duct-dcr-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+      "width": 360,
+      "number": 5,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tear-duct-dcr-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+      "width": 390,
+      "number": 5,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tear-duct-dcr-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+      "width": 1280,
+      "number": 5,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tympanoplasty-ear-surgery-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+      "width": 360,
+      "number": 6,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 129.875,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tympanoplasty-ear-surgery-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+      "width": 390,
+      "number": 6,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/tympanoplasty-ear-surgery-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+      "width": 1280,
+      "number": 6,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 103.53125,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/splenectomy-injury-disease-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+      "width": 360,
+      "number": 7,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/splenectomy-injury-disease-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+      "width": 390,
+      "number": 7,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/splenectomy-injury-disease-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+      "width": 1280,
+      "number": 7,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/achilles-rupture-repair-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+      "width": 360,
+      "number": 8,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 129.875,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/achilles-rupture-repair-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+      "width": 390,
+      "number": 8,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/achilles-rupture-repair-claim-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/surgery-claim-documents-mobile.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+      "width": 1280,
+      "number": 8,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/gastric-adenoma-esd-claim-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+      "width": 360,
+      "number": 9,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/gastric-adenoma-esd-claim-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+      "width": 390,
+      "number": 9,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/gastric-adenoma-esd-claim-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/insurance-claim-documents-checklist.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/appendicitis-surgery-claim-documents.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+      "width": 1280,
+      "number": 9,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 129.875,
+          "width": 271
+        },
+        {
+          "height": 151.96875,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/frenotomy-child-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+      "width": 360,
+      "number": 10,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/frenotomy-child-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+      "width": 390,
+      "number": 10,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 115
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/images/frenotomy-child-insurance-documents-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/images/medical-records-proxy-documents-body2.webp"
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+      "width": 1280,
+      "number": 10,
+      "mode": "public",
+      "pass": true
+    }
+  ],
+  "interactions": [
+    {
+      "number": 1,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 2,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 3,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 4,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 5,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 6,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 7,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 8,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 9,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    },
+    {
+      "number": 10,
+      "faqOpen": true,
+      "hash": "#medical",
+      "target": true,
+      "pass": true
+    }
+  ],
+  "publicSitemapCount": 372,
+  "allTenInPublicSitemap": true,
+  "newRepresentativeImages": 10,
+  "bodyImagePlacements": 20,
+  "imageVisualReview": "All ten generated representative images and reused body scenes reviewed before publication.",
+  "duplicateReview": "Existing 337 article catalog titles, relevant article bodies, and procedure-term searches checked before choosing the ten distinct treatment-record questions.",
+  "sourceReview": "Official hospital pages for procedure explanations, Chubb official document guide as a company-specific example. No universal payout tier or amount asserted.",
+  "checkedAt": "2026-10-17T20:56:32+0900"
+}

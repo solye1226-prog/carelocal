@@ -1,0 +1,92 @@
+[
+  {
+    "number": 1,
+    "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+    "url": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+    "commit": "88c94698f0693d06410b6fbea4a8245889887bf5",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:48:52+0900"
+  },
+  {
+    "number": 2,
+    "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+    "url": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+    "commit": "dde072755fc459b544c83fcaf0cc677d1a234c0b",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:49:25+0900"
+  },
+  {
+    "number": 3,
+    "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+    "url": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+    "commit": "ef893539aa00b1842ee62d6e622d6d7999ca40a1",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:49:56+0900"
+  },
+  {
+    "number": 4,
+    "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+    "url": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+    "commit": "f2e21d101a6729869594962e1ac626b0315821b7",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:50:27+0900"
+  },
+  {
+    "number": 5,
+    "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+    "url": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+    "commit": "83e4cb2938e66dfa97d2a899277de20b780d771c",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:51:09+0900"
+  },
+  {
+    "number": 6,
+    "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+    "url": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+    "commit": "632bf57da14879676ea36ccc75f62c65712a63d8",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:51:50+0900"
+  },
+  {
+    "number": 7,
+    "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+    "url": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+    "commit": "857cc606a5a253417f5b58fafc3aef855d77ebbd",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:52:30+0900"
+  },
+  {
+    "number": 8,
+    "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+    "url": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+    "commit": "ed872879bbfac337e2a9346b8d063c2640ce289c",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:53:08+0900"
+  },
+  {
+    "number": 9,
+    "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+    "url": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+    "commit": "cd60bb754b6574c0b835cf4303aaffc9f347f85d",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:53:43+0900"
+  },
+  {
+    "number": 10,
+    "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+    "url": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+    "commit": "654b938ee980ff078b65a20ce49c4640d46ab90d",
+    "publicExactHeadMain": true,
+    "imagesPublic": true,
+    "checkedAt": "2026-10-17T20:54:17+0900"
+  }
+]

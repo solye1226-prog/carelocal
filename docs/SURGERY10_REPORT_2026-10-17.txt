@@ -1,0 +1,99 @@
+수술비·청구서류 신규 10편 발행 보고 (2026-10-17)
+
+기존 337편과 검색 의도 중복을 확인한 뒤 실제 수술·기록 질문이 다른 10편을 선정했습니다.
+검색량·CPC를 측정한 황금키워드 인증 목록은 아닙니다.
+각 글 순차 커밋·배포 후 공개 head/main 일치 및 이미지 HTTP 200 확인.
+로컬 30개 및 공개 30개 화면 조건(360/390/1280px) PASS. 목차와 FAQ 10편 동작 PASS.
+대표 이미지 10개 신규 생성, 본문 설명 이미지 20곳 배치. 공식 의료·보험사 버튼과 기존 글 연결 포함.
+네이버 요청 내역은 수집 요청 접수 증거이며 수집·색인 완료를 의미하지 않습니다.
+공개 사이트맵 URL 372개, 신규 10편 모두 포함.
+
+1. 방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분
+https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim
+공식 의료 근거: https://www.snubh.org/dh/main/index.do?DP_CD=JRC&MENU_ID=002007015
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: 88c94698f0693d06410b6fbea4a8245889887bf5
+네이버 요청 내역: 1	
+/surgery-benefit/trigger-finger-release-claim
+	26.10.17 20:55:03
+
+2. 손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이
+https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim
+공식 의료 근거: https://iloveheart.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31704&tabIndex=0
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: dde072755fc459b544c83fcaf0cc677d1a234c0b
+네이버 요청 내역: 1	
+/surgery-benefit/ganglion-aspiration-excision-claim
+	26.10.17 20:55:22
+
+3. 무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법
+https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim
+공식 의료 근거: https://www.kuh.ac.kr/health/encyclo/encycloView.do?seq=352
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: ef893539aa00b1842ee62d6e622d6d7999ca40a1
+네이버 요청 내역: 1	
+/surgery-benefit/hallux-valgus-osteotomy-claim
+	26.10.17 20:55:39
+
+4. 익상편 제거 수술비, 결막이식 기록과 치료 목적 확인
+https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim
+공식 의료 근거: https://fm.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32243
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: f2e21d101a6729869594962e1ac626b0315821b7
+네이버 요청 내역: 1	
+/surgery-benefit/pterygium-excision-graft-claim
+	26.10.17 20:55:45
+
+5. 눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분
+https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents
+공식 의료 근거: https://cancer.amc.seoul.kr/asan/mobile/healthinfo/disease/diseaseDetail.do?contentId=31307
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: 83e4cb2938e66dfa97d2a899277de20b780d771c
+네이버 요청 내역: 1	
+/surgery-benefit/tear-duct-dcr-insurance-documents
+	26.10.17 20:55:50
+
+6. 고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분
+https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim
+공식 의료 근거: https://www.snuh.org/health/nMedInfo/nView.do?category=DIS&medid=AA000184
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: 632bf57da14879676ea36ccc75f62c65712a63d8
+네이버 요청 내역: 1	
+/surgery-benefit/tympanoplasty-ear-surgery-claim
+	26.10.17 20:55:55
+
+7. 비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류
+https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents
+공식 의료 근거: https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=241
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: 857cc606a5a253417f5b58fafc3aef855d77ebbd
+네이버 요청 내역: 1	
+/surgery-benefit/splenectomy-injury-disease-documents
+	26.10.17 20:56:01
+
+8. 아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인
+https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim
+공식 의료 근거: https://acs.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31712
+기존 글 연결: https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification
+발행 커밋: ed872879bbfac337e2a9346b8d063c2640ce289c
+네이버 요청 내역: 1	
+/surgery-benefit/achilles-rupture-repair-claim
+	26.10.17 20:56:07
+
+9. 위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분
+https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents
+공식 의료 근거: https://neo.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31686
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: cd60bb754b6574c0b835cf4303aaffc9f347f85d
+네이버 요청 내역: 1	
+/surgery-benefit/gastric-adenoma-esd-claim-documents
+	26.10.17 20:56:13
+
+10. 설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인
+https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents
+공식 의료 근거: https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=300
+기존 글 연결: https://hospital.hbuby.com/claims/surgery-claim-documents
+발행 커밋: 654b938ee980ff078b65a20ce49c4640d46ab90d
+네이버 요청 내역: 1	
+/surgery-benefit/frenotomy-child-insurance-documents
+	26.10.17 20:56:19
