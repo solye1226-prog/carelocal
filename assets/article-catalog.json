@@ -895,6 +895,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/pterygium-excision-graft-claim",
+    "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/ptosis-surgery-benefit",
     "title": "안검하수 교정 수술비, 눈꺼풀올림근 절제술 확인법",
     "category": "수술비"
