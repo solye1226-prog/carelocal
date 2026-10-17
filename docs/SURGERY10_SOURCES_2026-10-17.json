@@ -520,5 +520,92 @@
     },
     "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
     "keywordEvidence": "Search intent candidate; volume and CPC not measured."
+  },
+  {
+    "number": 7,
+    "path": "surgery-benefit/splenectomy-injury-disease-documents",
+    "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+    "label": "비장절제술 청구서류",
+    "lead": "비장절제술 수술비는 질병 치료인지 사고로 인한 손상 치료인지와 실제 절제 범위를 나누어 확인합니다. 복강경·개복이라는 접근 방법만 보지 말고 최종 수술명·부분 또는 전체 절제 기록과 담보별 필요자료를 대조하세요.",
+    "source": "https://www.amc.seoul.kr/asan/healthinfo/management/managementDetail.do?managementId=241",
+    "sourceLabel": "서울아산병원 비장절제술 설명",
+    "parent": "claims/surgery-claim-documents",
+    "medical": "서울아산병원은 비장절제술을 비장의 일부 또는 전체를 제거하는 수술로 설명하며 혈액질환·림프종·비장파열 등 다양한 시행 배경을 안내합니다. 수술명만으로 질병수술비와 상해수술비 중 어느 담보를 볼지 정할 수 없습니다.",
+    "sections": [
+      [
+        "사고와 질병의 배경을 초진 자료에서 확인합니다",
+        [
+          "교통사고·낙상 등으로 치료를 시작했다면 초진 날짜, 사고 경위와 진단 자료를 정리합니다. 사고를 기억나는 대로 바꾸어 쓰거나 수술명만 보고 원인을 상해라고 정하지 마세요.",
+          "혈액질환 등을 치료하며 수술했다면 해당 진단과 비장절제술의 시행 내용을 연결합니다. 암 진단비까지 검토하려면 수술 사실 외에 확정 진단과 별도의 필요자료를 확인해야 합니다."
+        ]
+      ],
+      [
+        "부분 절제와 전체 절제, 접근 방법을 나눕니다",
+        [
+          "수술 전에 계획한 범위가 아니라 실제 완료된 수술 기록을 확인합니다. 부분·전체 절제 여부와 복강경·개복 방식은 서로 다른 정보이므로 서류에서 구분하여 적습니다.",
+          "범위가 불명확하면 담당 보험사에 심사에 필요한 항목을 물어보고 병원에 해당 기록을 요청하세요. 흉터 크기나 입원 기간으로 장기 절제 범위를 추정하지 않습니다."
+        ]
+      ],
+      [
+        "다른 담보에 쓰는 서류를 수술비 공통 필수로 보지 않습니다",
+        [
+          "장기 절제와 관련해 다른 담보를 확인할 수는 있지만, 그 담보의 진단·평가 서류를 모든 수술비 청구의 필수 목록으로 옮기지 않습니다. 청구할 담보별로 자료명과 제출 목적을 적어 두세요.",
+          "퇴원 이후 예방접종이나 치료 일정은 담당 의료진의 개별 지시를 따릅니다. 이 글은 청구자료를 정리하는 안내이며 예방접종 시점이나 회복 관리를 결정하는 자료가 아닙니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "원인",
+        "초진·진단과 사고 관련 자료",
+        "수술명만으로 상해·질병 판단 금지"
+      ],
+      [
+        "범위",
+        "부분 또는 전체 절제의 최종 기록",
+        "예정 범위와 완료 범위 구분"
+      ],
+      [
+        "별도 담보",
+        "진단비·다른 담보의 개별 필요자료",
+        "수술비 필수서류로 일괄 적용하지 않기"
+      ]
+    ],
+    "steps": [
+      "질병·사고의 치료 시작 자료를 정리합니다.",
+      "수술명·수술일·최종 절제 범위를 확인합니다.",
+      "담보별로 원인·범위·추가자료의 필요성을 문의합니다.",
+      "영수증 등 실비 자료와 수술 사실 자료를 구분해 접수합니다."
+    ],
+    "faq": [
+      [
+        "복강경이면 수술 종수가 낮나요?",
+        "접근 방식만으로 종수를 정할 수 없습니다. 실제 절제 내용과 계약의 분류표를 확인합니다."
+      ],
+      [
+        "비장절제술이면 상해수술비로 청구하나요?",
+        "수술 이유가 외상인지 질병인지와 해당 담보의 요건을 확인해야 합니다."
+      ]
+    ],
+    "url": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+    "images": [
+      "assets/images/splenectomy-injury-disease-documents-thumb.webp",
+      "assets/images/appendicitis-surgery-claim-documents.webp",
+      "assets/images/medical-records-proxy-documents-body2.webp"
+    ],
+    "bodyChars": 2496,
+    "imageOrigin": {
+      "i": 7,
+      "label": "비장절제술 청구서류",
+      "prompt": "케어로컬 한국어 의료보험 정보 블로그 대표 이미지. 가로 3:2 카드뉴스, 고품질 사진풍 설명 장면. 진한 남색·파랑·흰색, 노란 작은 포인트. 큰 정확한 한국어 제목 '비장절제술 청구서류' 하나만 표시. 복부 모형과 퇴원서류를 확인. 실제 환자나 수술 장면이 아닌 연출된 설명 이미지. 사람은 손과 팔만 등장, 얼굴 없음. 의료기록은 글씨가 읽히지 않는 빈 서식. 개인정보, 병원 로고, 지급보장 표현, 금액, 피·상처, 주사시술 장면 없음. 전문적이며 모바일에서 제목이 잘 읽히고 여백 충분.",
+      "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-b50356f9-954f-4377-b884-a01169b9bbc0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "keys": [
+        "image_url",
+        "output_hint"
+      ],
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-b50356f9-954f-4377-b884-a01169b9bbc0.png"
+    },
+    "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
+    "keywordEvidence": "Search intent candidate; volume and CPC not measured."
   }
 ]

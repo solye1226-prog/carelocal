@@ -945,6 +945,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/splenectomy-injury-disease-documents",
+    "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/surgery-benefit-amount-review",
     "title": "수술비 보험금이 예상보다 적다면? 종수·가입금액 확인 순서",
     "category": "수술비"
