@@ -1,0 +1,36 @@
+네이버 통계 우선순위 기존 글 4편 보완 보고
+작업일: 2026-10-17
+공개 반영 커밋: 1315b14
+
+pnpm run check PASS: links, canonical/sitemap362, catalog337, Python5/Node10
+360/390/1280px 로컬·공개 각각12조건 PASS. 본문 바로가기/FAQ 동작4편 확인.
+기존 canonical URL과 본문 id 보존. 검색 제목·OG·Article 제목과 H1 일치.
+네이버 재수집 요청4건 접수. 색인 갱신과 검색 클릭률 개선은 아직 확인되지 않았음.
+
+1. 보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서
+https://hospital.hbuby.com/claims/insurance-claim-documents
+담보별 준비표·발급 전 질문·접수 확인 순서로 재구성. 반복 설명을 정리해 8,423자에서 2,980자로 축약.
+네이버 접수: 26.10.17 18:02:15 KST
+
+2. 수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?
+https://hospital.hbuby.com/claims/surgery-claim-documents
+확인서·진단서·기록지 역할과 보험사별 사례를 구분. 추가 요청 사유·범위·발급·접수 연결 순서로 재구성. 7,819자에서 2,746자로 축약.
+네이버 접수: 26.10.17 18:02:26 KST
+
+3. 대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인
+https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim
+검사·생검·절제·병리결과 대기 상황표와 용종 전용 접수 순서 추가. 공식 버튼 및 잘못된 출처 라벨 수정.
+네이버 접수: 26.10.17 18:02:33 KST
+
+4. 실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?
+https://hospital.hbuby.com/standards/actual-vs-fixed-benefit
+실비+정액과 실손 중복 가입을 비교. 금융위 직접 출처·공식 버튼, 모바일 카드 표·본문 탐색 적용.
+네이버 접수: 26.10.17 18:02:38 KST
+
+공식 확인처
+https://www.kbinsure.co.kr/CG205020003.ec
+https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html
+https://www.snuh.org/content/M002005006.do
+https://cancer.go.kr/lay1/program/S1T211C214/cancer/view.do?cancer_seq=3797&menu_seq=3811
+https://www.fsc.go.kr/po010105/79180?curPage=1
+https://consumer.knia.or.kr/m/consumer/insurance-guide/0201.do

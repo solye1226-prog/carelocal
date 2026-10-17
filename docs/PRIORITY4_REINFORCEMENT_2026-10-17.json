@@ -1,0 +1,1489 @@
+{
+  "date": "2026-10-17",
+  "contentCommit": "1315b14",
+  "scope": "Existing four pages, canonical URLs unchanged",
+  "tests": "pnpm run check PASS: links, canonical/sitemap362, catalog337, Python5/Node10",
+  "publicHeadMainExactMatch": true,
+  "localResponsivePassed": 12,
+  "publicResponsivePassed": 12,
+  "checks": [
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 103.53125,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "ids": [
+        "documents-by-benefit",
+        "today-detail",
+        "before-issuance",
+        "hospital-window",
+        "surgical-records",
+        "claim-submit",
+        "procedure-documents",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지",
+          "loaded": true
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 360,
+      "number": 1,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "ids": [
+        "documents-by-benefit",
+        "today-detail",
+        "before-issuance",
+        "hospital-window",
+        "surgical-records",
+        "claim-submit",
+        "procedure-documents",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지",
+          "loaded": true
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 390,
+      "number": 1,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 128.8125
+        },
+        {
+          "height": 44,
+          "width": 105.40625
+        },
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 123.890625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "ids": [
+        "documents-by-benefit",
+        "today-detail",
+        "before-issuance",
+        "hospital-window",
+        "surgical-records",
+        "claim-submit",
+        "procedure-documents",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 1280,
+      "number": 1,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 103.53125,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "ids": [
+        "document-checklist",
+        "certificate-choice",
+        "hospital-specific-links",
+        "operative-record-request",
+        "today-detail",
+        "before-issuance",
+        "surgery-specific-documents"
+      ],
+      "images": [
+        {
+          "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 360,
+      "number": 2,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "ids": [
+        "document-checklist",
+        "certificate-choice",
+        "hospital-specific-links",
+        "operative-record-request",
+        "today-detail",
+        "before-issuance",
+        "surgery-specific-documents"
+      ],
+      "images": [
+        {
+          "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 390,
+      "number": 2,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 44,
+          "width": 151.484375
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 101.203125
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "ids": [
+        "document-checklist",
+        "certificate-choice",
+        "hospital-specific-links",
+        "operative-record-request",
+        "today-detail",
+        "before-issuance",
+        "surgery-specific-documents"
+      ],
+      "images": [
+        {
+          "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 1280,
+      "number": 2,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 125.625,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "ids": [
+        "polyp-situations",
+        "biopsy-vs-removal",
+        "polyp-document-route",
+        "polyp-claim-order",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "대장내시경 용종 제거 보험금 핵심 확인 사항을 담은 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "대장내시경 검사 결과와 병리검사 안내를 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "용종 제거 후 진료비 영수증과 수술확인서를 준비하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 360,
+      "number": 3,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "ids": [
+        "polyp-situations",
+        "biopsy-vs-removal",
+        "polyp-document-route",
+        "polyp-claim-order",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "대장내시경 용종 제거 보험금 핵심 확인 사항을 담은 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "대장내시경 검사 결과와 병리검사 안내를 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "용종 제거 후 진료비 영수증과 수술확인서를 준비하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 390,
+      "number": 3,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 105.40625
+        },
+        {
+          "height": 44,
+          "width": 83.203125
+        },
+        {
+          "height": 44,
+          "width": 128.8125
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "ids": [
+        "polyp-situations",
+        "biopsy-vs-removal",
+        "polyp-document-route",
+        "polyp-claim-order",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "대장내시경 용종 제거 보험금 핵심 확인 사항을 담은 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "대장내시경 검사 결과와 병리검사 안내를 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "용종 제거 후 진료비 영수증과 수술확인서를 준비하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 1280,
+      "number": 3,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 125.625,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "ids": [
+        "benefit-comparison",
+        "calculation-example",
+        "together-claim",
+        "duplicate-check",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "실손보상과 정액보상 차이, 실비보험과 진단비를 비교하는 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "실손보상 확인을 위해 진료비 영수증을 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "정액보상 확인을 위해 보험증권과 약관을 살펴보는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 360,
+      "number": 4,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "ids": [
+        "benefit-comparison",
+        "calculation-example",
+        "together-claim",
+        "duplicate-check",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "실손보상과 정액보상 차이, 실비보험과 진단비를 비교하는 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "실손보상 확인을 위해 진료비 영수증을 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "정액보상 확인을 위해 보험증권과 약관을 살펴보는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 390,
+      "number": 4,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 123.890625
+        },
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 146.8125
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "ids": [
+        "benefit-comparison",
+        "calculation-example",
+        "together-claim",
+        "duplicate-check",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "실손보상과 정액보상 차이, 실비보험과 진단비를 비교하는 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "실손보상 확인을 위해 진료비 영수증을 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "정액보상 확인을 위해 보험증권과 약관을 살펴보는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 1280,
+      "number": 4,
+      "mode": "local",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 103.53125,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "ids": [
+        "documents-by-benefit",
+        "today-detail",
+        "before-issuance",
+        "hospital-window",
+        "surgical-records",
+        "claim-submit",
+        "procedure-documents",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지",
+          "loaded": true
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 360,
+      "number": 1,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "ids": [
+        "documents-by-benefit",
+        "today-detail",
+        "before-issuance",
+        "hospital-window",
+        "surgical-records",
+        "claim-submit",
+        "procedure-documents",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지",
+          "loaded": true
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 390,
+      "number": 1,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 128.8125
+        },
+        {
+          "height": 44,
+          "width": 105.40625
+        },
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 123.890625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "ids": [
+        "documents-by-benefit",
+        "today-detail",
+        "before-issuance",
+        "hospital-window",
+        "surgical-records",
+        "claim-submit",
+        "procedure-documents",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 1280,
+      "number": 1,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 103.53125,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "ids": [
+        "document-checklist",
+        "certificate-choice",
+        "hospital-specific-links",
+        "operative-record-request",
+        "today-detail",
+        "before-issuance",
+        "surgery-specific-documents"
+      ],
+      "images": [
+        {
+          "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 360,
+      "number": 2,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "ids": [
+        "document-checklist",
+        "certificate-choice",
+        "hospital-specific-links",
+        "operative-record-request",
+        "today-detail",
+        "before-issuance",
+        "surgery-specific-documents"
+      ],
+      "images": [
+        {
+          "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 390,
+      "number": 2,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 44,
+          "width": 151.484375
+        },
+        {
+          "height": 44,
+          "width": 133
+        },
+        {
+          "height": 44,
+          "width": 101.203125
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "ids": [
+        "document-checklist",
+        "certificate-choice",
+        "hospital-specific-links",
+        "operative-record-request",
+        "today-detail",
+        "before-issuance",
+        "surgery-specific-documents"
+      ],
+      "images": [
+        {
+          "alt": "수술비 청구 시 필요한 서류를 정리한 카드뉴스형 대표 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "수술확인서와 진단서, 병원 영수증을 함께 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "모바일로 수술비 보험금 청구서류를 제출하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 1280,
+      "number": 2,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 125.625,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "ids": [
+        "aswift_1_host",
+        "aswift_1",
+        "polyp-situations",
+        "biopsy-vs-removal",
+        "polyp-document-route",
+        "polyp-claim-order",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "대장내시경 용종 제거 보험금 핵심 확인 사항을 담은 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "대장내시경 검사 결과와 병리검사 안내를 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "용종 제거 후 진료비 영수증과 수술확인서를 준비하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 360,
+      "number": 3,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "ids": [
+        "aswift_1_host",
+        "aswift_1",
+        "polyp-situations",
+        "biopsy-vs-removal",
+        "polyp-document-route",
+        "polyp-claim-order",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "대장내시경 용종 제거 보험금 핵심 확인 사항을 담은 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "대장내시경 검사 결과와 병리검사 안내를 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "용종 제거 후 진료비 영수증과 수술확인서를 준비하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 390,
+      "number": 3,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 105.40625
+        },
+        {
+          "height": 44,
+          "width": 83.203125
+        },
+        {
+          "height": 44,
+          "width": 128.8125
+        },
+        {
+          "height": 44,
+          "width": 87.40625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "ids": [
+        "aswift_1_host",
+        "aswift_1",
+        "polyp-situations",
+        "biopsy-vs-removal",
+        "polyp-document-route",
+        "polyp-claim-order",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "대장내시경 용종 제거 보험금 핵심 확인 사항을 담은 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "대장내시경 검사 결과와 병리검사 안내를 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "용종 제거 후 진료비 영수증과 수술확인서를 준비하는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 1280,
+      "number": 3,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 44,
+          "width": 148.5
+        },
+        {
+          "height": 125.625,
+          "width": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "ids": [
+        "aswift_1_host",
+        "aswift_1",
+        "benefit-comparison",
+        "calculation-example",
+        "together-claim",
+        "duplicate-check",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "실손보상과 정액보상 차이, 실비보험과 진단비를 비교하는 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "실손보상 확인을 위해 진료비 영수증을 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "정액보상 확인을 위해 보험증권과 약관을 살펴보는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 345,
+      "tableFits": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 360,
+      "number": 4,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 44,
+          "width": 163.5
+        },
+        {
+          "height": 103.53125,
+          "width": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "ids": [
+        "aswift_1_host",
+        "aswift_1",
+        "benefit-comparison",
+        "calculation-example",
+        "together-claim",
+        "duplicate-check",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "실손보상과 정액보상 차이, 실비보험과 진단비를 비교하는 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "실손보상 확인을 위해 진료비 영수증을 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "정액보상 확인을 위해 보험증권과 약관을 살펴보는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 375,
+      "tableFits": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 390,
+      "number": 4,
+      "mode": "public",
+      "pass": true
+    },
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 123.890625
+        },
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 146.8125
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "ids": [
+        "aswift_1_host",
+        "aswift_1",
+        "benefit-comparison",
+        "calculation-example",
+        "together-claim",
+        "duplicate-check",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "실손보상과 정액보상 차이, 실비보험과 진단비를 비교하는 카드뉴스",
+          "loaded": true
+        },
+        {
+          "alt": "실손보상 확인을 위해 진료비 영수증을 살펴보는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "정액보상 확인을 위해 보험증권과 약관을 살펴보는 장면",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 1280,
+      "number": 4,
+      "mode": "public",
+      "pass": true
+    }
+  ],
+  "viewportSetupDiagnostics": [
+    {
+      "buttons": [
+        {
+          "height": 44,
+          "width": 128.8125
+        },
+        {
+          "height": 44,
+          "width": 105.40625
+        },
+        {
+          "height": 44,
+          "width": 119.203125
+        },
+        {
+          "height": 44,
+          "width": 123.890625
+        },
+        {
+          "height": 84.6875,
+          "width": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "ids": [
+        "documents-by-benefit",
+        "today-detail",
+        "before-issuance",
+        "hospital-window",
+        "surgical-records",
+        "claim-submit",
+        "procedure-documents",
+        "contact-title"
+      ],
+      "images": [
+        {
+          "alt": "보험금 청구서류와 상황별 준비서류를 정리한 카드뉴스 이미지",
+          "loaded": true
+        },
+        {
+          "alt": "보험금 청구서류 체크리스트와 진료비 영수증을 정리하는 장면",
+          "loaded": true
+        },
+        {
+          "alt": "실비 진단비 수술비 사고 보험금 청구서류를 종류별로 정리한 이미지",
+          "loaded": true
+        }
+      ],
+      "scroll": 1265,
+      "tableFits": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 1280,
+      "number": 1,
+      "mode": "public",
+      "pass": false
+    }
+  ],
+  "viewportSetupNote": "Initial requested 360px remained 1280px after switching browser surfaces; replaced test tab and reran all public conditions at verified 360/390/1280px. This was a setup mismatch, not a site failure.",
+  "interactionChecks": [
+    {
+      "number": 1,
+      "anchor": {
+        "hash": "#documents-by-benefit",
+        "targetPresent": true
+      },
+      "faqOpen": true
+    },
+    {
+      "number": 2,
+      "anchor": {
+        "hash": "#document-checklist",
+        "targetPresent": true
+      },
+      "faqOpen": true
+    },
+    {
+      "number": 3,
+      "anchor": {
+        "hash": "#polyp-situations",
+        "targetPresent": true
+      },
+      "faqOpen": true
+    },
+    {
+      "number": 4,
+      "anchor": {
+        "hash": "#benefit-comparison",
+        "targetPresent": true
+      },
+      "faqOpen": true
+    }
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "path": "claims/insurance-claim-documents",
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "description": "보험금 청구서류는 공통 접수자료와 담보별 병원 자료로 나눕니다. 실비·수술비·진단비·입원일당의 필요서류, 진단서 대체 확인, 사진 제출과 추가서류 대응 순서를 정리했습니다.",
+      "oldCharacters": 8423,
+      "newCharacters": 2980,
+      "oldH2": 20,
+      "newH2": 9,
+      "sourcesChecked": "2026-10-17",
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "change": "담보별 준비표·발급 전 질문·접수 확인 순서로 재구성. 반복 설명을 정리해 8,423자에서 2,980자로 축약.",
+      "naverAcceptedAt": "26.10.17 18:02:15",
+      "indexingConfirmed": false
+    },
+    {
+      "number": 2,
+      "path": "claims/surgery-claim-documents",
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "description": "수술비 청구서류에서 진단명·질병코드·수술명·수술일자를 확인하세요. 수술확인서와 진단서의 대체 가능 여부, 수술기록지 추가 요청, 실비 동시 청구를 구분합니다.",
+      "oldCharacters": 7819,
+      "newCharacters": 2746,
+      "oldH2": 20,
+      "newH2": 10,
+      "sourcesChecked": "2026-10-17",
+      "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "change": "확인서·진단서·기록지 역할과 보험사별 사례를 구분. 추가 요청 사유·범위·발급·접수 연결 순서로 재구성. 7,819자에서 2,746자로 축약.",
+      "naverAcceptedAt": "26.10.17 18:02:26",
+      "indexingConfirmed": false
+    },
+    {
+      "number": 3,
+      "path": "claims/colonoscopy-polyp-insurance-claim",
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "description": "대장내시경 용종 제거 후 실비와 수술비를 청구할 때 확인할 자료를 정리합니다. 검진비와 추가 처치비, 생검과 절제, 병리결과 대기 중 접수, 수술 종수와 지급 횟수를 구분하세요.",
+      "oldCharacters": 3878,
+      "newCharacters": 4398,
+      "oldH2": 13,
+      "newH2": 15,
+      "sourcesChecked": "2026-10-17",
+      "url": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "change": "검사·생검·절제·병리결과 대기 상황표와 용종 전용 접수 순서 추가. 공식 버튼 및 잘못된 출처 라벨 수정.",
+      "naverAcceptedAt": "26.10.17 18:02:33",
+      "indexingConfirmed": false
+    },
+    {
+      "number": 4,
+      "path": "standards/actual-vs-fixed-benefit",
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "description": "실손과 정액은 보험금 계산 기준이 다릅니다. 실제 부담 의료비와 약정 금액의 차이, 실비·수술비 동시 청구, 실손 중복 가입과 정액 담보별 심사, 가상 계산 예시를 확인하세요.",
+      "oldCharacters": 2842,
+      "newCharacters": 3621,
+      "oldH2": 10,
+      "newH2": 12,
+      "sourcesChecked": "2026-10-17",
+      "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "change": "실비+정액과 실손 중복 가입을 비교. 금융위 직접 출처·공식 버튼, 모바일 카드 표·본문 탐색 적용.",
+      "naverAcceptedAt": "26.10.17 18:02:38",
+      "indexingConfirmed": false
+    }
+  ],
+  "sourcesCheckedOn": "2026-10-17",
+  "officialSources": [
+    "https://www.kbinsure.co.kr/CG205020003.ec",
+    "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+    "https://www.snuh.org/content/M002005006.do",
+    "https://cancer.go.kr/lay1/program/S1T211C214/cancer/view.do?cancer_seq=3797&menu_seq=3811",
+    "https://www.fsc.go.kr/po010105/79180?curPage=1",
+    "https://consumer.knia.or.kr/m/consumer/insurance-guide/0201.do"
+  ]
+}
