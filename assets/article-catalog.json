@@ -41,7 +41,7 @@
   },
   {
     "path": "/claims/colonoscopy-polyp-insurance-claim",
-    "title": "대장내시경 용종 제거 보험금, 실비와 수술비는 어떻게 확인할까?",
+    "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
     "category": "보험금 청구"
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "path": "/claims/insurance-claim-documents",
-    "title": "보험금 청구서류 총정리, 실비·수술비·진단비별 준비물",
+    "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
     "category": "보험금 청구"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "path": "/claims/surgery-claim-documents",
-    "title": "수술비 청구서류, 수술확인서·진단서·수술기록지 중 무엇이 필요할까?",
+    "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
     "category": "보험금 청구"
   },
   {
@@ -1106,7 +1106,7 @@
   },
   {
     "path": "/standards/actual-vs-fixed-benefit",
-    "title": "실손보상과 정액보상 차이, 실비보험·진단비는 어떻게 다를까?",
+    "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
     "category": "약관·기준"
   },
   {
