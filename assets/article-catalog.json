@@ -805,6 +805,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/frenotomy-child-insurance-documents",
+    "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/gallbladder-ercp-combined-claim",
     "title": "담낭절제술과 ERCP를 모두 받았다면 수술비는 각각 청구할까?",
     "category": "수술비"
