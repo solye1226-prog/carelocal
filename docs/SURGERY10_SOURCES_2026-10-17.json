@@ -346,5 +346,92 @@
     },
     "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
     "keywordEvidence": "Search intent candidate; volume and CPC not measured."
+  },
+  {
+    "number": 5,
+    "path": "surgery-benefit/tear-duct-dcr-insurance-documents",
+    "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+    "label": "눈물길 수술비",
+    "lead": "눈물길이 막혀 치료받았다면 세척·검사와 누낭비강문합술의 시행 기록을 구분해야 합니다. 눈물길 수술비 청구 전에는 실제 수술명과 좌우 눈, 시행일을 확인하고 관을 넣거나 제거한 날짜도 별도로 정리하세요.",
+    "source": "https://cancer.amc.seoul.kr/asan/mobile/healthinfo/disease/diseaseDetail.do?contentId=31307",
+    "sourceLabel": "서울아산병원 비루관 폐쇄·수술 설명",
+    "parent": "claims/surgery-claim-documents",
+    "medical": "서울아산병원은 비루관을 눈물이 코로 배출되는 통로로 설명하며, 치료 방법 중 눈물주머니와 비강을 연결하는 누낭비강문합술을 안내합니다. 눈물길 진료를 받았다는 사실만으로 이 수술이 시행됐다고 볼 수 없습니다.",
+    "sections": [
+      [
+        "눈물길을 뚫었다는 말에서 시행 행위를 구체화합니다",
+        [
+          "진료실에서 세척이나 검사를 받은 경우와 수술로 새로운 통로를 만든 경우는 기록이 다를 수 있습니다. 확인서의 정확한 행위명과 수술일을 보고, 약어만 있다면 의료진에게 뜻을 확인합니다.",
+          "내시경을 사용했다는 사실만으로 보험의 수술 종류를 정하지 않습니다. 접근 방법, 실제 시행한 행위, 가입 약관의 수술 정의를 각각 확인하고 의료행위코드를 보험 종수와 혼동하지 마세요."
+        ]
+      ],
+      [
+        "삽입된 관의 제거를 처음 수술과 같은 건으로 보지 않습니다",
+        [
+          "수술 후 관을 제거할 일정이 잡혔다면 예정 날짜와 실제 제거 날짜를 구분합니다. 관 제거를 받았더라도 첫 수술과 동일한 수술비가 나온다고 예상하지 말고 제거 당일의 행위 기록을 확인하세요.",
+          "보험사에는 초기 문합술과 후속 처치가 각각 어떤 담보 심사 대상인지 문의합니다. 영수증에 같은 진단명이 반복되어 있어도 모든 방문이 같은 수술로 청구되는 것은 아닙니다."
+        ]
+      ],
+      [
+        "성인과 소아는 나이보다 실제 진단·시행 내용을 봅니다",
+        [
+          "소아에게 받은 개통 시술을 성인의 누낭비강문합술 자료로 설명하지 않습니다. 환자의 진단과 치료 방법, 청구할 계약의 보장 범위를 각각 확인해야 합니다.",
+          "보호자가 서류를 준비한다면 환자 본인 자료인지와 대리 신청 요건을 확인하세요. 자료에 좌우 눈과 실제 시행일이 빠졌는지 먼저 보고 부족한 부분만 병원에 문의하는 것이 좋습니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "초기 진료",
+        "세척·촬영·검사인지 수술인지",
+        "일상 표현으로 수술명을 추측하지 않기"
+      ],
+      [
+        "수술 자료",
+        "누낭비강문합술 실제 시행·좌우·날짜",
+        "소아 개통술 등 다른 행위와 구분"
+      ],
+      [
+        "후속 처치",
+        "관 삽입·제거 시행일과 기록",
+        "첫 수술 지급 결과를 그대로 적용하지 않기"
+      ]
+    ],
+    "steps": [
+      "눈물길 진료의 실제 행위명을 확인합니다.",
+      "문합술 시행일과 좌우 눈, 후속 처치일을 나눕니다.",
+      "보험사에 수술 정의·후속 처치의 기준을 문의합니다.",
+      "필요한 기록과 비용자료를 준비해 접수 내역을 확인합니다."
+    ],
+    "faq": [
+      [
+        "눈물길 세척도 문합술인가요?",
+        "같은 행위로 볼 수 없습니다. 실제 시행 기록을 확인하고 본인 약관의 수술 정의를 대조하세요."
+      ],
+      [
+        "나중에 관을 빼면 수술비를 다시 받을 수 있나요?",
+        "관 제거의 시행 내용과 해당 특약의 기준을 따로 확인해야 합니다. 자동 재지급은 아닙니다."
+      ]
+    ],
+    "url": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+    "images": [
+      "assets/images/tear-duct-dcr-insurance-documents-thumb.webp",
+      "assets/images/surgery-claim-documents-checklist.webp",
+      "assets/images/medical-records-proxy-documents-body2.webp"
+    ],
+    "bodyChars": 2546,
+    "imageOrigin": {
+      "i": 5,
+      "label": "눈물길 수술비",
+      "prompt": "케어로컬 한국어 의료보험 정보 블로그 대표 이미지. 가로 3:2 카드뉴스, 고품질 사진풍 설명 장면. 진한 남색·파랑·흰색, 노란 작은 포인트. 큰 정확한 한국어 제목 '눈물길 수술비' 하나만 표시. 눈과 코의 연결을 설명하는 단순 모형 옆 상담. 실제 환자나 수술 장면이 아닌 연출된 설명 이미지. 사람은 손과 팔만 등장, 얼굴 없음. 의료기록은 글씨가 읽히지 않는 빈 서식. 개인정보, 병원 로고, 지급보장 표현, 금액, 피·상처, 주사시술 장면 없음. 전문적이며 모바일에서 제목이 잘 읽히고 여백 충분.",
+      "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-b63b7b7e-807b-4ba0-8eef-b52504ca5d96.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "keys": [
+        "image_url",
+        "output_hint"
+      ],
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-b63b7b7e-807b-4ba0-8eef-b52504ca5d96.png"
+    },
+    "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
+    "keywordEvidence": "Search intent candidate; volume and CPC not measured."
   }
 ]
