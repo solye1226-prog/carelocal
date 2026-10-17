@@ -172,5 +172,92 @@
     },
     "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
     "keywordEvidence": "Search intent candidate; volume and CPC not measured."
+  },
+  {
+    "number": 3,
+    "path": "surgery-benefit/hallux-valgus-osteotomy-claim",
+    "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+    "label": "무지외반증 수술비",
+    "lead": "무지외반증 수술비는 발 모양이나 수술 흉터만으로 판단할 수 없습니다. 교정적 절골술·연부조직 수술 등 실제 시행 내용과 좌우 발, 수술일을 확인하고, 사용한 고정물의 비용과 수술 사실 자료를 나누어 준비하세요.",
+    "source": "https://www.kuh.ac.kr/health/encyclo/encycloView.do?seq=352",
+    "sourceLabel": "건국대학교병원 무지외반증 수술 설명",
+    "parent": "claims/surgery-claim-documents",
+    "medical": "건국대학교병원은 무지외반증 수술에서 연부조직 해리, 중족골·지골의 교정적 절골, 내고정 등의 방법을 설명합니다. 환자마다 시행 내용이 다를 수 있어 진단명 하나만으로 실제 수술 범위를 알 수 없습니다.",
+    "sections": [
+      [
+        "교정술이라는 짧은 이름에서 실제 행위를 찾습니다",
+        [
+          "확인서에 무지외반증 교정술이라고만 적혀 있다면 보험사가 필요한 수술 정보를 파악할 수 있는지 먼저 확인하세요. 절골 부위와 내고정 여부 등 자세한 내용이 필요하면 해당 수술일의 기록으로 보완할 수 있는지 문의합니다.",
+          "작은 절개·최소침습이라는 홍보 문구는 보험 수술분류표의 항목명이 아닙니다. 절개 크기나 특정 수술법 별칭보다 수술기록에 기재된 실제 행위와 약관 정의를 대조합니다."
+        ]
+      ],
+      [
+        "고정물 비용과 나중 제거 수술을 섞지 않습니다",
+        [
+          "핀·나사 등 고정물이 사용됐다면 비용은 세부내역서에서 확인합니다. 재료비가 있었다는 사실과 정액 수술비 지급 요건은 별개이며 재료비 전액이 실비로 보전된다고 생각하면 안 됩니다.",
+          "추후 고정물을 제거할 예정이라도 그날의 수술을 미리 청구할 수는 없습니다. 실제 제거가 시행됐다면 별도 날짜와 행위 기록을 준비하고 최초 절골술과 지급 기준이 같은지 보험사에 확인하세요."
+        ]
+      ],
+      [
+        "양쪽 발을 치료했다면 일정표부터 만듭니다",
+        [
+          "왼발과 오른발을 다른 날 수술했는지 같은 날 시행했는지 확인합니다. 부위·날짜를 빠짐없이 적되 두 발이라는 이유만으로 보험금 두 번 지급을 확정하지는 않습니다.",
+          "진료기록에는 통증과 보행 불편 등 치료를 결정한 사유가 포함될 수 있습니다. 보장에 맞는 표현을 새로 만들기보다 실제 치료 목적과 시행 내용을 제출자료로 설명하고 담보별 요건을 확인하세요."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "수술 확인",
+        "교정적 절골·연부조직 수술 등 실제 행위",
+        "수술법 별칭만으로 종수 확정 금지"
+      ],
+      [
+        "부위·날짜",
+        "좌우 발과 시행일",
+        "두 발과 지급 횟수를 구분"
+      ],
+      [
+        "비용 자료",
+        "수술료·고정 재료·추적 진료 내역",
+        "계획된 제거술과 현재 비용 구분"
+      ]
+    ],
+    "steps": [
+      "좌우 발과 실제 수술일을 적습니다.",
+      "절골·연부조직 수술·내고정의 시행 기록을 확인합니다.",
+      "수술비 특약과 실손의 비용자료를 나누어 준비합니다.",
+      "추후 고정물 제거는 실제 시행 후 별도 행위와 약관을 확인합니다."
+    ],
+    "faq": [
+      [
+        "핀이나 나사를 썼으면 수술 종수가 높아지나요?",
+        "고정물 사용만으로 종수를 정할 수 없습니다. 실제 수술과 본인 약관의 분류표를 확인합니다."
+      ],
+      [
+        "양쪽 발 수술이면 두 번 받을 수 있나요?",
+        "좌우와 날짜를 정리하고 동일일·부위·질병 관련 지급 단위를 확인해야 합니다."
+      ]
+    ],
+    "url": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+    "images": [
+      "assets/images/hallux-valgus-osteotomy-claim-thumb.webp",
+      "assets/images/medical-records-proxy-documents-body1.webp",
+      "assets/images/medical-records-proxy-documents-body2.webp"
+    ],
+    "bodyChars": 2546,
+    "imageOrigin": {
+      "i": 3,
+      "label": "무지외반증 수술비",
+      "prompt": "케어로컬 한국어 의료보험 정보 블로그 대표 이미지. 가로 3:2 카드뉴스, 고품질 사진풍 설명 장면. 진한 남색·파랑·흰색, 노란 작은 포인트. 큰 정확한 한국어 제목 '무지외반증 수술비' 하나만 표시. 발 모형과 발 수술기록을 상담하는 정형외과. 실제 환자나 수술 장면이 아닌 연출된 설명 이미지. 사람은 손과 팔만 등장, 얼굴 없음. 의료기록은 글씨가 읽히지 않는 빈 서식. 개인정보, 병원 로고, 지급보장 표현, 금액, 피·상처, 주사시술 장면 없음. 전문적이며 모바일에서 제목이 잘 읽히고 여백 충분.",
+      "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-7512b946-e028-4b93-94dd-23f073756d9d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "keys": [
+        "image_url",
+        "output_hint"
+      ],
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-7512b946-e028-4b93-94dd-23f073756d9d.png"
+    },
+    "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
+    "keywordEvidence": "Search intent candidate; volume and CPC not measured."
   }
 ]
