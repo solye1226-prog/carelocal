@@ -825,6 +825,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/gastric-adenoma-esd-claim-documents",
+    "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/glaucoma-surgery-benefit",
     "title": "녹내장 섬유주절제술 수술비, 레이저와 다른 점",
     "category": "수술비"

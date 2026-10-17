@@ -694,5 +694,92 @@
     },
     "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
     "keywordEvidence": "Search intent candidate; volume and CPC not measured."
+  },
+  {
+    "number": 9,
+    "path": "surgery-benefit/gastric-adenoma-esd-claim-documents",
+    "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+    "label": "위선종 수술비",
+    "lead": "위선종을 내시경으로 제거했다면 단순 조직검사와 점막절제·점막하박리 등의 시행 기록을 구분하세요. 수술비는 실제 절제 행위와 약관으로, 진단비는 최종 병리 진단과 별도 담보로 확인하므로 위선종을 곧바로 위암으로 해석하지 않습니다.",
+    "source": "https://neo.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31686",
+    "sourceLabel": "서울아산병원 위선종 진단·치료 설명",
+    "parent": "claims/surgery-claim-documents",
+    "medical": "서울아산병원은 위선종을 위에 생기는 용종의 한 종류로 설명하고, 내시경 점막절제 또는 점막하 절제 등의 치료를 안내합니다. 병변의 성격을 확인한 조직검사와 병변을 제거한 치료 내시경은 기록상 구분할 필요가 있습니다.",
+    "sections": [
+      [
+        "검사 내시경과 치료 내시경의 날짜를 연결합니다",
+        [
+          "처음 내시경에서 조직검사로 위선종을 확인하고 나중에 ESD 등 절제 치료를 받았다면 두 날짜와 병원을 나누어 적습니다. 최초 검사 영수증만으로 실제 절제 행위를 설명하지 마세요.",
+          "확인서나 시술기록에는 EMR·ESD 등 실제 시행 방법이 어떻게 적혀 있는지 확인합니다. 의료행위코드는 시행 행위 확인 자료로 사용하되 가입 보험의 종수로 바로 변환하지 않습니다."
+        ]
+      ],
+      [
+        "절제 전 조직검사와 절제 후 최종 병리를 구분합니다",
+        [
+          "작은 조직을 채취한 검사 결과와 제거한 병변의 최종 결과가 다를 수 있으므로 의료진에게 어느 자료가 최종 진단의 근거인지 설명받습니다. 선종·이형성 표현을 스스로 암 진단으로 바꾸지 않습니다.",
+          "진단비를 검토한다면 본인 약관의 질병 정의와 확정 진단 자료를 별도로 확인합니다. 수술비 자료가 준비됐더라도 진단비 결과를 기다리는 동안 접수 가능한 항목과 추후 보완 방법은 보험사에 문의하세요."
+        ]
+      ],
+      [
+        "입원 치료 비용과 정액 수술비를 따로 확인합니다",
+        [
+          "치료 내시경 후 입원했다면 입원 기간·수술일·퇴원일을 비용자료와 맞춥니다. 검사비·시술비·병리비가 여러 날짜에 나뉘어 청구됐다면 동일 진료일로 합쳐 쓰지 않습니다.",
+          "여러 병변을 한 번에 제거했다면 기록의 병변 수와 부위를 확인하되 개수만큼 지급된다고 단정하지 않습니다. 동일일·동일질병 수술과 지급 단위에 관한 약관 문구를 문의합니다."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "초기 검사",
+        "내시경·생검 날짜와 결과",
+        "절제 시행일과 구분"
+      ],
+      [
+        "치료 내시경",
+        "실제 절제 방법·시술일·병변 위치",
+        "코드 하나로 보험 종수 확정 금지"
+      ],
+      [
+        "최종 진단",
+        "절제 후 병리와 진단서",
+        "선종·이형성을 암으로 임의 해석하지 않기"
+      ]
+    ],
+    "steps": [
+      "검사와 절제의 날짜·기관을 나눕니다.",
+      "시술기록에서 실제 내시경 절제 방법을 확인합니다.",
+      "최종 병리 결과의 진단을 의료진에게 설명받습니다.",
+      "수술비·실비·진단비의 필요서류와 보완 접수 방법을 각각 확인합니다."
+    ],
+    "faq": [
+      [
+        "위선종이면 암 진단비가 나오나요?",
+        "선종이라는 말만으로 암 진단비를 확정할 수 없습니다. 최종 진단과 해당 담보의 질병 정의를 확인합니다."
+      ],
+      [
+        "조직검사 결과지만 내면 ESD 수술비 청구가 되나요?",
+        "병리 결과는 조직의 성격 자료입니다. 실제 절제 방법·시술일을 확인하는 자료도 필요한지 보험사에 문의하세요."
+      ]
+    ],
+    "url": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+    "images": [
+      "assets/images/gastric-adenoma-esd-claim-documents-thumb.webp",
+      "assets/images/insurance-claim-documents-checklist.webp",
+      "assets/images/appendicitis-surgery-claim-documents.webp"
+    ],
+    "bodyChars": 2582,
+    "imageOrigin": {
+      "i": 9,
+      "label": "위선종 수술비",
+      "prompt": "케어로컬 한국어 의료보험 정보 블로그 대표 이미지. 가로 3:2 카드뉴스, 고품질 사진풍 설명 장면. 진한 남색·파랑·흰색, 노란 작은 포인트. 큰 정확한 한국어 제목 '위선종 수술비' 하나만 표시. 위 모형과 내시경 결과지를 확인. 실제 환자나 수술 장면이 아닌 연출된 설명 이미지. 사람은 손과 팔만 등장, 얼굴 없음. 의료기록은 글씨가 읽히지 않는 빈 서식. 개인정보, 병원 로고, 지급보장 표현, 금액, 피·상처, 주사시술 장면 없음. 전문적이며 모바일에서 제목이 잘 읽히고 여백 충분.",
+      "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-88b0a899-0185-498b-9af4-e005552b6ab1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "keys": [
+        "image_url",
+        "output_hint"
+      ],
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-88b0a899-0185-498b-9af4-e005552b6ab1.png"
+    },
+    "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
+    "keywordEvidence": "Search intent candidate; volume and CPC not measured."
   }
 ]
