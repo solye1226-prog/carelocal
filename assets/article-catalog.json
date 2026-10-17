@@ -815,6 +815,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/ganglion-aspiration-excision-claim",
+    "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/glaucoma-surgery-benefit",
     "title": "녹내장 섬유주절제술 수술비, 레이저와 다른 점",
     "category": "수술비"
