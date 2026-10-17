@@ -607,5 +607,92 @@
     },
     "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
     "keywordEvidence": "Search intent candidate; volume and CPC not measured."
+  },
+  {
+    "number": 8,
+    "path": "surgery-benefit/achilles-rupture-repair-claim",
+    "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+    "label": "아킬레스건 수술비",
+    "lead": "아킬레스건 파열 진단을 받았더라도 깁스 치료와 실제 봉합·재건 수술은 구분해야 합니다. 수술비 청구 전에는 사고일·초진일·수술일을 따로 적고, 기록의 행위명과 기존 질환 관련 내용을 본인 담보와 대조하세요.",
+    "source": "https://acs.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31712",
+    "sourceLabel": "서울아산병원 건 손상·아킬레스건 파열 설명",
+    "parent": "surgery-benefit/injury-surgery-classification",
+    "medical": "서울아산병원 건 손상 안내는 아킬레스건 파열 치료에 고정과 봉합 수술 방법이 있음을 설명합니다. 파열이라는 진단 자체가 실제 수술을 받았다는 뜻은 아니며 치료 선택은 환자 상태에 따라 의료진이 판단합니다.",
+    "sections": [
+      [
+        "다친 날·처음 진료일·수술일을 구분합니다",
+        [
+          "운동 중 다쳤다면 발생한 날짜와 상황, 처음 진료받은 기관을 기록합니다. 며칠 뒤 수술받았더라도 사고일과 수술일을 같은 날짜로 바꾸지 말고 실제 기록을 사용합니다.",
+          "오래된 통증이나 기존 진료가 있었다면 자료에서 확인되는 사실을 그대로 설명합니다. 상해 또는 질병 담보 해당 여부를 유리하게 만들기 위해 원인을 임의로 정하지 않습니다."
+        ]
+      ],
+      [
+        "봉합과 재건은 기록에 있는 행위로 확인합니다",
+        [
+          "수술확인서에 적힌 봉합·재건 등 정확한 행위명과 부위를 확인하세요. 본인이 힘줄을 이었다고 기억하는 것만으로 시행 방법을 정하기는 어렵습니다.",
+          "기록지가 영문 약어로 되어 있다면 병원에 뜻을 묻고 보험사에 필요한 번역·확인 범위를 문의합니다. 수술명과 약관의 표현이 다르다는 이유로 의료기록을 보험 문구에 맞춰 고치도록 요구하지 않습니다."
+        ]
+      ],
+      [
+        "깁스·보조기·재활 비용은 수술비와 다른 항목입니다",
+        [
+          "수술 전 고정, 수술 후 보조기와 재활치료는 날짜·행위·비용을 나누어 정리합니다. 수술비를 받았다고 모든 후속 비용이 실비 보장되는 것은 아니며 보장 항목·공제를 별도로 확인합니다.",
+          "상해수술비와 상해 종수술비도 같은 담보가 아닙니다. 각 특약의 수술 정의·분류표·동일 사고 관련 조건을 확인하고 한쪽 지급 결과를 다른 계약에 자동 적용하지 마세요."
+        ]
+      ]
+    ],
+    "rows": [
+      [
+        "시점",
+        "사고일·초진일·실제 수술일",
+        "지연 진료와 수술일을 합치지 않기"
+      ],
+      [
+        "행위",
+        "봉합·재건 등 수술명과 부위",
+        "고정 치료를 수술로 간주하지 않기"
+      ],
+      [
+        "비용",
+        "고정·보조기·재활·수술 내역",
+        "정액 수술비와 실비 항목 구분"
+      ]
+    ],
+    "steps": [
+      "발생 상황과 사고·초진·수술 날짜를 나눕니다.",
+      "확인서에서 실제 봉합·재건 행위를 확인합니다.",
+      "보험사에 상해 관련 담보와 분류표 적용 기준을 문의합니다.",
+      "후속 치료비는 별도 비용자료로 접수 여부를 확인합니다."
+    ],
+    "faq": [
+      [
+        "파열 진단과 깁스만으로 수술비를 청구하나요?",
+        "진단과 고정 치료가 실제 봉합 수술을 뜻하지는 않습니다. 시행 행위와 담보 정의를 확인하세요."
+      ],
+      [
+        "상해수술비와 종수술비는 같은 건가요?",
+        "별도 담보일 수 있으므로 각각의 지급 요건과 분류 기준을 확인해야 합니다."
+      ]
+    ],
+    "url": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+    "images": [
+      "assets/images/achilles-rupture-repair-claim-thumb.webp",
+      "assets/images/surgery-claim-documents-checklist.webp",
+      "assets/images/surgery-claim-documents-mobile.webp"
+    ],
+    "bodyChars": 2500,
+    "imageOrigin": {
+      "i": 8,
+      "label": "아킬레스건 수술비",
+      "prompt": "케어로컬 한국어 의료보험 정보 블로그 대표 이미지. 가로 3:2 카드뉴스, 고품질 사진풍 설명 장면. 진한 남색·파랑·흰색, 노란 작은 포인트. 큰 정확한 한국어 제목 '아킬레스건 수술비' 하나만 표시. 발목 모형과 사고일 기록을 확인. 실제 환자나 수술 장면이 아닌 연출된 설명 이미지. 사람은 손과 팔만 등장, 얼굴 없음. 의료기록은 글씨가 읽히지 않는 빈 서식. 개인정보, 병원 로고, 지급보장 표현, 금액, 피·상처, 주사시술 장면 없음. 전문적이며 모바일에서 제목이 잘 읽히고 여백 충분.",
+      "hint": "Generated images are saved to C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82 as C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-f89b64b1-523e-425b-93dd-03f297302e48.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "keys": [
+        "image_url",
+        "output_hint"
+      ],
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-f89b64b1-523e-425b-93dd-03f297302e48.png"
+    },
+    "duplicateReview": "Existing 337 catalog titles and procedure terms in article bodies checked; new treatment and record question, not an alternate keyword spelling.",
+    "keywordEvidence": "Search intent candidate; volume and CPC not measured."
   }
 ]

@@ -690,6 +690,11 @@
     "category": "진단비"
   },
   {
+    "path": "/surgery-benefit/achilles-rupture-repair-claim",
+    "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/acl-reconstruction",
     "title": "십자인대 재건술 보험 수술비는 몇 종? 상해 담보와 수술명 확인",
     "category": "수술비"
