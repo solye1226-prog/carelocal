@@ -1,0 +1,792 @@
+[
+  {
+    "path": "/claims/claim-paid-no-bank-deposit",
+    "title": "보험금 지급완료인데 입금이 안 보이면? 지급내역·계좌 확인 순서",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/closed-hospital-records-request",
+    "title": "폐업한 병원 진료기록 발급, 포털에서 안 나오면 어디에 문의할까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/dental-crown-insurance-claim-documents",
+    "title": "치아보험 크라운 청구서류, 치아번호와 치료 재료 확인",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/dental-extraction-implant-dates",
+    "title": "치아보험 발치일·임플란트 완료일 다를 때, 청구 시점 확인",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "title": "치아보험 임플란트 청구서류, 발치 원인과 치아번호 확인",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/discharge-day-outpatient-silbi",
+    "title": "퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/duplicate-insurance-claim-receipt",
+    "title": "보험금을 두 번 접수했다면? 접수번호 비교와 정정 문의 순서",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/english-operative-record-insurance-check",
+    "title": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/family-proxy-insurance-claim-form",
+    "title": "보험금 청구 대리인 위임장, 가족이 대신 접수할 때 필요한 것",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/gallbladder-pathology-request",
+    "title": "담낭절제술 후 조직검사 결과지 요청받았다면? 청구서류 구분",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/gallbladder-polyp-surgery-insurance-documents",
+    "title": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-beneficiary-bank-account-mismatch",
+    "title": "보험금 청구 계좌 명의가 다를 때, 수익자와 지급계좌 확인법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-missing-visit-date",
+    "title": "보험금 청구한 진료일이 빠졌다면? 접수·지급내역 대조법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/insurance-claim-original-documents-request",
+    "title": "보험금 청구 원본 서류 요청, 사진 접수 뒤 무엇을 보내야 할까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/leqembi-mri-different-hospitals",
+    "title": "레켐비 투여와 MRI 병원이 다르면? 기관별 청구서류 연결 방법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/leqembi-repeat-claim-ledger",
+    "title": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/medical-certificate-online-first-issue",
+    "title": "진단서 인터넷 발급, 처음 받는 진단서와 사본 재발급은 다릅니다",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/minor-child-insurance-claim-documents",
+    "title": "미성년자 보험금 청구서류, 부모가 접수할 때 확인할 것",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/operative-record-upload-missing-pages",
+    "title": "수술기록지 사진에 페이지가 빠졌다면? 재발급 전 첨부 확인법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/overseas-hospital-card-slip-insurance",
+    "title": "해외 병원비 카드 영수증만 있다면, 여행자보험 청구서류 확인",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/overseas-medical-note-diagnosis-claim",
+    "title": "해외 진료 소견서에 진단명이 없다면, 여행자보험 보완 순서",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/overseas-pharmacy-prescription-claim",
+    "title": "해외 약국 약값 보험청구, 처방전과 약제비 영수증 준비",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/same-day-multiple-departments-silbi",
+    "title": "같은 날 두 진료과 실비 청구, 영수증과 공제 단위 확인법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/same-tooth-repeat-dental-treatment-claim",
+    "title": "같은 치아 재치료 치아보험 청구, 이전 치료기록 확인 기준",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/silbi-fixed-surgery-same-claim",
+    "title": "실손과 정액 수술비를 함께 청구할 때 서류는 어떻게 나눌까?",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/spouse-card-medical-bill-silbi",
+    "title": "가족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/surgery-certificate-missing-diagnosis",
+    "title": "수술확인서에 진단명이 없다면? 수술비 청구 전 확인 순서",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/surgery-certificate-unavailable",
+    "title": "수술확인서 발급이 어렵다면? 보험금 청구 대체자료 확인",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/surgery-first-diagnosis-later-claim",
+    "title": "수술비 먼저, 진단비는 결과 후 청구할까? 담보별 접수 관리",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/surgery-record-additional-request",
+    "title": "보험사가 수술기록지를 추가 요청했다면? 발급 범위 확인법",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/claims/surgery-record-certificate-mismatch",
+    "title": "수술확인서와 수술기록지 내용이 다를 때, 청구 전 확인할 것",
+    "category": "보험금 청구"
+  },
+  {
+    "path": "/silbi/audiometry-test-vs-hearing-aid",
+    "title": "청력검사 실비, 병원 검사와 보청기 구입·지원금 서류 구분하기",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/breast-ultrasound-silbi-purpose",
+    "title": "유방초음파 실비, 검진 추가검사와 이상 소견 후 진료는 어떻게 다를까요?",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/cartistem-medical-necessity-supplement",
+    "title": "카티스템 실비 심사에서 치료 필요성 자료를 요청받았다면?",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/cataract-preoperative-test-claim",
+    "title": "백내장 수술 전 검사비 실비, 수술비 영수증과 어떻게 나눠 청구할까?",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/cervical-biopsy-pathology-claim",
+    "title": "자궁경부 조직검사 실비, 세포검사·HPV·원추절제술 비용 구분",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/corrected-hospital-bill-insurance-claim",
+    "title": "보험금 지급 전 병원비 영수증이 정정됐다면? 실비 보완서류 제출 순서",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/cpap-rental-private-insurance-costs",
+    "title": "양압기 대여료 실비, 건강보험 요양비와 민간보험 비용 나누기",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/cystoscopy-exam-biopsy-claim",
+    "title": "방광내시경 실비, 검사만 받은 경우와 조직 채취 비용 구분하기",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/emg-nerve-conduction-test-claim",
+    "title": "근전도검사 실비, 신경전도검사와 수술비 청구를 나누는 기준",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/gastroscopy-biopsy-pathology-cost",
+    "title": "위내시경 조직검사 실비, 내시경·병리·수면 비용을 따로 확인하세요",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/h-pylori-eradication-pharmacy-test",
+    "title": "헬리코박터 제균치료 실비, 검사·처방약·재검 비용 연결하기",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/heart-echo-exam-purpose",
+    "title": "심장초음파 실비 청구, 일반 검사와 약물부하 검사명부터 확인하세요",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/holter-ambulatory-ecg-claim",
+    "title": "홀터검사 실비, 24시간 심전도 부착·반납일과 비용 정리",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/hospital-interim-bill-silbi-claim",
+    "title": "입원 중간정산 영수증 실비 청구, 퇴원 전 확인할 것",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/hospital-receipt-vs-payment-certificate",
+    "title": "실비 청구 영수증과 진료비 납입확인서, 무엇이 다를까?",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/mast-allergy-test-claim",
+    "title": "MAST 검사 실비, 알레르기 검사 목적과 항목별 비용 확인하기",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/multiple-silbi-insurers-document-forwarding",
+    "title": "실손보험 여러 개 청구, 서류 한 번만 내고 전송할 수 있을까?",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/noncovered-itemized-bill-silbi-documents",
+    "title": "비급여 진료비 세부내역서 실비 청구, 영수증과 함께 확인할 것",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/osteoporosis-injection-drug-bill",
+    "title": "골다공증 주사 실비, 골밀도 검사와 약제·투여비 구분법",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/outpatient-prescription-diagnosis-code",
+    "title": "통원 실비 처방전에 진단명 코드가 없다면, 청구 전 확인 순서",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/pulmonary-function-test-purpose",
+    "title": "폐기능검사 실비, 검진 추가 항목과 증상 평가 진료 구분하기",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/thyroid-ultrasound-test-vs-rfa",
+    "title": "갑상선초음파 실비, 추적검사·세침검사·고주파 비용을 나누는 법",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/varicose-compression-stocking-cost",
+    "title": "하지정맥류 압박스타킹 실비, 처방·구입 영수증이 있으면 될까요?",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/vitamin-infusion-drug-purpose",
+    "title": "비타민 수액 실비, 상품명보다 약제 성분·투여 목적을 확인하세요",
+    "category": "실비보험"
+  },
+  {
+    "path": "/silbi/wart-cryotherapy-policy-exclusions",
+    "title": "사마귀 냉동치료 실비, 급여·비급여와 약관 제외 문구 확인하기",
+    "category": "실비보험"
+  },
+  {
+    "path": "/surgery-benefit/achilles-rupture-repair-claim",
+    "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/adenomyosis-hysterectomy-benefit",
+    "title": "자궁샘근증 자궁절제술 수술비, 하이푸·색전술과 구분",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/anal-abscess-drainage-benefit",
+    "title": "항문주위농양 절개배농술 수술비, 치루 수술과 구분하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/benign-thyroid-nodule-surgery-benefit",
+    "title": "양성 갑상선 결절 절제 수술비, 암 진단비와 구분하는 법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/biliary-stent-removal-replacement-benefit",
+    "title": "담도 스텐트 제거·교체도 수술비 청구할까? 삽입 때와 다른 확인사항",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/bph-surgery-benefit",
+    "title": "전립선비대증 수술비 몇 종? 절제·레이저·결찰술 구분법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/breast-duct-excision-benefit",
+    "title": "유륜하 농양 유관절제술 수술비, 배농술과 구분하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/breast-fibroadenoma-excision-benefit",
+    "title": "유방 섬유선종 절제 수술비, 맘모톰과 어떻게 다를까?",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/cartistem-concurrent-procedure-records",
+    "title": "카티스템과 미세천공술을 함께 받았다면? 수술비 청구 기록 확인법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/cervical-disc-surgery-benefit",
+    "title": "목디스크 경추 추간판절제·유합술 수술비 확인법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+    "title": "당뇨망막병증 유리체절제술 수술비, 주사·레이저와 구분",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
+    "title": "자궁내막용종 자궁경 수술비, 검사와 절제 구분하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+    "title": "표피낭종 제거 수술비, 피지낭종 배농과 낭종 절제 구분하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/frenotomy-child-insurance-documents",
+    "title": "설소대 절제술 수술비, 아이 보험 청구 전 진단·치료 목적 확인",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-ercp-combined-claim",
+    "title": "담낭절제술과 ERCP를 모두 받았다면 수술비는 각각 청구할까?",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+    "title": "담낭 수술 중 개복으로 전환됐다면? 수술비 청구 기록 확인법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/ganglion-aspiration-excision-claim",
+    "title": "손목 결절종 제거 수술비, 주사 흡인과 절제술 청구서류 차이",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/gastric-adenoma-esd-claim-documents",
+    "title": "위선종 ESD 수술비 청구서류, 조직검사와 절제 결과 구분",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/glaucoma-surgery-benefit",
+    "title": "녹내장 섬유주절제술 수술비, 레이저와 다른 점",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/hallux-valgus-osteotomy-claim",
+    "title": "무지외반증 수술비 청구서류, 절골술·내고정 기록 확인법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-ligation-benefit",
+    "title": "치핵 고무밴드 결찰술 수술비, 절제술과 무엇이 다를까?",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "title": "치핵 재수술 수술비, 같은 부위 반복 치료도 청구할까?",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/lipoma-excision-operation-record",
+    "title": "지방종 제거 수술비, 병명보다 실제 절제 범위와 약관 확인하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "title": "난소낭종 복강경 수술비, 낭종 제거와 난소 절제 기록 확인법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/percutaneous-kidney-stone-surgery-benefit",
+    "title": "신장결석 경피적 제거술 수술비, 요관경·체외충격파와 차이",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/plantar-fasciitis-release-benefit",
+    "title": "족저근막염 근막절개술 수술비, 체외충격파와 구분하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/pterygium-excision-graft-claim",
+    "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/ptosis-surgery-benefit",
+    "title": "안검하수 교정 수술비, 눈꺼풀올림근 절제술 확인법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/repeated-ercp-surgery-benefit",
+    "title": "담석 시술 후 다시 ERCP를 받았다면? 반복 시술 수술비 확인 순서",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/retinal-detachment-surgery-benefit",
+    "title": "망막박리 유리체절제술 수술비, 공막돌륭술과 구분하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/same-surgery-different-policy-tiers",
+    "title": "보험사마다 같은 수술의 종수가 다르다면? 두 계약 약관 비교법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/secondary-cataract-laser-benefit",
+    "title": "후발백내장 레이저 치료도 수술비 대상일까? 처음 수술과 구분하기",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/sleep-apnea-throat-surgery-benefit",
+    "title": "수면무호흡증 인두부 수술비, 양압기와 구분하는 법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/spinal-stenosis-surgery-benefit",
+    "title": "척추관협착증 감압술·유합술 수술비, 몇 종일까?",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/splenectomy-injury-disease-documents",
+    "title": "비장절제술 수술비 청구, 외상·질병 원인과 절제 범위 서류",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/surgery-benefit-amount-review",
+    "title": "수술비 보험금이 예상보다 적다면? 종수·가입금액 확인 순서",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/tear-duct-dcr-insurance-documents",
+    "title": "눈물길 수술비 청구, 누낭비강문합술과 세척·검사 구분",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/tonsillectomy-surgery-benefit",
+    "title": "편도절제술 수술비 몇 종? 편도만 절제한 경우 확인법",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/trigger-finger-release-claim",
+    "title": "방아쇠수지 수술비 청구, 활차절개술과 주사치료 기록 구분",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/tympanoplasty-ear-surgery-claim",
+    "title": "고막성형술 청구서류, 고실성형술·이소골 재건 기록 구분",
+    "category": "수술비"
+  },
+  {
+    "path": "/surgery-benefit/wound-suture-specific-rider",
+    "title": "창상봉합술 수술비, 상해수술비와 별도 치료비 담보를 구분하세요",
+    "category": "수술비"
+  },
+  {
+    "path": "/treatment-costs/continuous-glucose-monitor-device-sensor-support",
+    "title": "연속혈당측정기 건강보험, 기기와 센서 지원을 따로 확인하세요",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/dementia-test-cost-support-referral",
+    "title": "치매검사비 지원 신청, 병원 예약 전에 치매안심센터 의뢰 확인",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/denture-insurance-registration-cost",
+    "title": "틀니 건강보험 적용, 65세·등록·7년 기준과 본인부담 확인",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/diabetes-consumables-reimbursement-documents",
+    "title": "당뇨 소모품 지원 신청, 혈당검사지·채혈침 구입 전 확인할 서류",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/hearing-aid-subsidy-before-purchase",
+    "title": "보청기 지원금 신청, 구입 전에 장애등록·처방·급여제품을 확인하세요",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/peritoneal-dialysis-supplies-reimbursement",
+    "title": "복막투석 소모성재료 요양비, 처방전·등록업소·청구서류 확인",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/powered-wheelchair-insurance-preapproval",
+    "title": "전동휠체어 건강보험 지원, 구입 전 급여 승인부터 확인하세요",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/senior-eye-surgery-cost-aid-application",
+    "title": "노인 눈수술비 지원, 백내장 수술 전에 신청·선정 순서 확인",
+    "category": "치료비"
+  },
+  {
+    "path": "/treatment-costs/senior-knee-surgery-aid-before-operation",
+    "title": "무릎 인공관절 수술비 지원, 수술 전에 보건소에 신청해야 할까?",
+    "category": "치료비"
+  },
+  {
+    "path": "/caregiver/longterm-care-welfare-equipment-limit",
+    "title": "복지용구 지원 신청, 연 160만원 한도와 구입·대여 비용 확인",
+    "category": "간병"
+  },
+  {
+    "path": "/checkups/cervical-screening-ascus-followup",
+    "title": "자궁경부암검진 비정형세포 ASC-US 판정, HPV 검사와 재검사 순서",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/chest-xray-abnormal-followup",
+    "title": "흉부 엑스레이 이상 소견, 폐결절과 추가 CT 검사 구분",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/fatty-liver-ultrasound-followup",
+    "title": "복부초음파 지방간 소견, 간수치 정상이어도 추가 검사가 필요할까?",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/fecal-occult-blood-positive",
+    "title": "분변잠혈검사 양성, 대장내시경 예약과 비용 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/gallbladder-polyp-ultrasound-followup",
+    "title": "복부초음파 담낭용종 발견, 크기별 추적검사와 진료과 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/gastric-intestinal-metaplasia-followup",
+    "title": "위내시경 장상피화생 진단, 조직검사 결과와 추적내시경 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-cholesterol-abnormal",
+    "title": "건강검진 콜레스테롤 수치 이상, 재검사 항목과 비용 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-hematuria",
+    "title": "건강검진 혈뇨 판정, 재검사와 비뇨의학과 방문 기준",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-high-blood-pressure",
+    "title": "건강검진 혈압 높게 나왔을 때, 고혈압 재측정과 확진검사 방법",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-high-fasting-glucose",
+    "title": "건강검진 공복혈당 높게 나왔을 때, 당뇨 확진검사와 비용 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-high-liver-enzymes",
+    "title": "건강검진 간수치 AST·ALT·감마지티피가 높을 때 확인할 것",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-low-egfr",
+    "title": "건강검진 신장기능 eGFR 낮게 나왔을 때, 크레아티닌 재검사와 진료과 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-low-hemoglobin",
+    "title": "건강검진 혈색소 낮음, 빈혈 재검사 항목과 내과 방문 기준",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-proteinuria",
+    "title": "건강검진 단백뇨가 나왔을 때, 재검사와 진료과 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/health-checkup-result-reissue",
+    "title": "건강검진 결과표 재발급, 온라인 조회와 병원 발급 방법",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/high-psa-followup",
+    "title": "건강검진 전립선 PSA 수치 높음, 재검사와 비뇨의학과 방문 기준",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/mammography-abnormal-followup",
+    "title": "유방촬영 이상 소견, 추가 촬영과 유방초음파 비용 확인",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/osteopenia-bone-density-followup",
+    "title": "건강검진 골밀도 골감소증 판정, T점수 확인과 재검사 비용",
+    "category": "건강검진"
+  },
+  {
+    "path": "/checkups/thyroid-tsh-abnormal-followup",
+    "title": "갑상선기능검사 TSH 이상, 재검사 항목과 내분비내과 방문 기준",
+    "category": "건강검진"
+  },
+  {
+    "path": "/guides/amc-external-image-cd-registration",
+    "title": "서울아산병원 외부영상 CD 등록, 초진 전에 어느 창구로 갈까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/amc-home-nursing-service-area",
+    "title": "서울아산병원 가정간호 방문지역, 다른 병원 환자도 신청할 수 있을까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/amc-noncovered-price-material-drug",
+    "title": "서울아산병원 비급여 진료비 조회, 재료·약제 포함 표시 읽는 법",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/designated-blood-donation-recipient-number",
+    "title": "지정헌혈 부탁받았다면, 수혈자등록번호·헌혈 종류부터 확인",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/hira-medication-history-before-admission",
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/lost-prescription-reissue-cost",
+    "title": "처방전 분실 재발급 비용, 약을 잃어버린 경우와 어떻게 다를까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/medical-dispute-counselling-records",
+    "title": "의료분쟁 상담 전 준비할 자료, 진료기록과 날짜를 어떻게 정리할까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/medical-information-exchange-consent-transfer",
+    "title": "진료정보교류 동의하면 전원 예약도 될까? 기록 전송·진료예약 구분",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/moonlight-childrens-hospital-night-search",
+    "title": "달빛어린이병원 찾기, 야간 소아진료 출발 전에 확인할 것",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/my-health-record-missing-hospital-data",
+    "title": "나의건강기록 앱에 병원 기록이 안 보일 때, 참여기관·자료 종류 확인",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/severance-first-reservation-referral-upload",
+    "title": "세브란스 처음 예약, 의뢰서를 등록했어도 원본을 가져가야 할까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/severance-healthcheck-national-screening",
+    "title": "세브란스 헬스체크업 예약, 국가건강검진과 어떻게 구분할까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/severance-record-copy-proxy",
+    "title": "세브란스병원 의무기록 대리발급, 가족과 지정대리인 서류 구분",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/smc-first-visit-quick-reservation",
+    "title": "삼성서울병원 첫진료 예약, 빠른예약 접수와 예약 확정의 차이",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/smc-medical-certificate-first-reissue",
+    "title": "삼성서울병원 진단서 발급, 최초 발급과 온라인 재발급 구분",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/smc-receipt-itemized-bill-download",
+    "title": "삼성서울병원 영수증·세부내역서 발급, 납입확인서와 구분하기",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-admission-room-assignment",
+    "title": "분당서울대학교병원 입원 예약, 병실 배정 알림 후 확인할 것",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-advance-directive-counselling",
+    "title": "분당서울대병원 사전연명의료의향서 상담 예약, 대상과 준비물",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-day-surgery-call-guardian",
+    "title": "분당서울대병원 당일수술 준비, 전날 전화·보호자·귀가 확인",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-discharge-payment-medicine",
+    "title": "분당서울대병원 퇴원 수속, 결제·서류·퇴원약 받는 순서",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-emergency-discharge-next-visit",
+    "title": "분당서울대병원 응급실 퇴실, 약·다음 진료·귀가 안내 확인",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-first-visit-referral",
+    "title": "분당서울대학교병원 초진, 진료의뢰서와 검진결과서 준비 기준",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-hipass-card-exclusions",
+    "title": "분당서울대병원 진료비 하이패스, 등록 가능한 카드와 별도 수납 항목",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-integrated-nursing-ward-application",
+    "title": "분당서울대병원 간호간병통합병동 신청, 보호자가 상주해야 할까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-parking-admission-discharge",
+    "title": "분당서울대학교병원 주차, 입퇴원 당일과 입원 중 정산 차이",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-sign-language-interpreter-reservation",
+    "title": "분당서울대병원 수어통역 신청, 진료 전에 어디로 예약할까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snubh-visiting-ward-guardian",
+    "title": "분당서울대병원 면회 가능할까? 병동별 시간과 상주 보호자 확인",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snuh-appointment-cancel-test-prepaid",
+    "title": "서울대학교병원 예약 취소가 안 될 때, 검사예약·선결제 확인",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snuh-cancer-information-education-center",
+    "title": "서울대암병원 암정보교육센터, 환자·가족 교육은 어디서 확인할까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snuh-external-image-cd-usb",
+    "title": "서울대학교병원 외부영상 등록, USB 대신 CD를 준비해야 할까?",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/snuh-surgery-record-certificate",
+    "title": "서울대학교병원 수술확인서가 없다면? 수술기록지 발급 준비",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/temporary-wheelchair-free-rental",
+    "title": "퇴원 후 휠체어 무료대여, 주민센터·보건소에 전화하기 전 준비",
+    "category": "방문 가이드"
+  }
+]

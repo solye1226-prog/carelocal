@@ -1,0 +1,758 @@
+[
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 3,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 3,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 3,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 5,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 5,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 5,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 6,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 6,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 6,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/polyp-removal-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 7,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/polyp-removal-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 7,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/polyp-removal-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 7,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 8,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 8,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 8,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 9,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 9,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 9,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 10,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 10,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 10,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 11,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 11,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 11,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 12,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 12,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 12,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-20s",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 1,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 81.4375,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-20s",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 1,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-20s",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 1,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-40s",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 2,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 81.4375,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-40s",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 2,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-40s",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 2,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 129.875,
+        "w": 271
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tablesFit": true,
+    "width": 360,
+    "mode": "local",
+    "number": 4,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 103.53125,
+        "w": 301
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tablesFit": true,
+    "width": 390,
+    "mode": "local",
+    "number": 4,
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      {
+        "h": 84.6875,
+        "w": 698
+      }
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/cataract-surgery-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tablesFit": true,
+    "width": 1280,
+    "mode": "local",
+    "number": 4,
+    "pass": true
+  }
+]

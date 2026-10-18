@@ -1,0 +1,106 @@
+Google 미색인 글 보완 및 요청 보고 — 2026-10-18
+
+1. 확인 범위와 우선순위
+Search Console 색인 보고서(화면 최종 업데이트 2026.10.12)의 발견됨 108개, 크롤링됨 3개, 리디렉션 오류 3개 URL을 수집했습니다. 색인됨 표는 104개입니다. 보고서 수치는 현재 개별 검사와 시점이 다릅니다.
+보고된 URL 114개를 공개 HTTP·표준 URL·본문과 대조했습니다. 기존 대표 글 10편을 제외하고 표준 URL로 중복을 합친 글 후보는 99편입니다. 이 모두를 오늘 현재 미색인 확정으로 표현하지 않습니다.
+본문을 읽고 기존 대표 글과의 연결을 고려해 12편을 골랐습니다. 크롤링됐지만 미색인인 20대·40대 검진 글을 먼저, 이어 실비 및 백내장·담석·치질·용종 청구 안내를 선정했습니다. URL 검사에서 12편 모두 현재 미색인으로 확인했습니다.
+남은 보고서 후보 87편은 remaining-priority.csv에 별도 정리했습니다. 보고서 어느 쪽에서도 대조되지 않은 카탈로그 158편은 status-unknown.json에 분리했으며, 미색인으로 단정하지 않습니다. 이전 핵심 글 10편은 이번 대상에서 제외했습니다.
+
+2. 실제 보완 및 배포
+기존 URL을 유지하고 반복 안내·체크리스트를 통합했습니다. 진료별 영수증 연결, 눈별 수술 자료 대조, 결과 대기 중 보완, 약관 근거와 지급 단위 메모처럼 각 검색 의도에 맞는 내용을 추가했습니다.
+공식 구비서류·검진 대상 조회 버튼, 실제 작성 주체와 수정 요청 경로, 모바일 표의 열 이름을 보완했습니다. 대표 이미지는 우선 로딩, 나머지 이미지는 지연 로딩을 유지했습니다. 특정 보험사의 서류 예시는 모든 계약의 공통 지급 기준으로 설명하지 않았습니다.
+기존 색인된 수술비 청구서류 글에서 용종 관련 세부 글 3편으로 연결을 추가했습니다. 다른 대상도 기존 대표 글·검진 안내에서 들어오는 링크가 있음을 확인했습니다.
+콘텐츠 커밋: 8eef5c4. 12편의 공개 HTTP 200, 표준 URL, 로컬과 공개 head/main 일치를 확인했습니다. 로컬·공개 360/390/1280px 화면 결과는 local-qa.json과 public-qa.json에 저장합니다.
+pnpm run check: 로컬 링크, sitemap 372개의 중복·표준 URL, Python 5개·Node 10개 검사 및 카탈로그 347개 일치 통과. 링크 검사에는 .deploy 백업 HTML도 포함됩니다.
+
+3. Google 색인 요청 결과
+20대 검진 글: “색인 생성 요청됨” 확인. 우선순위 크롤링 대기열에 추가됐다는 응답이며 색인 완료를 뜻하지 않습니다.
+40대 검진 글: “할당량 초과 — 일일 할당량을 초과하여 이 요청을 처리할 수 없습니다. 내일 다시 제출해 주세요.” 확인. 한도 도달 뒤 나머지 중복 요청은 시도하지 않았습니다.
+따라서 이번 추가 요청은 1편 접수, 11편 미접수입니다. 앞서 대표 글 작업에서 접수한 10편과 섞어 세지 않습니다. request-pending.txt는 보완·배포 완료 후 요청이 남은 11개 URL입니다. 자동 재요청 일정은 만들지 않았습니다.
+sitemap에는 12편이 이미 포함되며 실제 수정일을 2026-10-18로 갱신했습니다. sitemap 포함과 배포 확인도 색인 완료 증거는 아닙니다.
+
+4. 대상별 결과
+
+1. 20대 건강검진 첫 예약 전 항목과 비용 확인
+https://hospital.hbuby.com/checkups/health-checkup-20s
+검사: 크롤링됨 - 현재 색인이 생성되지 않음
+보완: 처음 예약할 때는 대상 조회 결과와 추가 선택을 따로 적으세요
+요청: 접수됨
+
+2. 40대 건강검진 일반검진과 암검진을 나눠 예약하기
+https://hospital.hbuby.com/checkups/health-checkup-40s
+검사: 크롤링됨 - 현재 색인이 생성되지 않음
+보완: 일반검진과 암검진 예약을 한 장에 합치지 않는 방법
+요청: 할당량 초과로 미접수
+
+3. 실비보험 청구서류, 병원비 영수증만 있으면 될까요?
+https://hospital.hbuby.com/claims/medical-expense-claim-documents
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 여러 영수증을 한 번에 올릴 때는 진료별로 짝을 맞추세요
+요청: 한도 도달 후 미시도
+
+4. 백내장 수술 보험금 청구서류, 무엇이 필요할까?
+https://hospital.hbuby.com/claims/cataract-surgery-claim-documents
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 좌안·우안 서류의 날짜가 서로 맞는지 확인하세요
+요청: 한도 도달 후 미시도
+
+5. 담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?
+https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 같은 입원 중 처치가 두 번 있었다면 기록을 나누세요
+요청: 한도 도달 후 미시도
+
+6. 치질 수술 보험금 청구서류, 실비와 수술비는 무엇을 준비할까?
+https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents
+검사: Google에는 아직 알려지지 않은 URL입니다.
+보완: 확인서에 치질이라고만 적혀 있다면 무엇을 물어볼까요?
+요청: 한도 도달 후 미시도
+
+7. 대장 용종 제거 보험금 청구서류, 확인서와 검사결과지 어디까지 필요할까?
+https://hospital.hbuby.com/claims/polyp-removal-claim-documents
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 조직검사 결과가 아직 없을 때의 접수 메모
+요청: 한도 도달 후 미시도
+
+8. 대장 용종 제거 수술비는 몇 종일까? 질병수술비와 분류표 확인법
+https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 약관을 찾았다면 종수 숫자 옆의 조건도 남기세요
+요청: 한도 도달 후 미시도
+
+9. 대장 용종 여러 개 제거하면 수술비도 여러 번 받을까?
+https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 같은 날 세 개 제거와 다른 날 재절제를 구분해 적으세요
+요청: 한도 도달 후 미시도
+
+10. 양쪽 눈 백내장 수술비, 두 번 받을까? 수술일과 약관 지급 단위
+https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 눈별 수술 기록과 담보별 지급 계산을 따로 대조하세요
+요청: 한도 도달 후 미시도
+
+11. 백내장 당일 수술은 입원일까 통원일까? 실비 청구 전 확인할 기준
+https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 보완 요청을 받았다면 전체 진료기록부터 발급하지 마세요
+요청: 한도 도달 후 미시도
+
+12. 치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법
+https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim
+검사: 발견됨 - 현재 색인이 생성되지 않음
+보완: 적게 지급된 이유를 제외·공제·한도로 구분해 물어보세요
+요청: 한도 도달 후 미시도
+
+5. 검증한 주요 공식 자료
+https://www.mohw.go.kr/menu.es?mid=a10706020200 — 연령별 정신건강·지질 검사 항목 확인
+https://www.nhis.or.kr/nhis/healthin/retrieveHealthinCheckUpTargetPerson.do — 본인 대상 조회, 로그인 필요
+https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html — 담보별 서류 예시
+https://www.kbinsure.co.kr/CG205020003.ec — 통원·입원·수술 서류와 대체·추가 안내
+https://www.idbins.com/pc/bizxpress/ct/dc/FWCUSV1301.shtm — 수술명·진단명·수술일이 포함된 자료 안내
+https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6689 — 백내장 수술 후 경과와 당일 퇴원 설명
+
+6. 해석상의 한계
+미색인 사유가 곧 콘텐츠 품질 판정을 뜻하지는 않습니다. 오늘 보완으로 색인이나 순위 상승이 확정되는 것은 아닙니다. 나머지 후보는 오래된 보고서 상태와 현재 URL 검사를 구분해야 합니다.
+공개 화면의 기존 AdSense 자동 광고가 화면 하단 일부에 겹쳐 보인 사례가 있습니다. 본문 폭·표·버튼 검사는 통과했지만, 광고가 없는 화면과 동일한 가독성을 뜻하지는 않습니다. 이번 변경은 본문·내부 링크에 적용됐습니다.

@@ -1,0 +1,88 @@
+﻿priority,url,title,report_groups,current_status,http_status,next_action
+13,https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents,"간병인보험 청구서류, 이용내역과 입원 증빙 확인 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+14,https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents,"충수염 수술 보험금 청구서류, 충수절제술 확인부터 접수까지",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+15,https://hospital.hbuby.com/claims/hospitalization-claim-documents,"입원비 보험금 청구서류, 입퇴원확인서만 있으면 될까요?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+16,https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents,"서혜부 탈장 수술 보험금 청구서류, 복강경·절개 수술명 확인하기",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+17,https://hospital.hbuby.com/claims/knee-surgery-claim-documents,"무릎 수술 보험금 청구서류, 관절경·인공관절 수술명별 확인 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+18,https://hospital.hbuby.com/claims/mammotome-claim-documents,"맘모톰 보험청구서류, 진단서와 조직검사 결과지 모두 필요할까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+19,https://hospital.hbuby.com/claims/overseas-hospital-bill-documents,"해외여행 중 병원비, 귀국 전 챙겨야 할 보험 청구서류",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+20,https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents,"요로결석 치료 보험금 청구서류, 체외충격파·요관경 시술 구분하기",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+21,https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents,"자궁근종 수술 보험금 청구서류, 근종절제술과 자궁절제술 구분하기",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+22,https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents,"뇌혈관질환 진단비 청구서류, 진단서 외 확인할 자료는?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+23,https://hospital.hbuby.com/guides/robotic-surgery,"로봇수술 종수술비, 수술 방식과 보험 약관은 어떻게 확인할까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+24,https://hospital.hbuby.com/silbi/mammotome-day-admission,"맘모톰 당일 입원 실비, 입퇴원확인서만으로 인정될까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+25,https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim,"하지정맥류 레이저 수술 실비 청구, 필요한 서류와 비용 확인 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+26,https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance,"하지정맥류 고주파 수술, 실비와 수술비 특약은 어떻게 다를까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+27,https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim,"하지정맥류 실비, 수술 방법에 따라 확인할 보장 기준과 청구서류",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+28,https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit,"치루 수술비 보험금, 치핵 수술과 약관 기준이 다를까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+29,https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification,상해 종수술비 분류표는 어디서 확인할까? 골절·인대 수술명 대조법,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+30,https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit,"맘모톰 수술비 보험, 질병수술비와 종수술비는 어떻게 확인할까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+31,https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim,"종수술비 보험금 청구, 수술확인서와 수술분류표 대조 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+32,https://hospital.hbuby.com/surgery-benefit/ureteroscopy,"요관경 결석 제거 수술비, 체외충격파 치료와 보험 기준 차이",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+33,https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi,"백내장 다초점 인공수정체 비용, 실비보험은 어디까지 확인할까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+34,https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit,대장 용종 조직검사에서 선종·암이 나오면 진단비는 어떻게 확인할까?,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+35,https://hospital.hbuby.com/claims/screening-polyp-removal-silbi,건강검진 중 대장 용종을 제거했다면 실비 청구가 될까?,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+36,https://hospital.hbuby.com/cancers/cervical-cancer,자궁경부암 치료법과 병원 확인 가이드 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+37,https://hospital.hbuby.com/cancers/colorectal-cancer,대장암 치료법과 병원 확인 가이드 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+38,https://hospital.hbuby.com/cancers/liver-cancer,간암 치료법과 병원 확인 가이드 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+39,https://hospital.hbuby.com/cancers/pancreatic-cancer,췌장암 치료법과 병원 확인 가이드 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+40,https://hospital.hbuby.com/cancers/stomach-cancer,위암 치료법과 병원 확인 가이드 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+41,https://hospital.hbuby.com/checkups/abnormal-results,건강검진 이상 소견 확인 가이드 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+42,https://hospital.hbuby.com/checkups/health-checkup-60plus,"60대 이상 건강검진, 검진 항목과 복용약·이전 결과 준비 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+43,https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test,"건강검진 질환의심 판정 후 확진검사, 대상·기한·비용 확인",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+44,https://hospital.hbuby.com/checkups/health-checkup-fasting-medication,"건강검진 금식과 복용약, 예약 병원에 확인할 사항",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+45,https://hospital.hbuby.com/checkups/health-checkup-target-2026,2026 건강검진 대상자 조회와 검진기관 찾는 방법,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+46,https://hospital.hbuby.com/checkups/missed-health-checkup-application,작년 건강검진을 못 받았다면? 추가 신청 방법,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+47,https://hospital.hbuby.com/claims/downstairs-water-leak-insurance,"아랫집 누수 보험 처리, 일상생활배상책임 청구 순서와 서류",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+48,https://hospital.hbuby.com/claims/driver-injury-14,자동차부상치료비 청구 방법 | 운전자보험 자부치 14급 서류,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+49,https://hospital.hbuby.com/claims/family-liability-water-leak-deductible,누수 사고 일배책 자기부담금 확인 기준 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+50,https://hospital.hbuby.com/claims/home-fire-insurance-water-leak,"주택화재보험 누수 보상, 일배책과 무엇이 다를까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+51,https://hospital.hbuby.com/claims/hospital-receipt-reissue,"병원 영수증 분실 시 재발급, 진료비 세부내역서 요청 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+52,https://hospital.hbuby.com/claims/mammotome-claim-denied,"맘모톰 보험금 지급 거절, 사유별 추가서류와 대응 순서",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+53,https://hospital.hbuby.com/claims/medical-records-proxy-documents,"진료기록 사본 대리발급, 가족과 대리인의 준비서류",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+54,https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim,"교통사고 통원치료 실비 청구, 자동차보험 처리 내역부터 확인하세요",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+55,https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied,하지정맥류 보험금이 적거나 거절됐다면? 사유별 확인 순서,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+56,https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim,"갑상선암 진단비 청구, 유사암 구분과 필요한 서류",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+57,https://hospital.hbuby.com/guides/flu-vaccination-2026,"2026 독감 무료접종, 나이별 시작일과 접종 병원 찾는 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+58,https://hospital.hbuby.com/guides/mobile-health-insurance-id-error,"모바일 건강보험증이 안 될 때, 병원 대체 본인확인 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+59,https://hospital.hbuby.com/guides/night-hospital-checklist,야간진료와 응급실 이용 기준 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+60,https://hospital.hbuby.com/guides/parent-prescription-proxy,"부모님 약 대리처방, 가능한 조건과 준비서류",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+61,https://hospital.hbuby.com/guides/proton-therapy,양성자치료 확인 가이드 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+62,https://hospital.hbuby.com/guides/psychiatry-first-visit,정신건강의학과 첫 방문 준비 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+63,https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup,"상급종합병원 진료의뢰서, 검진결과서로 대신할 수 있을까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+64,https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim,"복부초음파 검사비, 건강보험 적용과 실비 청구 확인법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+65,https://hospital.hbuby.com/silbi/checkup-followup-test-insurance,"건강검진 후 재검사·정밀검사 비용, 실비 청구 전 확인할 사항",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+66,https://hospital.hbuby.com/silbi/claim-photo-upload-error,"실비보험 청구 사진 업로드가 안 될 때, 첨부 오류와 접수 확인 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+67,https://hospital.hbuby.com/silbi/ct-scan-cost-claim,"CT 검사비 실비 청구, 조영제 비용과 필요서류 확인",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+68,https://hospital.hbuby.com/silbi/current-silbi,"5세대 실손보험 구조, 급여·중증·비중증 비급여 차이",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+69,https://hospital.hbuby.com/silbi/emergency-room-cost-claim,"응급실 비용 실비 청구, 응급의료관리료부터 확인하세요",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+70,https://hospital.hbuby.com/silbi/flu-test-cost-claim,"독감 검사비 실비 청구, 예방접종 비용과 어떻게 다를까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+71,https://hospital.hbuby.com/silbi/mammotome-low-payout,맘모톰 실비 보험금이 적게 나왔다면? 공제·한도·제외 항목 확인,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+72,https://hospital.hbuby.com/silbi/mammotome-silbi-claim,"맘모톰 실비 청구, 조직검사 결과와 제거 목적이 중요한 이유",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+73,https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim,"도수치료 실비 청구, 가입 세대별로 무엇을 확인할까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+74,https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance,진단서 발급비 실비 청구될까? 발급 전 대체서류 확인 방법,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+75,https://hospital.hbuby.com/silbi/mri-silbi-claim,"MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+76,https://hospital.hbuby.com/silbi/pharmacy-prescription-claim,"약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+77,https://hospital.hbuby.com/silbi/silson24-hospital-not-found,"실손24에서 병원·약국이 안 뜰 때, 실비 청구는 어떻게 할까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+78,https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim,실손24로 부모님 실비 대신 청구하려면? 본인 전송까지 확인,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+79,https://hospital.hbuby.com/silbi/silson24-transfer-failure,"실손24 서류 전송이 실패했을 때, 재전송과 보험사 접수 확인 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+80,https://hospital.hbuby.com/silbi/single-room-charge-difference,"1인실 병실료 차액, 건강보험과 실비에서 무엇을 확인할까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+81,https://hospital.hbuby.com/silbi/sleep-study-cost-insurance,수면다원검사 비용과 실비 청구 전 확인할 사항,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+82,https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi,"베나실·클라리베인 하지정맥류 실비, 시술비와 재료비 어떻게 볼까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+83,https://hospital.hbuby.com/standards/auto-liability-one-vs-two,"대인배상 I·II 차이, 자동차보험에서 상대방 피해를 보장하는 범위",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+84,https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction,치아보험 가입 후 바로 치료받아도 될까? 면책·감액기간 확인,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+85,https://hospital.hbuby.com/standards/full-partial-over-insurance,"전부보험·일부보험·초과보험, 가입금액에 따라 무엇이 달라질까?",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+86,https://hospital.hbuby.com/standards/main-contract-vs-rider,"주계약과 특약 차이, 보험증권에서 실제 가입한 보장 찾는 법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+87,https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury,"자기신체사고와 자동차상해 차이, 치료비·휴업손해를 비교하는 기준",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+88,https://hospital.hbuby.com/standards/premium-benefit-surrender-value,"보험료·보험금·해약환급금 차이, 낸 돈과 돌려받는 돈 구별하기",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+89,https://hospital.hbuby.com/standards/renewable-vs-nonrenewable,"갱신형과 비갱신형 차이, 보험료·납입기간·보장기간 따로 보기",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+90,https://hospital.hbuby.com/standards/third-sector-insurance,제3보험이란? 상해·질병·간병보험과 실손·정액 보상의 관계,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+91,https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration,"암 산정특례 등록, 신청 시점과 적용되는 병원비",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+92,https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application,"재난적의료비 지원, 신청기한과 실손보험금 확인",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+93,https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance,"임플란트 건강보험 적용, 나이·등록 절차·추가 비용 확인",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+94,https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice,본인부담금환급금 안내문을 받았다면? 공단 확인·신청 순서,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+95,https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison,"비급여 진료비 조회, 병원별 가격 비교 시 확인할 항목",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+96,https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request,비급여 병원비가 잘못 청구됐다면? 심평원 진료비 확인 신청,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+97,https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund,"본인부담상한제 환급, 대상 조회와 신청 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+98,https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026,"스케일링 건강보험, 올해 적용받았는지 확인하는 방법",discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검
+99,https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain,유병자보험 암·뇌혈관 치료비 확인 기준 | 케어로컬,discovered,not-individually-inspected,200,URL 검사로 현재 상태 재확인 후 본문·검색 의도 점검

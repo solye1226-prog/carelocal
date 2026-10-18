@@ -1,0 +1,2090 @@
+[
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents",
+    "canonical": "https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents",
+    "article": true,
+    "title": "간병인보험 청구서류, 이용내역과 입원 증빙 확인 방법",
+    "path": "caregiver/caregiver-insurance-claim-documents",
+    "localFile": "caregiver\\caregiver-insurance-claim-documents.html",
+    "metaRobots": [],
+    "chars": 2434,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents",
+    "canonical": "https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents",
+    "article": true,
+    "title": "충수염 수술 보험금 청구서류, 충수절제술 확인부터 접수까지",
+    "path": "claims/appendicitis-surgery-claim-documents",
+    "localFile": "claims\\appendicitis-surgery-claim-documents.html",
+    "metaRobots": [],
+    "chars": 2573,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+    "canonical": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+    "article": true,
+    "title": "입원비 보험금 청구서류, 입퇴원확인서만 있으면 될까요?",
+    "path": "claims/hospitalization-claim-documents",
+    "localFile": "claims\\hospitalization-claim-documents.html",
+    "metaRobots": [],
+    "chars": 4899,
+    "images": 2,
+    "externalSources": 7,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/hospitalization-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents",
+    "canonical": "https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents",
+    "article": true,
+    "title": "서혜부 탈장 수술 보험금 청구서류, 복강경·절개 수술명 확인하기",
+    "path": "claims/inguinal-hernia-surgery-claim-documents",
+    "localFile": "claims\\inguinal-hernia-surgery-claim-documents.html",
+    "metaRobots": [],
+    "chars": 2430,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/knee-surgery-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/knee-surgery-claim-documents",
+    "canonical": "https://hospital.hbuby.com/claims/knee-surgery-claim-documents",
+    "article": true,
+    "title": "무릎 수술 보험금 청구서류, 관절경·인공관절 수술명별 확인 방법",
+    "path": "claims/knee-surgery-claim-documents",
+    "localFile": "claims\\knee-surgery-claim-documents.html",
+    "metaRobots": [],
+    "chars": 2476,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/knee-surgery-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/mammotome-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/mammotome-claim-documents",
+    "canonical": "https://hospital.hbuby.com/claims/mammotome-claim-documents",
+    "article": true,
+    "title": "맘모톰 보험청구서류, 진단서와 조직검사 결과지 모두 필요할까?",
+    "path": "claims/mammotome-claim-documents",
+    "localFile": "claims\\mammotome-claim-documents.html",
+    "metaRobots": [],
+    "chars": 2395,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/mammotome-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+    "canonical": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+    "article": true,
+    "title": "해외여행 중 병원비, 귀국 전 챙겨야 할 보험 청구서류",
+    "path": "claims/overseas-hospital-bill-documents",
+    "localFile": "claims\\overseas-hospital-bill-documents.html",
+    "metaRobots": [],
+    "chars": 1641,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents",
+    "canonical": "https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents",
+    "article": true,
+    "title": "요로결석 치료 보험금 청구서류, 체외충격파·요관경 시술 구분하기",
+    "path": "claims/urinary-stone-treatment-claim-documents",
+    "localFile": "claims\\urinary-stone-treatment-claim-documents.html",
+    "metaRobots": [],
+    "chars": 2473,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents",
+    "canonical": "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents",
+    "article": true,
+    "title": "자궁근종 수술 보험금 청구서류, 근종절제술과 자궁절제술 구분하기",
+    "path": "claims/uterine-fibroid-surgery-claim-documents",
+    "localFile": "claims\\uterine-fibroid-surgery-claim-documents.html",
+    "metaRobots": [],
+    "chars": 2529,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
+    "canonical": "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
+    "article": true,
+    "title": "뇌혈관질환 진단비 청구서류, 진단서 외 확인할 자료는?",
+    "path": "diagnosis-benefit/cerebrovascular-benefit-claim-documents",
+    "localFile": "diagnosis-benefit\\cerebrovascular-benefit-claim-documents.html",
+    "metaRobots": [],
+    "chars": 2339,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/guides/robotic-surgery",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/guides/robotic-surgery",
+    "canonical": "https://hospital.hbuby.com/guides/robotic-surgery",
+    "article": true,
+    "title": "로봇수술 종수술비, 수술 방식과 보험 약관은 어떻게 확인할까?",
+    "path": "guides/robotic-surgery",
+    "localFile": "guides\\robotic-surgery.html",
+    "metaRobots": [],
+    "chars": 2049,
+    "images": 0,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/guides/robotic-surgery"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/mammotome-day-admission",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/mammotome-day-admission",
+    "canonical": "https://hospital.hbuby.com/silbi/mammotome-day-admission",
+    "article": true,
+    "title": "맘모톰 당일 입원 실비, 입퇴원확인서만으로 인정될까?",
+    "path": "silbi/mammotome-day-admission",
+    "localFile": "silbi\\mammotome-day-admission.html",
+    "metaRobots": [],
+    "chars": 2371,
+    "images": 3,
+    "externalSources": 6,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/mammotome-day-admission"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim",
+    "article": true,
+    "title": "하지정맥류 레이저 수술 실비 청구, 필요한 서류와 비용 확인 방법",
+    "path": "silbi/varicose-laser-silbi-claim",
+    "localFile": "silbi\\varicose-laser-silbi-claim.html",
+    "metaRobots": [],
+    "chars": 2885,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance",
+    "canonical": "https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance",
+    "article": true,
+    "title": "하지정맥류 고주파 수술, 실비와 수술비 특약은 어떻게 다를까?",
+    "path": "silbi/varicose-radiofrequency-insurance",
+    "localFile": "silbi\\varicose-radiofrequency-insurance.html",
+    "metaRobots": [],
+    "chars": 2650,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim",
+    "article": true,
+    "title": "하지정맥류 실비, 수술 방법에 따라 확인할 보장 기준과 청구서류",
+    "path": "silbi/varicose-vein-silbi-claim",
+    "localFile": "silbi\\varicose-vein-silbi-claim.html",
+    "metaRobots": [],
+    "chars": 5887,
+    "images": 3,
+    "externalSources": 8,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit",
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit",
+    "article": true,
+    "title": "치루 수술비 보험금, 치핵 수술과 약관 기준이 다를까?",
+    "path": "surgery-benefit/anal-fistula-surgery-benefit",
+    "localFile": "surgery-benefit\\anal-fistula-surgery-benefit.html",
+    "metaRobots": [],
+    "chars": 2271,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+    "article": true,
+    "title": "상해 종수술비 분류표는 어디서 확인할까? 골절·인대 수술명 대조법",
+    "path": "surgery-benefit/injury-surgery-classification",
+    "localFile": "surgery-benefit\\injury-surgery-classification.html",
+    "metaRobots": [],
+    "chars": 3961,
+    "images": 3,
+    "externalSources": 6,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit",
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit",
+    "article": true,
+    "title": "맘모톰 수술비 보험, 질병수술비와 종수술비는 어떻게 확인할까?",
+    "path": "surgery-benefit/mammotome-surgery-benefit",
+    "localFile": "surgery-benefit\\mammotome-surgery-benefit.html",
+    "metaRobots": [],
+    "chars": 2483,
+    "images": 3,
+    "externalSources": 6,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim",
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim",
+    "article": true,
+    "title": "종수술비 보험금 청구, 수술확인서와 수술분류표 대조 방법",
+    "path": "surgery-benefit/type-surgery-benefit-claim",
+    "localFile": "surgery-benefit\\type-surgery-benefit-claim.html",
+    "metaRobots": [],
+    "chars": 2251,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/surgery-benefit/ureteroscopy",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/surgery-benefit/ureteroscopy",
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/ureteroscopy",
+    "article": true,
+    "title": "요관경 결석 제거 수술비, 체외충격파 치료와 보험 기준 차이",
+    "path": "surgery-benefit/ureteroscopy",
+    "localFile": "surgery-benefit\\ureteroscopy.html",
+    "metaRobots": [],
+    "chars": 2210,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 18,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/surgery-benefit/ureteroscopy"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi",
+    "canonical": "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi",
+    "article": true,
+    "title": "백내장 다초점 인공수정체 비용, 실비보험은 어디까지 확인할까?",
+    "path": "claims/cataract-multifocal-lens-silbi",
+    "localFile": "claims\\cataract-multifocal-lens-silbi.html",
+    "metaRobots": [],
+    "chars": 2625,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 16,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit",
+    "canonical": "https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit",
+    "article": true,
+    "title": "대장 용종 조직검사에서 선종·암이 나오면 진단비는 어떻게 확인할까?",
+    "path": "claims/polyp-pathology-diagnosis-benefit",
+    "localFile": "claims\\polyp-pathology-diagnosis-benefit.html",
+    "metaRobots": [],
+    "chars": 2626,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 16,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/screening-polyp-removal-silbi",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/screening-polyp-removal-silbi",
+    "canonical": "https://hospital.hbuby.com/claims/screening-polyp-removal-silbi",
+    "article": true,
+    "title": "건강검진 중 대장 용종을 제거했다면 실비 청구가 될까?",
+    "path": "claims/screening-polyp-removal-silbi",
+    "localFile": "claims\\screening-polyp-removal-silbi.html",
+    "metaRobots": [],
+    "chars": 2743,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 16,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/screening-polyp-removal-silbi"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/cancers/cervical-cancer",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/cancers/cervical-cancer",
+    "canonical": "https://hospital.hbuby.com/cancers/cervical-cancer",
+    "article": true,
+    "title": "자궁경부암 치료법과 병원 확인 가이드 | 케어로컬",
+    "path": "cancers/cervical-cancer",
+    "localFile": "cancers\\cervical-cancer.html",
+    "metaRobots": [],
+    "chars": 998,
+    "images": 0,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/cancers/cervical-cancer"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/cancers/colorectal-cancer",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/cancers/colorectal-cancer",
+    "canonical": "https://hospital.hbuby.com/cancers/colorectal-cancer",
+    "article": true,
+    "title": "대장암 치료법과 병원 확인 가이드 | 케어로컬",
+    "path": "cancers/colorectal-cancer",
+    "localFile": "cancers\\colorectal-cancer.html",
+    "metaRobots": [],
+    "chars": 1059,
+    "images": 0,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/cancers/colorectal-cancer"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/cancers/liver-cancer",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/cancers/liver-cancer",
+    "canonical": "https://hospital.hbuby.com/cancers/liver-cancer",
+    "article": true,
+    "title": "간암 치료법과 병원 확인 가이드 | 케어로컬",
+    "path": "cancers/liver-cancer",
+    "localFile": "cancers\\liver-cancer.html",
+    "metaRobots": [],
+    "chars": 1027,
+    "images": 0,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/cancers/liver-cancer"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/cancers/pancreatic-cancer",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/cancers/pancreatic-cancer",
+    "canonical": "https://hospital.hbuby.com/cancers/pancreatic-cancer",
+    "article": true,
+    "title": "췌장암 치료법과 병원 확인 가이드 | 케어로컬",
+    "path": "cancers/pancreatic-cancer",
+    "localFile": "cancers\\pancreatic-cancer.html",
+    "metaRobots": [],
+    "chars": 1016,
+    "images": 0,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/cancers/pancreatic-cancer"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/cancers/stomach-cancer",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/cancers/stomach-cancer",
+    "canonical": "https://hospital.hbuby.com/cancers/stomach-cancer",
+    "article": true,
+    "title": "위암 치료법과 병원 확인 가이드 | 케어로컬",
+    "path": "cancers/stomach-cancer",
+    "localFile": "cancers\\stomach-cancer.html",
+    "metaRobots": [],
+    "chars": 1040,
+    "images": 0,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/cancers/stomach-cancer"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/checkups/abnormal-results",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/checkups/abnormal-results",
+    "canonical": "https://hospital.hbuby.com/checkups/abnormal-results",
+    "article": true,
+    "title": "건강검진 이상 소견 확인 가이드 | 케어로컬",
+    "path": "checkups/abnormal-results",
+    "localFile": "checkups\\abnormal-results.html",
+    "metaRobots": [],
+    "chars": 2020,
+    "images": 0,
+    "externalSources": 0,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/checkups/abnormal-results"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/checkups/health-checkup-60plus",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/checkups/health-checkup-60plus",
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-60plus",
+    "article": true,
+    "title": "60대 이상 건강검진, 검진 항목과 복용약·이전 결과 준비 방법",
+    "path": "checkups/health-checkup-60plus",
+    "localFile": "checkups\\health-checkup-60plus.html",
+    "metaRobots": [],
+    "chars": 2530,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/checkups/health-checkup-60plus"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test",
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test",
+    "article": true,
+    "title": "건강검진 질환의심 판정 후 확진검사, 대상·기한·비용 확인",
+    "path": "checkups/health-checkup-confirmatory-test",
+    "localFile": "checkups\\health-checkup-confirmatory-test.html",
+    "metaRobots": [],
+    "chars": 2579,
+    "images": 3,
+    "externalSources": 5,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication",
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication",
+    "article": true,
+    "title": "건강검진 금식과 복용약, 예약 병원에 확인할 사항",
+    "path": "checkups/health-checkup-fasting-medication",
+    "localFile": "checkups\\health-checkup-fasting-medication.html",
+    "metaRobots": [],
+    "chars": 2351,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/checkups/health-checkup-target-2026",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/checkups/health-checkup-target-2026",
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-target-2026",
+    "article": true,
+    "title": "2026 건강검진 대상자 조회와 검진기관 찾는 방법",
+    "path": "checkups/health-checkup-target-2026",
+    "localFile": "checkups\\health-checkup-target-2026.html",
+    "metaRobots": [],
+    "chars": 2283,
+    "images": 3,
+    "externalSources": 5,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/checkups/health-checkup-target-2026"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/checkups/missed-health-checkup-application",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/checkups/missed-health-checkup-application",
+    "canonical": "https://hospital.hbuby.com/checkups/missed-health-checkup-application",
+    "article": true,
+    "title": "작년 건강검진을 못 받았다면? 추가 신청 방법",
+    "path": "checkups/missed-health-checkup-application",
+    "localFile": "checkups\\missed-health-checkup-application.html",
+    "metaRobots": [],
+    "chars": 2508,
+    "images": 3,
+    "externalSources": 7,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/checkups/missed-health-checkup-application"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/downstairs-water-leak-insurance",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/downstairs-water-leak-insurance",
+    "canonical": "https://hospital.hbuby.com/claims/downstairs-water-leak-insurance",
+    "article": true,
+    "title": "아랫집 누수 보험 처리, 일상생활배상책임 청구 순서와 서류",
+    "path": "claims/downstairs-water-leak-insurance",
+    "localFile": "claims\\downstairs-water-leak-insurance.html",
+    "metaRobots": [],
+    "chars": 2386,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/downstairs-water-leak-insurance"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/driver-injury-14",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/driver-injury-14",
+    "canonical": "https://hospital.hbuby.com/claims/driver-injury-14",
+    "article": true,
+    "title": "자동차부상치료비 청구 방법 | 운전자보험 자부치 14급 서류",
+    "path": "claims/driver-injury-14",
+    "localFile": "claims\\driver-injury-14.html",
+    "metaRobots": [],
+    "chars": 4046,
+    "images": 2,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/driver-injury-14"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/family-liability-water-leak-deductible",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/family-liability-water-leak-deductible",
+    "canonical": "https://hospital.hbuby.com/claims/family-liability-water-leak-deductible",
+    "article": true,
+    "title": "누수 사고 일배책 자기부담금 확인 기준 | 케어로컬",
+    "path": "claims/family-liability-water-leak-deductible",
+    "localFile": "claims\\family-liability-water-leak-deductible.html",
+    "metaRobots": [],
+    "chars": 855,
+    "images": 0,
+    "externalSources": 0,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/family-liability-water-leak-deductible"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/home-fire-insurance-water-leak",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/home-fire-insurance-water-leak",
+    "canonical": "https://hospital.hbuby.com/claims/home-fire-insurance-water-leak",
+    "article": true,
+    "title": "주택화재보험 누수 보상, 일배책과 무엇이 다를까?",
+    "path": "claims/home-fire-insurance-water-leak",
+    "localFile": "claims\\home-fire-insurance-water-leak.html",
+    "metaRobots": [],
+    "chars": 2436,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/home-fire-insurance-water-leak"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/hospital-receipt-reissue",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/hospital-receipt-reissue",
+    "canonical": "https://hospital.hbuby.com/claims/hospital-receipt-reissue",
+    "article": true,
+    "title": "병원 영수증 분실 시 재발급, 진료비 세부내역서 요청 방법",
+    "path": "claims/hospital-receipt-reissue",
+    "localFile": "claims\\hospital-receipt-reissue.html",
+    "metaRobots": [],
+    "chars": 2327,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/hospital-receipt-reissue"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/mammotome-claim-denied",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/mammotome-claim-denied",
+    "canonical": "https://hospital.hbuby.com/claims/mammotome-claim-denied",
+    "article": true,
+    "title": "맘모톰 보험금 지급 거절, 사유별 추가서류와 대응 순서",
+    "path": "claims/mammotome-claim-denied",
+    "localFile": "claims\\mammotome-claim-denied.html",
+    "metaRobots": [],
+    "chars": 2554,
+    "images": 3,
+    "externalSources": 6,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/mammotome-claim-denied"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "canonical": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "article": true,
+    "title": "진료기록 사본 대리발급, 가족과 대리인의 준비서류",
+    "path": "claims/medical-records-proxy-documents",
+    "localFile": "claims\\medical-records-proxy-documents.html",
+    "metaRobots": [],
+    "chars": 2638,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/medical-records-proxy-documents"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim",
+    "canonical": "https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim",
+    "article": true,
+    "title": "교통사고 통원치료 실비 청구, 자동차보험 처리 내역부터 확인하세요",
+    "path": "claims/traffic-accident-outpatient-silbi-claim",
+    "localFile": "claims\\traffic-accident-outpatient-silbi-claim.html",
+    "metaRobots": [],
+    "chars": 2388,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied",
+    "canonical": "https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied",
+    "article": true,
+    "title": "하지정맥류 보험금이 적거나 거절됐다면? 사유별 확인 순서",
+    "path": "claims/varicose-insurance-low-payout-denied",
+    "localFile": "claims\\varicose-insurance-low-payout-denied.html",
+    "metaRobots": [],
+    "chars": 2646,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "canonical": "https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "article": true,
+    "title": "갑상선암 진단비 청구, 유사암 구분과 필요한 서류",
+    "path": "diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "localFile": "diagnosis-benefit\\thyroid-cancer-benefit-claim.html",
+    "metaRobots": [],
+    "chars": 2297,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/guides/flu-vaccination-2026",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/guides/flu-vaccination-2026",
+    "canonical": "https://hospital.hbuby.com/guides/flu-vaccination-2026",
+    "article": true,
+    "title": "2026 독감 무료접종, 나이별 시작일과 접종 병원 찾는 방법",
+    "path": "guides/flu-vaccination-2026",
+    "localFile": "guides\\flu-vaccination-2026.html",
+    "metaRobots": [],
+    "chars": 1499,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/guides/flu-vaccination-2026"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/guides/mobile-health-insurance-id-error",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/guides/mobile-health-insurance-id-error",
+    "canonical": "https://hospital.hbuby.com/guides/mobile-health-insurance-id-error",
+    "article": true,
+    "title": "모바일 건강보험증이 안 될 때, 병원 대체 본인확인 방법",
+    "path": "guides/mobile-health-insurance-id-error",
+    "localFile": "guides\\mobile-health-insurance-id-error.html",
+    "metaRobots": [],
+    "chars": 2268,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/guides/mobile-health-insurance-id-error"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/guides/night-hospital-checklist",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/guides/night-hospital-checklist",
+    "canonical": "https://hospital.hbuby.com/guides/night-hospital-checklist",
+    "article": true,
+    "title": "야간진료와 응급실 이용 기준 | 케어로컬",
+    "path": "guides/night-hospital-checklist",
+    "localFile": "guides\\night-hospital-checklist.html",
+    "metaRobots": [],
+    "chars": 473,
+    "images": 0,
+    "externalSources": 0,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/guides/night-hospital-checklist"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/guides/parent-prescription-proxy",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/guides/parent-prescription-proxy",
+    "canonical": "https://hospital.hbuby.com/guides/parent-prescription-proxy",
+    "article": true,
+    "title": "부모님 약 대리처방, 가능한 조건과 준비서류",
+    "path": "guides/parent-prescription-proxy",
+    "localFile": "guides\\parent-prescription-proxy.html",
+    "metaRobots": [],
+    "chars": 2235,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/guides/parent-prescription-proxy"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/guides/proton-therapy",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/guides/proton-therapy",
+    "canonical": "https://hospital.hbuby.com/guides/proton-therapy",
+    "article": true,
+    "title": "양성자치료 확인 가이드 | 케어로컬",
+    "path": "guides/proton-therapy",
+    "localFile": "guides\\proton-therapy.html",
+    "metaRobots": [],
+    "chars": 1399,
+    "images": 0,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/guides/proton-therapy"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/guides/psychiatry-first-visit",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/guides/psychiatry-first-visit",
+    "canonical": "https://hospital.hbuby.com/guides/psychiatry-first-visit",
+    "article": true,
+    "title": "정신건강의학과 첫 방문 준비 | 케어로컬",
+    "path": "guides/psychiatry-first-visit",
+    "localFile": "guides\\psychiatry-first-visit.html",
+    "metaRobots": [],
+    "chars": 437,
+    "images": 0,
+    "externalSources": 0,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/guides/psychiatry-first-visit"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup",
+    "canonical": "https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup",
+    "article": true,
+    "title": "상급종합병원 진료의뢰서, 검진결과서로 대신할 수 있을까?",
+    "path": "guides/tertiary-hospital-referral-checkup",
+    "localFile": "guides\\tertiary-hospital-referral-checkup.html",
+    "metaRobots": [],
+    "chars": 2400,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim",
+    "article": true,
+    "title": "복부초음파 검사비, 건강보험 적용과 실비 청구 확인법",
+    "path": "silbi/abdominal-ultrasound-cost-claim",
+    "localFile": "silbi\\abdominal-ultrasound-cost-claim.html",
+    "metaRobots": [],
+    "chars": 1440,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+    "canonical": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+    "article": true,
+    "title": "건강검진 후 재검사·정밀검사 비용, 실비 청구 전 확인할 사항",
+    "path": "silbi/checkup-followup-test-insurance",
+    "localFile": "silbi\\checkup-followup-test-insurance.html",
+    "metaRobots": [],
+    "chars": 3560,
+    "images": 3,
+    "externalSources": 8,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/claim-photo-upload-error",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/claim-photo-upload-error",
+    "canonical": "https://hospital.hbuby.com/silbi/claim-photo-upload-error",
+    "article": true,
+    "title": "실비보험 청구 사진 업로드가 안 될 때, 첨부 오류와 접수 확인 방법",
+    "path": "silbi/claim-photo-upload-error",
+    "localFile": "silbi\\claim-photo-upload-error.html",
+    "metaRobots": [],
+    "chars": 4913,
+    "images": 3,
+    "externalSources": 10,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/claim-photo-upload-error"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+    "article": true,
+    "title": "CT 검사비 실비 청구, 조영제 비용과 필요서류 확인",
+    "path": "silbi/ct-scan-cost-claim",
+    "localFile": "silbi\\ct-scan-cost-claim.html",
+    "metaRobots": [],
+    "chars": 1640,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/ct-scan-cost-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/current-silbi",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/current-silbi",
+    "canonical": "https://hospital.hbuby.com/silbi/current-silbi",
+    "article": true,
+    "title": "5세대 실손보험 구조, 급여·중증·비중증 비급여 차이",
+    "path": "silbi/current-silbi",
+    "localFile": "silbi\\current-silbi.html",
+    "metaRobots": [],
+    "chars": 1942,
+    "images": 0,
+    "externalSources": 1,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/current-silbi"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/emergency-room-cost-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/emergency-room-cost-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/emergency-room-cost-claim",
+    "article": true,
+    "title": "응급실 비용 실비 청구, 응급의료관리료부터 확인하세요",
+    "path": "silbi/emergency-room-cost-claim",
+    "localFile": "silbi\\emergency-room-cost-claim.html",
+    "metaRobots": [],
+    "chars": 1626,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/emergency-room-cost-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/flu-test-cost-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/flu-test-cost-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/flu-test-cost-claim",
+    "article": true,
+    "title": "독감 검사비 실비 청구, 예방접종 비용과 어떻게 다를까?",
+    "path": "silbi/flu-test-cost-claim",
+    "localFile": "silbi\\flu-test-cost-claim.html",
+    "metaRobots": [],
+    "chars": 1588,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/flu-test-cost-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/mammotome-low-payout",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/mammotome-low-payout",
+    "canonical": "https://hospital.hbuby.com/silbi/mammotome-low-payout",
+    "article": true,
+    "title": "맘모톰 실비 보험금이 적게 나왔다면? 공제·한도·제외 항목 확인",
+    "path": "silbi/mammotome-low-payout",
+    "localFile": "silbi\\mammotome-low-payout.html",
+    "metaRobots": [],
+    "chars": 2477,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/mammotome-low-payout"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/mammotome-silbi-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/mammotome-silbi-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/mammotome-silbi-claim",
+    "article": true,
+    "title": "맘모톰 실비 청구, 조직검사 결과와 제거 목적이 중요한 이유",
+    "path": "silbi/mammotome-silbi-claim",
+    "localFile": "silbi\\mammotome-silbi-claim.html",
+    "metaRobots": [],
+    "chars": 6096,
+    "images": 3,
+    "externalSources": 8,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/mammotome-silbi-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim",
+    "article": true,
+    "title": "도수치료 실비 청구, 가입 세대별로 무엇을 확인할까?",
+    "path": "silbi/manual-therapy-silbi-claim",
+    "localFile": "silbi\\manual-therapy-silbi-claim.html",
+    "metaRobots": [],
+    "chars": 4788,
+    "images": 3,
+    "externalSources": 10,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance",
+    "canonical": "https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance",
+    "article": true,
+    "title": "진단서 발급비 실비 청구될까? 발급 전 대체서류 확인 방법",
+    "path": "silbi/medical-certificate-fee-insurance",
+    "localFile": "silbi\\medical-certificate-fee-insurance.html",
+    "metaRobots": [],
+    "chars": 3549,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "article": true,
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "path": "silbi/mri-silbi-claim",
+    "localFile": "silbi\\mri-silbi-claim.html",
+    "metaRobots": [],
+    "chars": 3169,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/mri-silbi-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "article": true,
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "path": "silbi/pharmacy-prescription-claim",
+    "localFile": "silbi\\pharmacy-prescription-claim.html",
+    "metaRobots": [],
+    "chars": 2361,
+    "images": 3,
+    "externalSources": 6,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/silson24-hospital-not-found",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/silson24-hospital-not-found",
+    "canonical": "https://hospital.hbuby.com/silbi/silson24-hospital-not-found",
+    "article": true,
+    "title": "실손24에서 병원·약국이 안 뜰 때, 실비 청구는 어떻게 할까?",
+    "path": "silbi/silson24-hospital-not-found",
+    "localFile": "silbi\\silson24-hospital-not-found.html",
+    "metaRobots": [],
+    "chars": 3381,
+    "images": 3,
+    "externalSources": 5,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/silson24-hospital-not-found"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim",
+    "canonical": "https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim",
+    "article": true,
+    "title": "실손24로 부모님 실비 대신 청구하려면? 본인 전송까지 확인",
+    "path": "silbi/silson24-parent-third-party-claim",
+    "localFile": "silbi\\silson24-parent-third-party-claim.html",
+    "metaRobots": [],
+    "chars": 2005,
+    "images": 3,
+    "externalSources": 5,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/silson24-transfer-failure",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/silson24-transfer-failure",
+    "canonical": "https://hospital.hbuby.com/silbi/silson24-transfer-failure",
+    "article": true,
+    "title": "실손24 서류 전송이 실패했을 때, 재전송과 보험사 접수 확인 방법",
+    "path": "silbi/silson24-transfer-failure",
+    "localFile": "silbi\\silson24-transfer-failure.html",
+    "metaRobots": [],
+    "chars": 4428,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/silson24-transfer-failure"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/single-room-charge-difference",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/single-room-charge-difference",
+    "canonical": "https://hospital.hbuby.com/silbi/single-room-charge-difference",
+    "article": true,
+    "title": "1인실 병실료 차액, 건강보험과 실비에서 무엇을 확인할까?",
+    "path": "silbi/single-room-charge-difference",
+    "localFile": "silbi\\single-room-charge-difference.html",
+    "metaRobots": [],
+    "chars": 2089,
+    "images": 3,
+    "externalSources": 6,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/single-room-charge-difference"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/sleep-study-cost-insurance",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/sleep-study-cost-insurance",
+    "canonical": "https://hospital.hbuby.com/silbi/sleep-study-cost-insurance",
+    "article": true,
+    "title": "수면다원검사 비용과 실비 청구 전 확인할 사항",
+    "path": "silbi/sleep-study-cost-insurance",
+    "localFile": "silbi\\sleep-study-cost-insurance.html",
+    "metaRobots": [],
+    "chars": 4268,
+    "images": 3,
+    "externalSources": 9,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/sleep-study-cost-insurance"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi",
+    "canonical": "https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi",
+    "article": true,
+    "title": "베나실·클라리베인 하지정맥류 실비, 시술비와 재료비 어떻게 볼까?",
+    "path": "silbi/varicose-venaseal-clarivein-silbi",
+    "localFile": "silbi\\varicose-venaseal-clarivein-silbi.html",
+    "metaRobots": [],
+    "chars": 2717,
+    "images": 3,
+    "externalSources": 5,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/standards/auto-liability-one-vs-two",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/standards/auto-liability-one-vs-two",
+    "canonical": "https://hospital.hbuby.com/standards/auto-liability-one-vs-two",
+    "article": true,
+    "title": "대인배상 I·II 차이, 자동차보험에서 상대방 피해를 보장하는 범위",
+    "path": "standards/auto-liability-one-vs-two",
+    "localFile": "standards\\auto-liability-one-vs-two.html",
+    "metaRobots": [],
+    "chars": 2453,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/standards/auto-liability-one-vs-two"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction",
+    "canonical": "https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction",
+    "article": true,
+    "title": "치아보험 가입 후 바로 치료받아도 될까? 면책·감액기간 확인",
+    "path": "standards/dental-insurance-waiting-reduction",
+    "localFile": "standards\\dental-insurance-waiting-reduction.html",
+    "metaRobots": [],
+    "chars": 1747,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/standards/full-partial-over-insurance",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/standards/full-partial-over-insurance",
+    "canonical": "https://hospital.hbuby.com/standards/full-partial-over-insurance",
+    "article": true,
+    "title": "전부보험·일부보험·초과보험, 가입금액에 따라 무엇이 달라질까?",
+    "path": "standards/full-partial-over-insurance",
+    "localFile": "standards\\full-partial-over-insurance.html",
+    "metaRobots": [],
+    "chars": 2320,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/standards/full-partial-over-insurance"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/standards/main-contract-vs-rider",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/standards/main-contract-vs-rider",
+    "canonical": "https://hospital.hbuby.com/standards/main-contract-vs-rider",
+    "article": true,
+    "title": "주계약과 특약 차이, 보험증권에서 실제 가입한 보장 찾는 법",
+    "path": "standards/main-contract-vs-rider",
+    "localFile": "standards\\main-contract-vs-rider.html",
+    "metaRobots": [],
+    "chars": 2340,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/standards/main-contract-vs-rider"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury",
+    "canonical": "https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury",
+    "article": true,
+    "title": "자기신체사고와 자동차상해 차이, 치료비·휴업손해를 비교하는 기준",
+    "path": "standards/personal-injury-vs-auto-injury",
+    "localFile": "standards\\personal-injury-vs-auto-injury.html",
+    "metaRobots": [],
+    "chars": 2483,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+    "canonical": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+    "article": true,
+    "title": "보험료·보험금·해약환급금 차이, 낸 돈과 돌려받는 돈 구별하기",
+    "path": "standards/premium-benefit-surrender-value",
+    "localFile": "standards\\premium-benefit-surrender-value.html",
+    "metaRobots": [],
+    "chars": 2397,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/standards/premium-benefit-surrender-value"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/standards/renewable-vs-nonrenewable",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/standards/renewable-vs-nonrenewable",
+    "canonical": "https://hospital.hbuby.com/standards/renewable-vs-nonrenewable",
+    "article": true,
+    "title": "갱신형과 비갱신형 차이, 보험료·납입기간·보장기간 따로 보기",
+    "path": "standards/renewable-vs-nonrenewable",
+    "localFile": "standards\\renewable-vs-nonrenewable.html",
+    "metaRobots": [],
+    "chars": 2293,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/standards/renewable-vs-nonrenewable"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/standards/third-sector-insurance",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/standards/third-sector-insurance",
+    "canonical": "https://hospital.hbuby.com/standards/third-sector-insurance",
+    "article": true,
+    "title": "제3보험이란? 상해·질병·간병보험과 실손·정액 보상의 관계",
+    "path": "standards/third-sector-insurance",
+    "localFile": "standards\\third-sector-insurance.html",
+    "metaRobots": [],
+    "chars": 2378,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/standards/third-sector-insurance"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration",
+    "canonical": "https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration",
+    "article": true,
+    "title": "암 산정특례 등록, 신청 시점과 적용되는 병원비",
+    "path": "treatment-costs/cancer-special-copayment-registration",
+    "localFile": "treatment-costs\\cancer-special-copayment-registration.html",
+    "metaRobots": [],
+    "chars": 1789,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application",
+    "canonical": "https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application",
+    "article": true,
+    "title": "재난적의료비 지원, 신청기한과 실손보험금 확인",
+    "path": "treatment-costs/catastrophic-medical-expense-application",
+    "localFile": "treatment-costs\\catastrophic-medical-expense-application.html",
+    "metaRobots": [],
+    "chars": 1860,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance",
+    "canonical": "https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance",
+    "article": true,
+    "title": "임플란트 건강보험 적용, 나이·등록 절차·추가 비용 확인",
+    "path": "treatment-costs/dental-implant-health-insurance",
+    "localFile": "treatment-costs\\dental-implant-health-insurance.html",
+    "metaRobots": [],
+    "chars": 1565,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice",
+    "canonical": "https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice",
+    "article": true,
+    "title": "본인부담금환급금 안내문을 받았다면? 공단 확인·신청 순서",
+    "path": "treatment-costs/nhis-copayment-refund-notice",
+    "localFile": "treatment-costs\\nhis-copayment-refund-notice.html",
+    "metaRobots": [],
+    "chars": 1900,
+    "images": 3,
+    "externalSources": 7,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison",
+    "canonical": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison",
+    "article": true,
+    "title": "비급여 진료비 조회, 병원별 가격 비교 시 확인할 항목",
+    "path": "treatment-costs/noncovered-cost-price-comparison",
+    "localFile": "treatment-costs\\noncovered-cost-price-comparison.html",
+    "metaRobots": [],
+    "chars": 2048,
+    "images": 3,
+    "externalSources": 6,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request",
+    "canonical": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request",
+    "article": true,
+    "title": "비급여 병원비가 잘못 청구됐다면? 심평원 진료비 확인 신청",
+    "path": "treatment-costs/noncovered-cost-review-request",
+    "localFile": "treatment-costs\\noncovered-cost-review-request.html",
+    "metaRobots": [],
+    "chars": 1770,
+    "images": 3,
+    "externalSources": 4,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund",
+    "canonical": "https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund",
+    "article": true,
+    "title": "본인부담상한제 환급, 대상 조회와 신청 방법",
+    "path": "treatment-costs/out-of-pocket-cap-refund",
+    "localFile": "treatment-costs\\out-of-pocket-cap-refund.html",
+    "metaRobots": [],
+    "chars": 1812,
+    "images": 3,
+    "externalSources": 2,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026",
+    "canonical": "https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026",
+    "article": true,
+    "title": "스케일링 건강보험, 올해 적용받았는지 확인하는 방법",
+    "path": "treatment-costs/scaling-health-insurance-2026",
+    "localFile": "treatment-costs\\scaling-health-insurance-2026.html",
+    "metaRobots": [],
+    "chars": 1337,
+    "images": 3,
+    "externalSources": 3,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026"
+    ]
+  },
+  {
+    "reportGroup": "discovered",
+    "reportedUrl": "https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain",
+    "previousBatch": false,
+    "status": 200,
+    "finalUrl": "https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain",
+    "canonical": "https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain",
+    "article": true,
+    "title": "유병자보험 암·뇌혈관 치료비 확인 기준 | 케어로컬",
+    "path": "underwriting/simplified-health-insurance-cancer-brain",
+    "localFile": "underwriting\\simplified-health-insurance-cancer-brain.html",
+    "metaRobots": [],
+    "chars": 672,
+    "images": 0,
+    "externalSources": 0,
+    "redirectResolved": false,
+    "prioritize": 10,
+    "reportGroups": [
+      "discovered"
+    ],
+    "reportedAliases": [
+      "https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain"
+    ]
+  }
+]

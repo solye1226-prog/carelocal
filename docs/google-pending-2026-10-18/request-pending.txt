@@ -1,0 +1,11 @@
+https://hospital.hbuby.com/checkups/health-checkup-40s
+https://hospital.hbuby.com/claims/medical-expense-claim-documents
+https://hospital.hbuby.com/claims/cataract-surgery-claim-documents
+https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents
+https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents
+https://hospital.hbuby.com/claims/polyp-removal-claim-documents
+https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier
+https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit
+https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit
+https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient
+https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim

@@ -1,0 +1,98 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/checkups/health-checkup-20s",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-20s",
+    "heroEager": true
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/checkups/health-checkup-40s",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/checkups/health-checkup-40s",
+    "heroEager": true
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "heroEager": true
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/claims/cataract-surgery-claim-documents",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-surgery-claim-documents",
+    "heroEager": true
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+    "heroEager": true
+  },
+  {
+    "number": 6,
+    "url": "https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents",
+    "heroEager": true
+  },
+  {
+    "number": 7,
+    "url": "https://hospital.hbuby.com/claims/polyp-removal-claim-documents",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/polyp-removal-claim-documents",
+    "heroEager": true
+  },
+  {
+    "number": 8,
+    "url": "https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier",
+    "heroEager": true
+  },
+  {
+    "number": 9,
+    "url": "https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit",
+    "heroEager": true
+  },
+  {
+    "number": 10,
+    "url": "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit",
+    "heroEager": true
+  },
+  {
+    "number": 11,
+    "url": "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient",
+    "heroEager": true
+  },
+  {
+    "number": 12,
+    "url": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+    "heroEager": true
+  }
+]
