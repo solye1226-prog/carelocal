@@ -1,0 +1,2744 @@
+{
+  "date": "2026-10-18",
+  "property": "sc-domain:hospital.hbuby.com",
+  "overviewIndexedCount": 104,
+  "overviewNotIndexedCount": 140,
+  "sampleIndexed": 9,
+  "sampleNotKnown": 1,
+  "results": [
+    {
+      "number": 1,
+      "title": "수술분류표에서 내 수술은 몇 종일까?",
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 10. 5. 오전 8:54:15",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/surgery-benefit/surgery-classification\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\nhttps://hospital.hbuby.com/sitemap.xml\n참조 페이지\n감지된 페이지 없음\n크롤링\n최근 크롤링\n2026. 10. 5. 오전 8:54:15\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/surgery-benefit/surgery-classification\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n",
+      "checkedAt": "2026-10-18T03:39:58.042Z",
+      "changes": [
+        "Repeated introductory summary removed; detailed policy reading and inquiry memo retained.",
+        "Article headline aligned with visible H1.",
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 5182,
+      "afterBodyChars": 4890,
+      "canonicalNow": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "request": {
+        "number": 1,
+        "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T03:59:42.411Z"
+      }
+    },
+    {
+      "number": 2,
+      "title": "백내장 수술, 보험에서는 몇 종일까?",
+      "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 10. 1. 오후 1:55:58",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\n일시적인 처리 오류\n참조 페이지\n감지된 페이지 없음\nURL이 현재 보고되지 않은 다른 출처에서 알려져 있을 수 있습니다.\n크롤링\n최근 크롤링\n2026. 10. 1. 오후 1:55:58\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n\nURL 검사",
+      "checkedAt": "2026-10-18T03:40:21.198Z",
+      "changes": [
+        "Three overlapping explanation/navigation blocks consolidated; lens, laterality and subsequent laser distinctions retained.",
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 5053,
+      "afterBodyChars": 4236,
+      "canonicalNow": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "request": {
+        "number": 2,
+        "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T04:00:34.656Z"
+      }
+    },
+    {
+      "number": 3,
+      "title": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+      "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 10. 9. 오전 5:14:20",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\nhttps://hospital.hbuby.com/sitemap.xml\n참조 페이지\n감지된 페이지 없음\n크롤링\n최근 크롤링\n2026. 10. 9. 오전 5:14:20\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n\nURL 검사",
+      "checkedAt": "2026-10-18T03:40:34.819Z",
+      "changes": [
+        "Duplicate record checklist and general policy steps consolidated into existing comparison and inquiry memo.",
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 5481,
+      "afterBodyChars": 4444,
+      "canonicalNow": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "request": {
+        "number": 3,
+        "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T04:00:42.589Z"
+      }
+    },
+    {
+      "number": 4,
+      "title": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
+      "url": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 9. 30. 오후 5:12:13",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\nhttps://hospital.hbuby.com/sitemap.xml\n참조 페이지\n감지된 페이지 없음\n크롤링\n최근 크롤링\n2026. 9. 30. 오후 5:12:13\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n\nURL 검사",
+      "checkedAt": "2026-10-18T03:40:48.965Z",
+      "changes": [
+        "Repeated card grids and generic hospital-finder bridge removed; cost and coverage comparisons retained.",
+        "Lead now answers cost composition directly; official product scope explained next to the relevant statement.",
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 3062,
+      "afterBodyChars": 2643,
+      "canonicalNow": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "request": {
+        "number": 4,
+        "url": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T04:00:51.454Z"
+      }
+    },
+    {
+      "number": 5,
+      "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+      "url": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 9. 28. 오전 8:02:41",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\nhttps://hospital.hbuby.com/sitemap.xml\n참조 페이지\n감지된 페이지 없음\n크롤링\n최근 크롤링\n2026. 9. 28. 오전 8:02:41\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n\nURL 검사",
+      "checkedAt": "2026-10-18T03:41:05.916Z",
+      "changes": [
+        "Repeated card grids and generic hospital-finder bridge removed; cost and coverage comparisons retained.",
+        "Repeated cost introduction removed; comparable estimate period and included items made explicit.",
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 3608,
+      "afterBodyChars": 2673,
+      "canonicalNow": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "request": {
+        "number": 5,
+        "url": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T04:01:32.795Z"
+      }
+    },
+    {
+      "number": 6,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 9. 29. 오전 5:14:56",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/claims/surgery-claim-documents\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\nhttps://hospital.hbuby.com/sitemap.xml\n참조 페이지\n감지된 페이지 없음\n크롤링\n최근 크롤링\n2026. 9. 29. 오전 5:14:56\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/claims/surgery-claim-documents\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n\nURL 검사",
+      "checkedAt": "2026-10-18T03:41:20.392Z",
+      "changes": [
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 3131,
+      "afterBodyChars": 3117,
+      "canonicalNow": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "request": {
+        "number": 6,
+        "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T03:55:12.718Z"
+      }
+    },
+    {
+      "number": 7,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 9. 26. 오후 5:42:29",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/claims/insurance-claim-documents\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\nhttps://hospital.hbuby.com/sitemap.xml\n참조 페이지\n감지된 페이지 없음\n크롤링\n최근 크롤링\n2026. 9. 26. 오후 5:42:29\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/claims/insurance-claim-documents\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n\nURL 검사",
+      "checkedAt": "2026-10-18T03:41:41.469Z",
+      "changes": [
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 3051,
+      "afterBodyChars": 3037,
+      "canonicalNow": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "request": {
+        "number": 7,
+        "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T03:56:57.187Z"
+      }
+    },
+    {
+      "number": 8,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "url": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "indexedAtInspection": false,
+      "lastCrawled": "해당사항 없음",
+      "googleCanonical": [
+        "",
+        "해당사항 없음",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim\nURL 검사\n실제 URL 테스트\ninfo\nURL이 Google에 등록되어 있지 않음\n페이지의 색인이 생성되지 않았습니다. 색인이 생성되지 않은 페이지는 Google에 게시할 수 없습니다. 색인이 생성되지 않은 이유를 확인하려면 아래의 세부정보를 참고하세요. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ninfo\n페이지 색인 생성\n페이지 색인이 생성되지 않음: Google에는 아직 알려지지 않은 URL입니다.\n\n검색\nSitemaps\n감지된 참조 사이트맵이 없습니다.\n참조 페이지\n감지된 페이지 없음\nURL이 현재 보고되지 않은 다른 출처에서 알려져 있을 수 있습니다.\n크롤링\n최근 크롤링\n해당사항 없음\n크롤링에 사용된 에이전트\n해당사항 없음\n크롤링 허용 여부\n해당사항 없음\n페이지 가져오기\n해당사항 없음\n색인 생성 허용 여부\ninfo\n해당사항 없음\n색인생성\n사용자 선언 표준 URL\n해당사항 없음\nGoogle에서 선택한 표준 URL\n\n해당사항 없음\n자세히 알아보기\n개선사항과 환경\n색인이 생성된 URL만 개선할 수 있습니다.\nURL 검사",
+      "checkedAt": "2026-10-18T03:42:04.924Z",
+      "changes": [
+        "Duplicate overview and repeated warnings removed; procedure, pathology, benefit-specific documents and submission steps retained.",
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 4528,
+      "afterBodyChars": 4074,
+      "canonicalNow": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "request": {
+        "number": 8,
+        "url": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T03:52:37.601Z"
+      }
+    },
+    {
+      "number": 9,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 10. 2. 오후 5:20:10",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\n일시적인 처리 오류\n참조 페이지\n감지된 페이지 없음\nURL이 현재 보고되지 않은 다른 출처에서 알려져 있을 수 있습니다.\n크롤링\n최근 크롤링\n2026. 10. 2. 오후 5:20:10\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/standards/actual-vs-fixed-benefit.html\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n",
+      "checkedAt": "2026-10-18T03:43:25.000Z",
+      "changes": [
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 3708,
+      "afterBodyChars": 3694,
+      "canonicalNow": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "request": {
+        "number": 9,
+        "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T03:58:02.285Z"
+      }
+    },
+    {
+      "number": 10,
+      "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+      "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "indexedAtInspection": true,
+      "lastCrawled": "2026. 10. 1. 오전 11:06:27",
+      "googleCanonical": [
+        "",
+        "검사된 URL",
+        "자세히 알아보기"
+      ],
+      "inspectionText": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit\nURL 검사\n실제 URL 테스트\ncheck_circle\nURL이 Google에 등록되어 있음\nGoogle 검색결과에 표시될 수 있으며(직접 조치 또는 삭제 요청이 없는 경우) 모든 관련 개선사항을 이용할 수 있습니다. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 색인 생성\n페이지 색인이 생성됨\n\n검색\nSitemaps\nhttps://hospital.hbuby.com/sitemap.xml\n참조 페이지\n감지된 페이지 없음\n크롤링\n최근 크롤링\n2026. 10. 1. 오전 11:06:27\n크롤링에 사용된 에이전트\nGooglebot 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit\nGoogle에서 선택한 표준 URL\n\n검사된 URL\n자세히 알아보기\n보고서 열기\n개선사항과 환경\ncheck_circle\nHTTPS\n페이지가 HTTPS를 통해 제공됩니다.\n",
+      "checkedAt": "2026-10-18T03:44:26.086Z",
+      "changes": [
+        "Repeated treatment/contract explanation removed; document comparison retained and official button moved after substantive content.",
+        "Actual publishing role and correction route shown; visible headline/schema consistency checked.",
+        "Representative image loaded eagerly with high fetch priority; remaining illustrations retain deferred loading."
+      ],
+      "beforeBodyChars": 3868,
+      "afterBodyChars": 2989,
+      "canonicalNow": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "request": {
+        "number": 10,
+        "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+        "status": "색인 생성 요청됨",
+        "at": "2026-10-18T04:01:37.111Z"
+      }
+    }
+  ],
+  "liveTest8": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim\nURL 검사\nGOOGLE 색인\n실시간 테스트\n2026. 10. 18., 오후 12:42에 테스트됨\n\ncheck_circle\nURL을 Google에 등록할 수 있음\n색인이 생성되고 표준으로 선택되면 모든 관련 개선사항과 함께 Google 검색결과에 표시될 수 있습니다. 자세히 알아보기\n테스트된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ncheck_circle\n페이지 공개 상태\n페이지 색인을 생성할 수 있음\n\n특정 조건이 충족되는 경우에만 URL의 색인이 생성됩니다.\n검색\n실시간 테스트에 체크인되지 않음\n크롤링\n시간\n2026. 10. 18. 오후 12:42:06\n크롤링에 사용된 에이전트\nGoogle 검사 도구 스마트폰\n크롤링 허용 여부\n예\n페이지 가져오기\n성공\n색인 생성 허용 여부\n예\n색인생성\n사용자 선언 표준 URL\nhttps://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim\nGoogle에서 선택한 표준 URL\n\n색인 생성 이후에만 확인됨\n자세히 알아보기\n개선사항과 환경\nURL에 개선사항이 없습니다.",
+  "legacyAlias8": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim.html\nURL 검사\n실제 URL 테스트\ninfo\nURL이 Google에 등록되어 있지 않음\n페이지의 색인이 생성되지 않았습니다. 색인이 생성되지 않은 페이지는 Google에 게시할 수 없습니다. 색인이 생성되지 않은 이유를 확인하려면 아래의 세부정보를 참고하세요. 자세히 알아보기\n크롤링된 페이지 보기\n페이지가 변경되었나요?\n색인 생성 요청\ninfo\n페이지 색인 생성\n페이지 색인이 생성되지 않음: Google에는 아직 알려지지 않은 URL입니다.\n\n검색\nSitemaps\n감지된 참조 사이트맵이 없습니다.\n참조 페이지\n감지된 페이지 없음\nURL이 현재 보고되지 않은 다른 출처에서 알려져 있을 수 있습니다.\n크롤링\n최근 크롤링\n해당사항 없음\n크롤링에 사용된 에이전트\n해당사항 없음\n크롤링 허용 여부\n해당사항 없음\n페이지 가져오기\n해당사항 없음\n색인 생성 허용 여부\ninfo\n해당사항 없음\n색인생성\n사용자 선언 표준 URL\n해당사항 없음\nGoogle에서 선택한 표준 URL\n\n해당사항 없음\n자세히 알아보기\n개선사항과 환경\n색인이 생성된 URL만 개선할 수 있습니다.",
+  "publicVerification": [
+    {
+      "number": 1,
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "heroEager": true
+    },
+    {
+      "number": 2,
+      "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "heroEager": true
+    },
+    {
+      "number": 3,
+      "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "heroEager": true
+    },
+    {
+      "number": 4,
+      "url": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "heroEager": true
+    },
+    {
+      "number": 5,
+      "url": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "heroEager": true
+    },
+    {
+      "number": 6,
+      "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "heroEager": true
+    },
+    {
+      "number": 7,
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "heroEager": true
+    },
+    {
+      "number": 8,
+      "url": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "heroEager": true
+    },
+    {
+      "number": 9,
+      "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "heroEager": true
+    },
+    {
+      "number": 10,
+      "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "status": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "heroEager": true
+    }
+  ],
+  "localResponsive": [
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "수술분류표에서 내 수술은 몇 종일까?",
+      "width": 360,
+      "mode": "local",
+      "number": 1,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "수술분류표에서 내 수술은 몇 종일까?",
+      "width": 390,
+      "mode": "local",
+      "number": 1,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "수술분류표에서 내 수술은 몇 종일까?",
+      "width": 1280,
+      "mode": "local",
+      "number": 1,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "백내장 수술, 보험에서는 몇 종일까?",
+      "width": 360,
+      "mode": "local",
+      "number": 2,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 81.4375,
+          "w": 301
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "백내장 수술, 보험에서는 몇 종일까?",
+      "width": 390,
+      "mode": "local",
+      "number": 2,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "백내장 수술, 보험에서는 몇 종일까?",
+      "width": 1280,
+      "mode": "local",
+      "number": 2,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 81.4375,
+          "w": 271
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+      "width": 360,
+      "mode": "local",
+      "number": 3,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 81.4375,
+          "w": 301
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+      "width": 390,
+      "mode": "local",
+      "number": 3,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+      "width": 1280,
+      "mode": "local",
+      "number": 3,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 125.5
+        },
+        {
+          "h": 44,
+          "w": 125.5
+        },
+        {
+          "h": 44,
+          "w": 125.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
+      "width": 360,
+      "mode": "local",
+      "number": 4,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 140.5
+        },
+        {
+          "h": 44,
+          "w": 140.5
+        },
+        {
+          "h": 44,
+          "w": 140.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        },
+        {
+          "h": 81.4375,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
+      "width": 390,
+      "mode": "local",
+      "number": 4,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
+      "width": 1280,
+      "mode": "local",
+      "number": 4,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 125.625,
+          "w": 271
+        },
+        {
+          "h": 125.625,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+      "width": 360,
+      "mode": "local",
+      "number": 5,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 125.625,
+          "w": 301
+        },
+        {
+          "h": 125.625,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+      "width": 390,
+      "mode": "local",
+      "number": 5,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 84.6875,
+          "w": 698
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+      "width": 1280,
+      "mode": "local",
+      "number": 5,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 360,
+      "mode": "local",
+      "number": 6,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 390,
+      "mode": "local",
+      "number": 6,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 151.484375
+        },
+        {
+          "h": 44,
+          "w": 133
+        },
+        {
+          "h": 44,
+          "w": 101.203125
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+      "width": 1280,
+      "mode": "local",
+      "number": 6,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 360,
+      "mode": "local",
+      "number": 7,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 390,
+      "mode": "local",
+      "number": 7,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 128.8125
+        },
+        {
+          "h": 44,
+          "w": 105.40625
+        },
+        {
+          "h": 44,
+          "w": 119.203125
+        },
+        {
+          "h": 44,
+          "w": 123.890625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "보험금 청구서류, 실비·수술비·진단비별 준비와 발급 순서",
+      "width": 1280,
+      "mode": "local",
+      "number": 7,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 125.625,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 360,
+      "mode": "local",
+      "number": 8,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 390,
+      "mode": "local",
+      "number": 8,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 105.40625
+        },
+        {
+          "h": 44,
+          "w": 83.203125
+        },
+        {
+          "h": 44,
+          "w": 128.8125
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+      "width": 1280,
+      "mode": "local",
+      "number": 8,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 125.625,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 360,
+      "mode": "local",
+      "number": 9,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 390,
+      "mode": "local",
+      "number": 9,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 123.890625
+        },
+        {
+          "h": 44,
+          "w": 119.203125
+        },
+        {
+          "h": 44,
+          "w": 119.203125
+        },
+        {
+          "h": 44,
+          "w": 146.8125
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+      "width": 1280,
+      "mode": "local",
+      "number": 9,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 125.625,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+      "width": 360,
+      "mode": "local",
+      "number": 10,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 125.625,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+      "width": 390,
+      "mode": "local",
+      "number": 10,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+      "width": 1280,
+      "mode": "local",
+      "number": 10,
+      "pass": true
+    }
+  ],
+  "publicResponsive": [
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 1,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 1,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 1,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 2,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 81.4375,
+          "w": 301
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 2,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 2,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 81.4375,
+          "w": 271
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 3,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 81.4375,
+          "w": 301
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 3,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 3,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 125.5
+        },
+        {
+          "h": 44,
+          "w": 125.5
+        },
+        {
+          "h": 44,
+          "w": 125.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 4,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 140.5
+        },
+        {
+          "h": 44,
+          "w": 140.5
+        },
+        {
+          "h": 44,
+          "w": 140.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        },
+        {
+          "h": 81.4375,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 4,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 4,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 125.625,
+          "w": 271
+        },
+        {
+          "h": 125.625,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 5,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 125.625,
+          "w": 301
+        },
+        {
+          "h": 125.625,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 5,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 84.6875,
+          "w": 698
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 5,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 6,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 6,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 44,
+          "w": 151.484375
+        },
+        {
+          "h": 44,
+          "w": 133
+        },
+        {
+          "h": 44,
+          "w": 101.203125
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 6,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 103.53125,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 7,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 7,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 128.8125
+        },
+        {
+          "h": 44,
+          "w": 105.40625
+        },
+        {
+          "h": 44,
+          "w": 119.203125
+        },
+        {
+          "h": 44,
+          "w": 123.890625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 7,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 125.625,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 8,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 8,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 105.40625
+        },
+        {
+          "h": 44,
+          "w": 83.203125
+        },
+        {
+          "h": 44,
+          "w": 128.8125
+        },
+        {
+          "h": 44,
+          "w": 87.40625
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 8,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 44,
+          "w": 148.5
+        },
+        {
+          "h": 125.625,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 9,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 44,
+          "w": 163.5
+        },
+        {
+          "h": 103.53125,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 9,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 123.890625
+        },
+        {
+          "h": 44,
+          "w": 119.203125
+        },
+        {
+          "h": 44,
+          "w": 119.203125
+        },
+        {
+          "h": 44,
+          "w": 146.8125
+        },
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 9,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 125.625,
+          "w": 271
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 345,
+      "tablesFit": true,
+      "width": 360,
+      "mode": "public",
+      "number": 10,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 125.625,
+          "w": 301
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 375,
+      "tablesFit": true,
+      "width": 390,
+      "mode": "public",
+      "number": 10,
+      "pass": true
+    },
+    {
+      "anchors": true,
+      "buttons": [
+        {
+          "h": 84.6875,
+          "w": 698
+        }
+      ],
+      "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "images": [
+        true,
+        true,
+        true
+      ],
+      "scroll": 1265,
+      "tablesFit": true,
+      "width": 1280,
+      "mode": "public",
+      "number": 10,
+      "pass": true
+    }
+  ],
+  "interactions": [
+    {
+      "number": 1,
+      "anchors": [
+        {
+          "href": "#surgery-examples",
+          "text": "내 수술에 맞는 안내 찾기"
+        },
+        {
+          "href": "#name-mismatch",
+          "text": "수술명이 표와 다를 때"
+        },
+        {
+          "href": "#inquiry-note",
+          "text": "보험사에 물어볼 내용"
+        },
+        {
+          "href": "#record-check",
+          "text": "확인 메모"
+        },
+        {
+          "href": "#insurer-question",
+          "text": "문의 질문"
+        },
+        {
+          "href": "#official-details",
+          "text": "공식 안내"
+        }
+      ],
+      "faqPresent": true,
+      "pass": true
+    },
+    {
+      "number": 2,
+      "anchors": [
+        {
+          "href": "#record-check",
+          "text": "확인 메모"
+        },
+        {
+          "href": "#insurer-question",
+          "text": "문의 질문"
+        },
+        {
+          "href": "#official-details",
+          "text": "공식 안내"
+        }
+      ],
+      "faqPresent": true,
+      "pass": true
+    },
+    {
+      "number": 3,
+      "anchors": [
+        {
+          "href": "#policy-check",
+          "text": "내 계약의 수술 종수 확인"
+        },
+        {
+          "href": "#record-check",
+          "text": "확인 메모"
+        },
+        {
+          "href": "#insurer-question",
+          "text": "문의 질문"
+        },
+        {
+          "href": "#official-details",
+          "text": "공식 안내"
+        }
+      ],
+      "faqPresent": true,
+      "pass": true
+    },
+    {
+      "number": 4,
+      "anchors": [
+        {
+          "href": "#record-check",
+          "text": "확인 메모"
+        },
+        {
+          "href": "#insurer-question",
+          "text": "문의 질문"
+        },
+        {
+          "href": "#official-details",
+          "text": "공식 안내"
+        }
+      ],
+      "faqPresent": false,
+      "pass": true
+    },
+    {
+      "number": 5,
+      "anchors": [],
+      "faqPresent": false,
+      "pass": true
+    },
+    {
+      "number": 6,
+      "anchors": [
+        {
+          "href": "#document-checklist",
+          "text": "필요 정보"
+        },
+        {
+          "href": "#certificate-choice",
+          "text": "확인서·진단서 차이"
+        },
+        {
+          "href": "#operative-record-request",
+          "text": "기록지 추가 요청"
+        },
+        {
+          "href": "#surgery-specific-documents",
+          "text": "수술별 안내"
+        }
+      ],
+      "faqPresent": true,
+      "pass": true
+    },
+    {
+      "number": 7,
+      "anchors": [
+        {
+          "href": "#documents-by-benefit",
+          "text": "담보별 필요서류"
+        },
+        {
+          "href": "#before-issuance",
+          "text": "발급 전 확인"
+        },
+        {
+          "href": "#surgical-records",
+          "text": "수술 서류 구분"
+        },
+        {
+          "href": "#claim-submit",
+          "text": "제출·접수 확인"
+        }
+      ],
+      "faqPresent": true,
+      "pass": true
+    },
+    {
+      "number": 8,
+      "anchors": [
+        {
+          "href": "#polyp-situations",
+          "text": "내 검사 상황"
+        },
+        {
+          "href": "#polyp-document-route",
+          "text": "청구서류"
+        },
+        {
+          "href": "#biopsy-vs-removal",
+          "text": "조직검사와 절제"
+        },
+        {
+          "href": "#polyp-claim-order",
+          "text": "접수 순서"
+        },
+        {
+          "href": "#biopsy-vs-removal",
+          "text": "조직검사와 용종절제술 구분"
+        }
+      ],
+      "faqPresent": true,
+      "pass": true
+    },
+    {
+      "number": 9,
+      "anchors": [
+        {
+          "href": "#benefit-comparison",
+          "text": "실손·정액 비교"
+        },
+        {
+          "href": "#together-claim",
+          "text": "함께 청구할 때"
+        },
+        {
+          "href": "#calculation-example",
+          "text": "가상 계산 예시"
+        },
+        {
+          "href": "#duplicate-check",
+          "text": "보험이 여러 개라면"
+        }
+      ],
+      "faqPresent": true,
+      "pass": true
+    },
+    {
+      "number": 10,
+      "anchors": [
+        {
+          "href": "#procedure-check",
+          "text": "결찰·경화 처치도 수술비 대상일까?"
+        }
+      ],
+      "faqPresent": true,
+      "pass": true
+    }
+  ],
+  "requests": [
+    {
+      "number": 8,
+      "url": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T03:52:37.601Z"
+    },
+    {
+      "number": 6,
+      "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T03:55:12.718Z"
+    },
+    {
+      "number": 7,
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T03:56:57.187Z"
+    },
+    {
+      "number": 9,
+      "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T03:58:02.285Z"
+    },
+    {
+      "number": 1,
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T03:59:42.411Z"
+    },
+    {
+      "number": 2,
+      "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T04:00:34.656Z"
+    },
+    {
+      "number": 3,
+      "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T04:00:42.589Z"
+    },
+    {
+      "number": 4,
+      "url": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T04:00:51.454Z"
+    },
+    {
+      "number": 5,
+      "url": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T04:01:32.795Z"
+    },
+    {
+      "number": 10,
+      "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "status": "색인 생성 요청됨",
+      "at": "2026-10-18T04:01:37.111Z"
+    }
+  ],
+  "contentCommit": "2f6cb3c",
+  "anchorCommit": "4a1f44c",
+  "checks": "pnpm run check passed: 422 HTML local links, 372 sitemap canonicals, 5 Python canonical tests, 10 Node tests, catalog consistency.",
+  "sources": [
+    {
+      "url": "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+      "supports": "Company-specific surgery document choices and information; not universal payout tiers."
+    },
+    {
+      "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+      "supports": "Company-specific surgery/medical cost documents and possible additional operative records."
+    },
+    {
+      "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106062",
+      "supports": "Browser inspected Cartistem product name, specific knee cartilage defect indication and administration. Not insurance coverage."
+    },
+    {
+      "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab",
+      "supports": "MRI monitoring is distinct from drug administration; US safety context, not Korean insurance coverage."
+    },
+    {
+      "url": "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000376",
+      "supports": "Cataract surgery and subsequent laser treatment distinction."
+    },
+    {
+      "url": "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000290",
+      "supports": "Cholecystectomy and surgical approaches."
+    },
+    {
+      "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5818",
+      "supports": "Hemorrhoid excision, banding/sclerotherapy distinctions."
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl",
+      "supports": "Request acceptance does not guarantee crawling, indexing or ranking."
+    }
+  ],
+  "sitemapConsole": "새 사이트맵 추가\n사이트맵 URL 입력\n제출\n제출된 사이트맵\n\nSitemap\n\t유형\n\t제출\n\t마지막으로 읽은 날짜\n\t상태\n\t\n발견된 페이지\t\n발견한 동영상\t\nhttps://hospital.hbuby.com/sitemap.xml\tSitemap\t2026. 10. 7.\t2026. 10. 17.\t성공\t362\t0\t\n페이지당 행 수:\n5\n10\n25\n50\n100\n250\n500\n총 1행 중 1~1\n",
+  "publicSitemapUrls": 372
+}
