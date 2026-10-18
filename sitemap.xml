@@ -29,7 +29,7 @@
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-documents</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-period</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-limitation</loc><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/medical-expense-claim-documents</loc><lastmod>2026-10-15</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/medical-expense-claim-documents</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/hospitalization-claim-documents</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/surgery-claim-documents</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/cancer-diagnosis-benefit-documents</loc><priority>0.9</priority></url>
@@ -101,9 +101,9 @@
   <url><loc>https://hospital.hbuby.com/silbi/leqembi-silbi-claim</loc><lastmod>2026-10-14</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/screening-polyp-removal-silbi</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/polyp-removal-claim-documents</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/polyp-removal-claim-documents</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit</loc><lastmod>2026-09-26</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim</loc><lastmod>2026-09-19</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents</loc><lastmod>2026-09-19</lastmod><priority>0.9</priority></url>
@@ -135,7 +135,7 @@
   <url><loc>https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/third-sector-insurance</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/page/2/</loc><lastmod>2026-09-22</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents</loc><lastmod>2026-10-02</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents</loc><lastmod>2026-09-29</lastmod></url>
   <url><loc>https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents</loc><lastmod>2026-09-22</lastmod></url>
@@ -148,16 +148,16 @@
   <url><loc>https://hospital.hbuby.com/silbi/mammotome-day-admission</loc><lastmod>2026-09-26</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/mammotome-low-payout</loc><lastmod>2026-09-26</lastmod></url>
   <url><loc>https://hospital.hbuby.com/claims/mammotome-claim-denied</loc><lastmod>2026-09-26</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/claims/cataract-surgery-claim-documents</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/cataract-surgery-claim-documents</loc><lastmod>2026-10-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient</loc><lastmod>2026-10-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit</loc><lastmod>2026-10-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents</loc><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/surgery-name-mismatch</loc><lastmod>2026-10-07</lastmod></url>
@@ -208,9 +208,9 @@
   <url><loc>https://hospital.hbuby.com/silbi/silson24-transfer-failure</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/sleep-study-cost-insurance</loc><lastmod>2026-10-05</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-20s</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-20s</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-30s</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-40s</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-40s</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-50s</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-60plus</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-target-2026</loc><lastmod>2026-10-06</lastmod></url>
