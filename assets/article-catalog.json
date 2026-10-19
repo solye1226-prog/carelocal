@@ -555,6 +555,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/medical-aid-recipient-silbi-claim",
+    "title": "의료급여 수급자 실비 청구, 병원비와 지원·환급액을 나누는 법",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/medical-certificate-fee-insurance",
     "title": "진단서 발급비 실비 청구될까? 발급 전 대체서류 확인 방법",
     "category": "실비보험"
