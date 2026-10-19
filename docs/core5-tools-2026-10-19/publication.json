@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1,
+    "path": "claims/medical-expense-claim-documents",
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "title": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+    "beforeChars": 4049,
+    "afterChars": 4367,
+    "commit": "8807cf3f28de47fc55acd1be6f013342d4e85d44",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "images": 3,
+    "checkedAt": "2026-10-19T22:19:08+0900"
+  },
+  {
+    "number": 2,
+    "path": "surgery-benefit/cataract-surgery-benefit",
+    "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+    "title": "백내장 수술, 보험에서는 몇 종일까?",
+    "beforeChars": 4236,
+    "afterChars": 4272,
+    "commit": "b9312f668308a52980f9ee7f5b3f1a5a6ab72670",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+    "images": 3,
+    "checkedAt": "2026-10-19T22:20:50+0900"
+  },
+  {
+    "number": 3,
+    "path": "surgery-benefit/gallbladder-surgery-benefit",
+    "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+    "title": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+    "beforeChars": 4444,
+    "afterChars": 4581,
+    "commit": "b937268429f551a2689e7e749a31dde53c321d6f",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+    "images": 3,
+    "checkedAt": "2026-10-19T22:21:49+0900"
+  },
+  {
+    "number": 4,
+    "path": "surgery-benefit/surgery-classification",
+    "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+    "title": "수술분류표에서 내 수술은 몇 종일까?",
+    "beforeChars": 4890,
+    "afterChars": 5427,
+    "commit": "4adb583438a986066d8ec2d9db7baf1a2fde0f70",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+    "images": 3,
+    "checkedAt": "2026-10-19T22:22:57+0900"
+  },
+  {
+    "number": 5,
+    "path": "claims/insurance-claim-payment-delay",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "title": "보험금 지급이 늦어지는 이유와 대처 방법",
+    "beforeChars": 5933,
+    "afterChars": 5893,
+    "commit": "966438238fd3142a109ce8143071b955fdc0a121",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "images": 3,
+    "checkedAt": "2026-10-19T22:23:56+0900"
+  }
+]

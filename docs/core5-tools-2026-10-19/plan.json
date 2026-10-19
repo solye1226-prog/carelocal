@@ -1,0 +1,30 @@
+[
+  {
+    "number": 1,
+    "path": "claims/medical-expense-claim-documents",
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents"
+  },
+  {
+    "number": 2,
+    "path": "surgery-benefit/cataract-surgery-benefit",
+    "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit"
+  },
+  {
+    "number": 3,
+    "path": "surgery-benefit/gallbladder-surgery-benefit",
+    "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit"
+  },
+  {
+    "number": 4,
+    "path": "surgery-benefit/surgery-classification",
+    "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification"
+  },
+  {
+    "number": 5,
+    "path": "claims/insurance-claim-payment-delay",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "title": "보험금 지급이 늦어지는 이유와 대처 방법",
+    "beforeChars": 5933,
+    "afterChars": 5893
+  }
+]

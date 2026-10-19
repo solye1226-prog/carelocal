@@ -1,0 +1,62 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "imagesPreserved": true,
+    "anchorsPreserved": true,
+    "checklistItems": 4,
+    "inquiryTemplates": 1,
+    "fictionalExample": true,
+    "checkedAt": "2026-10-19T22:29:13+0900"
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+    "http": 200,
+    "exactHeadMain": true,
+    "imagesPreserved": true,
+    "anchorsPreserved": true,
+    "checklistItems": 4,
+    "inquiryTemplates": 1,
+    "fictionalExample": true,
+    "checkedAt": "2026-10-19T22:29:13+0900"
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+    "http": 200,
+    "exactHeadMain": true,
+    "imagesPreserved": true,
+    "anchorsPreserved": true,
+    "checklistItems": 4,
+    "inquiryTemplates": 1,
+    "fictionalExample": true,
+    "checkedAt": "2026-10-19T22:29:13+0900"
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+    "http": 200,
+    "exactHeadMain": true,
+    "imagesPreserved": true,
+    "anchorsPreserved": true,
+    "checklistItems": 5,
+    "inquiryTemplates": 1,
+    "fictionalExample": true,
+    "checkedAt": "2026-10-19T22:29:13+0900"
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "http": 200,
+    "exactHeadMain": true,
+    "imagesPreserved": true,
+    "anchorsPreserved": true,
+    "checklistItems": 4,
+    "inquiryTemplates": 1,
+    "fictionalExample": true,
+    "checkedAt": "2026-10-19T22:29:13+0900"
+  }
+]
