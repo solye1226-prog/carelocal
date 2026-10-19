@@ -645,6 +645,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/terminated-policy-past-treatment-claim",
+    "title": "실비 해지 후 예전 병원비 청구, 해지일과 진료일을 대조하세요",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/thyroid-nodule-rfa-silbi-claim",
     "title": "갑상선 결절 고주파 실비 청구, 시술비·전극 재료비와 서류 확인",
     "category": "실비보험"
