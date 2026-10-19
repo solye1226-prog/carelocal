@@ -490,6 +490,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/foreign-resident-name-id-claim",
+    "title": "외국인 실비 청구서류, 영문 이름·등록정보가 다르면 어떻게 할까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/gastroscopy-biopsy-pathology-cost",
     "title": "위내시경 조직검사 실비, 내시경·병리·수면 비용을 따로 확인하세요",
     "category": "실비보험"
