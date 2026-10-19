@@ -1,0 +1,30 @@
+[
+  {
+    "number": 1,
+    "path": "silbi/leqembi-silbi-claim",
+    "url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "title": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+    "change": "레켐비 첫 답변과 기본·추가 서류 구분, 접수 경로·결과 대조 보강; 반복 관리 중복을 전문 글 링크로 통합"
+  },
+  {
+    "number": 2,
+    "path": "claims/insurance-claim-method",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "title": "보험금 청구 방법 총정리, 필요한 서류부터 지급 절차까지",
+    "change": "기존 청구 방법 글에 실비 첫 접수 경로·앱 대 실손24 순서, 전송과 접수 구분, 병원비·약국 서류 연결 및 공식 버튼 추가"
+  },
+  {
+    "number": 3,
+    "path": "silbi/pharmacy-prescription-claim",
+    "url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "change": "약값 자료 분실·대체 자료 문의·접수 후 누락 확인 보강; 헬리코박터 재검 설명을 제거해 약값 청구 질문에 집중; 공식 버튼 교체"
+  },
+  {
+    "number": 4,
+    "path": "claims/insurance-claim-process",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+    "title": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+    "change": "팩스와 우편을 분리해 팩스로 원본을 제출할 수 있다는 오해 수정"
+  }
+]

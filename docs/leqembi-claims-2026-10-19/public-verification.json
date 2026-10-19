@@ -1,0 +1,34 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "heroEager": true
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "heroEager": true
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "heroEager": true
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+    "status": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-process",
+    "heroEager": true
+  }
+]

@@ -1,0 +1,21 @@
+2026-10-19 레켐비·실비 청구 보완
+
+선정: 직전 네이버 리포트의 레켐비 실비 6클릭/441노출과 사용자 요청을 근거로 기존 글 보완. 일반 실비 청구 방법·서류의 전체 검색량을 확인한 것은 아니며, 황금키워드로 확정하지 않음.
+중복 검토: 레켐비 실비 본문, 반복 청구·다른 병원 MRI 연결 글의 역할, 보험금 청구 방법/절차, 실비 공통 청구서류, 약값 청구 본문과 관련 URL 비교. 같은 질문의 새 URL 발행을 피하고 기존 3편 보완 + 절차 1편 오류 수정. 공통 서류 허브는 10/18 보완본을 그대로 활용.
+
+출처 확인(2026-10-19):
+https://www.kbinsure.co.kr/CG205020003.ec
+질병 안내에서 입원·통원 서류, 진단명·코드 및 청구에 따른 추가자료 가능 확인. 레켐비 전용 보장 확약 자료가 아님.
+https://www.fsc.go.kr/po010106/86854
+실손24 전자전송의 성격과 의료기관 연계 필요 확인. 과거 시점 연계율을 현재 수치로 전재하지 않음.
+https://www.silson24.or.kr/claim/web/custSupp/custSuppFAQ
+공식 FAQ 검색 결과에서 자동전송서류와 조회 안내 확인. 공개 HTML 본문은 JS 방식이라 웹 추출에 빈 내용 반환. 특정 기관·개인 내역 이용 가능 여부는 주장하지 않음.
+https://www.hira.or.kr/rb/calc/form.do?pgmid=HIRAA030037000000
+약국 비용 설명을 위한 공식 계산기 확인. 민간 실손 지급액 계산으로 소개하지 않음.
+https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab
+MRI 안전성 모니터링 배경 확인. 미국 자료와 국내 보험 보장 기준 구분 유지. 국내 투여 일정·보험 적용률·가격을 새로 주장하지 않음.
+
+검증: pnpm run check PASS(링크441 HTML, canonical372, catalog347, canonical테스트5 및 analytics테스트10). 로컬360/390/1280 4편 12조건 통과. 공개 배포와 네이버 요청 결과는 별도 JSON에 기록.
+
+콘텐츠 커밋: 3c35186. 공개 HTTP200·canonical·head/main 원문 일치 4편 확인. 공개 360/390/1280 12조건 통과. 사용자 POSTING_GUIDELINES.md 변경은 건드리지 않음.
+네이버 요청 등록 확인(26.10.19): 레켐비09:33:37 / 청구방법09:33:45 / 약값09:33:51 / 청구절차09:33:56. 요청 접수는 실제 수집 또는 색인 완료를 의미하지 않음.

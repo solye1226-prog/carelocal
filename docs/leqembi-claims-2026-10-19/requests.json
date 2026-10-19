@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "row": "1\t\n/silbi/leqembi-silbi-claim\n\t26.10.19 09:33:37",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T00:33:45.074Z"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "row": "1\t\n/claims/insurance-claim-method\n\t26.10.19 09:33:45",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T00:33:50.689Z"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "row": "1\t\n/silbi/pharmacy-prescription-claim\n\t26.10.19 09:33:51",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T00:33:56.006Z"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+    "row": "1\t\n/claims/insurance-claim-process\n\t26.10.19 09:33:56",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T00:34:01.374Z"
+  }
+]
