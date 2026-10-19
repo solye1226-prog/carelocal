@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "prompt": "치과 실비 청구: navy blue yellow Korean card-news thumbnail; dental model and blank receipt; no private data",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 2,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"한의원 실비 청구\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: hands at a clean desk sorting a Korean medicine clinic receipt beside a closed plain herbal medicine packet; no treatment procedure. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 3,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"정신과 실비 청구\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: a calm private consultation room, empty armchairs and an adult reviewing an abstract receipt on a desk, respectful and non-stigmatizing. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 4,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"산재 후 실비 청구\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: adult worker's hands comparing workplace injury benefit statement and personal medical receipts, plain blue work jacket folded nearby. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 5,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"의료급여와 실비\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: adult reviewing a plain eligibility document and hospital payment receipt, pen pointing to separate cost fields. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 6,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"유병자 실손 약값\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: senior adult comparing medicine bag, pharmacy receipt and an insurance folder at a bright home table. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 7,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"해지 후 실비 청구\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: hands comparing old insurance folder with date-marked calendar and a medical receipt, subtle timeline composition. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 8,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"개명 후 실비 청구\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: hands comparing two blank identity record cards with an insurance folder and a medical receipt; no real identifiers. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 9,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"부모님 생전 병원비\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: adult child thoughtfully organizing a deceased parent's medical expense receipts and family records at a home desk, warm restrained respectful mood, no funeral imagery. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "number": 10,
+    "prompt": "Create one landscape 16:9 Korean editorial insurance information blog thumbnail. Premium clear card-news design in dark navy, vivid blue, white and yellow accents. Main Korean text exactly: \"의료자문 동의 전\". Only this text, large correctly spelled and readable on mobile, no other text or English. Right side tasteful realistic scene: adult reviewing a consent form with unmarked checkboxes and asking a question during consultation, no signatures or readable private data. Documents have abstract ruled layouts with no readable fake names, numbers, official seals or logos. Balanced composition with text left and scene right. No payment promise, no medical advice or advertising. Save generated image.",
+    "tool": "built-in image_gen"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "images": [
+      {
+        "src": "/assets/images/dental-covered-medical-expense-claim-thumb.webp",
+        "alt": "치과 실비 청구서류 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/dental-insurance-waiting-reduction-body2.webp",
+        "alt": "치과 실비 청구서류를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/dental-insurance-waiting-reduction-body1.webp",
+        "alt": "치과 실비 청구서류 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "images": [
+      {
+        "src": "/assets/images/korean-medicine-covered-silbi-claim-thumb.webp",
+        "alt": "한의원 실비 청구 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/treatment-material-cost-silbi.webp",
+        "alt": "한의원 실비 청구를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+        "alt": "한의원 실비 청구 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "images": [
+      {
+        "src": "/assets/images/psychiatry-covered-silbi-documents-thumb.webp",
+        "alt": "정신과 실비 청구서류 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+        "alt": "정신과 실비 청구서류를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+        "alt": "정신과 실비 청구서류 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance",
+    "images": [
+      {
+        "src": "/assets/images/workers-compensation-silbi-balance-thumb.webp",
+        "alt": "산재 후 실비 청구 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/traffic-outpatient-silbi-clinic.webp",
+        "alt": "산재 후 실비 청구를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/traffic-outpatient-silbi-records.webp",
+        "alt": "산재 후 실비 청구 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "images": [
+      {
+        "src": "/assets/images/medical-aid-recipient-silbi-claim-thumb.webp",
+        "alt": "의료급여 수급자 실비 청구 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+        "alt": "의료급여 수급자 실비 청구를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/insurance-claim-supplement-documents-review.webp",
+        "alt": "의료급여 수급자 실비 청구 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "url": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+    "images": [
+      {
+        "src": "/assets/images/simplified-silbi-prescription-exclusion-thumb.webp",
+        "alt": "유병자 실손 약값 청구 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/pharmacy-prescription-claim-body1.webp",
+        "alt": "유병자 실손 약값 청구를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/pharmacy-prescription-claim-body2.webp",
+        "alt": "유병자 실손 약값 청구 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "url": "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim",
+    "images": [
+      {
+        "src": "/assets/images/terminated-policy-past-treatment-claim-thumb.webp",
+        "alt": "실비 해지 후 청구 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/insurance-claim-method-documents.webp",
+        "alt": "실비 해지 후 청구를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/traffic-outpatient-silbi-records.webp",
+        "alt": "실비 해지 후 청구 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "url": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "images": [
+      {
+        "src": "/assets/images/renamed-person-silbi-documents-thumb.webp",
+        "alt": "개명 후 실비 청구 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/insurance-claim-method-documents.webp",
+        "alt": "개명 후 실비 청구를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/insurance-claim-method-mobile.webp",
+        "alt": "개명 후 실비 청구 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "url": "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills",
+    "images": [
+      {
+        "src": "/assets/images/deceased-parent-unclaimed-medical-bills-thumb.webp",
+        "alt": "사망한 부모님 실비 청구 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/medical-records-proxy-documents-body1.webp",
+        "alt": "사망한 부모님 실비 청구를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/medical-records-proxy-documents-body2.webp",
+        "alt": "사망한 부모님 실비 청구 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "url": "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent",
+    "images": [
+      {
+        "src": "/assets/images/silbi-medical-advice-consent-thumb.webp",
+        "alt": "실비 의료자문 동의서 핵심 확인사항 대표 이미지",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/images/insurance-claim-supplement-documents-review.webp",
+        "alt": "실비 의료자문 동의서를 위해 비용·기록 자료를 검토하는 설명 장면",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp",
+        "alt": "실비 의료자문 동의서 준비 중 기록을 대조하거나 담당자에게 문의하는 설명 장면",
+        "loading": "lazy"
+      }
+    ]
+  }
+]

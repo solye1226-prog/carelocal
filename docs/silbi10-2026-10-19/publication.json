@@ -1,0 +1,102 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "title": "치과 실비 청구서류, 급여 치료비와 치아보험은 어떻게 나눌까?",
+    "commit": "547b3292f40aae48d6429760610c22ab2f265628",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "checkedAt": "2026-10-19T09:56:11+0900"
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "title": "한의원 실비 청구, 침·추나·한약 비용을 나눠 확인하는 법",
+    "commit": "6ad7cf5b1d3081bdabff12563640f53d5a5d7483",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "checkedAt": "2026-10-19T09:57:21+0900"
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "title": "정신과 실비 청구서류, 진료비·약값·상담비를 어떻게 구분할까?",
+    "commit": "9806015655618ac99f800e8e5476358734c33336",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "checkedAt": "2026-10-19T09:58:31+0900"
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance",
+    "title": "산재 처리 후 실비 청구, 본인이 낸 병원비는 무엇을 확인할까?",
+    "commit": "726083bbfd3a10118d5bebbdfc44b5ca886035ff",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance",
+    "checkedAt": "2026-10-19T09:59:48+0900"
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "title": "의료급여 수급자 실비 청구, 병원비와 지원·환급액을 나누는 법",
+    "commit": "0b9f43d27d4b0be42cb0685f6c022bdb0aa3eabc",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "checkedAt": "2026-10-19T10:00:54+0900"
+  },
+  {
+    "number": 6,
+    "url": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+    "title": "유병자 실손 약값 청구, 병원비는 나왔는데 약국비는 왜 다를까?",
+    "commit": "8942b8f06c301068862038286bc08e342f4863ea",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+    "checkedAt": "2026-10-19T10:01:57+0900"
+  },
+  {
+    "number": 7,
+    "url": "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim",
+    "title": "실비 해지 후 예전 병원비 청구, 해지일과 진료일을 대조하세요",
+    "commit": "9014d0cfe485e8f6311bcd2a8404a51c28e83f4f",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim",
+    "checkedAt": "2026-10-19T10:03:06+0900"
+  },
+  {
+    "number": 8,
+    "url": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "title": "개명 후 실비 청구, 옛 이름 영수증과 본인인증 오류 확인법",
+    "commit": "0e29cd148ceca40b811029650ec83d807619813c",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "checkedAt": "2026-10-19T10:04:11+0900"
+  },
+  {
+    "number": 9,
+    "url": "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills",
+    "title": "사망한 부모님 실비 청구, 생전 병원비와 사망보험금 서류 구분",
+    "commit": "c8b4aaa30eaf52f2b9f10ae603d5a6c58327c2da",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills",
+    "checkedAt": "2026-10-19T10:05:26+0900"
+  },
+  {
+    "number": 10,
+    "url": "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent",
+    "title": "실비 의료자문 동의서 요청, 서명 전에 확인할 질문과 자료",
+    "commit": "d1d74efd203dd2900f8fc0a35d981cf2b66d026b",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent",
+    "checkedAt": "2026-10-19T10:06:38+0900"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "number": 1,
+    "keyword": "치과 실비 청구서류",
+    "newIntent": "기존 크라운·임플란트 글은 치아보험 정액 담보. 새 글은 치과 영수증의 급여 비용을 실손에 제출하는 질문에 집중.",
+    "existingParentRead": "claims/medical-expense-claim-documents",
+    "exactKeywordOtherBodyMatches": [
+      {
+        "path": "/claims/medical-expense-claim-documents",
+        "excerpt": "족 카드로 병원비 결제했을 때, 실비 청구 명의 확인법 퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기 이 상황이라면 더 확인하세요 치과 실비 청구서류, 급여 치료비와 치아보험은 어떻게 나눌까?"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "keyword": "한의원 실비 청구",
+    "newIntent": "기존 급여·비급여 일반 설명에 없는 한방 치료·약제·선결제 구분 및 항목별 문의 절차.",
+    "existingParentRead": "silbi/covered-vs-noncovered-medical-costs",
+    "exactKeywordOtherBodyMatches": [
+      {
+        "path": "/silbi/covered-vs-noncovered-medical-costs",
+        "excerpt": "민등록번호·진단서·영수증 등 민감한 개인정보가 포함된 자료는 전송하지 않는 것을 권장합니다. 카카오톡으로 문의하기 이 상황이라면 더 확인하세요 한의원 실비 청구, 침·추나·한약 비용을 나눠 확인하는 법"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "keyword": "정신과 실비 청구서류",
+    "newIntent": "정신건강의학과 첫 방문 글은 진료 준비. 새 글은 비용 발급처·적용 약관·추가 기록 범위의 청구 질문.",
+    "existingParentRead": "claims/medical-expense-claim-documents",
+    "exactKeywordOtherBodyMatches": []
+  },
+  {
+    "number": 4,
+    "keyword": "산재 후 실비 청구",
+    "newIntent": "교통사고 글은 자동차보험 지급보증 대조. 새 글은 산재 결정·지급 자료와 실제 본인부담·사후 변동 정리.",
+    "existingParentRead": "claims/medical-expense-claim-documents",
+    "exactKeywordOtherBodyMatches": []
+  },
+  {
+    "number": 5,
+    "keyword": "의료급여 수급자 실비 청구",
+    "newIntent": "기존 본인부담상한제 글은 공단 환급 신청. 새 글은 의료급여 자격 자료·본인지출·지원 정산을 실손 접수와 연결.",
+    "existingParentRead": "claims/medical-expense-claim-documents",
+    "exactKeywordOtherBodyMatches": []
+  },
+  {
+    "number": 6,
+    "keyword": "유병자 실손 약값 청구",
+    "newIntent": "일반 약값 청구 글은 영수증·분실·접수. 새 글은 유병력자 실손의 처방조제비 담보 유무와 누락·제외 구분.",
+    "existingParentRead": "silbi/pharmacy-prescription-claim",
+    "exactKeywordOtherBodyMatches": []
+  },
+  {
+    "number": 7,
+    "keyword": "실비 해지 후 청구",
+    "newIntent": "기존 청구 기간 글은 시효 일반. 새 글은 해지 계약 조회·해지 사유·진료일·재발급일의 연결과 접수 경로.",
+    "existingParentRead": "claims/insurance-claim-period",
+    "exactKeywordOtherBodyMatches": []
+  },
+  {
+    "number": 8,
+    "keyword": "개명 후 실비 청구",
+    "newIntent": "기존 계좌명의 불일치는 지급 수익자 문제. 새 글은 동일인 개명 전후의 인증·계약·과거 영수증 연결 문제.",
+    "existingParentRead": "claims/insurance-claim-method",
+    "exactKeywordOtherBodyMatches": []
+  },
+  {
+    "number": 9,
+    "keyword": "사망한 부모님 실비 청구",
+    "newIntent": "기존 가족 대리발급·위임 글은 일반 권한. 새 글은 환자 사망 후 생전 의료비와 사망담보·대표 접수 구분.",
+    "existingParentRead": "claims/medical-records-proxy-documents",
+    "exactKeywordOtherBodyMatches": []
+  },
+  {
+    "number": 10,
+    "keyword": "실비 의료자문 동의서",
+    "newIntent": "기존 지연 글은 의료자문을 지연 원인으로만 언급. 새 글은 자문 전 질문·제공 기록 범위·자문 의견과 지급근거 대조.",
+    "existingParentRead": "claims/insurance-claim-payment-delay",
+    "exactKeywordOtherBodyMatches": []
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ua": "Mozilla/5.0",
+    "status": 200,
+    "url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim"
+  },
+  {
+    "ua": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "status": 200,
+    "url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim"
+  },
+  {
+    "ua": "Mozilla/5.0 (compatible; Yeti/1.1; +https://naver.me/spd)",
+    "status": 200,
+    "url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim"
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      81.4375,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      129.875,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      129.875,
+      129.875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      129.875,
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      129.875,
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  }
+]
