@@ -690,6 +690,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/workers-compensation-silbi-balance",
+    "title": "산재 처리 후 실비 청구, 본인이 낸 병원비는 무엇을 확인할까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
     "title": "뇌혈관질환 진단비 청구서류, 진단서 외 확인할 자료는?",
     "category": "진단비"
