@@ -450,6 +450,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/deceased-parent-unclaimed-medical-bills",
+    "title": "사망한 부모님 실비 청구, 생전 병원비와 사망보험금 서류 구분",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/deductible-vs-copayment",
     "title": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
     "category": "실비보험"

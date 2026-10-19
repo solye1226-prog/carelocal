@@ -219,7 +219,7 @@
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/checkup-followup-test-insurance</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://hospital.hbuby.com/guides/mobile-health-insurance-id-error</loc><lastmod>2026-10-16</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/claims/medical-records-proxy-documents</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/claims/medical-records-proxy-documents</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://hospital.hbuby.com/claims/hospital-receipt-reissue</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://hospital.hbuby.com/guides/parent-prescription-proxy</loc><lastmod>2026-10-16</lastmod></url>
@@ -399,4 +399,5 @@
   <url><loc>https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/renamed-person-silbi-documents</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills</loc><lastmod>2026-10-19</lastmod></url>
 </urlset>
