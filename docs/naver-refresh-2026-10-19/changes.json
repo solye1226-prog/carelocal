@@ -1,0 +1,32 @@
+[
+  {
+    "number": 1,
+    "path": "standards/indemnity-proportional-compensation",
+    "url": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation",
+    "oldTitle": "이득금지·실손보상·비례보상, 보험금 계산에서 헷갈리는 세 원칙",
+    "title": "실손 비례보상 계산, 보험사 두 곳이면 반씩 받을까요?",
+    "beforeChars": 2344,
+    "afterChars": 3235,
+    "change": "실손 중복 가입 질문에 맞춘 제목·첫 답변; 재물 일부보험과 분리; 기준금액과 비율을 구분한 계산 예시 및 공식 근거 추가"
+  },
+  {
+    "number": 2,
+    "path": "standards/insurable-value-vs-insured-amount",
+    "url": "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+    "oldTitle": "보험가액과 보험가입금액 차이, 집값과 보장한도는 같을까요?",
+    "title": "보험가액과 보험가입금액 차이, 지급보험금과 어떻게 다를까?",
+    "beforeChars": 2519,
+    "afterChars": 3024,
+    "change": "집값 중심의 부제 대신 세 금액 비교로 제목·첫 답변 정리; 평가액·가입금액·손해액·지급액의 역할을 가상 표로 구분; 중복 계산 설명은 기존 글로 연결"
+  },
+  {
+    "number": 3,
+    "path": "surgery-benefit/type-surgery-benefit-claim",
+    "url": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim",
+    "oldTitle": "종수술비 보험금 청구, 수술확인서와 수술분류표 대조 방법",
+    "title": "종수술비 보험금 청구, 수술확인서와 수술분류표 대조 방법",
+    "beforeChars": 2251,
+    "afterChars": 3106,
+    "change": "H1과 SEO 제목 일치; 계약→수술 사실→분류표→산출내역 대조표; 기본 자료와 추가 요청 분리; 접수 후 확인 절차 보강"
+  }
+]

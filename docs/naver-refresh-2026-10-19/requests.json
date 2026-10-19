@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation",
+    "row": "1\t\n/standards/indemnity-proportional-compensation\n\t26.10.19 09:03:49",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T00:04:06.889Z"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+    "row": "1\t\n/standards/insurable-value-vs-insured-amount\n\t26.10.19 09:04:07",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T00:04:49.720Z"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim",
+    "row": "1\t\n/surgery-benefit/type-surgery-benefit-claim\n\t26.10.19 09:04:50",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T00:05:04.245Z"
+  }
+]

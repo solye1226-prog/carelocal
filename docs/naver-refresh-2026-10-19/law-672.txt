@@ -1,0 +1,40 @@
+Browser tab: 3, Title: "상법", URL: "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%83%81%EB%B2%95/%EC%A0%9C672%EC%A1%B0".
+1 AXWebArea 상법, URL: law.go.kr/%EB%B2%95%EB%A0%B9/%EC%83%81%EB%B2%95/%EC%A0%9C672%EC%A1%B0
+	2 container lawService
+		3 container lawService
+			4 AXWebArea 국가법령정보센터 | 변경조문, URL: law.go.kr/LSW//lsSideInfoP.do?lsiSeq=273629&joNo=0672&joBrNo=00&docCls=jo&urlMode=lsScJoRltInfoR
+				5 container bodyId
+					6 container
+						7 heading 법령, Value: 2
+							8 text 법령
+						9 image 법제처 국가법령정보센터
+					10 container container
+						11 container bdyLayPrint
+							12 container
+								13 link Description: 화면내검색, Value: javascript:;, ID: innerSearch
+								14 link Description: 한자, Value: javascript:;, ID: langType
+								15 link Description: 저장, Value: javascript:;, ID: bdySaveBtn
+								16 link Description: 인쇄, Help: 인쇄(새창팝업), Value: javascript:;, ID: bdyPrintBtn
+						17 container bodySideContent
+							18 container conTop
+								19 heading 상법, Value: 2
+									20 text 상법
+								21 text [시행 2026. 9. 10.] [법률 제21044호, 2025. 9. 9., 일부개정]
+							22 container conScroll
+								23 container
+									24 link Description: 법무부, Help: 팝업으로 이동, Value: law.go.kr/LSW//lsSideInfoP.do?lsiSeq=273629&joNo=0672&joBrNo=00&docCls=jo&urlMode=lsScJoRltInfoR#
+									25 text ( 상사법무과 ), 02-2110-3167
+								26 content list
+									27 link Description: 조문체계도버튼, Help: 조문체계도 팝업으로 이동, Value: law.go.kr/LSW//lsSideInfoP.do?lsiSeq=273629&joNo=0672&joBrNo=00&docCls=jo&urlMode=lsScJoRltInfoR#AJAX
+								28 container
+									29 checkbox (settable, integer) Description: 제672조(중복보험), Value: 0, ID: Y067200
+									30 text  ①동일한 보험계약의 목적과 동일한 사고에 관하여 수개의 보험계약이 동시에 또는 순차로 체결된 경우에 그 보험금액의 총액이 보험가액을 초과한 때에는 보험자는 각자의 보험금액의 한도에서 연대책임을 진다. 이 경우에는 각 보험자의 보상책임은 각자의 보험금액의 비율에 따른다.   <개정 1991. 12. 31.>
+								31 container
+									32 text ②동일한 보험계약의 목적과 동일한 사고에 관하여 수개의 보험계약을 체결하는 경우에는 보험계약자는 각 보험자에 대하여 각 보험계약의 내용을 통지하여야 한다.   <개정 1991. 12. 31.>
+								33 container
+									34 text ③
+									35 link Description: 제669조, Help: 팝업으로 이동, Value: javascript:;
+									36 link Description: 제4항, Help: 팝업으로 이동, Value: javascript:;
+									37 text 의 규정은 제1항의 보험계약에 준용한다.
+
+The focused UI element is 1 AXWebArea 상법, URL: law.go.kr/%EB%B2%95%EB%A0%B9/%EC%83%81%EB%B2%95/%EC%A0%9C672%EC%A1%B0

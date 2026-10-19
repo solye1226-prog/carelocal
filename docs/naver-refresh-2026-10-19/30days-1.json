@@ -1,0 +1,165 @@
+{
+  "period": "30days",
+  "page": 1,
+  "body": " Search Advisor  웹마스터 도구\nlist_alt\n웹마스터 가이드\n쏠레미\npower_settings_new\n사이트 관리\n간단체크\n도구 설정\nhttps://hospital.hbuby.com\nformat_list_bulleted\n목록보기\nassignment\n 요약\ninsert_chart\n 리포트\nexpand_more\n콘텐츠 노출/클릭\n사이트 진단\n수집 현황\n콘텐츠 확산\nassignment_turned_in\n 요청\nexpand_more\nrepeat\n 검증\nexpand_more\nsettings\n 설정\n웹마스터 도구\n/\n리포트\n/\n콘텐츠 노출/클릭\n콘텐츠 노출/클릭\n최근 업데이트: 2026.10.18\n노출/클릭 현황\n최근 30일\narrow_drop_down\nPC + Mobile\narrow_drop_down\n최근 총 클릭\n1.3천\n지난달 대비\ncall_made\n 272.8%\n최근 총 노출\n3.1만\n지난달 대비\ncall_made\n 219.1%\n평균 CTR\n4.2%\n지난달 대비\ncall_made\n 0.6%\n검색 키워드 TOP 30\nNo\t검색 키워드\t클릭\t노출\tCTR(%)\n1\t\n카티스템 실비\n\t32\t147\t21.8\n2\t\n수술분류표\n\t25\t213\t11.7\n3\t\n백내장 수술 몇종\n\t23\t64\t35.9\n4\t\n백내장수술은 몇종일까요\n\t18\t45\t40\n5\t\n담낭제거수술 몇종\n\t18\t38\t47.4\n6\t\n수술확인서 수술기록지\n\t15\t207\t7.2\n7\t\n수술분류표 1~3종\n\t15\t50\t30\n8\t\n백내장수술 보험 몇종\n\t14\t144\t9.7\n9\t\n백내장수술몇종보험\n\t11\t76\t14.5\n10\t\n담낭절제술 종수술비\n\t11\t37\t29.7\nchevron_left\n1\n2\n3\nchevron_right\n검색 웹문서 TOP 30\nNo\t검색 웹문서\t클릭\t노출\tCTR(%)\n1\t\nhttps://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit\n\t339\t2,940\t11.5\n2\t\nhttps://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit\n\t181\t1,473\t12.3\n3\t\nhttps://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit\n\t123\t2,027\t6.1\n4\t\nhttps://hospital.hbuby.com/claims/surgery-claim-documents\n\t85\t2,670\t3.2\n5\t\nhttps://hospital.hbuby.com/surgery-benefit/surgery-classification\n\t85\t813\t10.5\n6\t\nhttps://hospital.hbuby.com/silbi/cartistem-silbi-claim\n\t63\t884\t7.1\n7\t\nhttps://hospital.hbuby.com/surgery-benefit/\n\t54\t1,913\t2.8\n8\t\nhttps://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification\n\t47\t461\t10.2\n9\t\nhttps://hospital.hbuby.com/surgery-benefit/surgery-classification.html\n\t34\t236\t14.4\n10\t\nhttps://hospital.hbuby.com/standards/actual-vs-fixed-benefit\n\t29\t1,814\t1.6\nchevron_left\n1\n2\n3\nchevron_right\ninfo\n 도움말\n클릭 : 검색 사용자가 웹 검색 영역의 검색 결과에서 해당 웹사이트를 클릭한 수를 기록한 지표입니다.\n노출 : 검색 사용자가 웹 검색 영역의 검색 결과에서 해당 웹사이트를 몇번 발견한 수를 기록한 지표입니다.\nCTR : 해당 웹사이트의 각 웹문서의 CTR (클릭수 / 노출수 x 100)의 평균 값입니다.\n\n자세한 내용은 웹마스터 가이드 및 스마트봇 에게 물어보세요\n\n이용약관\n 책임한계와 법적고지\n 고객센터\n©NAVER Corp.",
+  "rows": [
+    [
+      [
+        "No",
+        "검색 키워드",
+        "클릭",
+        "노출",
+        "CTR(%)"
+      ],
+      [
+        "1",
+        "카티스템 실비",
+        "32",
+        "147",
+        "21.8"
+      ],
+      [
+        "2",
+        "수술분류표",
+        "25",
+        "213",
+        "11.7"
+      ],
+      [
+        "3",
+        "백내장 수술 몇종",
+        "23",
+        "64",
+        "35.9"
+      ],
+      [
+        "4",
+        "백내장수술은 몇종일까요",
+        "18",
+        "45",
+        "40"
+      ],
+      [
+        "5",
+        "담낭제거수술 몇종",
+        "18",
+        "38",
+        "47.4"
+      ],
+      [
+        "6",
+        "수술확인서 수술기록지",
+        "15",
+        "207",
+        "7.2"
+      ],
+      [
+        "7",
+        "수술분류표 1~3종",
+        "15",
+        "50",
+        "30"
+      ],
+      [
+        "8",
+        "백내장수술 보험 몇종",
+        "14",
+        "144",
+        "9.7"
+      ],
+      [
+        "9",
+        "백내장수술몇종보험",
+        "11",
+        "76",
+        "14.5"
+      ],
+      [
+        "10",
+        "담낭절제술 종수술비",
+        "11",
+        "37",
+        "29.7"
+      ]
+    ],
+    [
+      [
+        "No",
+        "검색 웹문서",
+        "클릭",
+        "노출",
+        "CTR(%)"
+      ],
+      [
+        "1",
+        "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+        "339",
+        "2,940",
+        "11.5"
+      ],
+      [
+        "2",
+        "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+        "181",
+        "1,473",
+        "12.3"
+      ],
+      [
+        "3",
+        "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+        "123",
+        "2,027",
+        "6.1"
+      ],
+      [
+        "4",
+        "https://hospital.hbuby.com/claims/surgery-claim-documents",
+        "85",
+        "2,670",
+        "3.2"
+      ],
+      [
+        "5",
+        "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+        "85",
+        "813",
+        "10.5"
+      ],
+      [
+        "6",
+        "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+        "63",
+        "884",
+        "7.1"
+      ],
+      [
+        "7",
+        "https://hospital.hbuby.com/surgery-benefit/",
+        "54",
+        "1,913",
+        "2.8"
+      ],
+      [
+        "8",
+        "https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification",
+        "47",
+        "461",
+        "10.2"
+      ],
+      [
+        "9",
+        "https://hospital.hbuby.com/surgery-benefit/surgery-classification.html",
+        "34",
+        "236",
+        "14.4"
+      ],
+      [
+        "10",
+        "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+        "29",
+        "1,814",
+        "1.6"
+      ]
+    ]
+  ]
+}

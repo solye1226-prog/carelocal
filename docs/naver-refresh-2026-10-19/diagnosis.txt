@@ -1,0 +1,62 @@
+ Search Advisor  웹마스터 도구
+list_alt
+웹마스터 가이드
+쏠레미
+power_settings_new
+사이트 관리
+간단체크
+도구 설정
+https://hospital.hbuby.com
+format_list_bulleted
+목록보기
+assignment
+ 요약
+insert_chart
+ 리포트
+expand_more
+콘텐츠 노출/클릭
+사이트 진단
+수집 현황
+콘텐츠 확산
+assignment_turned_in
+ 요청
+expand_more
+repeat
+ 검증
+expand_more
+settings
+ 설정
+웹마스터 도구
+/
+리포트
+/
+사이트 진단
+사이트 진단
+최근 업데이트: 2026.10.17
+진단 현황
+색인
+94
+수집제한
+9
+색인제외
+0
+SEO
+0
+유형별 진단 정보
+유형	상태arrow_upward	페이지 수arrow_upward
+
+색인된 페이지
+	색인	94
+리다이렉션된 페이지	수집제한	9
+info
+ 도움말
+사이트 진단은 색인현황 및 수집, 색인과정에서 발견된 진단 대상 페이지 목록을 제공합니다.
+진단 현황은 최근 업데이트 일 기준으로 90일간 네이버 검색엔진이 분류한 사이트의 URL 통계입니다.
+날짜별 그래프는 네이버 검색 로봇이 그날 사이트 내에서 수집해 온 문서가 어떤 상태로 분석되었는지를 표시합니다.
+
+자세한 내용은 웹마스터 가이드 및 스마트봇 에게 물어보세요
+
+이용약관
+ 책임한계와 법적고지
+ 고객센터
+©NAVER Corp.

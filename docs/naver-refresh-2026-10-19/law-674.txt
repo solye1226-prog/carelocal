@@ -1,0 +1,3 @@
+Browser tab: 3, Title: "상법", URL: "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%83%81%EB%B2%95/%EC%A0%9C674%EC%A1%B0".
+There has been no change in the accessibility tree.
+The focused UI element is 0 AXWebArea 상법, URL: law.go.kr/%EB%B2%95%EB%A0%B9/%EC%83%81%EB%B2%95/%EC%A0%9C674%EC%A1%B0

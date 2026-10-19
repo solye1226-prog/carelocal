@@ -1,0 +1,165 @@
+{
+  "period": "7days",
+  "page": 3,
+  "body": " Search Advisor  웹마스터 도구\nlist_alt\n웹마스터 가이드\n쏠레미\npower_settings_new\n사이트 관리\n간단체크\n도구 설정\nhttps://hospital.hbuby.com\nformat_list_bulleted\n목록보기\nassignment\n 요약\ninsert_chart\n 리포트\nexpand_more\n콘텐츠 노출/클릭\n사이트 진단\n수집 현황\n콘텐츠 확산\nassignment_turned_in\n 요청\nexpand_more\nrepeat\n 검증\nexpand_more\nsettings\n 설정\n웹마스터 도구\n/\n리포트\n/\n콘텐츠 노출/클릭\n콘텐츠 노출/클릭\n최근 업데이트: 2026.10.18\n노출/클릭 현황\n최근 7일\narrow_drop_down\nPC + Mobile\narrow_drop_down\n최근 총 클릭\n4.9백\n지난주 대비\ncall_made\n 14.1%\n최근 총 노출\n1.5만\n지난주 대비\ncall_made\n 54.4%\n평균 CTR\n3.3%\n지난주 대비\ncall_received\n -1.2%\n검색 키워드 TOP 30\nNo\t검색 키워드\t클릭\t노출\tCTR(%)\n21\t\n담낭 제거 수술 비용 실손\n\t3\t17\t17.6\n22\t\n치질수술 몇종\n\t3\t6\t50\n23\t\n복강경 담낭절제술 보험\n\t3\t5\t60\n24\t\n담낭절제술 보험 청구\n\t2\t24\t8.3\n25\t\n담낭제거수술 보험\n\t2\t13\t15.4\n26\t\n복강경 담낭절제술 보험청구\n\t2\t12\t16.7\n27\t\n담석제거수술 보험청구\n\t2\t10\t20\n28\t\n담낭절제술 보험 몇종\n\t2\t10\t20\n29\t\n백내장 종수술비\n\t2\t9\t22.2\n30\t\n치매 주사 이름\n\t2\t6\t33.3\nchevron_left\n1\n2\n3\nchevron_right\n검색 웹문서 TOP 30\nNo\t검색 웹문서\t클릭\t노출\tCTR(%)\n21\t\nhttps://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance\n\t4\t377\t1.1\n22\t\nhttps://hospital.hbuby.com/standards/termination-invalidity-cancellation-withdrawal\n\t4\t216\t1.9\n23\t\nhttps://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost\n\t4\t114\t3.5\n24\t\nhttps://hospital.hbuby.com/standards/insurable-value-vs-insured-amount\n\t3\t658\t0.5\n25\t\nhttps://hospital.hbuby.com/claims/\n\t3\t489\t0.6\n26\t\nhttps://hospital.hbuby.com/claims/insurance-claim-payment-delay\n\t3\t62\t4.8\n27\t\nhttps://hospital.hbuby.com/standards/duplicate-vs-coinsurance\n\t2\t63\t3.2\n28\t\nhttps://hospital.hbuby.com/standards/full-partial-over-insurance\n\t2\t53\t3.8\n29\t\nhttps://hospital.hbuby.com/claims/insurance-claim-appeal\n\t2\t25\t8\n30\t\nhttps://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim\n\t1\t328\t0.3\nchevron_left\n1\n2\n3\nchevron_right\ninfo\n 도움말\n클릭 : 검색 사용자가 웹 검색 영역의 검색 결과에서 해당 웹사이트를 클릭한 수를 기록한 지표입니다.\n노출 : 검색 사용자가 웹 검색 영역의 검색 결과에서 해당 웹사이트를 몇번 발견한 수를 기록한 지표입니다.\nCTR : 해당 웹사이트의 각 웹문서의 CTR (클릭수 / 노출수 x 100)의 평균 값입니다.\n\n자세한 내용은 웹마스터 가이드 및 스마트봇 에게 물어보세요\n\n이용약관\n 책임한계와 법적고지\n 고객센터\n©NAVER Corp.",
+  "rows": [
+    [
+      [
+        "No",
+        "검색 키워드",
+        "클릭",
+        "노출",
+        "CTR(%)"
+      ],
+      [
+        "21",
+        "담낭 제거 수술 비용 실손",
+        "3",
+        "17",
+        "17.6"
+      ],
+      [
+        "22",
+        "치질수술 몇종",
+        "3",
+        "6",
+        "50"
+      ],
+      [
+        "23",
+        "복강경 담낭절제술 보험",
+        "3",
+        "5",
+        "60"
+      ],
+      [
+        "24",
+        "담낭절제술 보험 청구",
+        "2",
+        "24",
+        "8.3"
+      ],
+      [
+        "25",
+        "담낭제거수술 보험",
+        "2",
+        "13",
+        "15.4"
+      ],
+      [
+        "26",
+        "복강경 담낭절제술 보험청구",
+        "2",
+        "12",
+        "16.7"
+      ],
+      [
+        "27",
+        "담석제거수술 보험청구",
+        "2",
+        "10",
+        "20"
+      ],
+      [
+        "28",
+        "담낭절제술 보험 몇종",
+        "2",
+        "10",
+        "20"
+      ],
+      [
+        "29",
+        "백내장 종수술비",
+        "2",
+        "9",
+        "22.2"
+      ],
+      [
+        "30",
+        "치매 주사 이름",
+        "2",
+        "6",
+        "33.3"
+      ]
+    ],
+    [
+      [
+        "No",
+        "검색 웹문서",
+        "클릭",
+        "노출",
+        "CTR(%)"
+      ],
+      [
+        "21",
+        "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+        "4",
+        "377",
+        "1.1"
+      ],
+      [
+        "22",
+        "https://hospital.hbuby.com/standards/termination-invalidity-cancellation-withdrawal",
+        "4",
+        "216",
+        "1.9"
+      ],
+      [
+        "23",
+        "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+        "4",
+        "114",
+        "3.5"
+      ],
+      [
+        "24",
+        "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+        "3",
+        "658",
+        "0.5"
+      ],
+      [
+        "25",
+        "https://hospital.hbuby.com/claims/",
+        "3",
+        "489",
+        "0.6"
+      ],
+      [
+        "26",
+        "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+        "3",
+        "62",
+        "4.8"
+      ],
+      [
+        "27",
+        "https://hospital.hbuby.com/standards/duplicate-vs-coinsurance",
+        "2",
+        "63",
+        "3.2"
+      ],
+      [
+        "28",
+        "https://hospital.hbuby.com/standards/full-partial-over-insurance",
+        "2",
+        "53",
+        "3.8"
+      ],
+      [
+        "29",
+        "https://hospital.hbuby.com/claims/insurance-claim-appeal",
+        "2",
+        "25",
+        "8"
+      ],
+      [
+        "30",
+        "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+        "1",
+        "328",
+        "0.3"
+      ]
+    ]
+  ]
+}
