@@ -630,6 +630,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/simplified-silbi-prescription-exclusion",
+    "title": "유병자 실손 약값 청구, 병원비는 나왔는데 약국비는 왜 다를까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/single-room-charge-difference",
     "title": "1인실 병실료 차액, 건강보험과 실비에서 무엇을 확인할까?",
     "category": "실비보험"
