@@ -49,7 +49,7 @@
   <url><loc>https://hospital.hbuby.com/surgery-benefit/surgery-classification</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification</loc><lastmod>2026-10-07</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/standards/</loc><lastmod>2026-10-07</lastmod><priority>0.9</priority></url>
-  <url><loc>https://hospital.hbuby.com/standards/actual-vs-fixed-benefit</loc><lastmod>2026-10-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/standards/actual-vs-fixed-benefit</loc><lastmod>2026-10-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://hospital.hbuby.com/cases/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/underwriting/</loc><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain</loc><priority>0.9</priority></url>
@@ -127,7 +127,7 @@
   <url><loc>https://hospital.hbuby.com/standards/reinstatement-renewal-reenrollment</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/waiting-reduction-exclusion</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/silbi/deductible-vs-copayment</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/silbi/deductible-vs-copayment</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/renewable-vs-nonrenewable</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/main-contract-vs-rider</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/premium-benefit-surrender-value</loc><lastmod>2026-09-22</lastmod></url>
@@ -274,15 +274,15 @@
   <url><loc>https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-original-documents-request</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding</loc><lastmod>2026-10-19</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents</loc><lastmod>2026-10-14</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch</loc><lastmod>2026-10-19</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents</loc><lastmod>2026-10-19</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/dental-extraction-implant-dates</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/same-tooth-repeat-dental-treatment-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/overseas-hospital-card-slip-insurance</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
