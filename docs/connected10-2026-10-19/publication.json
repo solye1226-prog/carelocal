@@ -1,0 +1,102 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+    "title": "턱관절 치료 실비, 물리치료·주사·스플린트 비용은 어떻게 구분할까?",
+    "commit": "2e5ad4a737b926bd5b994226451ebf1d83257450",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+    "checkedAt": "2026-10-19T11:20:12+0900"
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+    "title": "신경치료 크라운 동시 청구, 같은 치아의 치료를 담보별로 확인하는 법",
+    "commit": "c07f590257ab2232086d364d7e1ca08cc033c187",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+    "checkedAt": "2026-10-19T11:21:33+0900"
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+    "title": "종합심리검사 실비, 풀배터리 검사비와 상담비를 어떻게 나눌까?",
+    "commit": "ccbc21eef1061ea0a76c368eed3368be3e2a2549",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+    "checkedAt": "2026-10-19T11:23:01+0900"
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+    "title": "한방병원 양방 협진 실비, 한 영수증의 진료비를 어떻게 나눌까?",
+    "commit": "747a6c7e2ce2fce783ef68e5d937c7d6134180c3",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+    "checkedAt": "2026-10-19T11:24:23+0900"
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "title": "퇴사 후 단체실손 청구, 재직 중 병원비는 어디에 접수할까?",
+    "commit": "a6c455a8ad66116579225f5e9c3a87129b181ff3",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "checkedAt": "2026-10-19T11:26:05+0900"
+  },
+  {
+    "number": 6,
+    "url": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+    "title": "난임검사 실비 청구서류, 검사비·시술비·지원금을 나누는 법",
+    "commit": "0561d660b6d04740d98e1195f73dc2845179fb84",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+    "checkedAt": "2026-10-19T11:27:17+0900"
+  },
+  {
+    "number": 7,
+    "url": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "title": "치매 보험금 지정대리청구인, 가족 위임장과 무엇이 다를까?",
+    "commit": "bb1b1d04a2b115eb9abbd2149b54f02b79fd7a70",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "checkedAt": "2026-10-19T11:28:42+0900"
+  },
+  {
+    "number": 8,
+    "url": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+    "title": "외국인 실비 청구서류, 영문 이름·등록정보가 다르면 어떻게 할까?",
+    "commit": "dd0a00d84383c5db62c2406a1c50cebcb7382982",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+    "checkedAt": "2026-10-19T11:30:08+0900"
+  },
+  {
+    "number": 9,
+    "url": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+    "title": "건강보험 미적용 실비 청구, 자격 문제와 비급여 치료는 어떻게 다를까?",
+    "commit": "e273e36451d3b8fe7c105c44152316233203c072",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+    "checkedAt": "2026-10-19T11:31:23+0900"
+  },
+  {
+    "number": 10,
+    "url": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+    "title": "실비 손해사정사 선임 비용, 보험사 부담과 본인 부담은 어떻게 확인할까?",
+    "commit": "f89af6b5cf096a73fe21b3d6e16d87efe85b0dec",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+    "checkedAt": "2026-10-19T11:32:42+0900"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/jaw-joint-treatment-splint-claim-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"턱관절 치료 실비\"; no other words. Title left, tasteful realistic scene right: jaw model beside a blank clinic receipt. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 2,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/root-canal-crown-same-tooth-claim-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"신경치료·크라운 청구\"; no other words. Title left, tasteful realistic scene right: tooth cross section model beside a plain ceramic crown and blank forms. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 3,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/comprehensive-psychological-test-claim-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"종합심리검사 실비\"; no other words. Title left, tasteful realistic scene right: quiet consultation office with blank assessment sheets. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 4,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/korean-medicine-western-collaborative-bill-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"한방병원 협진 실비\"; no other words. Title left, tasteful realistic scene right: two separate plain medical expense folders and a closed herbal pouch. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 5,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/group-silbi-after-resignation-claim-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"퇴사 후 단체실손\"; no other words. Title left, tasteful realistic scene right: adult sorting a workplace folder and medical receipts at home. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 6,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/infertility-test-treatment-support-claim-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"난임검사 실비\"; no other words. Title left, tasteful realistic scene right: adult couple reviewing blank test-cost paperwork in a calm clinic. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 7,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/dementia-designated-proxy-claimant-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"지정대리청구인\"; no other words. Title left, tasteful realistic scene right: older adult and adult daughter preparing a blank authorization folder. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 8,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/foreign-resident-name-id-claim-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"외국인 실비 청구\"; no other words. Title left, tasteful realistic scene right: international adult reviewing a blank insurance form and generic unmarked ID sleeve. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 9,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/nhis-ineligible-medical-cost-silbi-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"건강보험 미적용 실비\"; no other words. Title left, tasteful realistic scene right: adult comparing two differently colored abstract receipt columns. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  },
+  {
+    "number": 10,
+    "tool": "built-in image_gen",
+    "workspaceAsset": "assets/images/independent-loss-adjuster-appointment-cost-thumb.webp",
+    "prompt": "Create a single landscape 16:9 Korean editorial insurance guide thumbnail. Dark navy, vivid blue, white and yellow accents. Large mobile-readable Korean title exactly \"손해사정사 선임 비용\"; no other words. Title left, tasteful realistic scene right: adult reviewing a plain service agreement with an independent consultant. No readable names, amounts, codes, seals, logos or fake official data on paperwork. No medical procedures, guarantees, sensationalism or advertising. Balanced professional card-news style.",
+    "visualReview": "PASS: Korean title and illustration inspected"
+  }
+]

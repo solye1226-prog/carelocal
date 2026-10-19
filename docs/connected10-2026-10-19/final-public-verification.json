@@ -1,0 +1,222 @@
+[
+  {
+    "number": 1,
+    "path": "silbi/jaw-joint-treatment-splint-claim",
+    "url": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 1,
+    "path": "silbi/dental-covered-medical-expense-claim",
+    "url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 2,
+    "path": "silbi/root-canal-crown-same-tooth-claim",
+    "url": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 2,
+    "path": "claims/dental-crown-insurance-claim-documents",
+    "url": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 3,
+    "path": "silbi/comprehensive-psychological-test-claim",
+    "url": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 3,
+    "path": "silbi/psychiatry-covered-silbi-documents",
+    "url": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 4,
+    "path": "silbi/korean-medicine-western-collaborative-bill",
+    "url": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 4,
+    "path": "silbi/korean-medicine-covered-silbi-claim",
+    "url": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 5,
+    "path": "silbi/group-silbi-after-resignation-claim",
+    "url": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 5,
+    "path": "silbi/multiple-silbi-insurers-document-forwarding",
+    "url": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 6,
+    "path": "silbi/infertility-test-treatment-support-claim",
+    "url": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 6,
+    "path": "silbi/covered-vs-noncovered-medical-costs",
+    "url": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 7,
+    "path": "silbi/dementia-designated-proxy-claimant",
+    "url": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 7,
+    "path": "claims/medical-records-proxy-documents",
+    "url": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 8,
+    "path": "silbi/foreign-resident-name-id-claim",
+    "url": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 8,
+    "path": "silbi/renamed-person-silbi-documents",
+    "url": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 9,
+    "path": "silbi/nhis-ineligible-medical-cost-silbi",
+    "url": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 9,
+    "path": "silbi/medical-aid-recipient-silbi-claim",
+    "url": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 10,
+    "path": "silbi/independent-loss-adjuster-appointment-cost",
+    "url": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  },
+  {
+    "number": 10,
+    "path": "claims/insurance-claim-payment-delay",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "imageCount": 3,
+    "indexable": true,
+    "backlink": true
+  }
+]

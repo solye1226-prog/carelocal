@@ -1,0 +1,572 @@
+[
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      81.4375,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      129.875,
+      107.78125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  }
+]

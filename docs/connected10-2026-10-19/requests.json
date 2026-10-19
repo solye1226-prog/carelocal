@@ -1,0 +1,162 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+    "kind": "new",
+    "row": "1\t\n/silbi/jaw-joint-treatment-splint-claim\n\t26.10.19 11:33:24",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:33:30.026Z"
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+    "kind": "new",
+    "row": "1\t\n/silbi/root-canal-crown-same-tooth-claim\n\t26.10.19 11:33:30",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:33:35.306Z"
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+    "kind": "new",
+    "row": "1\t\n/silbi/comprehensive-psychological-test-claim\n\t26.10.19 11:33:35",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:33:40.681Z"
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+    "kind": "new",
+    "row": "1\t\n/silbi/korean-medicine-western-collaborative-bill\n\t26.10.19 11:33:40",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:33:45.961Z"
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "kind": "new",
+    "row": "1\t\n/silbi/group-silbi-after-resignation-claim\n\t26.10.19 11:33:46",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:33:51.208Z"
+  },
+  {
+    "number": 6,
+    "url": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+    "kind": "new",
+    "row": "1\t\n/silbi/infertility-test-treatment-support-claim\n\t26.10.19 11:33:57",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:02.680Z"
+  },
+  {
+    "number": 7,
+    "url": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "kind": "new",
+    "row": "1\t\n/silbi/dementia-designated-proxy-claimant\n\t26.10.19 11:34:03",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:07.989Z"
+  },
+  {
+    "number": 8,
+    "url": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+    "kind": "new",
+    "row": "1\t\n/silbi/foreign-resident-name-id-claim\n\t26.10.19 11:34:08",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:13.291Z"
+  },
+  {
+    "number": 9,
+    "url": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+    "kind": "new",
+    "row": "1\t\n/silbi/nhis-ineligible-medical-cost-silbi\n\t26.10.19 11:34:13",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:18.600Z"
+  },
+  {
+    "number": 10,
+    "url": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+    "kind": "new",
+    "row": "1\t\n/silbi/independent-loss-adjuster-appointment-cost\n\t26.10.19 11:34:19",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:24.027Z"
+  },
+  {
+    "number": 11,
+    "url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+    "kind": "updated-parent",
+    "row": "1\t\n/silbi/dental-covered-medical-expense-claim\n\t26.10.19 11:34:35",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:40.172Z"
+  },
+  {
+    "number": 12,
+    "url": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "kind": "updated-parent",
+    "row": "1\t\n/claims/dental-crown-insurance-claim-documents\n\t26.10.19 11:34:40",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:45.489Z"
+  },
+  {
+    "number": 13,
+    "url": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+    "kind": "updated-parent",
+    "row": "1\t\n/silbi/psychiatry-covered-silbi-documents\n\t26.10.19 11:34:45",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:50.827Z"
+  },
+  {
+    "number": 14,
+    "url": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+    "kind": "updated-parent",
+    "row": "1\t\n/silbi/korean-medicine-covered-silbi-claim\n\t26.10.19 11:34:51",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:34:56.116Z"
+  },
+  {
+    "number": 15,
+    "url": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "kind": "updated-parent",
+    "row": "1\t\n/silbi/multiple-silbi-insurers-document-forwarding\n\t26.10.19 11:34:56",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:35:01.475Z"
+  },
+  {
+    "number": 16,
+    "url": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "kind": "updated-parent",
+    "row": "1\t\n/silbi/covered-vs-noncovered-medical-costs\n\t26.10.19 11:35:07",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:35:12.043Z"
+  },
+  {
+    "number": 17,
+    "url": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "kind": "updated-parent",
+    "row": "1\t\n/claims/medical-records-proxy-documents\n\t26.10.19 11:35:12",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:35:17.375Z"
+  },
+  {
+    "number": 18,
+    "url": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+    "kind": "updated-parent",
+    "row": "1\t\n/silbi/renamed-person-silbi-documents\n\t26.10.19 11:35:17",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:35:22.657Z"
+  },
+  {
+    "number": 19,
+    "url": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+    "kind": "updated-parent",
+    "row": "1\t\n/silbi/medical-aid-recipient-silbi-claim\n\t26.10.19 11:35:22",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:35:27.929Z"
+  },
+  {
+    "number": 20,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "kind": "updated-parent",
+    "row": "1\t\n/claims/insurance-claim-payment-delay\n\t26.10.19 11:35:28",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T02:35:33.208Z"
+  }
+]

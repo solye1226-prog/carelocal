@@ -1,0 +1,71 @@
+[
+  {
+    "url": "https://d.samsungfire.com/docs/realloss.pdf",
+    "http": 200,
+    "bytes": 2519879,
+    "type": "application/pdf",
+    "checked": "2026-10-19"
+  },
+  {
+    "url": "https://news.kyobo.com/지정대리인-지정-가족-보험금-대신-청구할-수-있나요/",
+    "checked": "2026-10-19",
+    "http": 200,
+    "bytes": 159461
+  },
+  {
+    "url": "https://www.fsc.go.kr/edu/news/79220",
+    "http": 200,
+    "bytes": 64264,
+    "type": "text/html;charset=UTF-8",
+    "checked": "2026-10-19"
+  },
+  {
+    "url": "https://www.fsc.go.kr/po010101/73753",
+    "http": 200,
+    "bytes": 285924,
+    "type": "text/html;charset=UTF-8",
+    "checked": "2026-10-19"
+  },
+  {
+    "url": "https://www.fsc.go.kr/po010105/75953",
+    "http": 200,
+    "bytes": 177906,
+    "type": "text/html;charset=UTF-8",
+    "checked": "2026-10-19"
+  },
+  {
+    "url": "https://www.kbinsure.co.kr/CG205010001.ec",
+    "http": 200,
+    "bytes": 54519,
+    "type": "text/html; charset=euc-kr",
+    "checked": "2026-10-19"
+  },
+  {
+    "url": "https://www.kbinsure.co.kr/CG205020009.ec",
+    "http": 200,
+    "bytes": 69239,
+    "type": "text/html; charset=euc-kr",
+    "checked": "2026-10-19"
+  },
+  {
+    "url": "https://www.nhis.or.kr/nbinfo/htmc_under.do",
+    "http": 200,
+    "bytes": 57713,
+    "type": "text/html; charset=UTF-8",
+    "checked": "2026-10-19"
+  },
+  {
+    "url": "https://www.samsungfire.com/download/claim/claim_dental.pdf",
+    "http": 200,
+    "bytes": 307773,
+    "type": "application/pdf",
+    "checked": "2026-10-19"
+  },
+  {
+    "url": "https://www.snuh.org/health/nMedInfo/nView.do?medid=AA001218",
+    "http": 200,
+    "bytes": 121301,
+    "type": "text/html; charset=utf-8",
+    "checked": "2026-10-19"
+  }
+]

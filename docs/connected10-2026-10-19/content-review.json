@@ -1,0 +1,182 @@
+[
+  {
+    "number": 1,
+    "newQuestion": "턱관절 치료 실비, 물리치료·주사·스플린트 비용은 어떻게 구분할까?",
+    "closestExisting": "silbi/dental-covered-medical-expense-claim",
+    "distinctScope": "턱관절 진료에서 장치를 함께 제작했다면 진료·검사비와 스플린트 비용을 나눠 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://www.snuh.org/health/nMedInfo/nView.do?medid=AA001218",
+        "scope": "장치·물리치료·약물 등 치료 종류의 구분"
+      },
+      {
+        "url": "https://d.samsungfire.com/docs/realloss.pdf",
+        "scope": "한 상품의 보장·제외·제도성 특약 예시, 본인 계약과 구분"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 2,
+    "newQuestion": "신경치료 크라운 동시 청구, 같은 치아의 치료를 담보별로 확인하는 법",
+    "closestExisting": "claims/dental-crown-insurance-claim-documents",
+    "distinctScope": "신경치료 후 크라운까지 받았다면 치아번호를 기준으로 두 치료의 날짜와 가입 담보를 연결해 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://www.samsungfire.com/download/claim/claim_dental.pdf",
+        "scope": "치수치료·크라운 등 실제 치료 항목 확인"
+      },
+      {
+        "url": "https://www.kbinsure.co.kr/CG205020009.ec",
+        "scope": "담보별 비용 자료와 치과 확인자료의 회사별 예시"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 3,
+    "newQuestion": "종합심리검사 실비, 풀배터리 검사비와 상담비를 어떻게 나눌까?",
+    "closestExisting": "silbi/psychiatry-covered-silbi-documents",
+    "distinctScope": "종합심리검사나 풀배터리 비용이 있다면 상담비와 묶인 총액 대신 실제 검사 항목을 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://d.samsungfire.com/docs/realloss.pdf",
+        "scope": "한 상품의 보장·제외·제도성 특약 예시, 본인 계약과 구분"
+      },
+      {
+        "url": "https://www.kbinsure.co.kr/CG205010001.ec",
+        "scope": "공식 접수 경로와 외국인 보험소비자 안내"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 4,
+    "newQuestion": "한방병원 양방 협진 실비, 한 영수증의 진료비를 어떻게 나눌까?",
+    "closestExisting": "silbi/korean-medicine-covered-silbi-claim",
+    "distinctScope": "한방병원에서 의과 진료도 함께 받았다면 협진 명칭보다 실제 시행 항목과 비용 구분을 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://d.samsungfire.com/docs/realloss.pdf",
+        "scope": "한 상품의 보장·제외·제도성 특약 예시, 본인 계약과 구분"
+      },
+      {
+        "url": "https://www.kbinsure.co.kr/CG205010001.ec",
+        "scope": "공식 접수 경로와 외국인 보험소비자 안내"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 5,
+    "newQuestion": "퇴사 후 단체실손 청구, 재직 중 병원비는 어디에 접수할까?",
+    "closestExisting": "silbi/multiple-silbi-insurers-document-forwarding",
+    "distinctScope": "회사 단체실손이 끝났다면 재직 중 진료비 접수와 개인실손 재개를 나누어 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://www.fsc.go.kr/edu/news/79220",
+        "scope": "중복가입 중지·재개 제도 설명, 본인 적용 조건은 별도 확인"
+      },
+      {
+        "url": "https://www.kbinsure.co.kr/CG205010001.ec",
+        "scope": "공식 접수 경로와 외국인 보험소비자 안내"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 6,
+    "newQuestion": "난임검사 실비 청구서류, 검사비·시술비·지원금을 나누는 법",
+    "closestExisting": "silbi/covered-vs-noncovered-medical-costs",
+    "distinctScope": "난임 진료비가 있다면 검사·시술·지원 적용액을 한 줄로 합치지 않고 따로 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://d.samsungfire.com/docs/realloss.pdf",
+        "scope": "한 상품의 보장·제외·제도성 특약 예시, 본인 계약과 구분"
+      },
+      {
+        "url": "https://www.kbinsure.co.kr/CG205010001.ec",
+        "scope": "공식 접수 경로와 외국인 보험소비자 안내"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 7,
+    "newQuestion": "치매 보험금 지정대리청구인, 가족 위임장과 무엇이 다를까?",
+    "closestExisting": "claims/medical-records-proxy-documents",
+    "distinctScope": "본인이 향후 직접 보험금을 청구하기 어려워질 상황에 대비하려면 계약의 지정대리청구인도 별도로 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://news.kyobo.com/지정대리인-지정-가족-보험금-대신-청구할-수-있나요/",
+        "scope": "일반 가족 위임과 사전 지정의 차이"
+      },
+      {
+        "url": "https://d.samsungfire.com/docs/realloss.pdf",
+        "scope": "한 상품의 보장·제외·제도성 특약 예시, 본인 계약과 구분"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 8,
+    "newQuestion": "외국인 실비 청구서류, 영문 이름·등록정보가 다르면 어떻게 할까?",
+    "closestExisting": "silbi/renamed-person-silbi-documents",
+    "distinctScope": "외국인 가입자의 영문 이름·등록정보가 다르다면 개명 문제와 구분해 본인확인 오류 위치를 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://www.kbinsure.co.kr/CG205010001.ec",
+        "scope": "공식 접수 경로와 외국인 보험소비자 안내"
+      },
+      {
+        "url": "https://d.samsungfire.com/docs/realloss.pdf",
+        "scope": "한 상품의 보장·제외·제도성 특약 예시, 본인 계약과 구분"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 9,
+    "newQuestion": "건강보험 미적용 실비 청구, 자격 문제와 비급여 치료는 어떻게 다를까?",
+    "closestExisting": "silbi/medical-aid-recipient-silbi-claim",
+    "distinctScope": "의료급여·건강보험이 적용되지 않았다면 자격 문제와 치료 항목의 비급여를 먼저 구분하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://d.samsungfire.com/docs/realloss.pdf",
+        "scope": "한 상품의 보장·제외·제도성 특약 예시, 본인 계약과 구분"
+      },
+      {
+        "url": "https://www.nhis.or.kr/nbinfo/htmc_under.do",
+        "scope": "건강보험 제도의 기본 구조 확인"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  },
+  {
+    "number": 10,
+    "newQuestion": "실비 손해사정사 선임 비용, 보험사 부담과 본인 부담은 어떻게 확인할까?",
+    "closestExisting": "claims/insurance-claim-payment-delay",
+    "distinctScope": "사고조사·손해사정 안내를 받았다면 의료자문과 구분하고 독립 손해사정사 선임 절차와 비용 부담을 확인하세요.",
+    "sourceClaims": [
+      {
+        "url": "https://www.fsc.go.kr/po010101/73753",
+        "scope": "선임·동의와 비용 부담의 구분, 현행 회사 기준 별도 확인"
+      },
+      {
+        "url": "https://www.fsc.go.kr/po010105/75953",
+        "scope": "소비자 선임권과 업무 절차 설명"
+      }
+    ],
+    "review": "본문에서 계약별 보장 차이와 비용·자료·다음 행동을 구분. 기존 부모 글과 범위 대조. 수치 지급 보장 및 자격 사칭 없음.",
+    "images": "새 썸네일 10장 contact sheet 한글 검수 완료. 기존 본문 이미지 2장씩 활용."
+  }
+]
