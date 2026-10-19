@@ -455,6 +455,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/dental-covered-medical-expense-claim",
+    "title": "치과 실비 청구서류, 급여 치료비와 치아보험은 어떻게 나눌까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/emergency-room-cost-claim",
     "title": "응급실 비용 실비 청구, 응급의료관리료부터 확인하세요",
     "category": "실비보험"
