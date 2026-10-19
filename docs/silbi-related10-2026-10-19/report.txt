@@ -1,0 +1,59 @@
+2026-10-19 기존 글 10편 보완 완료
+배포 커밋: 09d42c3
+새 URL 추가 없음. 기존 URL과 각 글 이미지 3개 보존.
+
+1. 실비보험 청구서류, 병원비 영수증만 있으면 될까요?
+https://hospital.hbuby.com/claims/medical-expense-claim-documents
+보완: 공통 비용서류와 조건부 추가자료 구분, 실손24 전송 확인, 치과·정신과·산재·의료급여 연결
+네이버 등록: 26.10.19 10:32:57
+
+2. 급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기
+https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs
+보완: 주제와 무관한 심장검사 누적 설명 제거, 영수증 항목과 최종 부담 주체 대조
+네이버 등록: 26.10.19 10:33:02
+
+3. 보험금 청구 기간은 언제까지? 소멸시효와 청구 가능 기간 정리
+https://hospital.hbuby.com/claims/insurance-claim-period
+보완: 진료·결제·재발급·해지·사망 날짜의 의미 구분, 해지 후 및 유족 청구 연결
+네이버 등록: 26.10.19 10:33:07
+
+4. 진료기록 사본 대리발급 가족과 대리인은 어떤 서류를 챙길까?
+https://hospital.hbuby.com/claims/medical-records-proxy-documents
+보완: 동의 가능·불가·사망 상황별 대리발급 구분, 기록 발급과 보험금 수령권 분리
+네이버 등록: 26.10.19 10:33:13
+
+5. 보험금 지급이 늦어지는 이유와 대처 방법
+https://hospital.hbuby.com/claims/insurance-claim-payment-delay
+보완: 중복 표·안내 축소, 기록 보완·명의 확인·의료자문 구분
+네이버 등록: 26.10.19 10:33:18
+
+6. 보험금 청구 계좌 명의가 다를 때, 수익자와 지급계좌 확인법
+https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch
+보완: 개명·타인 계좌·사망 상황별 확인표, 접수 대리와 수령 권리 구분
+네이버 등록: 26.10.19 10:33:29
+
+7. 치아보험 크라운 청구서류, 치아번호와 치료 재료 확인
+https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents
+보완: 치아번호·날짜·치료종류·재료 확인표, 치과 실비와 정액 치아보험 연결
+네이버 등록: 26.10.19 10:33:34
+
+8. 실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유
+https://hospital.hbuby.com/silbi/deductible-vs-copayment
+보완: 보험금 0원의 이유를 보장 제외·공제·다른 제도 조정으로 구분
+네이버 등록: 26.10.19 10:33:39
+
+9. 실손보험 여러 개 청구, 서류 한 번만 내고 전송할 수 있을까?
+https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding
+보완: 보험사 접수대행·실손24·개별 앱 비교, 계약별 보장과 접수 상태 구분
+네이버 등록: 26.10.19 10:33:45
+
+10. 실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?
+https://hospital.hbuby.com/standards/actual-vs-fixed-benefit
+보완: 반복적인 중복보험 설명을 치과·유병자·생전 의료비/사망보험금 사례로 교체
+네이버 등록: 26.10.19 10:33:50
+
+검증: pnpm run check 통과. 공개 HTTP 200, canonical, noindex 없음, head/main 로컬 일치 10/10. 로컬 30조건 및 공개 30조건(360/390/1280px) 통과. 이미지30개 로딩, 표 넘침 없음, 공식 버튼44px 이상, 내부 앵커 정상.
+공식 출처: 금융위원회 실손 안내, 상법 제662조, 서울대학교병원 기록발급, DB생명 지급절차, KB손해보험 치아서류, 삼성화재 공통서류 및 치과확인서, 손해보험협회 접수대행.
+기존 3편의 삼성화재 PP040202_001 연결은 페이지 없음 안내가 확인되어 주제별 현재 공식 안내로 교체.
+네이버 수집요청 10건 등록 확인(10:32:57~10:33:50 KST). 등록은 수집·색인 완료를 의미하지 않음.
+사용자 docs/POSTING_GUIDELINES.md 수정은 유지하고 커밋에서 제외.

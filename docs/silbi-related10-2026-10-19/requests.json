@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "row": "1\t\n/claims/medical-expense-claim-documents\n\t26.10.19 10:32:57",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:01.985Z"
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "row": "1\t\n/silbi/covered-vs-noncovered-medical-costs\n\t26.10.19 10:33:02",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:07.287Z"
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-period",
+    "row": "1\t\n/claims/insurance-claim-period\n\t26.10.19 10:33:07",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:12.728Z"
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "row": "1\t\n/claims/medical-records-proxy-documents\n\t26.10.19 10:33:13",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:18.027Z"
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "row": "1\t\n/claims/insurance-claim-payment-delay\n\t26.10.19 10:33:18",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:23.316Z"
+  },
+  {
+    "number": 6,
+    "url": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "row": "1\t\n/claims/insurance-beneficiary-bank-account-mismatch\n\t26.10.19 10:33:29",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:34.228Z"
+  },
+  {
+    "number": 7,
+    "url": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "row": "1\t\n/claims/dental-crown-insurance-claim-documents\n\t26.10.19 10:33:34",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:39.611Z"
+  },
+  {
+    "number": 8,
+    "url": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "row": "1\t\n/silbi/deductible-vs-copayment\n\t26.10.19 10:33:39",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:44.897Z"
+  },
+  {
+    "number": 9,
+    "url": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "row": "1\t\n/silbi/multiple-silbi-insurers-document-forwarding\n\t26.10.19 10:33:45",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:50.165Z"
+  },
+  {
+    "number": 10,
+    "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "row": "1\t\n/standards/actual-vs-fixed-benefit\n\t26.10.19 10:33:50",
+    "accepted": true,
+    "verifiedAt": "2026-10-19T01:33:55.495Z"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1,
+    "path": "claims/medical-expense-claim-documents",
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "title": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+    "beforeChars": 3702,
+    "afterChars": 4049,
+    "images": [
+      "/assets/images/silbi-claim-documents-thumb.webp",
+      "/assets/images/silbi-claim-documents-types.webp",
+      "/assets/images/insurance-claim-documents-checklist.webp"
+    ]
+  },
+  {
+    "number": 2,
+    "path": "silbi/covered-vs-noncovered-medical-costs",
+    "url": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "title": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+    "beforeChars": 3571,
+    "afterChars": 3017,
+    "images": [
+      "/assets/images/terms-covered-vs-noncovered-medical-costs-thumb.webp",
+      "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp",
+      "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp"
+    ]
+  },
+  {
+    "number": 3,
+    "path": "claims/insurance-claim-period",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-period",
+    "title": "보험금 청구 기간은 언제까지? 소멸시효와 청구 가능 기간 정리",
+    "beforeChars": 4244,
+    "afterChars": 4695,
+    "images": [
+      "/assets/images/insurance-claim-period-thumb.webp",
+      "/assets/images/insurance-claim-period-calendar.webp",
+      "/assets/images/insurance-claim-period-timeline.webp"
+    ]
+  },
+  {
+    "number": 4,
+    "path": "claims/medical-records-proxy-documents",
+    "url": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "title": "진료기록 사본 대리발급 가족과 대리인은 어떤 서류를 챙길까?",
+    "beforeChars": 2689,
+    "afterChars": 3066,
+    "images": [
+      "/assets/images/medical-records-proxy-documents-thumb.webp",
+      "/assets/images/medical-records-proxy-documents-body1.webp",
+      "/assets/images/medical-records-proxy-documents-body2.webp"
+    ]
+  },
+  {
+    "number": 5,
+    "path": "claims/insurance-claim-payment-delay",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "title": "보험금 지급이 늦어지는 이유와 대처 방법",
+    "beforeChars": 5994,
+    "afterChars": 5782,
+    "images": [
+      "/assets/images/insurance-claim-payment-delay-thumb.webp",
+      "/assets/images/insurance-claim-payment-delay-status.webp",
+      "/assets/images/insurance-claim-payment-delay-action.webp"
+    ]
+  },
+  {
+    "number": 6,
+    "path": "claims/insurance-beneficiary-bank-account-mismatch",
+    "url": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "title": "보험금 청구 계좌 명의가 다를 때, 수익자와 지급계좌 확인법",
+    "beforeChars": 1500,
+    "afterChars": 1807,
+    "images": [
+      "/assets/images/insurance-beneficiary-bank-account-mismatch-thumb-v3.webp",
+      "/assets/images/insurance-claim-method-documents.webp",
+      "/assets/images/insurance-claim-process-status.webp"
+    ]
+  },
+  {
+    "number": 7,
+    "path": "claims/dental-crown-insurance-claim-documents",
+    "url": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "title": "치아보험 크라운 청구서류, 치아번호와 치료 재료 확인",
+    "beforeChars": 1478,
+    "afterChars": 2129,
+    "images": [
+      "/assets/images/dental-crown-insurance-claim-documents-thumb-v3.webp",
+      "/assets/images/dental-insurance-waiting-reduction-body2.webp",
+      "/assets/images/dental-insurance-waiting-reduction-body1.webp"
+    ]
+  },
+  {
+    "number": 8,
+    "path": "silbi/deductible-vs-copayment",
+    "url": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "title": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+    "beforeChars": 3115,
+    "afterChars": 3528,
+    "images": [
+      "/assets/images/terms-deductible-vs-copayment-thumb.webp",
+      "/assets/images/terms-deductible-vs-copayment-body1.webp",
+      "/assets/images/terms-deductible-vs-copayment-body2.webp"
+    ]
+  },
+  {
+    "number": 9,
+    "path": "silbi/multiple-silbi-insurers-document-forwarding",
+    "url": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "title": "실손보험 여러 개 청구, 서류 한 번만 내고 전송할 수 있을까?",
+    "beforeChars": 1451,
+    "afterChars": 1887,
+    "images": [
+      "/assets/images/multiple-silbi-insurers-document-forwarding-thumb.webp",
+      "/assets/images/silbi-claim-documents-types.webp",
+      "/assets/images/insurance-claim-process-status.webp"
+    ]
+  },
+  {
+    "number": 10,
+    "path": "standards/actual-vs-fixed-benefit",
+    "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+    "beforeChars": 3694,
+    "afterChars": 3794,
+    "images": [
+      "/assets/images/actual-vs-fixed-benefit-thumb.png",
+      "/assets/images/actual-vs-fixed-benefit-receipt.png",
+      "/assets/images/actual-vs-fixed-benefit-policy.png"
+    ]
+  }
+]

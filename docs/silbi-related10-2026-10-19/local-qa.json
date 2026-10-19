@@ -1,0 +1,551 @@
+[
+  {
+    "anchors": true,
+    "buttons": [
+      81.4375,
+      129.875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      81.4375,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 1,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 2,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-period",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-period",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-period",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 3,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      129.875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      107.78125
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 4,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 5,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 6,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      129.875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      81.4375,
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 7,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 8,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125,
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      81.4375,
+      81.4375
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 9,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      125.625
+    ],
+    "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 345,
+    "tables": true,
+    "width": 360,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      103.53125
+    ],
+    "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 375,
+    "tables": true,
+    "width": 390,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 10,
+    "mode": "local",
+    "pass": true
+  }
+]

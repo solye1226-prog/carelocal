@@ -1,0 +1,102 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "h1": "실비보험 청구서류, 병원비 영수증만 있으면 될까요?",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "h1": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-period",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-period",
+    "h1": "보험금 청구 기간은 언제까지? 소멸시효와 청구 가능 기간 정리",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "h1": "진료기록 사본 대리발급가족과 대리인은 어떤 서류를 챙길까?",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "h1": "보험금 지급이 늦어지는 이유와 대처 방법",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 6,
+    "url": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "h1": "보험금 청구 계좌 명의가 다를 때, 수익자와 지급계좌 확인법",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 7,
+    "url": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+    "h1": "치아보험 크라운 청구서류, 치아번호와 치료 재료 확인",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 8,
+    "url": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "h1": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 9,
+    "url": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+    "h1": "실손보험 여러 개 청구, 서류 한 번만 내고 전송할 수 있을까?",
+    "imageCount": 3,
+    "indexable": true
+  },
+  {
+    "number": 10,
+    "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "h1": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
+    "imageCount": 3,
+    "indexable": true
+  }
+]
