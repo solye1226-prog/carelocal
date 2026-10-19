@@ -615,6 +615,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/nhis-ineligible-medical-cost-silbi",
+    "title": "건강보험 미적용 실비 청구, 자격 문제와 비급여 치료는 어떻게 다를까?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/noncovered-itemized-bill-silbi-documents",
     "title": "비급여 진료비 세부내역서 실비 청구, 영수증과 함께 확인할 것",
     "category": "실비보험"
