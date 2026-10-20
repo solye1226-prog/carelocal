@@ -540,6 +540,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/hometax-silson-payment-record-mismatch",
+    "title": "홈택스 실손보험금 조회, 보험사 지급내역서와 금액이 다르면?",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/hospital-bill-correction-silbi-claim",
     "title": "실비보험 청구 뒤 병원비 환불받았다면, 정산 확인 방법",
     "category": "실비보험"
