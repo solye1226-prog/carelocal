@@ -237,7 +237,7 @@
   <url><loc>https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction</loc><lastmod>2026-10-07</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/claims/overseas-hospital-bill-documents</loc><lastmod>2026-10-07</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/claims/overseas-hospital-bill-documents</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/single-room-charge-difference</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice</loc><lastmod>2026-10-07</lastmod></url>
@@ -288,7 +288,7 @@
   <url><loc>https://hospital.hbuby.com/claims/overseas-hospital-card-slip-insurance</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/overseas-pharmacy-prescription-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/overseas-medical-note-diagnosis-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
-  <url><loc>https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi</loc><lastmod>2026-10-20</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-bank-account-change</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
   <url><loc>https://hospital.hbuby.com/silbi/hospital-bill-correction-silbi-claim</loc><lastmod>2026-10-13</lastmod><priority>0.7</priority></url>
 <url><loc>https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer</loc><lastmod>2026-10-16</lastmod></url>
@@ -414,4 +414,5 @@
 <url><loc>https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://hospital.hbuby.com/claims/insurance-payment-statement-certificate</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end</loc><lastmod>2026-10-20</lastmod></url>
+<url><loc>https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents</loc><lastmod>2026-10-20</lastmod></url>
 </urlset>
