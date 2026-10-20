@@ -85,6 +85,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/entry-departure-certificate-silbi-submission",
+    "title": "실손보험료 환급용 출입국사실증명서, 정부24 발급과 제출 전 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/family-liability-water-leak-deductible",
     "title": "누수 사고 일배책 자기부담금 확인 기준 | 케어로컬",
     "category": "보험금 청구"
