@@ -1,0 +1,25 @@
+{
+  "checkedDate": "2026-10-20",
+  "sources": [
+    {
+      "title": "Chubb 구비서류",
+      "url": "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+      "supports": "진단명·수술명·수술일자가 포함된 선택 서류; 회사별 조건 구분"
+    },
+    {
+      "title": "KB손해보험 질병 필요서류",
+      "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+      "supports": "공통·의료비·수술비·진단금 항목 구분"
+    },
+    {
+      "title": "금융위원회 실손 중복가입 안내",
+      "url": "https://www.fsc.go.kr/po010105/79180?curPage=1",
+      "supports": "실손의 실제 부담 의료비 한도와 비례보상; 정액 담보와 구분"
+    },
+    {
+      "title": "상법 제671조",
+      "url": "https://www.law.go.kr/법령/상법/제671조",
+      "supports": "기존 미평가보험 평가시점 설명; 이번 보강은 목적물별 가입금액 구분이며 새로운 법정 지급 계산식은 제시하지 않음"
+    }
+  ]
+}

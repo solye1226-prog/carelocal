@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "purpose": "updated-content-recrawl",
+    "status": "accepted",
+    "history": "1\n         \n            /claims/surgery-claim-documents\n           \n          26.10.20 10:26:44"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+    "purpose": "updated-content-recrawl",
+    "status": "accepted",
+    "history": "1\n         \n            /claims/insurance-claim-documents\n           \n          26.10.20 10:27:03"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "purpose": "updated-content-recrawl",
+    "status": "accepted",
+    "history": "1\n         \n            /standards/actual-vs-fixed-benefit\n           \n          26.10.20 10:27:20"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation",
+    "purpose": "updated-content-recrawl",
+    "status": "accepted",
+    "history": "1\n         \n            /standards/indemnity-proportional-compensation\n           \n          26.10.20 10:27:31"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+    "purpose": "updated-content-recrawl",
+    "status": "accepted",
+    "history": "1\n         \n            /standards/insurable-value-vs-insured-amount\n           \n          26.10.20 10:27:39"
+  }
+]

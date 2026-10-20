@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "imagesAndAnchorsPreserved": true,
+    "checkedAt": "2026-10-20T10:24:41+0900"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+    "imagesAndAnchorsPreserved": true,
+    "checkedAt": "2026-10-20T10:24:41+0900"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "imagesAndAnchorsPreserved": true,
+    "checkedAt": "2026-10-20T10:24:41+0900"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation",
+    "imagesAndAnchorsPreserved": true,
+    "checkedAt": "2026-10-20T10:24:41+0900"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+    "imagesAndAnchorsPreserved": true,
+    "checkedAt": "2026-10-20T10:24:41+0900"
+  }
+]
