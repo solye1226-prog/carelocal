@@ -1,0 +1,151 @@
+{
+  "checkedAt": "2026-10-20T14:38:29+0900",
+  "new": 5,
+  "parents": 9,
+  "linkPlacements": 10,
+  "sitemapURLs": 402,
+  "results": [
+    {
+      "path": "silbi/hometax-silson-payment-record-mismatch",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/hometax-silson-payment-record-mismatch",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "silbi/group-to-personal-silbi-conversion-retirement",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/group-to-personal-silbi-conversion-retirement",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "claims/entry-departure-certificate-silbi-submission",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/entry-departure-certificate-silbi-submission",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "claims/dormant-insurance-payment-application",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/dormant-insurance-payment-application",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "silbi/predeparture-overseas-premium-suspension",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/predeparture-overseas-premium-suspension",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "silbi/yearend-medical-tax-insurance-reimbursement",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "claims/insurance-payment-statement-certificate",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "silbi/personal-silbi-resume-after-group-end",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "silbi/group-silbi-after-resignation-claim",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "silbi/overseas-stay-premium-refund-documents",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "claims/overseas-hospital-bill-documents",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "claims/hidden-insurance-vs-unclaimed-medical-bills",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "standards/premium-benefit-surrender-value",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "silbi/overseas-stay-premium-refund-documents",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "silbi/post-travel-domestic-followup-silbi",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi",
+      "images": 3,
+      "internalLinkVerified": true
+    }
+  ],
+  "publicResponsiveCheck": "See public-qa.json for actual width-specific results",
+  "uniquePublicPages": 14,
+  "publicResponsiveConditions": 15,
+  "publicResponsivePass": true,
+  "naverAccepted": 5,
+  "naverReconciled": 5,
+  "existingRequestedToday": 9
+}

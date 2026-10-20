@@ -1,0 +1,31 @@
+2026-10-20 후속 5편 순차 발행 완료
+
+1. 홈택스 실손보험금 조회, 보험사 지급내역서와 금액이 다르면?
+https://hospital.hbuby.com/silbi/hometax-silson-payment-record-mismatch
+연결 기존 글: silbi/yearend-medical-tax-insurance-reimbursement, claims/insurance-payment-statement-certificate
+
+2. 개인실손 없이 퇴사했다면? 단체실손의 개인실손 전환 확인법
+https://hospital.hbuby.com/silbi/group-to-personal-silbi-conversion-retirement
+연결 기존 글: silbi/personal-silbi-resume-after-group-end, silbi/group-silbi-after-resignation-claim
+
+3. 실손보험료 환급용 출입국사실증명서, 정부24 발급과 제출 전 확인
+https://hospital.hbuby.com/claims/entry-departure-certificate-silbi-submission
+연결 기존 글: silbi/overseas-stay-premium-refund-documents, claims/overseas-hospital-bill-documents
+
+4. 휴면보험금 지급 신청, 보험사와 서민금융진흥원 중 어디로 할까?
+https://hospital.hbuby.com/claims/dormant-insurance-payment-application
+연결 기존 글: claims/hidden-insurance-vs-unclaimed-medical-bills, standards/premium-benefit-surrender-value
+
+5. 출국 전 실손보험료 납입중지, 귀국 후 환급과 무엇이 다를까?
+https://hospital.hbuby.com/silbi/predeparture-overseas-premium-suspension
+연결 기존 글: silbi/overseas-stay-premium-refund-documents, silbi/post-travel-domestic-followup-silbi
+
+신규 5편, 관련 기존 글 9편에 내부링크 10곳 추가. 해외체류 환급 글에서 증명서 발급과 사전 중지로 각각 연결하므로 기존 글 수는 9편이다. 기존 이미지·본문 id 보존과 새 연결을 공개 HTML에서 대조했다. 신규 이미지 15장은 내장 image_gen으로 생성, 한국어 제목과 장면을 검토하고 WebP로 변환했다. 실제 공문서나 개인 기록이 아님을 본문에 표시했다.
+
+각 발행의 pnpm run check PASS. 공개 5편 모두 360/390/1280px 총 15조건 PASS. 가로 넘침·표·3장 이미지 로딩·공식 버튼·canonical·앵커 확인. 공개 head/main 일치와 HTTP 200, 이미지 응답, 사이트맵 포함 확인. 현재 글 카탈로그 377편, 사이트맵 402개 URL. 최종 HTTP 검증 15항목은 기존 글 1편 중복 대조를 포함하며 고유 페이지는 14개이다.
+
+5번은 현재 삼성화재 공식 신청 메뉴와 2501.5 공개 약관의 조건을 확인해 발행했다. 회사·상품 예시로 한정했으며 모든 회사의 사전 중지나 개인 계약의 승인을 보장하지 않는다. 자세한 시행 확인 근거는 sources-and-implementation.txt 참조.
+
+네이버: 처음 서버 오류 후 정상 연결을 복구했고 요청 이력에 없는 것을 확인한 뒤 재제출했다. 새 글 5편 모두 접수 및 새로고침한 목록에서 5/5 확인. 기존 글 9편은 오늘 앞 작업의 요청 이력이 실제 2페이지 목록에서 9/9 확인되어 중복 제출을 생략했다. 이번 변경 뒤 별도의 재접수는 하지 않았으며 수집·색인 완료를 뜻하지 않는다.
+
+증거: publication.json / public-qa.json / final-audit.json / naver-requests.json / request-history-page1.json / existing-request-status.json / naver-request-proof.jpg. 이미지 경로와 프롬프트: image-manifest.json / image-prompts.json.

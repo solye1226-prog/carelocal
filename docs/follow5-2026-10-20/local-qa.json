@@ -1,0 +1,99 @@
+[
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/hometax-silson-payment-record-mismatch",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 1,
+    "path": "silbi/hometax-silson-payment-record-mismatch",
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/group-to-personal-silbi-conversion-retirement",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 2,
+    "path": "silbi/group-to-personal-silbi-conversion-retirement",
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/entry-departure-certificate-silbi-submission",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 3,
+    "path": "claims/entry-departure-certificate-silbi-submission",
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/claims/dormant-insurance-payment-application",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 4,
+    "path": "claims/dormant-insurance-payment-application",
+    "mode": "local",
+    "pass": true
+  },
+  {
+    "anchors": true,
+    "buttons": [
+      84.6875,
+      84.6875
+    ],
+    "canonical": "https://hospital.hbuby.com/silbi/predeparture-overseas-premium-suspension",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 5,
+    "path": "silbi/predeparture-overseas-premium-suspension",
+    "mode": "local",
+    "pass": true
+  }
+]

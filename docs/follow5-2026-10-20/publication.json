@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/silbi/hometax-silson-payment-record-mismatch",
+    "title": "홈택스 실손보험금 조회, 보험사 지급내역서와 금액이 다르면?",
+    "commit": "e788536edde635947665306411308566812efd5d",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/hometax-silson-payment-record-mismatch",
+    "checkedAt": "2026-10-20T14:25:38+0900"
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/silbi/group-to-personal-silbi-conversion-retirement",
+    "title": "개인실손 없이 퇴사했다면? 단체실손의 개인실손 전환 확인법",
+    "commit": "e417a7f392934c43833b48f1323cb5d33d73568b",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/group-to-personal-silbi-conversion-retirement",
+    "checkedAt": "2026-10-20T14:28:10+0900"
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/claims/entry-departure-certificate-silbi-submission",
+    "title": "실손보험료 환급용 출입국사실증명서, 정부24 발급과 제출 전 확인",
+    "commit": "f8713a5618345649b3ca7fd0f06ffd62a458f79d",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/entry-departure-certificate-silbi-submission",
+    "checkedAt": "2026-10-20T14:30:28+0900"
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/claims/dormant-insurance-payment-application",
+    "title": "휴면보험금 지급 신청, 보험사와 서민금융진흥원 중 어디로 할까?",
+    "commit": "d918031547880f2c92d3626c88c0abc0f3824d63",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/dormant-insurance-payment-application",
+    "checkedAt": "2026-10-20T14:32:50+0900"
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/silbi/predeparture-overseas-premium-suspension",
+    "title": "출국 전 실손보험료 납입중지, 귀국 후 환급과 무엇이 다를까?",
+    "commit": "72d8e6c001cf7cb5b647ba8fc5a556c5e4d9c542",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/predeparture-overseas-premium-suspension",
+    "checkedAt": "2026-10-20T14:36:19+0900"
+  }
+]

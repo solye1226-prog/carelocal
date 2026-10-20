@@ -1,0 +1,65 @@
+{
+  "mode": "built-in image_gen",
+  "prompts": [
+    {
+      "key": "f5-1",
+      "prompt": "Landscape 16:9 Korean practical insurance blog thumbnail. Exact large Korean headline 홈택스 실손보험금, subtitle 지급내역서와 대조. Navy blue white restrained yellow. Korean adult comparing laptop and insurance statement on home desk. No official UI imitation or logos, no readable personal records or amounts; polished editorial photographic illustration."
+    },
+    {
+      "key": "f5-1b",
+      "prompt": "Landscape 16:9 editorial realistic overhead photograph illustration of two generic document stacks beside laptop and blue notebook, adult hands lining up payment dates and columns, one folder for insurance records and one medical bills. Abstract blurred lines only, no readable text, numbers, logos, real records or amounts. Calm daylight blue white palette."
+    },
+    {
+      "key": "f5-1c",
+      "prompt": "Landscape 16:9 realistic editorial illustration, Korean man at home writing a short question in notebook while looking between a generic payment statement and phone. Navy white soft daylight. No readable text, numbers, logos, official screens, account data or money amounts."
+    },
+    {
+      "key": "f5-2",
+      "prompt": "Landscape 16:9 Korean insurance blog thumbnail. Exact headline 단체실손 개인전환, exact subtitle 재개와 대상 구분. Korean older adult at desk with employee folder and personal insurance folder, navy blue white yellow design, clean large Korean type. No logos, readable records, money amounts or guarantees."
+    },
+    {
+      "key": "f5-2b",
+      "prompt": "Landscape 16:9 editorial realistic illustration. Overhead desk with neutral employee folder, personal insurance folder, blank calendar and pen, hands comparing dates and membership record. Navy blue white. Absolutely no readable words, numbers, logos, real data, money amounts or guarantees."
+    },
+    {
+      "key": "f5-2c",
+      "prompt": "Landscape 16:9 Korean mature adult at home calling insurer while reviewing generic workplace insurance papers and writing application checklist. Soft natural light, realistic hands, blue-white palette. No readable text, numbers, official logos, private data or bank details."
+    },
+    {
+      "key": "f5-3",
+      "prompt": "Landscape 16:9 Korean insurance practical guide thumbnail. Exact large headline 출입국사실증명서, exact subtitle 발급·제출 전 확인. Clean desk with generic passport and neutral certificate, Korean adult comparing travel papers. Navy vivid blue white yellow, professional readable Korean typography. No official seals/logos, no readable data on documents, no certificate imitation."
+    },
+    {
+      "key": "f5-3b",
+      "prompt": "Landscape 16:9 realistic editorial overhead photograph illustration. Closed plain passport, blank calendar, generic abstract certificate and pen on clean white-blue desk. Hands comparing travel records. No readable words or numbers, official logos/seals, identifiable documents or personal information."
+    },
+    {
+      "key": "f5-3c",
+      "prompt": "Landscape 16:9 editorial realistic illustration. Korean adult using laptop at home to prepare a generic certificate, holding closed plain passport beside printer and document envelope. Screens only abstract blurred blue-white blocks; no readable words, data, official logos, seals or amounts. Clean composition."
+    },
+    {
+      "key": "f5-4",
+      "prompt": "Landscape 16:9 Korean insurance practical blog thumbnail. Exact large headline 휴면보험금 지급 신청, exact subtitle 보관 기관부터 확인. Korean adult comparing neutral insurance folder and laptop, calm daytime home desk, navy vivid blue white restrained yellow. No official logos or fake official screens, no readable financial records, money amounts or payment guarantees."
+    },
+    {
+      "key": "f5-4b",
+      "prompt": "Landscape 16:9 editorial realistic overhead desk. Insurance folder, abstract institution correspondence envelope, simple checklist and phone arranged in separate groups, hands comparing records. Navy white blue, soft daylight. No readable words, numbers, money, logos, seals or identifiable financial records."
+    },
+    {
+      "key": "f5-4c",
+      "prompt": "Landscape 16:9 realistic editorial illustration of Korean middle-aged adult preparing questions on phone while reviewing a plain insurance folder at home. Generic blue-white abstract screen only, no official website imitation, no readable text, numbers, amounts, identities, account data or guarantees."
+    },
+    {
+      "key": "f5-5",
+      "prompt": "Landscape 16:9 Korean practical insurance guide thumbnail. Exact large headline 출국 전 실손보험료, exact subtitle 납입중지 조건 확인. Korean adult at home preparing suitcase beside insurance folder, passport closed plain cover and smartphone. Navy vivid blue white yellow, clean legible Korean typography. No official logos, readable personal papers, amounts, automatic-savings promises or guarantee."
+    },
+    {
+      "key": "f5-5b",
+      "prompt": "Landscape 16:9 realistic editorial overhead photograph illustration. Travel suitcase edge, closed plain navy passport, insurance folder, blank calendar and pen; hands organizing departure planning documents on blue-white desk. No readable words or numbers, official marks, personal details, fake stamps or money amounts."
+    },
+    {
+      "key": "f5-5c",
+      "prompt": "Landscape 16:9 editorial realistic illustration, Korean adult speaking with insurance customer service by phone before travel, reviewing generic contract folder beside closed suitcase and blank calendar at home. Soft natural daylight, navy blue white palette. No readable text, numbers, passport stamps, logos, personal information, financial amounts or guarantees."
+    }
+  ]
+}
