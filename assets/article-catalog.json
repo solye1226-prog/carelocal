@@ -115,6 +115,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/hidden-insurance-vs-unclaimed-medical-bills",
+    "title": "내보험찾아줌 숨은보험금 조회, 미청구 병원비도 확인될까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/home-fire-insurance-water-leak",
     "title": "주택화재보험 누수 보상, 일배책과 무엇이 다를까?",
     "category": "보험금 청구"
