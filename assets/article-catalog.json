@@ -205,6 +205,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/insurance-payment-statement-certificate",
+    "title": "보험금 지급내역서 발급, 보험료 납입증명서와 무엇이 다를까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/knee-surgery-claim-documents",
     "title": "무릎 수술 보험금 청구서류, 관절경·인공관절 수술명별 확인 방법",
     "category": "보험금 청구"
