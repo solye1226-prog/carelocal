@@ -1,0 +1,23 @@
+Mode: built-in image_gen (15 separate asset generations). No CLI/API fallback.
+Prompt set reconstruction by asset role; original PNG paths in image-manifest.json.
+Shared: landscape 16:9, polished Korean practical insurance editorial composition; navy/blue/white with restrained yellow. No official logos, counterfeit official UI, identifiable records, money amounts or payment guarantees. Body images contain no readable words or numbers.
+
+Article 1 thumbnail: exact large Korean headline "실손보험금 연말정산"; exact subtitle "지출 연도 · 수령 연도". Scene: Calendars and medical expense papers on desk; adult comparing statement and calendar.
+Article 1 body1: overhead realistic editorial illustration of the related documents, clean desk, abstract blurred lines only.
+Article 1 body2: Korean adult reviewing those generic documents on phone/laptop at home, calm natural daylight, no readable screens.
+
+Article 2 thumbnail: exact large Korean headline "보험금 지급내역서"; exact subtitle "납입증명서와 구분". Scene: Insurance statement and premium certificate folders; adult checking statement by phone.
+Article 2 body1: overhead realistic editorial illustration of the related documents, clean desk, abstract blurred lines only.
+Article 2 body2: Korean adult reviewing those generic documents on phone/laptop at home, calm natural daylight, no readable screens.
+
+Article 3 thumbnail: exact large Korean headline "개인실손 재개 신청"; exact subtitle "중지 상태 · 종료일 확인". Scene: Insurance folder with employment end calendar; adult checking contract on phone.
+Article 3 body1: overhead realistic editorial illustration of the related documents, clean desk, abstract blurred lines only.
+Article 3 body2: Korean adult reviewing those generic documents on phone/laptop at home, calm natural daylight, no readable screens.
+
+Article 4 thumbnail: exact large Korean headline "해외체류 실손보험료"; exact subtitle "환급 서류 확인". Scene: Travel suitcase passport and generic immigration certificate; adult comparing travel dates.
+Article 4 body1: overhead realistic editorial illustration of the related documents, clean desk, abstract blurred lines only.
+Article 4 body2: Korean adult reviewing those generic documents on phone/laptop at home, calm natural daylight, no readable screens.
+
+Article 5 thumbnail: exact large Korean headline "숨은보험금 조회"; exact subtitle "미청구 병원비와 구분". Scene: Insurance contract folder versus hospital receipt folder; adult reviewing generic insurance records on phone.
+Article 5 body1: overhead realistic editorial illustration of the related documents, clean desk, abstract blurred lines only.
+Article 5 body2: Korean adult reviewing those generic documents on phone/laptop at home, calm natural daylight, no readable screens.

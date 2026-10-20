@@ -1,0 +1,33 @@
+2026-10-20 신규 5편 순차 발행 결과
+
+1. 실손보험금 연말정산 차감, 진료한 해와 받은 해가 다르면?
+https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement
+연결한 기존 글: https://hospital.hbuby.com/standards/actual-vs-fixed-benefit, https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate
+
+2. 보험금 지급내역서 발급, 보험료 납입증명서와 무엇이 다를까?
+https://hospital.hbuby.com/claims/insurance-payment-statement-certificate
+연결한 기존 글: https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit, https://hospital.hbuby.com/claims/insurance-claim-documents
+
+3. 퇴사 후 개인실손 재개 신청, 중지했던 보험은 어떻게 이어갈까?
+https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end
+연결한 기존 글: https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim, https://hospital.hbuby.com/standards/duplicate-vs-coinsurance
+
+4. 해외 장기체류 실손보험료 환급, 귀국 후 어떤 서류를 준비할까?
+https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents
+연결한 기존 글: https://hospital.hbuby.com/claims/overseas-hospital-bill-documents, https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi
+
+5. 내보험찾아줌 숨은보험금 조회, 미청구 병원비도 확인될까?
+https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills
+연결한 기존 글: https://hospital.hbuby.com/claims/insurance-claim-method, https://hospital.hbuby.com/standards/premium-benefit-surrender-value
+
+발행 5편 / 기존 글 내부링크 보강 10편 / 신규 생성 이미지 15장. 공식 안내 버튼, 확인 순서, 문의 문구, 관련 글을 추가.
+전체 15개 공개 페이지의 HTTP 200, canonical, 최신 head/main 일치, 이미지 3장, 기존 글의 이미지·id 보존과 연결 링크를 확인했다. 사이트맵 397개 URL, 글 목록 372편.
+발행별 pnpm run check 통과. 최종 이미지 URL 경로 구분자를 정규화하고 실제 이미지 HTTP 응답도 확인.
+
+반응형 최종 검증: 공개 5편 모두 360px·390px·1280px 총 15조건 PASS. 이미지 로딩, 가로 넘침, 표, 공식 버튼과 canonical을 확인했다. 브라우저 크기 변경이 같은 호출 안에서 늦게 적용되어 초기 검증을 중단했지만, 크기 설정과 검증을 별도 호출로 나누어 후반 3편까지 완료했다. 로컬 검증은 1~3편 3크기, 4~5편 PC 기록을 별도로 보존한다.
+
+네이버 수집 요청은 naver-requests.json의 실제 접수 URL·등록시각을 기준으로 한다. 오늘 앞 작업에서 이미 요청한 standards/actual-vs-fixed-benefit 및 claims/insurance-claim-documents는 중복 제출하지 않았다. 접수는 색인 완료를 뜻하지 않는다.
+
+증거: publication.json, final-audit.json, local-qa.json, public-qa.json, naver-requests.json, request-history*.json/jpg. 이미지: image-manifest.json / image-prompts.txt (내장 image_gen 사용).
+
+최종 네이버 결과: 신규 5편 + 기존 글 8편 = 13건 접수 완료, 새로고침 후 목록 2페이지와 13/13 대조 완료. 기존 2편은 오늘 앞 작업의 요청 이력이 있어 중복 제출 생략. 수집·색인 결과 대기.

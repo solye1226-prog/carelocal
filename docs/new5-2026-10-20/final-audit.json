@@ -1,0 +1,147 @@
+{
+  "checkedAt": "2026-10-20T11:20:23+0900",
+  "new": 5,
+  "parents": 10,
+  "sitemapURLs": 397,
+  "results": [
+    {
+      "path": "silbi/yearend-medical-tax-insurance-reimbursement",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "claims/insurance-payment-statement-certificate",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "silbi/personal-silbi-resume-after-group-end",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "silbi/overseas-stay-premium-refund-documents",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "claims/hidden-insurance-vs-unclaimed-medical-bills",
+      "kind": "new",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills",
+      "images": 3,
+      "internalLinkVerified": null
+    },
+    {
+      "path": "standards/actual-vs-fixed-benefit",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "silbi/hospital-receipt-vs-payment-certificate",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "claims/claim-paid-no-bank-deposit",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "claims/insurance-claim-documents",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "silbi/group-silbi-after-resignation-claim",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "standards/duplicate-vs-coinsurance",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/standards/duplicate-vs-coinsurance",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "claims/overseas-hospital-bill-documents",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "silbi/post-travel-domestic-followup-silbi",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "claims/insurance-claim-method",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/claims/insurance-claim-method",
+      "images": 3,
+      "internalLinkVerified": true
+    },
+    {
+      "path": "standards/premium-benefit-surrender-value",
+      "kind": "parent",
+      "http": 200,
+      "exactHeadMain": true,
+      "canonical": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+      "images": 3,
+      "internalLinkVerified": true
+    }
+  ],
+  "publicResponsiveConditions": 15,
+  "publicResponsivePass": true,
+  "naverAccepted": 13,
+  "independentHistoryReconciled": 13
+}

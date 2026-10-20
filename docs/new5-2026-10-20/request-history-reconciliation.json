@@ -1,0 +1,80 @@
+[
+  {
+    "path": "silbi/yearend-medical-tax-insurance-reimbursement",
+    "url": "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement",
+    "purpose": "new",
+    "found": true
+  },
+  {
+    "path": "claims/insurance-payment-statement-certificate",
+    "url": "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate",
+    "purpose": "new",
+    "found": true
+  },
+  {
+    "path": "silbi/personal-silbi-resume-after-group-end",
+    "url": "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end",
+    "purpose": "new",
+    "found": true
+  },
+  {
+    "path": "silbi/overseas-stay-premium-refund-documents",
+    "url": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+    "purpose": "new",
+    "found": true
+  },
+  {
+    "path": "claims/hidden-insurance-vs-unclaimed-medical-bills",
+    "url": "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills",
+    "purpose": "new",
+    "found": true
+  },
+  {
+    "path": "silbi/hospital-receipt-vs-payment-certificate",
+    "url": "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate",
+    "purpose": "updated-parent",
+    "found": true
+  },
+  {
+    "path": "claims/claim-paid-no-bank-deposit",
+    "url": "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit",
+    "purpose": "updated-parent",
+    "found": true
+  },
+  {
+    "path": "silbi/group-silbi-after-resignation-claim",
+    "url": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "purpose": "updated-parent",
+    "found": true
+  },
+  {
+    "path": "standards/duplicate-vs-coinsurance",
+    "url": "https://hospital.hbuby.com/standards/duplicate-vs-coinsurance",
+    "purpose": "updated-parent",
+    "found": true
+  },
+  {
+    "path": "claims/overseas-hospital-bill-documents",
+    "url": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+    "purpose": "updated-parent",
+    "found": true
+  },
+  {
+    "path": "silbi/post-travel-domestic-followup-silbi",
+    "url": "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi",
+    "purpose": "updated-parent",
+    "found": true
+  },
+  {
+    "path": "claims/insurance-claim-method",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "purpose": "updated-parent",
+    "found": true
+  },
+  {
+    "path": "standards/premium-benefit-surrender-value",
+    "url": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+    "purpose": "updated-parent",
+    "found": true
+  }
+]

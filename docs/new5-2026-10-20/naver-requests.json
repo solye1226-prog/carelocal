@@ -1,0 +1,93 @@
+[
+  {
+    "path": "silbi/yearend-medical-tax-insurance-reimbursement",
+    "url": "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement",
+    "purpose": "new",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /silbi/yearend-medical-tax-insurance-reimbursement\n           \n          26.10.20 11:16:52\n        "
+  },
+  {
+    "path": "claims/insurance-payment-statement-certificate",
+    "url": "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate",
+    "purpose": "new",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /claims/insurance-payment-statement-certificate\n           \n          26.10.20 11:17:02\n        "
+  },
+  {
+    "path": "silbi/personal-silbi-resume-after-group-end",
+    "url": "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end",
+    "purpose": "new",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /silbi/personal-silbi-resume-after-group-end\n           \n          26.10.20 11:17:28\n        "
+  },
+  {
+    "path": "silbi/overseas-stay-premium-refund-documents",
+    "url": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+    "purpose": "new",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /silbi/overseas-stay-premium-refund-documents\n           \n          26.10.20 11:18:57\n        "
+  },
+  {
+    "path": "silbi/hospital-receipt-vs-payment-certificate",
+    "url": "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate",
+    "purpose": "updated-parent",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /silbi/hospital-receipt-vs-payment-certificate\n           \n          26.10.20 11:19:38\n        "
+  },
+  {
+    "path": "claims/claim-paid-no-bank-deposit",
+    "url": "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit",
+    "purpose": "updated-parent",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /claims/claim-paid-no-bank-deposit\n           \n          26.10.20 11:19:51\n        "
+  },
+  {
+    "path": "claims/hidden-insurance-vs-unclaimed-medical-bills",
+    "url": "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills",
+    "purpose": "new",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /claims/hidden-insurance-vs-unclaimed-medical-bills\n           \n          26.10.20 11:20:29\n        "
+  },
+  {
+    "path": "silbi/group-silbi-after-resignation-claim",
+    "url": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "purpose": "updated-parent",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /silbi/group-silbi-after-resignation-claim\n           \n          26.10.20 11:20:52\n        "
+  },
+  {
+    "path": "standards/duplicate-vs-coinsurance",
+    "url": "https://hospital.hbuby.com/standards/duplicate-vs-coinsurance",
+    "purpose": "updated-parent",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /standards/duplicate-vs-coinsurance\n           \n          26.10.20 11:21:06\n        "
+  },
+  {
+    "path": "claims/overseas-hospital-bill-documents",
+    "url": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+    "purpose": "updated-parent",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /claims/overseas-hospital-bill-documents\n           \n          26.10.20 11:21:24\n        "
+  },
+  {
+    "path": "silbi/post-travel-domestic-followup-silbi",
+    "url": "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi",
+    "purpose": "updated-parent",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /silbi/post-travel-domestic-followup-silbi\n           \n          26.10.20 11:21:45\n        "
+  },
+  {
+    "path": "claims/insurance-claim-method",
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "purpose": "updated-parent",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /claims/insurance-claim-method\n           \n          26.10.20 11:22:34\n        "
+  },
+  {
+    "path": "standards/premium-benefit-surrender-value",
+    "url": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+    "purpose": "updated-parent",
+    "status": "request-accepted",
+    "history": "\n          1\n         \n            /standards/premium-benefit-surrender-value\n           \n          26.10.20 11:22:44\n        "
+  }
+]

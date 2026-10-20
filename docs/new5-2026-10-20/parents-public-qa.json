@@ -1,0 +1,17 @@
+[
+  {
+    "canonical": "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate",
+    "images": [
+      true,
+      true,
+      true
+    ],
+    "scroll": 1265,
+    "tables": true,
+    "width": 1280,
+    "number": 11,
+    "path": "silbi/hospital-receipt-vs-payment-certificate",
+    "mode": "parents-public",
+    "pass": true
+  }
+]

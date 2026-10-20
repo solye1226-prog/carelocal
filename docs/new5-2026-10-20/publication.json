@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "url": "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement",
+    "title": "실손보험금 연말정산 차감, 진료한 해와 받은 해가 다르면?",
+    "commit": "cb9cf64bdcede2669ab44d764698dea625de2db4",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement",
+    "checkedAt": "2026-10-20T11:05:48+0900"
+  },
+  {
+    "number": 2,
+    "url": "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate",
+    "title": "보험금 지급내역서 발급, 보험료 납입증명서와 무엇이 다를까?",
+    "commit": "7e12352fd041ac8feaf1ec32b93882b09210507b",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate",
+    "checkedAt": "2026-10-20T11:08:13+0900"
+  },
+  {
+    "number": 3,
+    "url": "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end",
+    "title": "퇴사 후 개인실손 재개 신청, 중지했던 보험은 어떻게 이어갈까?",
+    "commit": "bc7ca0fe020daaf1773d026fb266fa8c087dbc6c",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end",
+    "checkedAt": "2026-10-20T11:13:50+0900"
+  },
+  {
+    "number": 4,
+    "url": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+    "title": "해외 장기체류 실손보험료 환급, 귀국 후 어떤 서류를 준비할까?",
+    "commit": "60e8f7ef35bbfc142266cfa24bc5dc6451d6a480",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+    "checkedAt": "2026-10-20T11:17:36+0900"
+  },
+  {
+    "number": 5,
+    "url": "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills",
+    "title": "내보험찾아줌 숨은보험금 조회, 미청구 병원비도 확인될까?",
+    "commit": "685c16ed7ad9908b191a942e7e0896857fa01587",
+    "http": 200,
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills",
+    "checkedAt": "2026-10-20T11:19:43+0900"
+  }
+]

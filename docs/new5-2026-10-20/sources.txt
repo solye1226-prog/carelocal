@@ -1,0 +1,32 @@
+Official sources checked 2026-10-20. Company examples are explicitly labeled, not universal requirements.
+
+1. 실손보험금 연말정산 차감, 진료한 해와 받은 해가 다르면?
+https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7874&mi=6596
+국세청 의료비 세액공제 안내: 실비보험 등으로 보전받은 의료비의 공제 제외 기준
+https://www.nts.go.kr/webtv/na/ntt/selectNttInfo.do?mi=10718&nttSn=1292854
+국세청: 수령 연도와 지출 연도 구분: 의료비 지출 다음 해에 보험금을 받은 경우의 원칙 · 과거 안내의 해당 원칙만 참고
+
+2. 보험금 지급내역서 발급, 보험료 납입증명서와 무엇이 다를까?
+https://www.samsungfire.com/v2/html/customer/07/F_070_040_007.html
+삼성화재 온라인 증명서 발급 안내: 보험금지급내역서와 납입증명서 구분 · 해당 회사의 메뉴 예시
+
+3. 퇴사 후 개인실손 재개 신청, 중지했던 보험은 어떻게 이어갈까?
+https://www.fsc.go.kr/po010105/79180?curPage=1
+금융위원회 개인·단체실손 중지·재개 안내: 단체실손 종료 후 신청 기한과 재개 상품 선택의 적용 조건
+https://www.kbinsure.co.kr/CG208050001.ec
+KB손해보험 중복가입 중지·재개 안내: 담당자·신청 대상·상품 선택에 관한 회사별 안내
+
+4. 해외 장기체류 실손보험료 환급, 귀국 후 어떤 서류를 준비할까?
+https://www.kbinsure.co.kr/CG604010201.ec
+KB손해보험 해외장기체류 실손 환급 서류: 신청서·출입국사실증명서와 본인·계좌 확인 자료의 회사별 예시
+
+5. 내보험찾아줌 숨은보험금 조회, 미청구 병원비도 확인될까?
+https://www.fsc.go.kr/po010103/87270
+금융위원회 숨은보험금 안내: 지급금액이 확정됐으나 청구되지 않은 보험금의 정의와 공식 통합조회 경로
+https://cont.insure.or.kr/
+공식 내보험찾아줌 통합조회: 보험계약·숨은보험금 조회 안내 · 본인인증 및 이용 조건 확인
+
+NTS current page excludes reimbursed medical costs. NTS WebTV 2021 used only for the expenditure-year principle, not its historic UI or rates. Fictional 100/60/40 example describes remaining expenses, not a tax refund amount.
+Personal resumption: distinguish suspended/terminated policy, group end date, application and actual coverage start. One-month guidance and former-product exceptions attributed to official sources.
+Overseas refund: no universal minimum duration/full refund assertion. KB documents are one company example.
+Hidden insurance: fixed but unclaimed insurance payments are different from never-submitted medical bills.
