@@ -65,6 +65,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/dormant-insurance-payment-application",
+    "title": "휴면보험금 지급 신청, 보험사와 서민금융진흥원 중 어디로 할까?",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/downstairs-water-leak-insurance",
     "title": "아랫집 누수 보험 처리, 일상생활배상책임 청구 순서와 서류",
     "category": "보험금 청구"
