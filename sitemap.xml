@@ -119,7 +119,7 @@
   <url><loc>https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents</loc><lastmod>2026-09-19</lastmod><priority>0.9</priority></url>
   <url><loc>https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/full-partial-over-insurance</loc><lastmod>2026-09-22</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/standards/duplicate-vs-coinsurance</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/standards/duplicate-vs-coinsurance</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/indemnity-proportional-compensation</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/disclosure-vs-notification-duty</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://hospital.hbuby.com/standards/policyholder-insured-beneficiary</loc><lastmod>2026-09-22</lastmod></url>
@@ -405,7 +405,7 @@
   <url><loc>https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim</loc><lastmod>2026-10-19</lastmod></url>
@@ -413,4 +413,5 @@
   <url><loc>https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://hospital.hbuby.com/claims/insurance-payment-statement-certificate</loc><lastmod>2026-10-20</lastmod></url>
+<url><loc>https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end</loc><lastmod>2026-10-20</lastmod></url>
 </urlset>
