@@ -905,6 +905,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/cartistem-high-tibial-osteotomy-claim",
+    "title": "카티스템과 절골술을 함께 받았다면? 수술비·실비 청구 기록 나누기",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/cataract-surgery-benefit",
     "title": "백내장 수술비 몇 종일까? 인공수정체·수술명과 약관 확인 방법",
     "category": "수술비"
