@@ -1,0 +1,16 @@
+{
+  "checkedDate": "2026-10-21",
+  "medicalClaimsScope": "행위 명칭과 실제 기록의 구분만 설명. 치료 선택·효과·보험 지급 보장 없음. 구체적인 수가코드나 공통 종수는 싣지 않음.",
+  "sources": [
+    {"url":"https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html","verified":"수술 항목의 진단명·수술명·시행일과 선택서류, 추가자료 가능성. 회사별 예시로 한정."},
+    {"url":"https://www.snuh.org/content/M002005006.do","verified":"의무기록 사본발급 절차·본인 및 대리인 구비서류. 이 페이지를 수술확인서 FAQ의 직접 근거로 혼동하지 않음."},
+    {"url":"https://www.snuh.org/board/B052/view.do?bbs_no=4154","verified":"실제 FAQ 상세 화면에서 별도 수술확인서 대신 수술 내용을 적은 진단서 또는 수술기록지를 발급할 수 있다는 설명 확인. 기존 글의 FAQ 링크를 상세 주소로 수정."},
+    {"url":"https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000376","verified":"최초 백내장 수술과 후발백내장·인공수정체 탈구 등 구분. 개인의 진단은 의료진에게 확인."},
+    {"url":"https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002073788","verified":"대한안과학회지 원 연구 초록에서 인공수정체 탈구 및 공막 고정술의 행위 확인. 수치·효과를 본문에 일반화하지 않음."},
+    {"url":"https://news.amc.seoul.kr/news/con/detail.do?cntId=4870","verified":"치핵·치루 등 진단 구분과 치핵절제술·PPH 원형 자동문합기 방법 설명. 동시수술을 권하는 자료로 사용하지 않음."},
+    {"url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC7360989/","verified":"원 연구 본문에서 카티스템과 근위경골 절골술 병행 시행 기술 확인. 보험 지급 규정이 아님."},
+    {"url":"https://pubmed.ncbi.nlm.nih.gov/32003580/","verified":"담낭 아전절제술의 방법·절제 범위를 구분하는 원 논문과 그림 설명 확인. PMC 본문 접근이 제한되어 확인 가능한 PubMed 원 논문 정보로 연결."}
+  ],
+  "imageInspection": "생성 원본 15장 연락시트 확인. 썸네일의 짧은 한글 제목 5개와 문서·손·의료 장면을 검수. 본문 문서는 무기명 설명용 그림이며 실제 진료기록으로 소개하지 않음.",
+  "scope": "기존 대표 글 5편 본문 보완, 신규 5편, 신규 글로 연결되는 기존 글의 문맥 링크. 광고 설정·구글 색인 요청은 범위에 포함하지 않음."
+}
