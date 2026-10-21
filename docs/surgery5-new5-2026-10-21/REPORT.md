@@ -7,7 +7,7 @@
 - 기존 대표 글 5편 보완 및 공개 반영 확인. 신규 5편 순차 발행 완료. 관련 기존 글 2편은 문맥 내부링크만 추가.
 - 12개 페이지의 공개 head·main이 로컬 원본과 일치함을 확인. 이미지 36개 정상 응답, 자기 canonical 및 noindex 부재 확인.
 - 신규 5편과 기존 대표 5편의 PC·모바일 검수 기록은 local-qa.json 참조. 요청 크기와 실제 너비가 일치한 최종 통과 행만 유효함.
-- 네이버 수집 요청은 아직 미실행: 2026-10-22 세션 로그아웃. 관리 계정 로그인 후 naver-request-targets.json 12개를 순차 요청할 것.
+- 네이버 수집 요청 12개 접수 완료. 2026-10-22 08:27:59~08:30:02 KST 등록일 및 최종 요청 내역 1·2페이지로 대조함. 실제 수집 및 색인 완료는 확인되지 않음.
 - 이번 작업에서 Google 색인 요청·광고 설정은 변경하지 않음.
 
 ## 기존 대표 5편 보완
@@ -42,3 +42,10 @@
 - naver-request-targets.json: 수집 요청 대상 12개
 - same-day-table-mobile.png: 모바일 표 표시 검수
 - source-notes.json / duplicate-check.json: 근거·중복 의도 검토
+
+## 네이버 접수 증거
+
+- naver-request-status.json: 12개 접수, 남은 대상 0개, indexingConfirmed=false
+- naver-receipt-1.txt~12.txt: 개별 URL 접수 내역
+- naver-final-page1.txt 및 naver-final-page2.txt: 등록 목록 최종 대조
+- naver-receipts-page1.png 및 naver-receipts-page2.png: 최종 목록 화면
