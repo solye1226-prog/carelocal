@@ -225,6 +225,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/iol-implant-card-lost-records",
+    "title": "백내장 렌즈 카드를 잃어버렸다면? 인공수정체 종류·수술 기록 확인법",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/knee-surgery-claim-documents",
     "title": "무릎 수술 보험금 청구서류, 관절경·인공관절 수술명별 확인 방법",
     "category": "보험금 청구"
