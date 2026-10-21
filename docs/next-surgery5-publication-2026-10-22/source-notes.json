@@ -1,0 +1,28 @@
+{
+  "checkedDate": "2026-10-22",
+  "medicalSources": {
+    "PTBD": "KNUH actual definition and route confirmed",
+    "seton": "SNUH full treatment paragraph now confirmed, unlike earlier extraction",
+    "lensCard": "Bausch + Lomb PIC primary page verified; no universal Korean issuance claim"
+  },
+  "policy4": {
+    "url": "https://d.samsungfire.com/docs/realloss.pdf",
+    "product": "삼성화재 다이렉트 2605.1 실손의료비보험 계약전환용",
+    "pdfPage": 46,
+    "printedPage": 45,
+    "scope": "입원 정의의 필요성·재택치료곤란·의료기관·관리·체류 요건, 재활 비용 용어. 조건 전체는 본인약관. 지급률·특정 치료 적응증 제시 없음"
+  },
+  "policy5": {
+    "url": "https://mdirect.hi.co.kr/dhNAS/terms/CM149C_20241001.pdf",
+    "product": "현대해상 다이렉트 실손의료비보장보험(갱신형) Hi2407",
+    "pdfPages": [
+      41,
+      62,
+      63
+    ],
+    "scope": "질병급여 지급사유와 검사·마취 비용 구분. 수술 취소 전용 보장 규정으로 소개하지 않음. 비급여 담보·공제·제외는 개인약관으로 확인"
+  },
+  "imageQA": "15-image contact sheet visually inspected. Korean covers correct, no identifiable data or graphic procedures; generated illustrations disclosed.",
+  "imageMode": "built-in imagegen",
+  "promptFile": "image-prompts.json"
+}

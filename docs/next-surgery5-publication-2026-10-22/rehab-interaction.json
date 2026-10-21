@@ -1,0 +1,21 @@
+{
+  "faqOpen": 1,
+  "images": [
+    {
+      "loaded": true,
+      "src": "/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-thumb.webp"
+    },
+    {
+      "loaded": true,
+      "src": "/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-body1.webp"
+    },
+    {
+      "loaded": true,
+      "src": "/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-body2.webp"
+    }
+  ],
+  "policy": [
+    "https://d.samsungfire.com/docs/realloss.pdf#page=46",
+    "https://d.samsungfire.com/docs/realloss.pdf#page=46"
+  ]
+}

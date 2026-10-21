@@ -1,0 +1,15 @@
+{
+  "count": 382,
+  "terms": {
+    "PTBD": [],
+    "세톤": [],
+    "렌즈 카드": [],
+    "환자 카드": [],
+    "재활병원": [],
+    "재활 입원": [],
+    "수술 취소": [],
+    "수술이 취소": [],
+    "수술을 취소": []
+  },
+  "limitation": "Exact-term scan plus manual comparison of neighboring pages; absence of a term alone is not proof of unique intent."
+}

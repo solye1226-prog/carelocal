@@ -1,0 +1,456 @@
+[
+  {
+    "path": "surgery-benefit/ptbd-biliary-drainage-insurance",
+    "url": "https://hospital.hbuby.com/surgery-benefit/ptbd-biliary-drainage-insurance",
+    "http": 200,
+    "title": "담도 배액술 PTBD 수술비, ERCP·담낭절제술과 청구 기록은 어떻게 다를까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/ptbd-biliary-drainage-insurance",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/ptbd-biliary-drainage-insurance-thumb.webp",
+        "status": 200,
+        "bytes": 102960
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/ptbd-biliary-drainage-insurance-body1.webp",
+        "status": 200,
+        "bytes": 96554
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/ptbd-biliary-drainage-insurance-body2.webp",
+        "status": 200,
+        "bytes": 117162
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "surgery-benefit/anal-fistula-seton-staged-claim",
+    "url": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-seton-staged-claim",
+    "http": 200,
+    "title": "치루 세톤 수술 보험금, 설치·조임·제거 기록을 어떻게 나눌까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-seton-staged-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-seton-staged-claim-thumb.webp",
+        "status": 200,
+        "bytes": 97356
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-seton-staged-claim-body1.webp",
+        "status": 200,
+        "bytes": 94318
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-seton-staged-claim-body2.webp",
+        "status": 200,
+        "bytes": 126586
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "claims/iol-implant-card-lost-records",
+    "url": "https://hospital.hbuby.com/claims/iol-implant-card-lost-records",
+    "http": 200,
+    "title": "백내장 렌즈 카드를 잃어버렸다면? 인공수정체 종류·수술 기록 확인법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/iol-implant-card-lost-records",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-implant-card-lost-records-thumb.webp",
+        "status": 200,
+        "bytes": 111558
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-implant-card-lost-records-body1.webp",
+        "status": 200,
+        "bytes": 96992
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-implant-card-lost-records-body2.webp",
+        "status": 200,
+        "bytes": 98842
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "url": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "http": 200,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-thumb.webp",
+        "status": 200,
+        "bytes": 107174
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-body1.webp",
+        "status": 200,
+        "bytes": 111696
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-body2.webp",
+        "status": 200,
+        "bytes": 108322
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "silbi/cancelled-surgery-test-anesthesia-claim",
+    "url": "https://hospital.hbuby.com/silbi/cancelled-surgery-test-anesthesia-claim",
+    "http": 200,
+    "title": "수술이 취소됐는데 검사비·마취비가 나왔다면? 실비 청구 전 정산 확인",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/cancelled-surgery-test-anesthesia-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cancelled-surgery-test-anesthesia-claim-thumb.webp",
+        "status": 200,
+        "bytes": 94822
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cancelled-surgery-test-anesthesia-claim-body1.webp",
+        "status": 200,
+        "bytes": 92098
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cancelled-surgery-test-anesthesia-claim-body2.webp",
+        "status": 200,
+        "bytes": 110340
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "surgery-benefit/subtotal-cholecystectomy-insurance-documents",
+    "url": "https://hospital.hbuby.com/surgery-benefit/subtotal-cholecystectomy-insurance-documents",
+    "http": 200,
+    "title": "담낭 아전절제술 보험금 청구, 전절제·개복 전환과 기록 구분하기",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/subtotal-cholecystectomy-insurance-documents",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/subtotal-cholecystectomy-insurance-documents-thumb.webp",
+        "status": 200,
+        "bytes": 101506
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/subtotal-cholecystectomy-insurance-documents-body1.webp",
+        "status": 200,
+        "bytes": 78700
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/subtotal-cholecystectomy-insurance-documents-body2.webp",
+        "status": 200,
+        "bytes": 74764
+      }
+    ],
+    "linksToNew": [
+      "/surgery-benefit/ptbd-biliary-drainage-insurance"
+    ]
+  },
+  {
+    "path": "surgery-benefit/gallbladder-ercp-combined-claim",
+    "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim",
+    "http": 200,
+    "title": "담낭절제술과 ERCP를 모두 받았다면 수술비는 각각 청구할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/gallbladder-ercp-combined-claim-thumb.webp",
+        "status": 200,
+        "bytes": 50126
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/gallbladder-surgery-benefit-consult.webp",
+        "status": 200,
+        "bytes": 81664
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/gallbladder-surgery-benefit-documents.webp",
+        "status": 200,
+        "bytes": 90646
+      }
+    ],
+    "linksToNew": [
+      "/surgery-benefit/ptbd-biliary-drainage-insurance"
+    ]
+  },
+  {
+    "path": "surgery-benefit/hemorrhoid-fistula-same-day-claim",
+    "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-fistula-same-day-claim",
+    "http": 200,
+    "title": "치핵·치루 동시수술 보험금, 두 수술명과 지급 단위 확인법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-fistula-same-day-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-fistula-same-day-claim-thumb.webp",
+        "status": 200,
+        "bytes": 130258
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-fistula-same-day-claim-body1.webp",
+        "status": 200,
+        "bytes": 108562
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-fistula-same-day-claim-body2.webp",
+        "status": 200,
+        "bytes": 81264
+      }
+    ],
+    "linksToNew": [
+      "/surgery-benefit/anal-fistula-seton-staged-claim"
+    ]
+  },
+  {
+    "path": "surgery-benefit/anal-fistula-surgery-benefit",
+    "url": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit",
+    "http": 200,
+    "title": "치루 수술비 보험금, 치핵 수술과 약관 기준이 다를까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-surgery-thumb.webp",
+        "status": 200,
+        "bytes": 68698
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-surgery-consult.webp",
+        "status": 200,
+        "bytes": 75556
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-surgery-policy.webp",
+        "status": 200,
+        "bytes": 98452
+      }
+    ],
+    "linksToNew": [
+      "/surgery-benefit/anal-fistula-seton-staged-claim"
+    ]
+  },
+  {
+    "path": "surgery-benefit/iol-dislocation-reoperation-insurance",
+    "url": "https://hospital.hbuby.com/surgery-benefit/iol-dislocation-reoperation-insurance",
+    "http": 200,
+    "title": "인공수정체 탈구 재수술 보험금, 처음 백내장 수술과 기록을 나누는 법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/iol-dislocation-reoperation-insurance",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-dislocation-reoperation-insurance-thumb.webp",
+        "status": 200,
+        "bytes": 116290
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-dislocation-reoperation-insurance-body1.webp",
+        "status": 200,
+        "bytes": 141740
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-dislocation-reoperation-insurance-body2.webp",
+        "status": 200,
+        "bytes": 80032
+      }
+    ],
+    "linksToNew": [
+      "/claims/iol-implant-card-lost-records"
+    ]
+  },
+  {
+    "path": "claims/cataract-multifocal-lens-silbi",
+    "url": "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi",
+    "http": 200,
+    "title": "백내장 다초점 인공수정체 비용, 실비보험은 어디까지 확인할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cataract-multifocal-thumb.webp",
+        "status": 200,
+        "bytes": 113920
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cataract-multifocal-consult.webp",
+        "status": 200,
+        "bytes": 121790
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cataract-multifocal-cost.webp",
+        "status": 200,
+        "bytes": 96454
+      }
+    ],
+    "linksToNew": [
+      "/claims/iol-implant-card-lost-records"
+    ]
+  },
+  {
+    "path": "surgery-benefit/cartistem-high-tibial-osteotomy-claim",
+    "url": "https://hospital.hbuby.com/surgery-benefit/cartistem-high-tibial-osteotomy-claim",
+    "http": 200,
+    "title": "카티스템과 절골술을 함께 받았다면? 수술비·실비 청구 기록 나누기",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/cartistem-high-tibial-osteotomy-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cartistem-high-tibial-osteotomy-claim-thumb.webp",
+        "status": 200,
+        "bytes": 132826
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cartistem-high-tibial-osteotomy-claim-body1.webp",
+        "status": 200,
+        "bytes": 86956
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cartistem-high-tibial-osteotomy-claim-body2.webp",
+        "status": 200,
+        "bytes": 74188
+      }
+    ],
+    "linksToNew": [
+      "/silbi/knee-surgery-rehabilitation-hospital-transfer-claim"
+    ]
+  },
+  {
+    "path": "silbi/cartistem-silbi-claim",
+    "url": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+    "http": 200,
+    "title": "카티스템 실비 청구 가능할까? 재료대·수술료 구분과 필요서류",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cartistem-silbi-claim-thumb.webp",
+        "status": 200,
+        "bytes": 65430
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cartistem-silbi-claim-bill.webp",
+        "status": 200,
+        "bytes": 92582
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cartistem-silbi-claim-policy.webp",
+        "status": 200,
+        "bytes": 100308
+      }
+    ],
+    "linksToNew": [
+      "/silbi/knee-surgery-rehabilitation-hospital-transfer-claim"
+    ]
+  },
+  {
+    "path": "surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+    "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+    "http": 200,
+    "title": "PPH 치핵 수술 보험금, 절제술·고무밴드 결찰술과 무엇이 다를까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-pph-stapled-surgery-claim-thumb.webp",
+        "status": 200,
+        "bytes": 95298
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-pph-stapled-surgery-claim-body1.webp",
+        "status": 200,
+        "bytes": 91736
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-pph-stapled-surgery-claim-body2.webp",
+        "status": 200,
+        "bytes": 81022
+      }
+    ],
+    "linksToNew": [
+      "/silbi/cancelled-surgery-test-anesthesia-claim"
+    ]
+  },
+  {
+    "path": "silbi/cataract-preoperative-test-claim",
+    "url": "https://hospital.hbuby.com/silbi/cataract-preoperative-test-claim",
+    "http": 200,
+    "title": "백내장 수술 전 검사비 실비, 수술비 영수증과 어떻게 나눠 청구할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/cataract-preoperative-test-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cataract-preoperative-test-claim-thumb.webp",
+        "status": 200,
+        "bytes": 76224
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-claim-documents-checklist.webp",
+        "status": 200,
+        "bytes": 79832
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/gallbladder-surgery-benefit-documents.webp",
+        "status": 200,
+        "bytes": 90646
+      }
+    ],
+    "linksToNew": [
+      "/silbi/cancelled-surgery-test-anesthesia-claim"
+    ]
+  },
+  {
+    "path": "claims/surgery-claim-documents",
+    "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "http": 200,
+    "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-claim-documents-thumb-cardnews-v2.webp",
+        "status": 200,
+        "bytes": 94038
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-claim-documents-checklist.webp",
+        "status": 200,
+        "bytes": 79832
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-claim-documents-mobile.webp",
+        "status": 200,
+        "bytes": 84808
+      }
+    ],
+    "linksToNew": [
+      "/silbi/cancelled-surgery-test-anesthesia-claim"
+    ]
+  }
+]

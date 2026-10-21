@@ -1,0 +1,56 @@
+{
+  "result": "PASS",
+  "checks": [
+    {
+      "number": 1,
+      "titleMatches": true,
+      "images": 3,
+      "tables": 1,
+      "officialLinks": 3,
+      "selfCanonical": true,
+      "publishedDate": "2026-10-22",
+      "policyScopePass": null
+    },
+    {
+      "number": 2,
+      "titleMatches": true,
+      "images": 3,
+      "tables": 1,
+      "officialLinks": 3,
+      "selfCanonical": true,
+      "publishedDate": "2026-10-22",
+      "policyScopePass": null
+    },
+    {
+      "number": 3,
+      "titleMatches": true,
+      "images": 3,
+      "tables": 1,
+      "officialLinks": 3,
+      "selfCanonical": true,
+      "publishedDate": "2026-10-22",
+      "policyScopePass": null
+    },
+    {
+      "number": 4,
+      "titleMatches": true,
+      "images": 3,
+      "tables": 1,
+      "officialLinks": 3,
+      "selfCanonical": true,
+      "publishedDate": "2026-10-22",
+      "policyScopePass": true
+    },
+    {
+      "number": 5,
+      "titleMatches": true,
+      "images": 3,
+      "tables": 1,
+      "officialLinks": 3,
+      "selfCanonical": true,
+      "publishedDate": "2026-10-22",
+      "policyScopePass": true
+    }
+  ],
+  "rationale": "Independent questions, conditional insurance statements, actual records, source roles distinguished. Policy examples identify product and PDF page; no guaranteed payouts or universal surgery classes."
+}
