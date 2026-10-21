@@ -415,6 +415,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/cancelled-surgery-test-anesthesia-claim",
+    "title": "수술이 취소됐는데 검사비·마취비가 나왔다면? 실비 청구 전 정산 확인",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/cartistem-medical-necessity-supplement",
     "title": "카티스템 실비 심사에서 치료 필요성 자료를 요청받았다면?",
     "category": "실비보험"
