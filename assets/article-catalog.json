@@ -1080,6 +1080,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/ptbd-biliary-drainage-insurance",
+    "title": "담도 배액술 PTBD 수술비, ERCP·담낭절제술과 청구 기록은 어떻게 다를까?",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/pterygium-excision-graft-claim",
     "title": "익상편 제거 수술비, 결막이식 기록과 치료 목적 확인",
     "category": "수술비"
