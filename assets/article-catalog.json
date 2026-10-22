@@ -1780,6 +1780,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/inpatient-personal-medicine-handover",
+    "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/iol-mri-device-information-check",
     "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
     "category": "방문 가이드"
