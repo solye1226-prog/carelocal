@@ -1285,6 +1285,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/closed-hospital-consumer-relief-eligibility",
+    "title": "병원 폐업 환불, 소비자원에 접수하면 될까? 연락두절·피해구제 제외 사유",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/closed-hospital-prepaid-card-installment",
     "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
     "category": "치료비"
@@ -1862,6 +1867,11 @@
   {
     "path": "/guides/pathology-slide-loan-return",
     "title": "병리 슬라이드 대출, 조직검사 결과지와 다른 점·비용·반납 확인",
+    "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/patient-drug-adverse-event-report",
+    "title": "조영제 이상반응, 환자도 직접 보고할 수 있을까? 신고 전 준비할 정보",
     "category": "방문 가이드"
   },
   {
