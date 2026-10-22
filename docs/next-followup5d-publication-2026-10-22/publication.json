@@ -1,0 +1,52 @@
+[
+  {
+    "label": "new1",
+    "path": "guides/unused-prescription-medicine-disposal",
+    "url": "https://hospital.hbuby.com/guides/unused-prescription-medicine-disposal",
+    "title": "퇴원 후 남은 약, 어디에 버릴까? 폐의약품 수거함·물약 배출 확인",
+    "http": 200,
+    "commit": "7b43d2f019c827c48a3de2d0fc0c81b52ad1a341",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T11:07:39+0900"
+  },
+  {
+    "label": "new2",
+    "path": "guides/mri-cgm-insulin-pump-preparation",
+    "url": "https://hospital.hbuby.com/guides/mri-cgm-insulin-pump-preparation",
+    "title": "연속혈당측정기·인슐린펌프 착용 중 MRI, 검사 전에 무엇을 확인할까?",
+    "http": 200,
+    "commit": "7f3b6cd1b9e8f6415865f45d98ade37680758bed",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T11:09:24+0900"
+  },
+  {
+    "label": "new3",
+    "path": "guides/longtermcare-home-nursing-order-documents",
+    "url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-order-documents",
+    "title": "방문간호지시서 발급, 퇴원 소견서와 무엇이 다를까? 준비서류·비용 확인",
+    "http": 200,
+    "commit": "ea357b77245c4480ff86f32cd842171061575f9d",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T11:10:58+0900"
+  },
+  {
+    "label": "new4",
+    "path": "guides/patient-drug-adverse-event-report",
+    "url": "https://hospital.hbuby.com/guides/patient-drug-adverse-event-report",
+    "title": "조영제 이상반응, 환자도 직접 보고할 수 있을까? 신고 전 준비할 정보",
+    "http": 200,
+    "commit": "7eb0628fcdc343f965b8675a3c6c1a2598c1ebec",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T11:14:05+0900"
+  },
+  {
+    "label": "new5",
+    "path": "treatment-costs/closed-hospital-consumer-relief-eligibility",
+    "url": "https://hospital.hbuby.com/treatment-costs/closed-hospital-consumer-relief-eligibility",
+    "title": "병원 폐업 환불, 소비자원에 접수하면 될까? 연락두절·피해구제 제외 사유",
+    "http": 200,
+    "commit": "7b8284cdf1f6b8bb01066f4cf5efcca2f0fd5860",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T11:19:23+0900"
+  }
+]

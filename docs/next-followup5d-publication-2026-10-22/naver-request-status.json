@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-22T11:21:00.864549+09:00",
+  "newlyAccepted": 0,
+  "status": "prior-same-day-site-quota-exceeded",
+  "quotaEvidence": "docs/next-followup5b-publication-2026-10-22/naver-quota-exceeded.txt",
+  "currentTargets": 15,
+  "combinedPending": 24,
+  "indexingConfirmed": false,
+  "note": "Same-day terminal quota already confirmed; no repeated submission attempted. Pending URLs are request candidates, not confirmed unindexed pages."
+}

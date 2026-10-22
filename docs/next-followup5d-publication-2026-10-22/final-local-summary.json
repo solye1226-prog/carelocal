@@ -1,0 +1,57 @@
+{
+  "viewportChecks": 60,
+  "allLatestPass": true,
+  "failedEarlierAttempts": 2,
+  "parentPreservation": [
+    {
+      "path": "guides/inpatient-personal-medicine-handover",
+      "originalMainTextPreserved": true,
+      "newLink": "guides/unused-prescription-medicine-disposal"
+    },
+    {
+      "path": "guides/hira-medication-history-before-admission",
+      "originalMainTextPreserved": true,
+      "newLink": "guides/unused-prescription-medicine-disposal"
+    },
+    {
+      "path": "guides/mri-transdermal-patch-check",
+      "originalMainTextPreserved": true,
+      "newLink": "guides/mri-cgm-insulin-pump-preparation"
+    },
+    {
+      "path": "treatment-costs/continuous-glucose-monitor-device-sensor-support",
+      "originalMainTextPreserved": true,
+      "newLink": "guides/mri-cgm-insulin-pump-preparation"
+    },
+    {
+      "path": "guides/postdischarge-home-rehabilitation-consultation",
+      "originalMainTextPreserved": true,
+      "newLink": "guides/longtermcare-home-nursing-order-documents"
+    },
+    {
+      "path": "guides/home-nursing-before-discharge",
+      "originalMainTextPreserved": true,
+      "newLink": "guides/longtermcare-home-nursing-order-documents"
+    },
+    {
+      "path": "claims/contrast-adverse-reaction-relief-documents",
+      "originalMainTextPreserved": true,
+      "newLink": "guides/patient-drug-adverse-event-report"
+    },
+    {
+      "path": "guides/contrast-reaction-drug-safety-card",
+      "originalMainTextPreserved": true,
+      "newLink": "guides/patient-drug-adverse-event-report"
+    },
+    {
+      "path": "treatment-costs/hospital-refund-notice-delivery-records",
+      "originalMainTextPreserved": true,
+      "newLink": "treatment-costs/closed-hospital-consumer-relief-eligibility"
+    },
+    {
+      "path": "treatment-costs/closed-hospital-prepaid-card-installment",
+      "originalMainTextPreserved": true,
+      "newLink": "treatment-costs/closed-hospital-consumer-relief-eligibility"
+    }
+  ]
+}
