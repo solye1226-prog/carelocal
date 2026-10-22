@@ -1,0 +1,52 @@
+[
+  {
+    "label": "new1",
+    "path": "guides/inpatient-personal-medicine-handover",
+    "url": "https://hospital.hbuby.com/guides/inpatient-personal-medicine-handover",
+    "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
+    "http": 200,
+    "commit": "ab3c58e4ed0811ff769fc099ca09403816c6367b",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T10:38:20+0900"
+  },
+  {
+    "label": "new2",
+    "path": "guides/mri-transdermal-patch-check",
+    "url": "https://hospital.hbuby.com/guides/mri-transdermal-patch-check",
+    "title": "MRI 검사 전 붙이는 약·파스, 제거 여부는 어디에 확인할까?",
+    "http": 200,
+    "commit": "1a6056876b96ae42cf0eff8b5ebd38548a144d97",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T10:39:37+0900"
+  },
+  {
+    "label": "new3",
+    "path": "guides/postdischarge-home-rehabilitation-consultation",
+    "url": "https://hospital.hbuby.com/guides/postdischarge-home-rehabilitation-consultation",
+    "title": "재활병원 퇴원 후 방문재활, 대상·비용은 어디에 물어볼까?",
+    "http": 200,
+    "commit": "1ae31d58c015886cdace71dc73f2c9abf73506db",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T10:40:57+0900"
+  },
+  {
+    "label": "new4",
+    "path": "claims/contrast-adverse-reaction-relief-documents",
+    "url": "https://hospital.hbuby.com/claims/contrast-adverse-reaction-relief-documents",
+    "title": "조영제 부작용으로 치료받았다면? 의약품 피해구제 상담·서류 준비",
+    "http": 200,
+    "commit": "281b0a0dbc01e9e752c3ace1f8514c7eec1b5e62",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T10:42:16+0900"
+  },
+  {
+    "label": "new5",
+    "path": "treatment-costs/hospital-refund-notice-delivery-records",
+    "url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-notice-delivery-records",
+    "title": "병원 환불 내용증명이 반송됐다면? 발송·배달 기록 구분법",
+    "http": 200,
+    "commit": "cc8999d84b29a515c340dbaafcb7946e930fd0f8",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T10:44:09+0900"
+  }
+]

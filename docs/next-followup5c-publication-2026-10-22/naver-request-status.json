@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-22",
+  "newRequestsAccepted": 0,
+  "status": "quota-exceeded-previously-confirmed-same-day",
+  "reason": "사이트별 일간 최대 요청 수를 초과하였습니다.",
+  "evidence": "../next-followup5b-publication-2026-10-22/naver-quota-exceeded.txt",
+  "previousPending": 6,
+  "currentChangedTargets": 15,
+  "combinedPending": 17,
+  "pending": [
+    "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "https://hospital.hbuby.com/guides/hira-medication-history-before-admission",
+    "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "https://hospital.hbuby.com/claims/closed-hospital-records-request",
+    "https://hospital.hbuby.com/guides/inpatient-personal-medicine-handover",
+    "https://hospital.hbuby.com/guides/mri-transdermal-patch-check",
+    "https://hospital.hbuby.com/guides/postdischarge-home-rehabilitation-consultation",
+    "https://hospital.hbuby.com/claims/contrast-adverse-reaction-relief-documents",
+    "https://hospital.hbuby.com/treatment-costs/hospital-refund-notice-delivery-records",
+    "https://hospital.hbuby.com/guides/nursing-hospital-referral-prescription-medicine",
+    "https://hospital.hbuby.com/silbi/sedation-mri-cost-claim",
+    "https://hospital.hbuby.com/guides/recovery-rehabilitation-designation-transfer-check",
+    "https://hospital.hbuby.com/guides/contrast-reaction-drug-safety-card",
+    "https://hospital.hbuby.com/guides/medical-dispute-counselling-records",
+    "https://hospital.hbuby.com/treatment-costs/closed-hospital-prepaid-card-installment"
+  ],
+  "indexingConfirmed": false,
+  "note": "No duplicate same-day requests attempted; publication and index completion are separate."
+}

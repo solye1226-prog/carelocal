@@ -1,0 +1,1247 @@
+[
+  {
+    "label": "new1",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 950,
+        "width": 320,
+        "y": 2113.890625
+      }
+    ]
+  },
+  {
+    "label": "new1",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 950,
+        "width": 350,
+        "y": 1986.84375
+      }
+    ]
+  },
+  {
+    "label": "new1",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 367.578125,
+        "width": 744,
+        "y": 1863.25
+      }
+    ]
+  },
+  {
+    "label": "new2",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "MRI 검사 전 붙이는 약·파스, 제거 여부는 어디에 확인할까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 320,
+        "y": 2009.90625
+      }
+    ]
+  },
+  {
+    "label": "new2",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "MRI 검사 전 붙이는 약·파스, 제거 여부는 어디에 확인할까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 350,
+        "y": 2012.21875
+      }
+    ]
+  },
+  {
+    "label": "new2",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "MRI 검사 전 붙이는 약·파스, 제거 여부는 어디에 확인할까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 338.78125,
+        "width": 744,
+        "y": 1863.25
+      }
+    ]
+  },
+  {
+    "label": "public1",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 950,
+        "width": 320,
+        "y": 2474.890625
+      }
+    ]
+  },
+  {
+    "label": "public1",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 950,
+        "width": 335,
+        "y": 2767.40625
+      }
+    ]
+  },
+  {
+    "label": "public1",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/inpatient-personal-medicine-handover-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 367.578125,
+        "width": 744,
+        "y": 2439.25
+      }
+    ]
+  },
+  {
+    "label": "new3",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "재활병원 퇴원 후 방문재활, 대상·비용은 어디에 물어볼까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 922,
+        "width": 320,
+        "y": 2153.65625
+      }
+    ]
+  },
+  {
+    "label": "new3",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "재활병원 퇴원 후 방문재활, 대상·비용은 어디에 물어볼까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 350,
+        "y": 2124.53125
+      }
+    ]
+  },
+  {
+    "label": "new3",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "재활병원 퇴원 후 방문재활, 대상·비용은 어디에 물어볼까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 367.578125,
+        "width": 744,
+        "y": 1983.8125
+      }
+    ]
+  },
+  {
+    "label": "parent1",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 1006,
+        "width": 305,
+        "y": 2627.109375
+      }
+    ]
+  },
+  {
+    "label": "parent1",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 978,
+        "width": 335,
+        "y": 2595.625
+      }
+    ]
+  },
+  {
+    "label": "parent1",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 425.171875,
+        "width": 744,
+        "y": 2279.8125
+      }
+    ]
+  },
+  {
+    "label": "parent2",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 667.75,
+        "width": 305,
+        "y": 1852.8125
+      }
+    ]
+  },
+  {
+    "label": "parent2",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 667.75,
+        "width": 335,
+        "y": 1833.875
+      }
+    ]
+  },
+  {
+    "label": "parent2",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 276.984375,
+        "width": 744,
+        "y": 1738.8125
+      }
+    ]
+  },
+  {
+    "label": "public2",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "MRI 검사 전 붙이는 약·파스, 제거 여부는 어디에 확인할까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 320,
+        "y": 2370.90625
+      }
+    ]
+  },
+  {
+    "label": "public2",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "MRI 검사 전 붙이는 약·파스, 제거 여부는 어디에 확인할까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 335,
+        "y": 2761.34375
+      }
+    ]
+  },
+  {
+    "label": "public2",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "MRI 검사 전 붙이는 약·파스, 제거 여부는 어디에 확인할까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/mri-transdermal-patch-check-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 338.78125,
+        "width": 744,
+        "y": 2439.25
+      }
+    ]
+  },
+  {
+    "label": "new4",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "조영제 부작용으로 치료받았다면? 의약품 피해구제 상담·서류 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 320,
+        "y": 1482.375
+      }
+    ]
+  },
+  {
+    "label": "new4",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "조영제 부작용으로 치료받았다면? 의약품 피해구제 상담·서류 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 350,
+        "y": 1430.3125
+      }
+    ]
+  },
+  {
+    "label": "new4",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "조영제 부작용으로 치료받았다면? 의약품 피해구제 상담·서류 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 309.984375,
+        "width": 744,
+        "y": 1265.125
+      }
+    ]
+  },
+  {
+    "label": "parent3",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 950,
+        "width": 305,
+        "y": 2420.3125
+      }
+    ]
+  },
+  {
+    "label": "parent3",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 894,
+        "width": 335,
+        "y": 2388.796875
+      }
+    ]
+  },
+  {
+    "label": "parent3",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 396.375,
+        "width": 744,
+        "y": 2193.078125
+      }
+    ]
+  },
+  {
+    "label": "parent4",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 1006,
+        "width": 305,
+        "y": 3554.984375
+      }
+    ]
+  },
+  {
+    "label": "parent4",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 950,
+        "width": 335,
+        "y": 3430.140625
+      }
+    ]
+  },
+  {
+    "label": "parent4",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 425.171875,
+        "width": 744,
+        "y": 2932.1875
+      }
+    ]
+  },
+  {
+    "label": "public3",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "재활병원 퇴원 후 방문재활, 대상·비용은 어디에 물어볼까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 922,
+        "width": 320,
+        "y": 2514.65625
+      }
+    ]
+  },
+  {
+    "label": "public3",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "재활병원 퇴원 후 방문재활, 대상·비용은 어디에 물어볼까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 922,
+        "width": 335,
+        "y": 3280.09375
+      }
+    ]
+  },
+  {
+    "label": "public3",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "재활병원 퇴원 후 방문재활, 대상·비용은 어디에 물어볼까?",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/postdischarge-home-rehabilitation-consultation-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 367.578125,
+        "width": 744,
+        "y": 2839.8125
+      }
+    ]
+  },
+  {
+    "label": "parent5",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 978,
+        "width": 305,
+        "y": 2567.84375
+      }
+    ]
+  },
+  {
+    "label": "parent5",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 950,
+        "width": 335,
+        "y": 2711.265625
+      }
+    ]
+  },
+  {
+    "label": "parent5",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 396.375,
+        "width": 744,
+        "y": 2282.046875
+      }
+    ]
+  },
+  {
+    "label": "parent6",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 894,
+        "width": 305,
+        "y": 2830.8125
+      }
+    ]
+  },
+  {
+    "label": "parent6",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 894,
+        "width": 335,
+        "y": 2391.453125
+      }
+    ]
+  },
+  {
+    "label": "parent6",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "pass": true,
+    "images": [],
+    "table": [
+      {
+        "height": 309.984375,
+        "width": 744,
+        "y": 2158.4375
+      }
+    ]
+  },
+  {
+    "label": "new5",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "병원 환불 내용증명이 반송됐다면? 발송·배달 기록 구분법",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 950,
+        "width": 320,
+        "y": 1513.0625
+      }
+    ]
+  },
+  {
+    "label": "new5",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "병원 환불 내용증명이 반송됐다면? 발송·배달 기록 구분법",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 922,
+        "width": 350,
+        "y": 1428.609375
+      }
+    ]
+  },
+  {
+    "label": "new5",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "병원 환불 내용증명이 반송됐다면? 발송·배달 기록 구분법",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 367.578125,
+        "width": 744,
+        "y": 1265.125
+      }
+    ]
+  },
+  {
+    "label": "public4",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "조영제 부작용으로 치료받았다면? 의약품 피해구제 상담·서류 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 320,
+        "y": 1843.375
+      }
+    ]
+  },
+  {
+    "label": "public4",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "조영제 부작용으로 치료받았다면? 의약품 피해구제 상담·서류 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 894,
+        "width": 350,
+        "y": 2196.3125
+      }
+    ]
+  },
+  {
+    "label": "public4",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "조영제 부작용으로 치료받았다면? 의약품 피해구제 상담·서류 준비",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-adverse-reaction-relief-documents-body2.webp"
+      }
+    ],
+    "table": [
+      {
+        "height": 309.984375,
+        "width": 744,
+        "y": 1841.125
+      }
+    ]
+  },
+  {
+    "label": "public5",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "병원 환불 내용증명이 반송됐다면? 발송·배달 기록 구분법",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body2.webp"
+      }
+    ]
+  },
+  {
+    "label": "public5",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "병원 환불 내용증명이 반송됐다면? 발송·배달 기록 구분법",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body2.webp"
+      }
+    ]
+  },
+  {
+    "label": "public5",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "병원 환불 내용증명이 반송됐다면? 발송·배달 기록 구분법",
+    "pass": true,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/hospital-refund-notice-delivery-records-body2.webp"
+      }
+    ]
+  },
+  {
+    "label": "parent8",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "의료분쟁 상담 전 준비할 자료, 진료기록과 날짜를 어떻게 정리할까?",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent8",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "의료분쟁 상담 전 준비할 자료, 진료기록과 날짜를 어떻게 정리할까?",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent8",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "의료분쟁 상담 전 준비할 자료, 진료기록과 날짜를 어떻게 정리할까?",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent7",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent7",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent7",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent9",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent9",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent9",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent10",
+    "width": 360,
+    "actual": 360,
+    "scroll": 345,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent10",
+    "width": 390,
+    "actual": 390,
+    "scroll": 375,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "pass": true,
+    "images": []
+  },
+  {
+    "label": "parent10",
+    "width": 1280,
+    "actual": 1280,
+    "scroll": 1265,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "pass": true,
+    "images": []
+  }
+]

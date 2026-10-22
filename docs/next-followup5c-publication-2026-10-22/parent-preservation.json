@@ -1,0 +1,72 @@
+[
+  {
+    "path": "guides/nursing-hospital-referral-prescription-medicine",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/guides/inpatient-personal-medicine-handover"
+    ]
+  },
+  {
+    "path": "guides/hira-medication-history-before-admission",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/guides/inpatient-personal-medicine-handover"
+    ]
+  },
+  {
+    "path": "silbi/sedation-mri-cost-claim",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/guides/mri-transdermal-patch-check"
+    ]
+  },
+  {
+    "path": "guides/iol-mri-device-information-check",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/guides/mri-transdermal-patch-check"
+    ]
+  },
+  {
+    "path": "guides/recovery-rehabilitation-designation-transfer-check",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/guides/postdischarge-home-rehabilitation-consultation"
+    ]
+  },
+  {
+    "path": "silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/guides/postdischarge-home-rehabilitation-consultation"
+    ]
+  },
+  {
+    "path": "guides/contrast-reaction-drug-safety-card",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/claims/contrast-adverse-reaction-relief-documents"
+    ]
+  },
+  {
+    "path": "guides/medical-dispute-counselling-records",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/claims/contrast-adverse-reaction-relief-documents"
+    ]
+  },
+  {
+    "path": "treatment-costs/closed-hospital-prepaid-card-installment",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/treatment-costs/hospital-refund-notice-delivery-records"
+    ]
+  },
+  {
+    "path": "treatment-costs/surgery-deposit-cancellation-refund-records",
+    "originalMainTextPreserved": true,
+    "addedLinks": [
+      "/treatment-costs/hospital-refund-notice-delivery-records"
+    ]
+  }
+]
