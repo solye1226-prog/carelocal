@@ -1,0 +1,427 @@
+[
+  {
+    "path": "guides/rehab-inpatient-other-hospital-referral",
+    "url": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "http": 200,
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/rehab-inpatient-other-hospital-referral-thumb.webp",
+        "status": 200,
+        "bytes": 101710
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/rehab-inpatient-other-hospital-referral-body1.webp",
+        "status": 200,
+        "bytes": 98920
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/rehab-inpatient-other-hospital-referral-body2.webp",
+        "status": 200,
+        "bytes": 124270
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "silbi/anal-surgery-outpatient-dressing-claim",
+    "url": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim",
+    "http": 200,
+    "title": "치루 수술 후 소독·드레싱 비용, 외래 처치와 수술비를 어떻게 나눌까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-surgery-outpatient-dressing-claim-thumb.webp",
+        "status": 200,
+        "bytes": 91088
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-surgery-outpatient-dressing-claim-body1.webp",
+        "status": 200,
+        "bytes": 85686
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-surgery-outpatient-dressing-claim-body2.webp",
+        "status": 200,
+        "bytes": 100430
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "guides/iol-mri-device-information-check",
+    "url": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "http": 200,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-mri-device-information-check-thumb.webp",
+        "status": 200,
+        "bytes": 83590
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-mri-device-information-check-body1.webp",
+        "status": 200,
+        "bytes": 94858
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-mri-device-information-check-body2.webp",
+        "status": 200,
+        "bytes": 98942
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "claims/bile-culture-vs-pathology-records",
+    "url": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+    "http": 200,
+    "title": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/bile-culture-vs-pathology-records-thumb.webp",
+        "status": 200,
+        "bytes": 121384
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/bile-culture-vs-pathology-records-body1.webp",
+        "status": 200,
+        "bytes": 116502
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/bile-culture-vs-pathology-records-body2.webp",
+        "status": 200,
+        "bytes": 82596
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "treatment-costs/surgery-deposit-cancellation-refund-records",
+    "url": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "http": 200,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-deposit-cancellation-refund-records-thumb.webp",
+        "status": 200,
+        "bytes": 91114
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-deposit-cancellation-refund-records-body1.webp",
+        "status": 200,
+        "bytes": 117094
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-deposit-cancellation-refund-records-body2.webp",
+        "status": 200,
+        "bytes": 98018
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "url": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "http": 200,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-thumb.webp",
+        "status": 200,
+        "bytes": 107174
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-body1.webp",
+        "status": 200,
+        "bytes": 111696
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-body2.webp",
+        "status": 200,
+        "bytes": 108322
+      }
+    ],
+    "linksToNew": [
+      "/guides/rehab-inpatient-other-hospital-referral"
+    ]
+  },
+  {
+    "path": "guides/medical-information-exchange-consent-transfer",
+    "url": "https://hospital.hbuby.com/guides/medical-information-exchange-consent-transfer",
+    "http": 200,
+    "title": "진료정보교류 동의하면 전원 예약도 될까? 기록 전송·진료예약 구분",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/medical-information-exchange-consent-transfer",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/medical-information-exchange-consent-transfer-thumb.webp",
+        "status": 200,
+        "bytes": 82018
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hospital-services-health-app.webp",
+        "status": 200,
+        "bytes": 67442
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/ct-mri-image-cd-transfer-body2.webp",
+        "status": 200,
+        "bytes": 156358
+      }
+    ],
+    "linksToNew": [
+      "/guides/rehab-inpatient-other-hospital-referral"
+    ]
+  },
+  {
+    "path": "surgery-benefit/anal-fistula-seton-staged-claim",
+    "url": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-seton-staged-claim",
+    "http": 200,
+    "title": "치루 세톤 수술 보험금, 설치·조임·제거 기록을 어떻게 나눌까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-seton-staged-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-seton-staged-claim-thumb.webp",
+        "status": 200,
+        "bytes": 97356
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-seton-staged-claim-body1.webp",
+        "status": 200,
+        "bytes": 94318
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/anal-fistula-seton-staged-claim-body2.webp",
+        "status": 200,
+        "bytes": 126586
+      }
+    ],
+    "linksToNew": [
+      "/silbi/anal-surgery-outpatient-dressing-claim"
+    ]
+  },
+  {
+    "path": "silbi/hemorrhoid-surgery-silbi-claim",
+    "url": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+    "http": 200,
+    "title": "치질 수술 실비 청구, 급여·비급여와 입원·통원 확인 방법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-silbi-thumb.webp",
+        "status": 200,
+        "bytes": 69298
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-silbi-counter.webp",
+        "status": 200,
+        "bytes": 90176
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-silbi-bill.webp",
+        "status": 200,
+        "bytes": 110012
+      }
+    ],
+    "linksToNew": [
+      "/silbi/anal-surgery-outpatient-dressing-claim"
+    ]
+  },
+  {
+    "path": "claims/iol-implant-card-lost-records",
+    "url": "https://hospital.hbuby.com/claims/iol-implant-card-lost-records",
+    "http": 200,
+    "title": "백내장 렌즈 카드를 잃어버렸다면? 인공수정체 종류·수술 기록 확인법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/iol-implant-card-lost-records",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-implant-card-lost-records-thumb.webp",
+        "status": 200,
+        "bytes": 111558
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-implant-card-lost-records-body1.webp",
+        "status": 200,
+        "bytes": 96992
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-implant-card-lost-records-body2.webp",
+        "status": 200,
+        "bytes": 98842
+      }
+    ],
+    "linksToNew": [
+      "/guides/iol-mri-device-information-check"
+    ]
+  },
+  {
+    "path": "silbi/mri-silbi-claim",
+    "url": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "http": 200,
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/mri-silbi-claim-thumb.webp",
+        "status": 200,
+        "bytes": 66410
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/mri-silbi-claim-scanner.webp",
+        "status": 200,
+        "bytes": 80460
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/mri-silbi-claim-bill.webp",
+        "status": 200,
+        "bytes": 104468
+      }
+    ],
+    "linksToNew": [
+      "/guides/iol-mri-device-information-check"
+    ]
+  },
+  {
+    "path": "surgery-benefit/ptbd-biliary-drainage-insurance",
+    "url": "https://hospital.hbuby.com/surgery-benefit/ptbd-biliary-drainage-insurance",
+    "http": 200,
+    "title": "담도 배액술 PTBD 수술비, ERCP·담낭절제술과 청구 기록은 어떻게 다를까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/ptbd-biliary-drainage-insurance",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/ptbd-biliary-drainage-insurance-thumb.webp",
+        "status": 200,
+        "bytes": 102960
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/ptbd-biliary-drainage-insurance-body1.webp",
+        "status": 200,
+        "bytes": 96554
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/ptbd-biliary-drainage-insurance-body2.webp",
+        "status": 200,
+        "bytes": 117162
+      }
+    ],
+    "linksToNew": [
+      "/claims/bile-culture-vs-pathology-records"
+    ]
+  },
+  {
+    "path": "claims/gallbladder-pathology-request",
+    "url": "https://hospital.hbuby.com/claims/gallbladder-pathology-request",
+    "http": 200,
+    "title": "담낭절제술 후 조직검사 결과지 요청받았다면? 청구서류 구분",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/gallbladder-pathology-request",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/gallbladder-pathology-request-thumb.webp",
+        "status": 200,
+        "bytes": 44742
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/gallbladder-surgery-benefit-documents.webp",
+        "status": 200,
+        "bytes": 90646
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-claim-documents-checklist.webp",
+        "status": 200,
+        "bytes": 79832
+      }
+    ],
+    "linksToNew": [
+      "/claims/bile-culture-vs-pathology-records"
+    ]
+  },
+  {
+    "path": "silbi/cancelled-surgery-test-anesthesia-claim",
+    "url": "https://hospital.hbuby.com/silbi/cancelled-surgery-test-anesthesia-claim",
+    "http": 200,
+    "title": "수술이 취소됐는데 검사비·마취비가 나왔다면? 실비 청구 전 정산 확인",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/cancelled-surgery-test-anesthesia-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cancelled-surgery-test-anesthesia-claim-thumb.webp",
+        "status": 200,
+        "bytes": 94822
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cancelled-surgery-test-anesthesia-claim-body1.webp",
+        "status": 200,
+        "bytes": 92098
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cancelled-surgery-test-anesthesia-claim-body2.webp",
+        "status": 200,
+        "bytes": 110340
+      }
+    ],
+    "linksToNew": [
+      "/treatment-costs/surgery-deposit-cancellation-refund-records"
+    ]
+  },
+  {
+    "path": "silbi/hospital-bill-correction-silbi-claim",
+    "url": "https://hospital.hbuby.com/silbi/hospital-bill-correction-silbi-claim",
+    "http": 200,
+    "title": "실비보험 청구 뒤 병원비 환불받았다면, 정산 확인 방법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/hospital-bill-correction-silbi-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hospital-bill-correction-silbi-claim-thumb-v2.webp",
+        "status": 200,
+        "bytes": 40152
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hospital-receipt-reissue-body2.webp",
+        "status": 200,
+        "bytes": 119718
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/silbi-claim-documents-types.webp",
+        "status": 200,
+        "bytes": 58906
+      }
+    ],
+    "linksToNew": [
+      "/treatment-costs/surgery-deposit-cancellation-refund-records"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "label": "new1",
+    "path": "guides/rehab-inpatient-other-hospital-referral",
+    "url": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "http": 200,
+    "commit": "cf2579a2f182408cf797bd2f2a84b26dcb5c15fd",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T09:19:31+0900"
+  },
+  {
+    "label": "new2",
+    "path": "silbi/anal-surgery-outpatient-dressing-claim",
+    "url": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim",
+    "title": "치루 수술 후 소독·드레싱 비용, 외래 처치와 수술비를 어떻게 나눌까?",
+    "http": 200,
+    "commit": "3b9c37ca3cde00489c9af6263136e57a9d65077c",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T09:20:49+0900"
+  },
+  {
+    "label": "new3",
+    "path": "guides/iol-mri-device-information-check",
+    "url": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "http": 200,
+    "commit": "cf710418420f3357f5ccccd33ecf35782ef97648",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T09:22:10+0900"
+  },
+  {
+    "label": "new4",
+    "path": "claims/bile-culture-vs-pathology-records",
+    "url": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+    "title": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "http": 200,
+    "commit": "55db102d190714772b0eece43f2e5fd9a6ad0e13",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T09:24:06+0900"
+  },
+  {
+    "label": "new5",
+    "path": "treatment-costs/surgery-deposit-cancellation-refund-records",
+    "url": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "http": 200,
+    "commit": "1efbef13150a30c11d089471fde6df80052fedf3",
+    "exactHeadMain": true,
+    "checkedAt": "2026-10-22T09:25:31+0900"
+  }
+]

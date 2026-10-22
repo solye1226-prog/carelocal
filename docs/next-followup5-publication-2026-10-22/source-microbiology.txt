@@ -1,0 +1,3 @@
+Browser tab: 10, Title: "진단검사의학과 > 분과소개 > 미생물 | 분당서울대학교병원", URL: "https://www.snubh.org/dh/main/index.do?DP_CD=LM&MENU_ID=004018".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea 진단검사의학과 > 분과소개 > 미생물 | 분당서울대학교병원, URL: snubh.org/dh/main/index.do?DP_CD=LM&MENU_ID=004018

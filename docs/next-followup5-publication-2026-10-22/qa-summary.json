@@ -1,0 +1,22 @@
+{
+  "newArticles": 5,
+  "existingArticlesLinked": 10,
+  "catalogArticles": 392,
+  "sitemapUrls": 417,
+  "publicArticlesVerified": 15,
+  "publicImageUrlsVerified": 45,
+  "localViewportChecks": 15,
+  "publicViewportChecks": 15,
+  "expectedAndActualWidths": [
+    360,
+    390,
+    1280
+  ],
+  "naverRequestsAccepted": 15,
+  "pendingRequests": 0,
+  "indexingConfirmed": false,
+  "tests": "Each sequential release passed package check (links, canonicals, 5 Python tests, catalog and 10 Node tests).",
+  "interactions": "Section navigation exercised in local/public checks; FAQ expansion exercised on article 5. Source buttons checked against verified official URLs; not all external buttons were clicked.",
+  "images": "15 new WebP assets in assets/images; built-in image_gen; prompts archived.",
+  "notes": "Full-page local/public screenshots and source policy page images remain local evidence; existing user changes were preserved."
+}

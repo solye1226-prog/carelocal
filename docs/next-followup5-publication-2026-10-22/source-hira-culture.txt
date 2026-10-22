@@ -1,0 +1,3 @@
+Browser tab: 10, Title: "< 건강보험심사평가원 보험인정기준", URL: "https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171229&mtgMtrRegSno=0051&sno=3".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea < 건강보험심사평가원 보험인정기준, URL: hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171229&mtgMtrRegSno=0051&sno=3

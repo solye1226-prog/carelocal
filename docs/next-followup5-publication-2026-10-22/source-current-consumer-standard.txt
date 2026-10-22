@@ -1,0 +1,3 @@
+Browser tab: 10, Title: "행정규칙 > 소비자분쟁해결기준 | 국가법령정보센터", URL: "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000270136&chrClsCd=010202".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea 행정규칙 > 소비자분쟁해결기준 | 국가법령정보센터, URL: law.go.kr/admRulInfoP.do?admRulSeq=2100000270136&chrClsCd=010202

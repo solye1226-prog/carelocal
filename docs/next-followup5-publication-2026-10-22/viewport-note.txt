@@ -1,0 +1,1 @@
+Public QA initially resized after navigation; an already loaded AdSense anchor retained its prior 375px width at a requested 360px viewport. That run was rejected. Corrected runs set viewport BEFORE navigation and then verified actual innerWidth, scrollWidth, images and canonical at 360/390/1280. No ad settings were changed. Existing anchor ads remain present; no ad was clicked.

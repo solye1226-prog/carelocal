@@ -1,0 +1,240 @@
+[
+  {
+    "path": "guides/rehab-inpatient-other-hospital-referral",
+    "keyword": "입원 중 타병원 진료",
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "description": "재활병원 입원 중 원래 수술병원에 외래 방문할 때 확인할 진료의뢰, 기관 간 정산, 별도 결제 내역과 보험 청구자료를 정리합니다.",
+    "lead": "재활병원에 입원한 채 원래 수술병원의 경과 진료를 가야 한다면 예약일만 맞추지 말고 현재 병동과 원무팀에 먼저 알리세요. 입원 중 다른 기관에 진료를 의뢰하는 경우에는 일반적인 두 병원 통원과 수납·정산 방식이 다를 수 있습니다. 의뢰 여부와 실제 부담액이 정리된 다음 보험 청구자료를 준비합니다.",
+    "parents": [
+      "silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+      "guides/medical-information-exchange-consent-transfer"
+    ],
+    "bridges": [
+      "재활병원 입원을 유지하면서 수술병원 외래를 다시 방문해야 한다면, 전원 때와 다른 진료의뢰·수납 확인이 필요합니다.",
+      "기록 전송과 예약을 마쳤더라도 현재 입원 중이라면 타기관 진료의뢰 및 정산 절차를 별도로 확인하세요."
+    ],
+    "related": [
+      "claims/hospitalization-claim-documents"
+    ],
+    "sources": [
+      [
+        "https://www.hira.or.kr/bbsDummy.do?brdBltNo=47404&brdScnBltNo=4&pgmid=HIRAA010006011400",
+        "심평원 입원 중 타 요양기관 진료의뢰",
+        "기관이 의뢰한 진료의 청구·정산 안내. 자의적인 외출 진료와 민간보험 지급 기준은 별도"
+      ],
+      [
+        "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+        "라이나손해보험 구비서류 안내",
+        "담보별 자료를 구분하는 회사별 예시. 모든 회사의 공통 지급 규정이 아님"
+      ]
+    ],
+    "faqs": [
+      [
+        "외래 예약이 있으면 입원병원에는 말하지 않아도 되나요?",
+        "진료 전에 현재 병동과 원무팀에 알리고 의뢰 여부와 필요한 서류를 확인하세요. 예약 확정은 입원 중 타기관 진료의 정산 안내를 대신하지 않습니다."
+      ],
+      [
+        "다른 병원에서 이미 결제했다면 영수증을 버려도 되나요?",
+        "버리지 마세요. 최초 결제 자료와 이후 환불·정정 자료를 보관하고 양 기관에서 어떤 비용으로 정산했는지 먼저 확인합니다."
+      ]
+    ],
+    "body": "<h2 id=\"detail-1\">전원과 입원 중 외부 진료는 다릅니다</h2><p>전원은 치료기관을 옮기는 상황입니다. 반면 이 글은 A병원 입원을 유지한 상태에서 수술 경과 확인 등을 위해 B병원 진료가 필요한 상황을 다룹니다. 외래 예약이 잡혔다고 현재 입원이 자동으로 끝나거나 별도 통원 청구로 정해지는 것은 아닙니다.</p><p><a href=\"https://www.hira.or.kr/bbsDummy.do?brdBltNo=47404&amp;brdScnBltNo=4&amp;pgmid=HIRAA010006011400\" target=\"_blank\" rel=\"noopener\">건강보험심사평가원 FAQ</a>는 입원 중 의료기관이 다른 기관으로 처치·수술 등을 의뢰하는 경우, 의뢰한 기관이 해당 진료내역을 포함해 청구하고 기관 간 협의로 정산하도록 설명합니다. 이는 건강보험 진료의뢰 안내이며, 환자가 임의로 다른 병원에 간 모든 경우나 모든 기관 유형에 같은 처리 결과를 약속하는 내용이 아닙니다.</p><!--IMAGE1--><h2 id=\"detail-2\">출발 전에 두 기관에 확인할 내용</h2><table><thead><tr><th scope=\"col\">문의할 곳</th><th scope=\"col\">물어볼 내용</th><th scope=\"col\">남겨둘 자료</th></tr></thead><tbody><tr><td><span class=\"cell-label\">문의할 곳</span>입원병동 의료진</td><td><span class=\"cell-label\">물어볼 내용</span>입원 중 해당 외래 방문이 필요한지, 공식 진료의뢰로 진행하는지</td><td><span class=\"cell-label\">남겨둘 자료</span>의뢰 목적·진료일·진료과</td></tr><tr><td><span class=\"cell-label\">문의할 곳</span>입원병원 원무팀</td><td><span class=\"cell-label\">물어볼 내용</span>상대 기관과 정산하는 항목과 환자 수납 방식</td><td><span class=\"cell-label\">남겨둘 자료</span>안내받은 창구와 필요한 서류</td></tr><tr><td><span class=\"cell-label\">문의할 곳</span>방문할 수술병원</td><td><span class=\"cell-label\">물어볼 내용</span>현재 다른 병원 입원 중임을 알리고 의뢰 관련 접수 준비 확인</td><td><span class=\"cell-label\">남겨둘 자료</span>의뢰서 등 실제 요구 자료</td></tr><tr><td><span class=\"cell-label\">문의할 곳</span>진료 후 양 기관</td><td><span class=\"cell-label\">물어볼 내용</span>별도 결제액의 포함·환불·정정 여부</td><td><span class=\"cell-label\">남겨둘 자료</span>최초 및 최종 영수증·정산 내역</td></tr></tbody></table><p>기관 간 정산이라고 안내받았는데 방문 병원에서도 결제를 요청하면 수납 창구에 현재 입원 사실과 의뢰 여부를 다시 알려 확인하세요. 모든 비용이 자동 정산되거나 환자 부담이 없어지는 것은 아닙니다. 필요한 진료를 본인이 취소하거나 비용을 임의로 빼지 말고 안내가 다른 항목을 양 원무 창구에 확인합니다.</p><h2>보험에는 최종 비용과 진료 사실을 연결합니다</h2><p>건강보험의 기관 간 비용 처리와 민간 실손의 입원·통원 판단은 별도입니다. 수술병원에서 외래 접수했다는 화면만으로 보험상 통원 공제가 적용된다고 단정하지 마세요. 본인 계약에 필요한 진료 사실과 실제 부담액을 보험사에 문의해야 합니다.</p><p>정산 후 비용이 입원 영수증에 포함되었는지, 별도 영수증에 남았는지 확인하고 같은 비용을 두 번 더하지 않습니다. 새 진단서를 먼저 발급하기보다 기존 영수증·세부내역·의뢰 기록에서 부족한 사실이 무엇인지 확인하세요.</p><!--IMAGE2--><h2>가상 예시: 재활 입원 중 수술 경과 진료 예약</h2><p>A재활병원 입원 중 B수술병원 예약일이 다가왔다고 가정합니다. 먼저 A병동에 방문 필요성과 의뢰 절차를 묻고, B병원 접수에도 A병원 입원 중임을 알립니다. 진료 후 별도 결제가 있었다면 양 기관의 정산 결과를 확인하고 최종 비용자료를 보관합니다. 이 예시는 실손 입원 인정이나 환불을 보장하는 사례가 아닙니다.</p><h2 id=\"steps\">외래 방문 전 체크리스트</h2><ol><li>현재 입원 기간과 방문 예약일·진료과를 적습니다.</li><li>병동 의료진에게 방문 필요성과 의뢰 여부를 확인합니다.</li><li>두 기관 원무팀에서 접수 서류와 수납·정산 방법을 확인합니다.</li><li>정산 후 남은 비용과 실제 진료기록으로 보험사에 필요한 자료를 묻습니다.</li></ol><blockquote class=\"inquiry-template\"><strong>병동·원무팀에 물어볼 문장</strong><br>현재 입원 중이며 __일 __병원 __과 경과 진료 예약이 있습니다. 이번 방문은 진료의뢰로 처리하나요? 제가 준비할 서류, 상대 병원 수납 방법과 진료 후 정산 확인 창구를 알려주세요.</blockquote>",
+    "url": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral"
+  },
+  {
+    "path": "silbi/anal-surgery-outpatient-dressing-claim",
+    "keyword": "치루 수술 후 소독 실비",
+    "title": "치루 수술 후 소독·드레싱 비용, 외래 처치와 수술비를 어떻게 나눌까?",
+    "description": "치루·치핵 수술 뒤 외래에서 받은 소독·드레싱 비용을 진료일별로 정리하고, 건강보험 처치 기준과 실손 보장·공제·필요서류를 구분합니다.",
+    "lead": "치루 수술 뒤 상처 소독이나 드레싱으로 통원했다면 그날의 진찰·처치·약값을 먼저 확인하세요. 처음 수술의 보험금이 지급됐다는 사실만으로 이후 비용이 모두 보장되거나 매번 추가 수술비가 나오는 것은 아닙니다. 수술일 자료와 외래 처치일 자료를 나눠 본인 실손의 보장·제외·공제를 확인합니다.",
+    "parents": [
+      "surgery-benefit/anal-fistula-seton-staged-claim",
+      "silbi/hemorrhoid-surgery-silbi-claim"
+    ],
+    "bridges": [
+      "세톤 단계별 수술 인정과 별개로, 상처 소독·드레싱만 받은 통원일의 비용을 정리해야 할 수 있습니다.",
+      "수술 후 좌욕·소독·드레싱으로 재방문했다면 당일 처치비의 급여 구분과 청구자료를 따로 확인하세요."
+    ],
+    "related": [
+      "silbi/pharmacy-prescription-claim",
+      "silbi/noncovered-itemized-bill-silbi-documents"
+    ],
+    "sources": [
+      [
+        "https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180116&mtgMtrRegSno=0033&sno=3",
+        "심평원 치핵·치루 수술 후 처치 급여기준",
+        "좌욕·단순처치를 동시에 시행한 경우의 건강보험 산정 안내. 하단 변경 전 내용과 구분"
+      ],
+      [
+        "https://d.samsungfire.com/docs/realloss.pdf",
+        "삼성화재 다이렉트 실손 약관 예시",
+        "상품의 급여·비급여 보장 및 항문질환 관련 제외 조건 대조. 본인 계약의 약관을 별도로 확인"
+      ],
+      [
+        "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+        "라이나손해보험 구비서류 안내",
+        "담보별 자료를 구분하는 회사별 예시. 모든 회사의 공통 지급 규정이 아님"
+      ]
+    ],
+    "faqs": [
+      [
+        "소독을 받으러 간 날도 수술비를 다시 청구하나요?",
+        "소독 방문을 추가 수술로 계산하지 않습니다. 실제 행위와 정액 담보의 수술 정의를 확인하고, 외래 진료비에 대한 실손 심사는 따로 구분하세요."
+      ],
+      [
+        "집에서 산 거즈와 병원 드레싱 비용이 같은가요?",
+        "구매처·사용 목적·청구 항목이 다릅니다. 약국이나 온라인 구매 영수증을 병원 처치료처럼 제출하지 말고 본인 약관의 보장 대상 비용인지 먼저 확인하세요."
+      ]
+    ],
+    "body": "<h2 id=\"detail-1\">수술 후 방문일에는 실제 처치명을 봅니다</h2><p>“수술 후 관리”라는 예약명만으로 무엇을 받았는지 알기 어렵습니다. 진료비 세부내역에서 진찰·처치·검사·약제 등을 확인하고, 의미가 불분명한 항목만 병원에 물어보세요. 소독 방문과 세톤 조절 등 다른 행위가 함께 있었다면 실제 기록대로 구분합니다.</p><p><a href=\"https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180116&amp;mtgMtrRegSno=0033&amp;sno=3\" target=\"_blank\" rel=\"noopener\">심평원의 치핵·치루 수술 후 처치 안내</a>는 좌욕과 단순처치를 동시에 실시할 때 수술 다음 날부터 주된 처치 하나를 급여로 인정하는 기준을 설명합니다. 여기서 하나는 보험의 ‘1종 수술비’가 아니라 건강보험 처치 산정의 뜻입니다. 페이지 아래 변경 전 기준의 통원 7회 제한을 현재 공통 한도로 옮겨 쓰지 마세요.</p><p>이 기준만으로 환자의 모든 드레싱 항목·금액이나 민간 실손 지급이 정해지지는 않습니다. 진료일에 적용된 급여 항목과 본인부담 내역은 병원에, 실손의 적용 조항은 보험사에 각각 확인합니다.</p><!--IMAGE1--><h2 id=\"detail-2\">서류를 나눌 기준은 수술일과 외래 진료일입니다</h2><table><thead><tr><th scope=\"col\">자료</th><th scope=\"col\">확인할 내용</th><th scope=\"col\">섞지 않을 것</th></tr></thead><tbody><tr><td><span class=\"cell-label\">자료</span>수술일 자료</td><td><span class=\"cell-label\">확인할 내용</span>수술명·시행일과 수술 당일 비용</td><td><span class=\"cell-label\">섞지 않을 것</span>수술확인서를 이후 방문에 그대로 복사</td></tr><tr><td><span class=\"cell-label\">자료</span>외래 영수증·세부내역</td><td><span class=\"cell-label\">확인할 내용</span>진료일·실제 처치 항목·급여와 비급여·본인부담금</td><td><span class=\"cell-label\">섞지 않을 것</span>여러 방문을 한 번의 수술로 합산</td></tr><tr><td><span class=\"cell-label\">자료</span>약국 영수증·처방 자료</td><td><span class=\"cell-label\">확인할 내용</span>약제비·조제일과 해당 처방</td><td><span class=\"cell-label\">섞지 않을 것</span>병원비에 포함되지 않은 약값을 임의로 더함</td></tr><tr><td><span class=\"cell-label\">자료</span>보험금 지급내역</td><td><span class=\"cell-label\">확인할 내용</span>이미 접수·처리한 날짜와 항목</td><td><span class=\"cell-label\">섞지 않을 것</span>이전 접수 비용을 중복 제출</td></tr></tbody></table><h2>급여 인정과 실손 지급을 구분하세요</h2><p>병원에서 급여로 계산했더라도 실제 본인부담액, 계약의 공제·한도·제외 조건을 확인해야 합니다. 특히 항문질환 관련 비급여 제외 등 질환별 제한이 있는 계약에서는 같은 날 급여와 비급여의 처리 결과가 다를 수 있습니다. 공개 약관은 구조를 이해하는 예시이며 가입 시기와 상품이 다른 계약에 그대로 적용하지 않습니다.</p><p>“처치비 전액”처럼 합계만 적기보다 지급내역에서 어느 진료일·항목이 어떤 이유로 제외됐는지 확인하세요. 통원 공제가 남은 보장 대상액보다 크다면 비용이 들었어도 보험금이 없을 수 있습니다. 모든 세대의 공제액을 같은 금액으로 제시하지 않습니다.</p><!--IMAGE2--><h2>가상 예시: 수술 뒤 두 차례 소독 방문</h2><p>수술비는 이미 지급됐고 이후 두 외래일의 소독 비용을 접수한다고 가정합니다. 각 날짜의 영수증과 세부내역을 준비하고, 같은 날짜의 처방약이 있으면 약국 자료도 구분합니다. 보험사에는 기존 수술 접수에 보완할지 통원일을 추가 접수할지 묻습니다. 두 번 방문했으니 정액 수술비가 두 번 나온다고 계산하지 않습니다.</p><h2 id=\"steps\">발급 비용을 늘리기 전에 확인할 것</h2><ol><li>실제 처치명과 방문 날짜를 영수증·세부내역에서 확인합니다.</li><li>본인 실손의 항문질환 관련 제외, 급여·비급여, 통원 공제를 확인합니다.</li><li>보험사에 기존 자료로 부족한 진료 사실과 필요한 서류 범위를 묻습니다.</li><li>접수 후 지급내역을 날짜별로 대조해 누락·중복을 확인합니다.</li></ol><blockquote class=\"inquiry-template\"><strong>보험사에 물어볼 문장</strong><br>__일 치루 수술 뒤 __일과 __일 외래에서 __처치를 받았습니다. 이번 통원 비용의 급여·비급여 적용 조항과 공제 기준, 필요한 서류를 알려주세요. 기존 수술 접수와 어떻게 연결하면 되나요?</blockquote>",
+    "url": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim"
+  },
+  {
+    "path": "guides/iol-mri-device-information-check",
+    "keyword": "백내장 수술 후 MRI",
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "description": "백내장 수술 후 MRI를 예약할 때 인공수정체 제조사·모델·삽입 기록을 검사기관에 전달하고 제품별 MRI 안전정보를 확인하는 순서입니다.",
+    "lead": "백내장 수술을 받았다면 MRI 예약 때 인공수정체가 있다는 사실을 검사기관에 알리세요. “백내장 렌즈라 괜찮다”는 기억만으로 검사 가능 여부를 결정하지 말고 실제 제조사·모델·삽입 정보로 검사팀이 확인하도록 준비합니다. 카드가 없을 때의 기록 확인과 검사 안전성 판단은 서로 다른 절차입니다.",
+    "parents": [
+      "claims/iol-implant-card-lost-records",
+      "silbi/mri-silbi-claim"
+    ],
+    "bridges": [
+      "제품 정보를 찾았다면 MRI 예약 전 검사기관에 전달해야 할 항목과 안전정보 확인 순서를 이어서 살펴보세요.",
+      "MRI 비용을 준비하기 전, 백내장 수술 등 체내 삽입 기기가 있다면 제품 정보를 검사기관에 알려야 합니다."
+    ],
+    "related": [
+      "guides/ct-mri-image-cd-transfer"
+    ],
+    "sources": [
+      [
+        "https://www.mfds.go.kr/brd/m_1060/view.do?seq=15300",
+        "식약처 인체이식형 의료기기 MR환경 안전성 안내",
+        "MR환경에서의 기기 안전성을 다루는 가이드라인. 개별 렌즈의 국내 허가나 검사 허용을 대신하지 않음"
+      ],
+      [
+        "https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/what-patients-should-know-having-mri-exam",
+        "FDA MRI 검사 전 환자 확인사항",
+        "삽입 기기 알림과 카드 지참의 일반 안전 안내. 미국 자료이며 국내 보험 기준이 아님"
+      ],
+      [
+        "https://www.humanoptics.com/en/mri/",
+        "HumanOptics 제품별 MRI 안내",
+        "제조사별 기기·모델에 따라 설명이 다른 예시. 본인 렌즈에 해당하는지 검사팀에서 별도 확인"
+      ]
+    ],
+    "faqs": [
+      [
+        "카드가 없으면 MRI를 무조건 취소해야 하나요?",
+        "임의로 결정하지 말고 검사기관에 먼저 알리세요. 필요한 제품 정보와 대체 기록을 안내받은 뒤 수술병원에 확인합니다. 이 글이 검사 진행을 승인하지는 않습니다."
+      ],
+      [
+        "다초점 렌즈인지 확인하면 충분한가요?",
+        "다초점·단초점 구분만으로 제품의 MRI 정보를 특정할 수 없습니다. 정확한 제조사·모델과 다른 삽입 기기 여부를 검사팀에 전달하세요."
+      ]
+    ],
+    "body": "<h2 id=\"detail-1\">제품 이름과 검사 조건을 함께 확인합니다</h2><p><a href=\"https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/what-patients-should-know-having-mri-exam\" target=\"_blank\" rel=\"noopener\">FDA의 MRI 사전 안내</a>는 체내 삽입 의료기기를 검사팀에 알리고, 카드가 있다면 가져가 기기 종류를 확인하도록 설명합니다. 이는 미국의 일반 안전 안내이며 한국 환자의 특정 제품에 대한 검사 허가나 보험금 지급 규정이 아닙니다.</p><p><a href=\"https://www.mfds.go.kr/brd/m_1060/view.do?seq=15300\" target=\"_blank\" rel=\"noopener\">식약처의 인체이식형 의료기기 MR환경 안전성 가이드라인</a>도 기기의 MR환경 안전성을 다룹니다. 기기 정보에 나오는 MR Safe, MR Conditional 등의 구분은 이름만 보고 환자가 직접 판정할 사항이 아닙니다. 조건이 있는 기기라면 실제 장비·검사 조건과 맞는지 검사기관이 확인해야 합니다.</p><p>해외 제조사의 제품 안내도 해당 제조사·모델에 한정됩니다. 예를 들어 <a href=\"https://www.humanoptics.com/en/mri/\" target=\"_blank\" rel=\"noopener\">HumanOptics 안내</a>는 일반 렌즈 설명과 별도로 특수 모델 및 인공홍채의 주의 내용을 구분합니다. 이 사례를 본인 렌즈의 안전성 결론으로 사용하지 마세요. 국내에서 사용한 제품은 해당 제품의 국내 허가·사용설명서 등을 수술병원·검사기관이 확인하도록 요청합니다.</p><!--IMAGE1--><h2 id=\"detail-2\">예약 전 전달 메모에 적을 항목</h2><table><thead><tr><th scope=\"col\">항목</th><th scope=\"col\">확인할 자료</th><th scope=\"col\">모를 때의 행동</th></tr></thead><tbody><tr><td><span class=\"cell-label\">항목</span>수술한 눈·대략적인 시기</td><td><span class=\"cell-label\">확인할 자료</span>본인 수술 기록과 예약 내역</td><td><span class=\"cell-label\">모를 때의 행동</span>좌우 눈을 추측하지 말고 수술기관 문의</td></tr><tr><td><span class=\"cell-label\">항목</span>제조사·모델</td><td><span class=\"cell-label\">확인할 자료</span>보유 카드·제품 라벨·병원 보관 기록</td><td><span class=\"cell-label\">모를 때의 행동</span>검사팀에 필요한 항목을 묻고 기록 발급 문의</td></tr><tr><td><span class=\"cell-label\">항목</span>다른 삽입 기기·수술 이력</td><td><span class=\"cell-label\">확인할 자료</span>이전 수술 기록과 보유 기기 카드</td><td><span class=\"cell-label\">모를 때의 행동</span>렌즈 정보만 알리고 다른 기기를 빠뜨리지 않기</td></tr><tr><td><span class=\"cell-label\">항목</span>검사팀 요청 자료</td><td><span class=\"cell-label\">확인할 자료</span>제품 사용설명서·안전정보 등 요청받은 자료</td><td><span class=\"cell-label\">모를 때의 행동</span>직접 안전 판정 대신 확인 창구와 전달 방법 문의</td></tr></tbody></table><p>카드 분실 시 기록을 찾는 자세한 절차는 기존 렌즈 카드 글에서 확인할 수 있습니다. 여기서는 찾은 자료를 누구에게 어떤 목적으로 전달할지가 핵심입니다. 인터넷에서 비슷한 카드 사진을 찾아 본인 제품 정보로 대신하지 않습니다.</p><h2>수술병원과 MRI 검사기관의 질문을 나눕니다</h2><p>수술병원에는 “당시 삽입 제품명·모델과 어느 눈에 삽입했는지 확인할 수 있나요?”라고 묻습니다. 검사기관에는 “이 자료로 MRI 사전 확인이 가능한가요? 추가로 확인할 제품 정보와 전달 방법은 무엇인가요?”라고 질문하세요.</p><p>검사 가능 여부, 검사 시점과 조건은 제품 정보와 환자 상태를 확인한 의료진이 판단합니다. 수술 후 일률적으로 며칠을 기다리면 된다는 기간이나 자장 강도를 이 글에서 정하지 않습니다. 검사를 받을 수 있다는 판단과 MRI 비용의 건강보험·실손 적용도 별개의 문제입니다.</p><!--IMAGE2--><h2>가상 예시: 무릎 MRI 예약 중 과거 눈 수술을 알게 됐다면</h2><p>무릎 검사라 눈 수술은 관계없다고 생각했지만 예약 문진에 삽입 기기 질문이 있었다고 가정합니다. 검사 부위만으로 스스로 제외하지 말고 수술 이력을 알립니다. 카드에 모델이 보이지 않으면 검사팀의 요청 범위를 받은 뒤 수술병원 기록을 확인합니다. 이 예시는 특정 렌즈의 검사 안전성을 보장하지 않습니다.</p><h2 id=\"steps\">검사 전 준비 순서</h2><ol><li>MRI 예약·사전 문진 때 백내장 수술과 다른 삽입 기기 이력을 알립니다.</li><li>보유 제품 카드·기록에서 제조사·모델·삽입 정보를 확인합니다.</li><li>부족한 항목은 검사팀이 요구한 범위로 수술병원에 문의합니다.</li><li>검사기관의 사전 확인과 준비 안내를 따릅니다.</li></ol><blockquote class=\"inquiry-template\"><strong>검사기관에 전달할 메모</strong><br>__년 __병원에서 __눈에 인공수정체 삽입 수술을 받았습니다. 제품 정보는 __이며, 다른 삽입 기기는 __입니다. 이 자료로 사전 안전 확인이 가능한지, 추가 확인할 항목과 전달 방법을 알려주세요.</blockquote>",
+    "url": "https://hospital.hbuby.com/guides/iol-mri-device-information-check"
+  },
+  {
+    "path": "claims/bile-culture-vs-pathology-records",
+    "keyword": "담즙 배양검사 결과지",
+    "title": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "description": "담도 배액 후 받은 담즙 배양검사 자료를 시술기록·조직병리 결과와 구분하고, 검체·채취일·검사명과 보험사 추가자료 요청 범위를 확인합니다.",
+    "lead": "담도 배액 후 “배양검사 결과”를 요청받았다면 담낭 조직검사 결과지를 바로 대신 내기보다 필요한 검사명을 확인하세요. 배액 시술의 기록, 조직병리 결과, 미생물 배양·감수성 결과는 확인하는 사실이 다릅니다. 실제 검사 여부와 검체·날짜를 확인한 뒤 진료나 보험심사에 필요한 범위만 준비합니다.",
+    "parents": [
+      "surgery-benefit/ptbd-biliary-drainage-insurance",
+      "claims/gallbladder-pathology-request"
+    ],
+    "bridges": [
+      "PTBD 시술 기록과 별개로 담즙 등 검체의 배양검사 자료를 요청받았다면 검사명과 결과지 종류를 구분해야 합니다.",
+      "조직검사 결과와 배양검사 결과는 같은 자료가 아닙니다. 요청서에 미생물·배양·감수성이 적혀 있다면 필요한 검사 종류부터 확인하세요."
+    ],
+    "related": [
+      "claims/surgery-record-additional-request",
+      "claims/medical-records-proxy-documents"
+    ],
+    "sources": [
+      [
+        "https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171229&mtgMtrRegSno=0051&sno=3",
+        "심평원 배양·약제감수성 검사 구분 안내",
+        "미생물 생장 여부에 따라 배양과 감수성 검사의 실시·산정이 달라지는 설명. 수가·보험금 자동 계산표가 아님"
+      ],
+      [
+        "https://www.snubh.org/dh/main/index.do?DP_CD=LM&MENU_ID=004018",
+        "분당서울대학교병원 미생물 분과 안내",
+        "미생물의 분리·동정과 항균제 감수성 검사 역할 설명. 담도 배액 환자의 필수검사 규정은 아님"
+      ],
+      [
+        "https://www.snuh.org/content/M002005006.do",
+        "서울대학교병원 의무기록 사본발급",
+        "본인·대리인의 발급 준비 예시. 실제 검사병원 절차는 별도 확인"
+      ],
+      [
+        "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+        "라이나손해보험 구비서류 안내",
+        "담보별 자료를 구분하는 회사별 예시. 모든 회사의 공통 지급 규정이 아님"
+      ]
+    ],
+    "faqs": [
+      [
+        "PTBD를 받으면 배양검사 결과지가 항상 있나요?",
+        "항상 있다고 전제할 수 없습니다. 실제 검사 시행 여부와 검체 종류·검사명을 병원에 확인하고, 검사하지 않은 자료를 새로 만들거나 임의로 채우지 않습니다."
+      ],
+      [
+        "감수성 결과가 없으면 서류가 누락된 건가요?",
+        "바로 누락이라고 볼 수 없습니다. 배양 결과나 실제 시행 검사에 따라 감수성 검사를 하지 않은 경우도 있을 수 있으므로 결과 상태를 검사기관에 확인하세요."
+      ]
+    ],
+    "body": "<h2 id=\"detail-1\">세 종류의 기록은 확인하는 사실이 다릅니다</h2><table><thead><tr><th scope=\"col\">자료 종류</th><th scope=\"col\">확인하는 내용</th><th scope=\"col\">다른 자료로 바꾸지 않을 것</th></tr></thead><tbody><tr><td><span class=\"cell-label\">자료 종류</span>시술 결과·기록</td><td><span class=\"cell-label\">확인하는 내용</span>PTBD 등 실제 배액 행위·부위·시행일</td><td><span class=\"cell-label\">다른 자료로 바꾸지 않을 것</span>배양검사에서 균이 나왔다는 내용</td></tr><tr><td><span class=\"cell-label\">자료 종류</span>조직병리 결과</td><td><span class=\"cell-label\">확인하는 내용</span>채취·절제한 조직에 대한 병리검사 내용</td><td><span class=\"cell-label\">다른 자료로 바꾸지 않을 것</span>담즙 검체의 미생물 검사 결과</td></tr><tr><td><span class=\"cell-label\">자료 종류</span>미생물 검사 결과</td><td><span class=\"cell-label\">확인하는 내용</span>검체·배양·동정·실시한 감수성 검사 등</td><td><span class=\"cell-label\">다른 자료로 바꾸지 않을 것</span>수술 시행 사실이나 정액 수술비 분류</td></tr></tbody></table><p>서류 이름이 모두 “검사결과지”로 표시돼 있어도 같은 내용은 아닙니다. <a href=\"https://www.snubh.org/dh/main/index.do?DP_CD=LM&amp;MENU_ID=004018\" target=\"_blank\" rel=\"noopener\">분당서울대학교병원 미생물 분과 안내</a>는 검체 검사와 미생물 동정·항생제 감수성 검사 업무를 구분해 설명합니다. 실제 결과지의 의미는 진료받은 병원의 설명으로 확인하세요.</p><!--IMAGE1--><h2 id=\"detail-2\">검체와 날짜를 먼저 맞춥니다</h2><p>결과지에 담즙·혈액 등 어떤 검체가 적혀 있는지, 언제 채취했고 어떤 검사를 했는지 확인합니다. 결과가 보고된 날과 시술일이 다를 수 있으므로 두 날짜를 같은 칸에 임의로 옮기지 마세요. 배액관을 갖고 있다는 이유만으로 검체를 담즙이라고 추정하지 않습니다.</p><p><a href=\"https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171229&amp;mtgMtrRegSno=0051&amp;sno=3\" target=\"_blank\" rel=\"noopener\">심평원의 배양·감수성 검사 안내</a>는 미생물이 생장하지 않아 감수성 검사를 못 한 경우와 생장 후 감수성 검사를 실시한 경우를 구분합니다. 따라서 감수성 항목이 없다는 이유만으로 결과지가 덜 발급됐다고 단정할 수 없습니다. 검사기관에 최종 보고인지, 추가 결과가 남았는지, 실제로 실시한 검사가 무엇인지 묻는 것이 먼저입니다.</p><p>검사 결과의 균 이름이나 감수성 표시만으로 항생제를 고르거나 감염 여부를 확정하지 않습니다. 환자 상태·채취 과정 등 결과의 임상적 의미와 치료 변경은 담당 의료진에게 설명받아야 합니다. 이 글은 검사방법·약물 선택이나 검체를 직접 채취하는 방법을 안내하지 않습니다.</p><h2>보험사의 요청 목적을 문서명으로 좁힙니다</h2><p>추가자료 요청에 “검사 결과”만 적혀 있다면 미생물 결과인지 조직병리인지, 어느 시점의 자료인지 확인하세요. 요청 대상이 진단 경위인지 시술 사실인지 비용 항목인지에 따라 필요한 기록이 다를 수 있습니다. 배양 결과 자체가 정액 수술비 지급이나 감염 관련 진단비의 확정 근거가 되지는 않습니다.</p><p>보유 자료에서 필요한 사실을 확인할 수 있는지 먼저 묻고, 부족할 때 실제 검사병원에 사본을 요청합니다. 병원마다 결과 조회·발급 방식이 다르고 가족의 대리발급에도 구비서류가 필요할 수 있습니다. 민감한 결과지는 보험사의 공식 제출 경로로 보내세요.</p><!--IMAGE2--><h2>가상 예시: 조직검사 결과를 냈는데 추가 요청이 온 경우</h2><p>담낭 조직병리 결과를 이미 제출했지만 담당자가 “배액 관련 배양검사 결과”를 요청했다고 가정합니다. 먼저 검사명·검체·해당 기간을 확인하고 병원에 실제 보유한 결과를 문의합니다. 시술기록이나 병리 결과를 이름만 바꿔 다시 제출하지 않습니다. 실제 검사를 하지 않았다면 그 사실을 담당자에게 알리고 다른 확인자료가 필요한지 질문합니다.</p><h2 id=\"steps\">결과지 발급 전 확인 순서</h2><ol><li>요청서의 정확한 검사 종류와 필요한 사실을 확인합니다.</li><li>검사기관·검체·채취일·보고 상태를 대조합니다.</li><li>보유 결과로 충분한지 묻고 부족한 사본만 발급합니다.</li><li>제출한 자료명·기간과 접수번호를 기록합니다.</li></ol><blockquote class=\"inquiry-template\"><strong>추가자료 담당자에게 물어볼 문장</strong><br>요청하신 자료는 조직병리 결과인가요, __검체의 미생물 배양·감수성 결과인가요? 필요한 검사명·기간·확인하려는 사실과 기존 자료로 대체 가능한 범위를 알려주세요.</blockquote>",
+    "url": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records"
+  },
+  {
+    "path": "treatment-costs/surgery-deposit-cancellation-refund-records",
+    "keyword": "수술 예약금 환불",
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "description": "수술 취소 후 예약금·선납금 환불이 어렵다면 계약·결제·취소 통지·공제 내역을 정리하고 병원 문의와 소비자상담을 준비하는 순서입니다.",
+    "lead": "수술을 취소했는데 예약금 환급이 안 된다면 “예약금”이라는 이름만으로 환불 여부부터 결론내리지 마세요. 계약금인지 진료비 선납금인지, 이미 받은 검사·진료와 별도 공제액이 있는지 확인해야 합니다. 병원에 항목별 정산 설명을 요청하고 합의가 어렵다면 계약·결제·취소 자료를 준비해 공식 소비자상담을 받습니다.",
+    "parents": [
+      "silbi/cancelled-surgery-test-anesthesia-claim",
+      "silbi/hospital-bill-correction-silbi-claim"
+    ],
+    "bridges": [
+      "취소 후 남은 의료비의 실손 판단과 별개로, 아직 돌려받지 못한 예약·선납금은 계약과 정산 근거를 먼저 확인해야 합니다.",
+      "보험금 정산에 앞서 병원 환불 자체가 해결되지 않았다면 예약·선납금과 실제 진료비의 구분 자료를 준비하세요."
+    ],
+    "related": [
+      "treatment-costs/noncovered-cost-review-request",
+      "guides/medical-dispute-counselling-records"
+    ],
+    "sources": [
+      [
+        "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulId=36810&efYd=0",
+        "현행 소비자분쟁해결기준",
+        "품목별 합의·권고 기준과 별표 확인. 일반 질병 수술에 성형수술 환급률을 일괄 적용하지 않음"
+      ],
+      [
+        "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003881199&page=2",
+        "한국소비자원 선납진료비 피해예방 안내",
+        "다회 진료 계약의 공제·환급 분쟁과 계약 세부비용 확인에 관한 안내"
+      ],
+      [
+        "https://www.kca.go.kr/odr/pg/ma/cnsutInfo1.do",
+        "한국소비자원 상담신청 방법",
+        "1372·인터넷·의료 전문 방문상담 예약과 상담 후 피해구제 절차 확인"
+      ]
+    ],
+    "faqs": [
+      [
+        "환불 불가라고 안내받았으면 상담도 못 하나요?",
+        "해당 문구 하나만으로 상담 가능 여부를 판단하지 마세요. 계약서와 실제 설명, 취소 시점, 받은 진료와 공제 내역을 준비해 공식 소비자상담에 문의할 수 있습니다. 환급 결과를 보장하지는 않습니다."
+      ],
+      [
+        "건강보험심사평가원에 예약금 환불을 신청하면 되나요?",
+        "진료비의 급여·비급여 적정성 확인과 예약·선납 계약의 취소·환급 분쟁은 질문이 다릅니다. 예약금 문제는 계약·정산 설명을 받은 뒤 소비자상담에 적합한 절차를 문의하세요."
+      ]
+    ],
+    "body": "<h2 id=\"detail-1\">납부한 돈이 무엇에 쓰였는지 확인합니다</h2><p>같은 “예약금”이라도 계약 내용과 실제 충당 방식이 다를 수 있습니다. 결제 당시 설명과 계약서, 견적서, 수납 내역에서 어떤 항목의 돈인지 찾습니다. 검사비가 포함됐는지, 진료를 시작하면 비용에 충당되는지, 취소 시 어떤 금액을 공제한다고 설명했는지 기록하세요.</p><p><a href=\"https://www.kca.go.kr/home/sub.do?menukey=4005&amp;mode=view&amp;no=1003881199&amp;page=2\" target=\"_blank\" rel=\"noopener\">한국소비자원의 선납진료비 주의 안내</a>는 장기·다회 의료서비스 계약에서 이행된 진료비와 위약금 공제로 환급 분쟁이 생길 수 있어 구성·조건·세부 비용을 확인하도록 안내합니다. 이 자료는 모든 수술 예약금의 정해진 환급률을 제시하는 규칙이 아닙니다.</p><!--IMAGE1--><h2 id=\"detail-2\">환급 문의에 필요한 자료 대조표</h2><table><thead><tr><th scope=\"col\">자료</th><th scope=\"col\">확인할 내용</th><th scope=\"col\">빠졌다면 문의할 것</th></tr></thead><tbody><tr><td><span class=\"cell-label\">자료</span>계약·견적·설명</td><td><span class=\"cell-label\">확인할 내용</span>예정 수술·전체 금액·납부금 성격·취소 조건</td><td><span class=\"cell-label\">빠졌다면 문의할 것</span>사본과 당시 안내한 조건</td></tr><tr><td><span class=\"cell-label\">자료</span>결제 증빙</td><td><span class=\"cell-label\">확인할 내용</span>결제일·실제 결제액·결제 수단</td><td><span class=\"cell-label\">빠졌다면 문의할 것</span>예약금과 진료비의 수납 구분</td></tr><tr><td><span class=\"cell-label\">자료</span>취소 통지</td><td><span class=\"cell-label\">확인할 내용</span>누가 어떤 이유로 언제 취소를 알렸는지</td><td><span class=\"cell-label\">빠졌다면 문의할 것</span>문자·접수 내역 등 도달 확인 자료</td></tr><tr><td><span class=\"cell-label\">자료</span>진료·정산 내역</td><td><span class=\"cell-label\">확인할 내용</span>이미 받은 검사·진료 비용, 기타 공제와 환급액</td><td><span class=\"cell-label\">빠졌다면 문의할 것</span>항목별 금액과 공제 근거</td></tr><tr><td><span class=\"cell-label\">자료</span>환급 처리 내역</td><td><span class=\"cell-label\">확인할 내용</span>환급 예정과 실제 취소·입금 처리 여부</td><td><span class=\"cell-label\">빠졌다면 문의할 것</span>처리 창구와 안내받은 일정</td></tr></tbody></table><p>환자의 사정으로 취소했는지, 의료진 판단으로 연기·취소했는지, 병원 사정인지도 사실대로 적습니다. “수술을 안 했으니 진료도 전혀 없었다”고 바꾸거나 예정 수술을 실제 시행한 것처럼 기록하지 않습니다. 이미 받은 검사·진료의 비용과 예약 취소 관련 금액을 구분해야 정산 설명을 비교할 수 있습니다.</p><h2>성형수술 환급표를 일반 수술에 그대로 적용하지 않습니다</h2><p><a href=\"https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulId=36810&amp;efYd=0\" target=\"_blank\" rel=\"noopener\">국가법령정보센터의 현행 소비자분쟁해결기준</a>은 2025년 12월 18일 시행 고시로, 품목별 분쟁의 구체적인 합의·권고 기준을 제시합니다. 수술이라는 단어가 같아도 적용 품목·계약 내용·취소 경위가 다른 경우까지 같은 환급률로 계산하지 않습니다.</p><p>먼저 병원에 공제항목과 산정 근거를 요청하세요. 금액에 합의하지 못하면 계약 자료와 쟁점별 질문을 가지고 상담받습니다. 이 글에서 개별 계약 조항의 무효나 전액 환급 권리를 확정하지 않습니다. 특정 과거 조정사례도 이번 분쟁의 처리 결과를 대신하지 않습니다.</p><!--IMAGE2--><h2>가상 예시: 선납금 일부만 환급하겠다는 답변</h2><p>수술 예약을 취소했는데 병원이 검사비와 별도 공제액을 제외하겠다고 답했다고 가정합니다. 검사 날짜·항목·금액과 별도 공제의 계약 근거를 나눠 서면 설명을 요청합니다. 받은 설명과 보유 계약이 다르면 차이를 표시해 상담에 가져갑니다. 설명을 요청했다는 사실만으로 공제액이 취소되거나 환급이 확정되지는 않습니다.</p><h2 id=\"steps\">병원 문의에서 공식 상담까지</h2><ol><li>계약·결제·취소 시점을 시간순으로 정리합니다.</li><li>병원 원무·환급 담당 창구에 항목별 정산과 공제 근거를 요청합니다.</li><li>해결되지 않으면 <a href=\"https://www.kca.go.kr/odr/pg/ma/cnsutInfo1.do\" target=\"_blank\" rel=\"noopener\">한국소비자원의 현재 상담 방법</a>을 확인해 1372 또는 인터넷 등으로 문의합니다. 의료 전문 방문상담은 공식 예약 안내를 확인합니다.</li><li>상담 뒤 안내받은 피해구제 절차와 자료 범위를 따릅니다.</li><li>환불로 이미 청구한 의료비가 바뀌면 기존 보험사에도 정산 변경을 알립니다.</li></ol><p>소비자원은 소비자상담 후 피해구제 신청이 가능하다고 안내합니다. 상담 접수 자체가 환급 명령이나 환불 완료는 아닙니다. 이름·결제 자료 등 개인정보는 해당 기관의 공식 접수 경로로 제출하세요.</p><blockquote class=\"inquiry-template\"><strong>병원 환급 담당자에게 보낼 문장</strong><br>__일 __수술을 예약하며 __원을 결제했고 __일 취소 의사를 알렸습니다. 납부금 중 실제 시행한 진료비, 별도 공제액과 근거, 환급액의 산정 내역 및 처리 일정을 항목별로 안내 부탁드립니다.</blockquote>",
+    "url": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records"
+  }
+]

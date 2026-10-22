@@ -1,0 +1,152 @@
+Browser tab: 7, Title: "웹 페이지 수집 - 네이버 서치어드바이저", URL: "https://searchadvisor.naver.com/console/site/request/crawl?site=https%3A%2F%2Fhospital.hbuby.com".
+0 AXWebArea 웹 페이지 수집 - 네이버 서치어드바이저, URL: searchadvisor.naver.com/console/site/request/crawl?site=https%3A%2F%2Fhospital.hbuby.com
+	1 container
+		2 container
+			3 container
+				4 heading NAVER, Value: 1
+					5 link Description: NAVER, Value: naver.com/
+				6 link Description: Search Advisor , Value: searchadvisor.naver.com/
+				7 link Description:  웹마스터 도구, Value: searchadvisor.naver.com/console/board
+				8 link Description: 웹마스터 가이드, Value: searchadvisor.naver.com/guide
+				9 text 쏠레미
+				10 button
+			11 tab group
+				12 container
+					13 tab (selected, settable, boolean) 사이트 관리, Value: 1
+					14 tab (selectable, settable, boolean) 간단체크, Value: 0
+					15 tab (selectable, settable, boolean) 도구 설정, Value: 0
+			16 text https://hospital.hbuby.com
+			17 link Description: 목록보기, Value: searchadvisor.naver.com/console/board
+			18 content list
+				19 text  요약
+				20 button (collapsed)  리포트, Secondary Actions: Expand
+					21 text  리포트
+				22 button (expanded)  요청, Secondary Actions: Collapse
+					23 text  요청
+				24 text 웹 페이지 수집
+				25 text 웹 페이지 검색 제외
+				26 text RSS 제출
+				27 text 사이트맵 제출
+				28 button (collapsed)  검증, Secondary Actions: Expand
+					29 text  검증
+				30 text  설정
+			31 content list
+				32 text 웹마스터 도구
+				33 text /
+				34 text 요청
+				35 text /
+				36 text 웹 페이지 수집
+			37 text 웹 페이지 수집 수집 요청 URL 입력
+			38 text field (settable) Value: https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim, ID: input-689
+			39 button 확인
+				40 text 확인
+			41 text 수집 요청 내역 최근 50개만 노출
+			42 table
+				43 row
+					44 cell
+						45 text No
+					46 cell
+						47 text URL
+					48 cell
+						49 text 등록일
+				50 row
+					51 cell
+						52 text 1
+					53 cell
+						54 link Description: /silbi/knee-surgery-rehabilitation-hospital-transfer-claim, Value: hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim
+					55 cell
+						56 text 26.10.22 09:28:44
+				57 row
+					58 cell
+						59 text 2
+					60 cell
+						61 link Description: /treatment-costs/surgery-deposit-cancellation-refund-records, Value: hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records
+					62 cell
+						63 text 26.10.22 09:28:32
+				64 row
+					65 cell
+						66 text 3
+					67 cell
+						68 link Description: /claims/bile-culture-vs-pathology-records, Value: hospital.hbuby.com/claims/bile-culture-vs-pathology-records
+					69 cell
+						70 text 26.10.22 09:28:19
+				71 row
+					72 cell
+						73 text 4
+					74 cell
+						75 link Description: /guides/iol-mri-device-information-check, Value: hospital.hbuby.com/guides/iol-mri-device-information-check
+					76 cell
+						77 text 26.10.22 09:28:03
+				78 row
+					79 cell
+						80 text 5
+					81 cell
+						82 link Description: /silbi/anal-surgery-outpatient-dressing-claim, Value: hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim
+					83 cell
+						84 text 26.10.22 09:27:32
+				85 row
+					86 cell
+						87 text 6
+					88 cell
+						89 link Description: /guides/rehab-inpatient-other-hospital-referral, Value: hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral
+					90 cell
+						91 text 26.10.22 09:26:55
+				92 row
+					93 cell
+						94 text 7
+					95 cell
+						96 link Description: /claims/surgery-claim-documents, Value: hospital.hbuby.com/claims/surgery-claim-documents
+					97 cell
+						98 text 26.10.22 08:56:57
+				99 row
+					100 cell
+						101 text 8
+					102 cell
+						103 link Description: /silbi/cataract-preoperative-test-claim, Value: hospital.hbuby.com/silbi/cataract-preoperative-test-claim
+					104 cell
+						105 text 26.10.22 08:56:39
+				106 row
+					107 cell
+						108 text 9
+					109 cell
+						110 link Description: /surgery-benefit/hemorrhoid-pph-stapled-surgery-claim, Value: hospital.hbuby.com/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim
+					111 cell
+						112 text 26.10.22 08:56:24
+				113 row
+					114 cell
+						115 text 10
+					116 cell
+						117 link Description: /silbi/cartistem-silbi-claim, Value: hospital.hbuby.com/silbi/cartistem-silbi-claim
+					118 cell
+						119 text 26.10.22 08:56:18
+			120 container Pagination Navigation
+				121 content list
+					122 button (disabled) 이전 페이지
+					123 button 현재 페이지, 페이지 1
+					124 button 고토 페이지 2
+					125 button 고토 페이지 3
+					126 button 고토 페이지 4
+					127 button 고토 페이지 5
+					128 button 다음 페이지
+			129 text  도움말
+			130 content list
+				131 container
+					132 AXListMarker • 
+					133 text 요청 횟수는 사이트별로 제한될 수 있으며, 최근 한 달 이내의 요청 결과만 제공합니다.
+				134 container
+					135 AXListMarker • 
+					136 text 웹 페이지의 수집 및 색인까지의 소요 시간은 웹 페이지의 평판에 따라서 다릅니다.
+				137 container
+					138 AXListMarker • 
+					139 text 알고리즘을 통하여 스팸으로 판단되는 사이트의 수집 요청을 제한하고 있습니다.
+			140 text 자세한 내용은 
+			141 link Description: 웹마스터 가이드 , Value: searchadvisor.naver.com/guide/request-crawl
+			142 text 및 
+			143 link Description: 스마트봇 , Value: talk.naver.com/ct/w4o52y
+			144 text 에게 물어보세요
+		145 link Description: 이용약관, Value: searchadvisor.naver.com/policy/terms
+		146 link Description:  책임한계와 법적고지, Value: policy.naver.com/rules/disclaimer.html
+		147 link Description:  고객센터, Value: help.naver.com/alias/webmastertool/main.naver
+		148 text ©NAVER Corp.
+
+The focused UI element is 0 AXWebArea 웹 페이지 수집 - 네이버 서치어드바이저, URL: searchadvisor.naver.com/console/site/request/crawl?site=https%3A%2F%2Fhospital.hbuby.com

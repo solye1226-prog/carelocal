@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "path": "guides/rehab-inpatient-other-hospital-referral",
+    "characters": 2725,
+    "status": "PASS",
+    "reviewType": "author self-review",
+    "duplicateIntent": "distinct question and next action compared with approved plan and parent bodies",
+    "facts": "scope and limitations recorded in source-review.md",
+    "metadataAndReciprocalLinks": true
+  },
+  {
+    "number": 2,
+    "path": "silbi/anal-surgery-outpatient-dressing-claim",
+    "characters": 2825,
+    "status": "PASS",
+    "reviewType": "author self-review",
+    "duplicateIntent": "distinct question and next action compared with approved plan and parent bodies",
+    "facts": "scope and limitations recorded in source-review.md",
+    "metadataAndReciprocalLinks": true
+  },
+  {
+    "number": 3,
+    "path": "guides/iol-mri-device-information-check",
+    "characters": 2997,
+    "status": "PASS",
+    "reviewType": "author self-review",
+    "duplicateIntent": "distinct question and next action compared with approved plan and parent bodies",
+    "facts": "scope and limitations recorded in source-review.md",
+    "metadataAndReciprocalLinks": true
+  },
+  {
+    "number": 4,
+    "path": "claims/bile-culture-vs-pathology-records",
+    "characters": 3038,
+    "status": "PASS",
+    "reviewType": "author self-review",
+    "duplicateIntent": "distinct question and next action compared with approved plan and parent bodies",
+    "facts": "scope and limitations recorded in source-review.md",
+    "metadataAndReciprocalLinks": true
+  },
+  {
+    "number": 5,
+    "path": "treatment-costs/surgery-deposit-cancellation-refund-records",
+    "characters": 3116,
+    "status": "PASS",
+    "reviewType": "author self-review",
+    "duplicateIntent": "distinct question and next action compared with approved plan and parent bodies",
+    "facts": "scope and limitations recorded in source-review.md",
+    "metadataAndReciprocalLinks": true
+  }
+]

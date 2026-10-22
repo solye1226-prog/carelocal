@@ -1,0 +1,710 @@
+[
+  {
+    "actualWidth": 360,
+    "client": 360,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 360,
+    "tableDisplay": "block",
+    "label": "new1",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "client": 390,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 390,
+    "tableDisplay": "block",
+    "label": "new1",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "client": 1280,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 1280,
+    "tableDisplay": "table",
+    "label": "new1",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "canonical": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "client": 345,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 345,
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "label": "public1",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "canonical": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "client": 375,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 375,
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "label": "public1",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "client": 1265,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 1265,
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "label": "public1",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "canonical": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim",
+    "client": 345,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 345,
+    "title": "치루 수술 후 소독·드레싱 비용, 외래 처치와 수술비를 어떻게 나눌까?",
+    "label": "public2",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "canonical": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim",
+    "client": 375,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 375,
+    "title": "치루 수술 후 소독·드레싱 비용, 외래 처치와 수술비를 어떻게 나눌까?",
+    "label": "public2",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim",
+    "client": 1280,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 1280,
+    "title": "치루 수술 후 소독·드레싱 비용, 외래 처치와 수술비를 어떻게 나눌까?",
+    "label": "public2",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "canonical": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "client": 345,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 345,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "label": "public3",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "canonical": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "client": 375,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 375,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "label": "public3",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "client": 1265,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 1265,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "label": "public3",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "canonical": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+    "client": 345,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 345,
+    "title": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "label": "public4",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "canonical": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+    "client": 375,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 375,
+    "title": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "label": "public4",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+    "client": 1265,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 1265,
+    "title": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "label": "public4",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "client": 345,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 345,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "label": "public5",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "client": 375,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 375,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "label": "public5",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "client": 1265,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "scroll": 1265,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "label": "public5",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "client": 360,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 360,
+    "label": "new2",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "client": 390,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 390,
+    "label": "new2",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "client": 1280,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 1280,
+    "label": "new2",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "client": 360,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 360,
+    "label": "new3",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "client": 390,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 390,
+    "label": "new3",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "client": 1280,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 1280,
+    "label": "new3",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "client": 360,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 360,
+    "label": "new4",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "client": 390,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 390,
+    "label": "new4",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "client": 1280,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 1280,
+    "label": "new4",
+    "width": 1280,
+    "pass": true
+  },
+  {
+    "actualWidth": 360,
+    "client": 360,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 360,
+    "label": "new5",
+    "width": 360,
+    "pass": true
+  },
+  {
+    "actualWidth": 390,
+    "client": 390,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 390,
+    "label": "new5",
+    "width": 390,
+    "pass": true
+  },
+  {
+    "actualWidth": 1280,
+    "client": 1280,
+    "images": [
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      },
+      {
+        "complete": true,
+        "w": 1672
+      }
+    ],
+    "navMinHeight": 44,
+    "scroll": 1280,
+    "label": "new5",
+    "width": 1280,
+    "pass": true
+  }
+]
