@@ -1365,6 +1365,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "category": "치료비"
+  },
+  {
     "path": "/standards/actual-vs-fixed-benefit",
     "title": "실손 정액 차이, 실비와 진단비·수술비 함께 받을 수 있을까?",
     "category": "약관·기준"
