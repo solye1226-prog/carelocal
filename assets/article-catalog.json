@@ -1815,6 +1815,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/mri-transdermal-patch-check",
+    "title": "MRI 검사 전 붙이는 약·파스, 제거 여부는 어디에 확인할까?",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/my-health-record-missing-hospital-data",
     "title": "나의건강기록 앱에 병원 기록이 안 보일 때, 참여기관·자료 종류 확인",
     "category": "방문 가이드"
