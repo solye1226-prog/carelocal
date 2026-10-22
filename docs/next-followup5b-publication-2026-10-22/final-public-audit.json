@@ -1,0 +1,371 @@
+[
+  {
+    "path": "guides/nursing-hospital-referral-prescription-medicine",
+    "url": "https://hospital.hbuby.com/guides/nursing-hospital-referral-prescription-medicine",
+    "http": 200,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/nursing-hospital-referral-prescription-medicine",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/nursing-hospital-referral-prescription-medicine-thumb.webp",
+        "status": 200,
+        "bytes": 92274
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/nursing-hospital-referral-prescription-medicine-body1.webp",
+        "status": 200,
+        "bytes": 86920
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/nursing-hospital-referral-prescription-medicine-body2.webp",
+        "status": 200,
+        "bytes": 60928
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "silbi/sedation-mri-cost-claim",
+    "url": "https://hospital.hbuby.com/silbi/sedation-mri-cost-claim",
+    "http": 200,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/sedation-mri-cost-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/sedation-mri-cost-claim-thumb.webp",
+        "status": 200,
+        "bytes": 87946
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/sedation-mri-cost-claim-body1.webp",
+        "status": 200,
+        "bytes": 95176
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/sedation-mri-cost-claim-body2.webp",
+        "status": 200,
+        "bytes": 141340
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "guides/recovery-rehabilitation-designation-transfer-check",
+    "url": "https://hospital.hbuby.com/guides/recovery-rehabilitation-designation-transfer-check",
+    "http": 200,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/recovery-rehabilitation-designation-transfer-check",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/recovery-rehabilitation-designation-transfer-check-thumb.webp",
+        "status": 200,
+        "bytes": 140586
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/recovery-rehabilitation-designation-transfer-check-body1.webp",
+        "status": 200,
+        "bytes": 105036
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/recovery-rehabilitation-designation-transfer-check-body2.webp",
+        "status": 200,
+        "bytes": 143630
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "guides/contrast-reaction-drug-safety-card",
+    "url": "https://hospital.hbuby.com/guides/contrast-reaction-drug-safety-card",
+    "http": 200,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/contrast-reaction-drug-safety-card",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/contrast-reaction-drug-safety-card-thumb.webp",
+        "status": 200,
+        "bytes": 107682
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/contrast-reaction-drug-safety-card-body1.webp",
+        "status": 200,
+        "bytes": 92560
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/contrast-reaction-drug-safety-card-body2.webp",
+        "status": 200,
+        "bytes": 50490
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "treatment-costs/closed-hospital-prepaid-card-installment",
+    "url": "https://hospital.hbuby.com/treatment-costs/closed-hospital-prepaid-card-installment",
+    "http": 200,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/closed-hospital-prepaid-card-installment",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/closed-hospital-prepaid-card-installment-thumb.webp",
+        "status": 200,
+        "bytes": 69372
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/closed-hospital-prepaid-card-installment-body1.webp",
+        "status": 200,
+        "bytes": 101590
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/closed-hospital-prepaid-card-installment-body2.webp",
+        "status": 200,
+        "bytes": 94234
+      }
+    ],
+    "linksToNew": []
+  },
+  {
+    "path": "guides/rehab-inpatient-other-hospital-referral",
+    "url": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "http": 200,
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/rehab-inpatient-other-hospital-referral-thumb.webp",
+        "status": 200,
+        "bytes": 101710
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/rehab-inpatient-other-hospital-referral-body1.webp",
+        "status": 200,
+        "bytes": 98920
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/rehab-inpatient-other-hospital-referral-body2.webp",
+        "status": 200,
+        "bytes": 124270
+      }
+    ],
+    "linksToNew": [
+      "/guides/recovery-rehabilitation-designation-transfer-check",
+      "/guides/nursing-hospital-referral-prescription-medicine"
+    ]
+  },
+  {
+    "path": "silbi/pharmacy-prescription-claim",
+    "url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "http": 200,
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/pharmacy-prescription-claim-thumb.webp",
+        "status": 200,
+        "bytes": 55378
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/pharmacy-prescription-claim-body1.webp",
+        "status": 200,
+        "bytes": 78632
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/pharmacy-prescription-claim-body2.webp",
+        "status": 200,
+        "bytes": 98714
+      }
+    ],
+    "linksToNew": [
+      "/guides/nursing-hospital-referral-prescription-medicine"
+    ]
+  },
+  {
+    "path": "guides/iol-mri-device-information-check",
+    "url": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "http": 200,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-mri-device-information-check-thumb.webp",
+        "status": 200,
+        "bytes": 83590
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-mri-device-information-check-body1.webp",
+        "status": 200,
+        "bytes": 94858
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/iol-mri-device-information-check-body2.webp",
+        "status": 200,
+        "bytes": 98942
+      }
+    ],
+    "linksToNew": [
+      "/guides/contrast-reaction-drug-safety-card",
+      "/silbi/sedation-mri-cost-claim"
+    ]
+  },
+  {
+    "path": "silbi/mri-silbi-claim",
+    "url": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "http": 200,
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/mri-silbi-claim-thumb.webp",
+        "status": 200,
+        "bytes": 66410
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/mri-silbi-claim-scanner.webp",
+        "status": 200,
+        "bytes": 80460
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/mri-silbi-claim-bill.webp",
+        "status": 200,
+        "bytes": 104468
+      }
+    ],
+    "linksToNew": [
+      "/silbi/sedation-mri-cost-claim"
+    ]
+  },
+  {
+    "path": "silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "url": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "http": 200,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-thumb.webp",
+        "status": 200,
+        "bytes": 107174
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-body1.webp",
+        "status": 200,
+        "bytes": 111696
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/knee-surgery-rehabilitation-hospital-transfer-claim-body2.webp",
+        "status": 200,
+        "bytes": 108322
+      }
+    ],
+    "linksToNew": [
+      "/guides/recovery-rehabilitation-designation-transfer-check"
+    ]
+  },
+  {
+    "path": "guides/hira-medication-history-before-admission",
+    "url": "https://hospital.hbuby.com/guides/hira-medication-history-before-admission",
+    "http": 200,
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/guides/hira-medication-history-before-admission",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hira-medication-history-before-admission-thumb.webp",
+        "status": 200,
+        "bytes": 106002
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/hospital-services-medication-list.webp",
+        "status": 200,
+        "bytes": 79388
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/parent-prescription-proxy-body2.webp",
+        "status": 200,
+        "bytes": 134514
+      }
+    ],
+    "linksToNew": [
+      "/guides/contrast-reaction-drug-safety-card"
+    ]
+  },
+  {
+    "path": "treatment-costs/surgery-deposit-cancellation-refund-records",
+    "url": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "http": 200,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-deposit-cancellation-refund-records-thumb.webp",
+        "status": 200,
+        "bytes": 91114
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-deposit-cancellation-refund-records-body1.webp",
+        "status": 200,
+        "bytes": 117094
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/surgery-deposit-cancellation-refund-records-body2.webp",
+        "status": 200,
+        "bytes": 98018
+      }
+    ],
+    "linksToNew": [
+      "/treatment-costs/closed-hospital-prepaid-card-installment"
+    ]
+  },
+  {
+    "path": "claims/closed-hospital-records-request",
+    "url": "https://hospital.hbuby.com/claims/closed-hospital-records-request",
+    "http": 200,
+    "title": "폐업한 병원 진료기록 발급, 포털에서 안 나오면 어디에 문의할까?",
+    "exactHeadMain": true,
+    "canonical": "https://hospital.hbuby.com/claims/closed-hospital-records-request",
+    "noindex": false,
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/closed-hospital-records-request-thumb.webp",
+        "status": 200,
+        "bytes": 66566
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/closed-hospital-records-request-body1.webp",
+        "status": 200,
+        "bytes": 101346
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/closed-hospital-records-request-body2.webp",
+        "status": 200,
+        "bytes": 68716
+      }
+    ],
+    "linksToNew": [
+      "/treatment-costs/closed-hospital-prepaid-card-installment"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+Browser tab: 7, Title: "웹 페이지 수집 - 네이버 서치어드바이저", URL: "https://searchadvisor.naver.com/console/site/request/crawl?site=https%3A%2F%2Fhospital.hbuby.com".
+1 AXWebArea Description: 웹 페이지 수집 - 네이버 서치어드바이저, URL: searchadvisor.naver.com/console/site/request/crawl?site=https%3A%2F%2Fhospital.hbuby.com
+	2 container searchadvisor.naver.com says
+		3 text 사이트별 일간 최대 요청 수를 초과하였습니다.
+		4 button OK
+
+The focused UI element is 4 button OK

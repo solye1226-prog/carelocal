@@ -1,0 +1,132 @@
+[
+  {
+    "order": 1,
+    "path": "guides/nursing-hospital-referral-prescription-medicine",
+    "intent": "요양병원 입원 중 처방약",
+    "parents": [
+      "guides/rehab-inpatient-other-hospital-referral",
+      "silbi/pharmacy-prescription-claim"
+    ],
+    "scopedAgainstClosestBodies": true,
+    "fictionClearlyLabelled": true,
+    "officialSources": [
+      [
+        "https://www.hira.or.kr/bbsDummy.do?brdBltNo=47516&brdScnBltNo=4&pgmid=HIRAA010006011200",
+        "심평원 요양병원 진료의뢰 약제비 안내",
+        "원내처방과 약 미보유 시 처리 방법을 확인하세요"
+      ]
+    ],
+    "sourceReview": "source-review.md",
+    "status": "reviewed; viewport/public checks recorded separately"
+  },
+  {
+    "order": 2,
+    "path": "silbi/sedation-mri-cost-claim",
+    "intent": "수면 MRI 비용 실비",
+    "parents": [
+      "guides/iol-mri-device-information-check",
+      "silbi/mri-silbi-claim"
+    ],
+    "scopedAgainstClosestBodies": true,
+    "fictionClearlyLabelled": true,
+    "officialSources": [
+      [
+        "https://cancer.snuh.org/m/reservation/meddept/CIC/cancerBbsView.do?seq_no=95",
+        "서울대암병원 MRI 검사 안내",
+        "폐쇄공포증 상담과 검사 준비 안내. 해당 기관 기준입니다"
+      ],
+      [
+        "https://www.kbinsure.co.kr/CG802030003.ec?fileNm=22869_1_1.pdf",
+        "KB 단체상해보험(20.01) 약관 PDF",
+        "PDF 164쪽 MRI 특약의 예시. 본인 계약 적용 여부는 별도 확인"
+      ]
+    ],
+    "sourceReview": "source-review.md",
+    "status": "reviewed; viewport/public checks recorded separately"
+  },
+  {
+    "order": 3,
+    "path": "guides/recovery-rehabilitation-designation-transfer-check",
+    "intent": "회복기 재활병원 찾기",
+    "parents": [
+      "guides/rehab-inpatient-other-hospital-referral",
+      "silbi/knee-surgery-rehabilitation-hospital-transfer-claim"
+    ],
+    "scopedAgainstClosestBodies": true,
+    "fictionClearlyLabelled": true,
+    "officialSources": [
+      [
+        "https://www.hira.or.kr/bbsDummy.do?brdBltNo=11952&brdScnBltNo=4&pgmid=HIRAA020002000100",
+        "제3기 재활의료기관 지정 공고",
+        "공고의 첨부 명단과 지정 기간을 확인하세요"
+      ],
+      [
+        "https://www.mohw.go.kr/menu.es?mid=a10702030400",
+        "보건복지부 재활의료기관 제도 안내",
+        "회복기 대상과 지정 제도를 확인하세요"
+      ]
+    ],
+    "sourceReview": "source-review.md",
+    "status": "reviewed; viewport/public checks recorded separately"
+  },
+  {
+    "order": 4,
+    "path": "guides/contrast-reaction-drug-safety-card",
+    "intent": "조영제 이상반응 기록",
+    "parents": [
+      "guides/iol-mri-device-information-check",
+      "guides/hira-medication-history-before-admission"
+    ],
+    "scopedAgainstClosestBodies": true,
+    "fictionClearlyLabelled": true,
+    "officialSources": [
+      [
+        "https://www.mfds.go.kr/brd/m_580/view.do?seq=71",
+        "식약처 약물안전카드 안내",
+        "카드의 역할과 조영제 카드 안내를 확인하세요"
+      ],
+      [
+        "https://dept.snuh.org/dept/DMC/bbs/bbsView.do?cid=13513&menuId=003026",
+        "서울대병원 디지털 약물안전카드 안내",
+        "해당 기관 카드 안내와 상담 경로를 확인하세요"
+      ]
+    ],
+    "sourceReview": "source-review.md",
+    "status": "reviewed; viewport/public checks recorded separately"
+  },
+  {
+    "order": 5,
+    "path": "treatment-costs/closed-hospital-prepaid-card-installment",
+    "intent": "병원 폐업 선납 진료비",
+    "parents": [
+      "treatment-costs/surgery-deposit-cancellation-refund-records",
+      "claims/closed-hospital-records-request"
+    ],
+    "scopedAgainstClosestBodies": true,
+    "fictionClearlyLabelled": true,
+    "officialSources": [
+      [
+        "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003233027&page=7",
+        "한국소비자원 의료기관 선납치료비 주의보",
+        "의료기관 휴·폐업과 잔여 할부금 안내"
+      ],
+      [
+        "https://card.kbcard.com/SVC/DVIEW/HSEMCXCRSCTC0040",
+        "KB국민카드 철회·항변 안내",
+        "대상 요건·제외 거래와 접수 방법의 회사별 예시"
+      ],
+      [
+        "https://www.law.go.kr/법령/할부거래에관한법률",
+        "할부거래에 관한 법률",
+        "제2조·제16조와 시행령 제11조를 대조하세요"
+      ],
+      [
+        "https://www.kca.go.kr/odr/pg/ma/cnsutInfo1.do",
+        "한국소비자원 상담신청 안내",
+        "상담과 피해구제 절차를 확인하세요"
+      ]
+    ],
+    "sourceReview": "source-review.md",
+    "status": "reviewed; viewport/public checks recorded separately"
+  }
+]

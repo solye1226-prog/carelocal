@@ -1,0 +1,60 @@
+[
+  {
+    "parent": "guides/rehab-inpatient-other-hospital-referral",
+    "existingBodyPreserved": true,
+    "newLinks": [
+      "/guides/recovery-rehabilitation-designation-transfer-check",
+      "/guides/nursing-hospital-referral-prescription-medicine"
+    ]
+  },
+  {
+    "parent": "silbi/pharmacy-prescription-claim",
+    "existingBodyPreserved": true,
+    "newLinks": [
+      "/guides/nursing-hospital-referral-prescription-medicine"
+    ]
+  },
+  {
+    "parent": "guides/iol-mri-device-information-check",
+    "existingBodyPreserved": true,
+    "newLinks": [
+      "/guides/contrast-reaction-drug-safety-card",
+      "/silbi/sedation-mri-cost-claim"
+    ]
+  },
+  {
+    "parent": "silbi/mri-silbi-claim",
+    "existingBodyPreserved": true,
+    "newLinks": [
+      "/silbi/sedation-mri-cost-claim"
+    ]
+  },
+  {
+    "parent": "silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "existingBodyPreserved": true,
+    "newLinks": [
+      "/guides/recovery-rehabilitation-designation-transfer-check"
+    ]
+  },
+  {
+    "parent": "guides/hira-medication-history-before-admission",
+    "existingBodyPreserved": true,
+    "newLinks": [
+      "/guides/contrast-reaction-drug-safety-card"
+    ]
+  },
+  {
+    "parent": "treatment-costs/surgery-deposit-cancellation-refund-records",
+    "existingBodyPreserved": true,
+    "newLinks": [
+      "/treatment-costs/closed-hospital-prepaid-card-installment"
+    ]
+  },
+  {
+    "parent": "claims/closed-hospital-records-request",
+    "existingBodyPreserved": true,
+    "newLinks": [
+      "/treatment-costs/closed-hospital-prepaid-card-installment"
+    ]
+  }
+]

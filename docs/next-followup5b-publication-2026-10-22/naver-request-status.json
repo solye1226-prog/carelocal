@@ -1,0 +1,58 @@
+{
+  "accepted": [
+    {
+      "url": "https://hospital.hbuby.com/guides/nursing-hospital-referral-prescription-medicine",
+      "status": "수집 요청 내역에 등록됨",
+      "evidence": "2 /guides/nursing-hospital-referral-prescription-medicine 26.10.22 10:12:40",
+      "checkedAt": "2026-10-22T01:13:24.426Z"
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/sedation-mri-cost-claim",
+      "status": "수집 요청 내역에 등록됨",
+      "evidence": "1 /silbi/sedation-mri-cost-claim 26.10.22 10:13:24",
+      "checkedAt": "2026-10-22T01:14:03.393Z"
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/recovery-rehabilitation-designation-transfer-check",
+      "status": "수집 요청 내역에 등록됨",
+      "evidence": "1 /guides/recovery-rehabilitation-designation-transfer-check 26.10.22 10:14:03",
+      "checkedAt": "2026-10-22T01:14:29.319Z"
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/contrast-reaction-drug-safety-card",
+      "status": "수집 요청 내역에 등록됨",
+      "evidence": "1 /guides/contrast-reaction-drug-safety-card 26.10.22 10:14:29",
+      "checkedAt": "2026-10-22T01:14:55.358Z"
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/closed-hospital-prepaid-card-installment",
+      "status": "수집 요청 내역에 등록됨",
+      "evidence": "1 /treatment-costs/closed-hospital-prepaid-card-installment 26.10.22 10:14:55",
+      "checkedAt": "2026-10-22T01:15:30.123Z"
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+      "status": "수집 요청 내역에 등록됨",
+      "evidence": "1 /guides/rehab-inpatient-other-hospital-referral 26.10.22 10:15:30",
+      "checkedAt": "2026-10-22T01:15:42.670Z"
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+      "status": "수집 요청 내역에 등록됨",
+      "evidence": "1 /silbi/pharmacy-prescription-claim 26.10.22 10:15:43",
+      "checkedAt": "2026-10-22T01:16:17.148Z"
+    }
+  ],
+  "pending": [
+    "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "https://hospital.hbuby.com/guides/hira-medication-history-before-admission",
+    "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "https://hospital.hbuby.com/claims/closed-hospital-records-request"
+  ],
+  "indexingConfirmed": false,
+  "stopReason": "사이트별 일간 최대 요청 수를 초과하였습니다.",
+  "quotaExceededAtUrl": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+  "stoppedAt": "2026-10-22T01:17:12.730Z"
+}

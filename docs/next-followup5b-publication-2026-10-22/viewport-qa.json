@@ -1,0 +1,980 @@
+[
+  {
+    "label": "new1",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "table": {
+      "height": 978,
+      "width": 320,
+      "x": 20,
+      "y": 2283.015625
+    },
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body2.webp"
+      }
+    ],
+    "pass": true
+  },
+  {
+    "label": "new1",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "table": {
+      "height": 978,
+      "width": 350,
+      "x": 20,
+      "y": 2158.625
+    },
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body2.webp"
+      }
+    ],
+    "pass": true
+  },
+  {
+    "label": "new1",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "table": {
+      "height": 425.171875,
+      "width": 744,
+      "x": 268,
+      "y": 1983.8125
+    },
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body2.webp"
+      }
+    ],
+    "pass": true
+  },
+  {
+    "label": "public-new1",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 978,
+      "width": 320,
+      "x": 20,
+      "y": 2644.015625
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new1",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 978,
+      "width": 335,
+      "x": 20,
+      "y": 2595.625
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new1",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "요양병원 입원 중 다른 병원 처방약, 어디서 받아야 할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/nursing-hospital-referral-prescription-medicine-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 425.171875,
+      "width": 744,
+      "x": 260.5,
+      "y": 2279.8125
+    },
+    "pass": true
+  },
+  {
+    "label": "new2",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 922,
+      "width": 320,
+      "x": 20,
+      "y": 2012.359375
+    },
+    "pass": true
+  },
+  {
+    "label": "new2",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 894,
+      "width": 350,
+      "x": 20,
+      "y": 1949.140625
+    },
+    "pass": true
+  },
+  {
+    "label": "new2",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 396.375,
+      "width": 744,
+      "x": 268,
+      "y": 1897.078125
+    },
+    "pass": true
+  },
+  {
+    "label": "new3",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 978,
+      "width": 320,
+      "x": 20,
+      "y": 1880.546875
+    },
+    "pass": true
+  },
+  {
+    "label": "new3",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 950,
+      "width": 350,
+      "x": 20,
+      "y": 1819.984375
+    },
+    "pass": true
+  },
+  {
+    "label": "new3",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 396.375,
+      "width": 744,
+      "x": 268,
+      "y": 1779.984375
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new2",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 922,
+      "width": 320,
+      "x": 20,
+      "y": 2373.359375
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new2",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 894,
+      "width": 335,
+      "x": 20,
+      "y": 2388.796875
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new2",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "수면 MRI 비용·실비, 촬영료와 진정 비용은 어떻게 확인할까?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/sedation-mri-cost-claim-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 396.375,
+      "width": 744,
+      "x": 260.5,
+      "y": 2193.078125
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new3",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 978,
+      "width": 320,
+      "x": 20,
+      "y": 2241.546875
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new3",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 950,
+      "width": 335,
+      "x": 20,
+      "y": 2256.984375
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new3",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "회복기 재활병원 찾기, 지정 여부와 전원 조건 확인법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/recovery-rehabilitation-designation-transfer-check-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 396.375,
+      "width": 744,
+      "x": 260.5,
+      "y": 2075.984375
+    },
+    "pass": true
+  },
+  {
+    "label": "new4",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 922,
+      "width": 320,
+      "x": 20,
+      "y": 1979.421875
+    },
+    "pass": true
+  },
+  {
+    "label": "new4",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 894,
+      "width": 350,
+      "x": 20,
+      "y": 1917.90625
+    },
+    "pass": true
+  },
+  {
+    "label": "new4",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 367.578125,
+      "width": 744,
+      "x": 268,
+      "y": 1863.25
+    },
+    "pass": true
+  },
+  {
+    "label": "new5",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 922,
+      "width": 320,
+      "x": 20,
+      "y": 2314.453125
+    },
+    "pass": true
+  },
+  {
+    "label": "new5",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 922,
+      "width": 350,
+      "x": 20,
+      "y": 2221.5
+    },
+    "pass": true
+  },
+  {
+    "label": "new5",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 367.578125,
+      "width": 744,
+      "x": 268,
+      "y": 1969.734375
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new4",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 922,
+      "width": 320,
+      "x": 20,
+      "y": 2340.421875
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new4",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 894,
+      "width": 335,
+      "x": 20,
+      "y": 2292.03125
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new4",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/contrast-reaction-drug-safety-card-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 367.578125,
+      "width": 744,
+      "x": 260.5,
+      "y": 2159.25
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new5",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 922,
+      "width": 320,
+      "x": 20,
+      "y": 2675.453125
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new5",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 922,
+      "width": 335,
+      "x": 20,
+      "y": 2595.625
+    },
+    "pass": true
+  },
+  {
+    "label": "public-new5",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/closed-hospital-prepaid-card-installment-body2.webp"
+      }
+    ],
+    "table": {
+      "height": 367.578125,
+      "width": 744,
+      "x": 260.5,
+      "y": 2265.734375
+    },
+    "pass": true
+  },
+  {
+    "label": "public-parent1",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "pass": true
+  },
+  {
+    "label": "public-parent1",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "pass": true
+  },
+  {
+    "label": "public-parent1",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "pass": true
+  },
+  {
+    "label": "public-parent2",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "pass": true
+  },
+  {
+    "label": "public-parent2",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "pass": true
+  },
+  {
+    "label": "public-parent2",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "pass": true
+  },
+  {
+    "label": "public-parent3",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "pass": true
+  },
+  {
+    "label": "public-parent3",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "pass": true
+  },
+  {
+    "label": "public-parent3",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "pass": true
+  },
+  {
+    "label": "public-parent4",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "pass": true
+  },
+  {
+    "label": "public-parent4",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "pass": true
+  },
+  {
+    "label": "public-parent4",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "pass": true
+  },
+  {
+    "label": "public-parent5",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "pass": true
+  },
+  {
+    "label": "public-parent5",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "pass": true
+  },
+  {
+    "label": "public-parent5",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "pass": true
+  },
+  {
+    "label": "public-parent6",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "pass": true
+  },
+  {
+    "label": "public-parent6",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "pass": true
+  },
+  {
+    "label": "public-parent6",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "pass": true
+  },
+  {
+    "label": "public-parent7",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "pass": true
+  },
+  {
+    "label": "public-parent7",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "pass": true
+  },
+  {
+    "label": "public-parent7",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "pass": true
+  },
+  {
+    "label": "public-parent8",
+    "width": 360,
+    "scrollWidth": 345,
+    "title": "폐업한 병원 진료기록 발급, 포털에서 안 나오면 어디에 문의할까?",
+    "pass": true
+  },
+  {
+    "label": "public-parent8",
+    "width": 390,
+    "scrollWidth": 375,
+    "title": "폐업한 병원 진료기록 발급, 포털에서 안 나오면 어디에 문의할까?",
+    "pass": true
+  },
+  {
+    "label": "public-parent8",
+    "width": 1280,
+    "scrollWidth": 1265,
+    "title": "폐업한 병원 진료기록 발급, 포털에서 안 나오면 어디에 문의할까?",
+    "pass": true
+  }
+]
