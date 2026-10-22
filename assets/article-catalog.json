@@ -50,6 +50,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/contrast-adverse-reaction-relief-documents",
+    "title": "조영제 부작용으로 치료받았다면? 의약품 피해구제 상담·서류 준비",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/dental-crown-insurance-claim-documents",
     "title": "치아보험 크라운 청구서류, 치아번호와 치료 재료 확인",
     "category": "보험금 청구"
