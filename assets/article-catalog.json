@@ -1280,6 +1280,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/closed-hospital-prepaid-card-installment",
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/continuous-glucose-monitor-device-sensor-support",
     "title": "연속혈당측정기 건강보험, 기기와 센서 지원을 따로 확인하세요",
     "category": "치료비"
