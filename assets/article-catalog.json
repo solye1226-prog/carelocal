@@ -2008,5 +2008,10 @@
     "path": "/guides/tertiary-hospital-referral-checkup",
     "title": "상급종합병원 진료의뢰서, 검진결과서로 대신할 수 있을까?",
     "category": "방문 가이드"
+  },
+  {
+    "path": "/guides/unused-prescription-medicine-disposal",
+    "title": "퇴원 후 남은 약, 어디에 버릴까? 폐의약품 수거함·물약 배출 확인",
+    "category": "방문 가이드"
   }
 ]
