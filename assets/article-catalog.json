@@ -1765,6 +1765,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/cgm-clarity-report-clinic-sharing",
+    "title": "연속혈당측정기 기록, 병원에 어떻게 보여줄까? Clarity 보고서·공유 준비",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/cgm-fingerstick-reading-mismatch-check",
     "title": "연속혈당측정기 수치가 채혈과 다를 때, 진료팀·제조사에 무엇을 알려야 할까?",
     "category": "방문 가이드"
