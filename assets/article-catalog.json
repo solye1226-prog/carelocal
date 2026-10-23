@@ -1825,6 +1825,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/medicine-recall-lot-number-check",
+    "title": "먹던 약이 회수 대상이라면? 제품명·제조번호 확인과 약국 문의 순서",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/mobile-health-insurance-id-error",
     "title": "모바일 건강보험증이 안 될 때, 병원 대체 본인확인 방법",
     "category": "방문 가이드"
