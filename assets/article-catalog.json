@@ -1335,6 +1335,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/hospital-card-cancellation-refund-status-check",
+    "title": "병원에서 카드 취소했다는데 돈이 안 보인다면? 취소전표·청구내역 확인법",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/hospital-refund-consumer-dispute-mediation",
     "title": "병원 환불 합의가 안 됐다면? 소비자원 합의권고와 분쟁조정의 차이",
     "category": "치료비"
