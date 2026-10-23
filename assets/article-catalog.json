@@ -1340,6 +1340,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/hospital-refund-cash-receipt-cancellation-check",
+    "title": "병원비 환불받았는데 현금영수증은 그대로라면? 승인·취소 내역 확인법",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/hospital-refund-consumer-dispute-mediation",
     "title": "병원 환불 합의가 안 됐다면? 소비자원 합의권고와 분쟁조정의 차이",
     "category": "치료비"
