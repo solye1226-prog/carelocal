@@ -94,7 +94,7 @@
   <url><loc>https://hospital.hbuby.com/claims/medical-expense-claim-documents</loc><lastmod>2026-10-19</lastmod><priority>0.9</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/hospitalization-claim-documents</loc><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/hospitalization-claim-documents</loc><lastmod>2026-10-26</lastmod><priority>0.9</priority></url>
 
 
   <url><loc>https://hospital.hbuby.com/claims/surgery-claim-documents</loc><lastmod>2026-10-22</lastmod><priority>0.9</priority></url>
@@ -310,7 +310,7 @@
   <url><loc>https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/polyp-removal-claim-documents</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/polyp-removal-claim-documents</loc><lastmod>2026-10-26</lastmod><priority>0.9</priority></url>
 
 
   <url><loc>https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit</loc><lastmod>2026-10-18</lastmod><priority>0.9</priority></url>
@@ -412,10 +412,10 @@
   <url><loc>https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents</loc><lastmod>2026-10-18</lastmod></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents</loc><lastmod>2026-10-26</lastmod></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents</loc><lastmod>2026-10-26</lastmod></url>
 
 
   <url><loc>https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents</loc><lastmod>2026-09-22</lastmod></url>
@@ -472,7 +472,7 @@
   <url><loc>https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied</loc><lastmod>2026-09-27</lastmod><priority>0.8</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents</loc><lastmod>2026-10-26</lastmod></url>
 
 
   <url><loc>https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim</loc><lastmod>2026-10-22</lastmod></url>
