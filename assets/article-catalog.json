@@ -875,6 +875,11 @@
     "category": "진단비"
   },
   {
+    "path": "/diagnosis-benefit/integrated-cancer-metastasis-vs-rediagnosis",
+    "title": "통합암진단비 전이암 포함, 재진단암과 같은 뜻일까?",
+    "category": "진단비"
+  },
+  {
     "path": "/diagnosis-benefit/thyroid-cancer-benefit-claim",
     "title": "갑상선암 진단비 청구, 유사암 구분과 필요한 서류",
     "category": "진단비"
