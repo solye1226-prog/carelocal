@@ -875,6 +875,11 @@
     "category": "진단비"
   },
   {
+    "path": "/surgery-benefit/116-disease-vs-tier-surgery-benefit",
+    "title": "116대 질병수술비와 종수술비 차이, 같은 수술이면 둘 다 확인할까?",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/achilles-rupture-repair-claim",
     "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
     "category": "수술비"
