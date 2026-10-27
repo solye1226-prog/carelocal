@@ -34,3 +34,12 @@
 ## 증거
 
 `changes.json`, `content-validation.json`, `duplicate-audit.json`, `layout-360/390/1280.json`, `local-1~5-360/390/1280.png`, `local-thyroid-table-390.png`, 공식 사이트 본문 스냅샷을 같은 폴더에 저장했다. 수정 전 원본은 `*-before.html`로 보존했다. 배포 및 공개 본문 확인 결과는 아래에 추가 기록한다.
+
+
+## 배포·공개 확인
+
+- 콘텐츠·기획 커밋: `4078490`, main push 완료.
+- 공개5개 모두 HTTP200, 새 title과 로컬 main 본문 전체의 텍스트 일치, 자기 canonical 확인(`public-check.json`). 최초 확인 때는 이전 본문이었으며 배포 반영 후 재확인하여 모두 일치함.
+- 공개5편을 390·1280px에서 렌더링 확인(`public-layout.json`, `public-1~5-390/1280.png`). 새 제목과 가로 넘침 없음 확인.
+- 신규 기획의 중입자 가이드 실제 본문도 대조하여 치료·비용 개요와 특약 범위 질문의 차이를 재확인.
+- 색인 요청 접수 또는 색인 완료를 이번 보완 결과로 보고하지 않음.

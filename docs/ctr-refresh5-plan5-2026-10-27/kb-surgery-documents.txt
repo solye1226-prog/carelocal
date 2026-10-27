@@ -1,0 +1,459 @@
+Browser tab: 4, Title: "필요서류 안내(질병) | KB손해보험 [B]", URL: "https://www.kbinsure.co.kr/CG205020003.ec".
+1 AXWebArea 필요서류 안내(질병) | KB손해보험 [B], URL: kbinsure.co.kr/CG205020003.ec
+	2 container
+		3 link Description: 본문으로 바로가기, Value: kbinsure.co.kr/CG205020003.ec#contents
+		4 link Description: 하위메뉴 바로가기, Value: kbinsure.co.kr/CG205020003.ec#lnb
+	5 container header
+		6 container
+			7 content list
+				8 link Description: 회사소개, Value: javascript:content('CU600000001.ec?mdmn=0104%27);
+				9 link Description: 다이렉트보험, Help: 새창, Value: direct.kbinsure.co.kr/websquare/promotion.jsp?pid=1090036&code=0002&page=index
+				10 link Description: 기업보험, Help: 새창, Value: kbib2b.com/
+				11 link Description: 퇴직연금, Help: 새창, Value: pension.kbinsure.co.kr/
+				12 link Description: 소비자포털, Value: javascript:content('CG900000001.ec?mdmn=0104%27);
+				13 link Description: 공시실, Value: javascript:content('CG801010001.ec?mdmn=0104%27);
+				14 link Description: 정보/이벤트, Value: javascript:content('CG700000001.ec?mdmn=0104%27);
+				15 link Description: 사이트맵, Value: javascript:content('CU300000001.ec?mdmn=0104%27);
+			16 container
+				17 link Description: 크게보기, Value: kbinsure.co.kr/CG205020003.ec#
+				18 link Description: 작게보기, Value: kbinsure.co.kr/CG205020003.ec#
+			19 container 검색영역
+				20 text 검색영역
+				21 text field (settable) Description: 검색어 입력, ID: query
+				22 button 검색
+		23 heading KB손해보험, Value: 1
+			24 link Description: KB손해보험, Value: kbinsure.co.kr/main.ec?mdmn=0101
+		25 content list
+			26 link Description: 내 계약, Value: javascript:content('CG100000001.ecs');
+			27 link Description: 상품, Value: javascript:content('CG302130001.ec');
+			28 link Description: 보상, Value: javascript:content('CG212010002.ec');
+			29 link Description: 대출, Value: javascript:content('CG409010011.ec');
+			30 link Description: 고객센터, Value: javascript:content('CG602010001.ec');
+		31 container
+			32 link Description: 로그인, Value: javascript:content('CU101000001.ecs?mdmn=0103%27);
+			33 link Description: 회원가입, Value: javascript:content('CU102000005.ec?mdmn=0103%27);
+		34 content list
+			35 link Description: Home, Value: javascript:content('/main.ec?mdmn=0101%27);
+			36 link Description: 보상, Value: javascript:content('CG212010002.ec');
+			37 link Description: 상해/질병/재물배상보험, Value: javascript:content('CG205010001.ec');
+			38 link Description: 필요서류 안내, Value: javascript:content('CG205020001.ec');
+	39 container
+		40 link Description: 챗봇 안녕하세요! KB손해보험 챗봇입니다., Help: 새 창 열기, Value: javascript:goChatbotConsl();
+		41 link Description: 상단으로 이동, Value: kbinsure.co.kr/CG205020003.ec#none
+	42 container mSection
+		43 container
+			44 heading 하위메뉴영역, Value: 2
+				45 text 하위메뉴영역
+			46 container lnb
+				47 container
+					48 heading 보상, Value: 1
+						49 text 보상
+					50 content list
+						51 link Description: 보상신청/조회, Value: javascript:;
+						52 container
+							53 link Description: 상해/질병/재물배상보험, Value: javascript:;
+							54 content list
+								55 link Description: 보험금청구안내, Value: javascript:content('CG205010001.ec');
+								56 link Description: 필요서류 안내, Value: javascript:content('CG205020001.ec');
+						57 link Description: 자동차보험, Value: javascript:;
+						58 link Description: 매직카서비스, Value: javascript:;
+						59 link Description: 보상가이드, Value: javascript:;
+				60 container
+					61 link Description: 연금보험 간편설계, Value: javascript:goAnutyinsSimplDesign();
+					62 link Description: 통합상담신청, Value: javascript:goIntgrCslt();
+					63 link Description: 대표콜센터 1544-0114 (계약관리, 사고접수, 보상) 해외 82-1544-0114, Value: javascript:content('CG605030001.ec');
+					64 definition list
+						65 container
+							66 text 장애인 전용 콜센터
+							67 text 02-6715-8697
+						68 container
+							69 text 장애인 전용 이메일 상담
+							70 text cscenter@kbinsure.co.kr
+							71 container
+								72 text 언어ㆍ청각장애인 문자접수
+								73 text (자동차사고접수/고장출동)
+							74 text 010-5563-0114
+					75 definition list
+						76 container 중요콜센터
+							77 text 중요콜센터
+						78 container
+							79 text 다이렉트보험 가입문의 자동차 : 1544-0077
+							80 text 장기/일반 : 1644-6413
+							81 text 1644-6603
+						82 container
+							83 text 일반/장기 보험상품 가입문의 1544-0800
+						84 container
+							85 text 통신판매 CS콜센터(카드/홈쇼핑) 1544-0115
+						86 container
+							87 text 퇴직연금콜센터 1544-9520
+						88 container
+							89 text 대출콜센터 1544-9110
+						90 container
+							91 link Description: ARS메뉴, Value: javascript:goArsInfo();
+							92 link Description: 지점/서비스망, Value: javascript:goSvcNetSeek();
+							93 link Description: 자주하는질문, Value: javascript:goFaq();
+							94 link Description: 고객상담, Value: javascript:goCnclPropsl();
+			95 container contents
+				96 heading 필요서류 안내, Value: 1
+					97 text 필요서류 안내
+				98 container
+					99 text 꼭 필요하지만 너무나 복잡한 구비서류들, 자세하게 알려드립니다!  보험금 청구 전 꼭 확인하세요!
+				100 heading 보험금청구 서류 출력, Value: 4
+					101 text 보험금청구 서류 출력
+				102 content list
+					103 container
+						104 text 보험금청구서
+						105 link Description: 출력, Help: 청구서 출력 새창열림, Value: javascript:groupInsuBill2();
+						106 link Description: PDF, Help: 청구서 출력 PDF 새창열림, Value: javascript:reqdoc();
+					107 container
+						108 text 보험금청구서 샘플
+						109 link Description: 출력, Help: 청구서 샘플 새창열림, Value: javascript:claimSample2();
+						110 link Description: PDF, Help: 청구서 샘플 PDF 새창열림, Value: javascript:reqdocSample();
+					111 container
+						112 text 실손의료보험금 청구대행 신청서
+						113 link Description: 출력, Value: javascript:rcvVcxtApfm();
+						114 link Description: PDF, Help: 실손의료보험금 청구대행 신청서 PDF 새창열림, Value: javascript:viewPdf('4');
+					115 container
+						116 text 위임장
+						117 link Description: 출력, Help: 위임장PDF출력 새창열림, Value: javascript:insbnfAgre();
+						118 link Description: PDF, Help: 위임장PDF출력 PDF 새창열림, Value: javascript:ltatny();
+					119 container
+						120 text 간병인 사용확인서
+						121 link Description: PDF, Help: 간병인 사용확인서 PDF 새창열림, Value: javascript:viewPdf('5');
+					122 container
+						123 text 치과치료확인서
+						124 link Description: 출력, Help: 치과치료확인서 새창열림, Value: javascript:toothCnfsht();
+						125 link Description: PDF, Help: 치과치료확인서 PDF 새창열림, Value: javascript:toothPdf();
+				126 content list
+					127 container
+						128 text 보험금청구서(재물/배상책임)
+						129 link Description: 출력, Help: 재물/배상책임 보험금청구서 출력 새창열림, Value: javascript:groupInsuBill3();
+						130 link Description: PDF, Help: 재물/배상책임 보험금청구서 출력 PDF 새창열림, Value: javascript:viewPdf('6');
+					131 container
+						132 text 반려동물용 보험금 청구서
+						133 link Description: 출력, Help: 반려동물용 보험금 청구서 출력 새창열림, Value: javascript:reqdocPet();
+						134 link Description: PDF, Help: 반려동물용 보험금 청구서 출력 PDF 새창열림, Value: javascript:viewPdf('7');
+					135 container
+						136 text 단계별/중증암진단비(사고증명서)
+						137 link Description: 출력, Help: 단계별/중증암진단비(사고증명서) 출력 새창열림, Value: javascript:accCrfct();
+						138 link Description: PDF, Help: 단계별/중증암진단비(사고증명서) 출력 PDF 새창열림, Value: javascript:viewPdf('1');
+					139 container
+						140 text 표적항암치료서
+						141 link Description: 출력, Help: 표적항암 출력 PDF 새창열림, Value: javascript:targetAnticncr();
+						142 link Description: PDF, Help: 표적항암 출력 새창열림, Value: javascript:viewPdf('2');
+					143 container
+						144 text 특정항암호르몬 치료서
+						145 link Description: 출력, Help: 특정항암호르몬 출력 새창열림, Value: javascript:spcfAnticncrHormn();
+						146 link Description: PDF, Help: 특정항암호르몬 출력 PDF 새창열림, Value: javascript:viewPdf('3');
+				147 text ※ 출력이 원활하지 않을 경우, PDF로 다운로드 후 출력해주세요.
+				148 content list
+					149 link Description: 일반상해, Value: javascript:content('CG205020001.ec');
+					150 link Description: 질병, Value: javascript:content('CG205020003.ec');
+					151 link Description: 교통상해, Value: javascript:content('CG205020002.ec');
+					152 link Description: 치아, Value: javascript:content('CG205020009.ec');
+					153 link Description: 화재/도난, Value: javascript:content('CG205020004.ec');
+					154 link Description: 배상책임, Value: javascript:content('CG205020005.ec');
+					155 link Description: 해외여행, Value: javascript:content('CG205020007.ec');
+					156 link Description: 골프, Value: javascript:content('CG205020008.ec');
+					157 link Description: 펫, Value: javascript:content('CG205020010.ec');
+					158 link Description: 간병, Value: javascript:content('CG205020011.ec');
+				159 container printDiv
+					160 heading 질병이란?, Value: 4
+						161 text 질병이란?
+					162 text 암, 폐, 심장질환 등과 같이 신체내부의 요인으로 몸이 불편하여 의사의 진단을 요하는 치료를 받는 경우를 말합니다.
+					163 content list
+						164 text 감기에 걸려 치료를 받은 경우
+						165 text 음식물을 먹은 후 식중독에 걸린 경우
+						166 text 설사, 장염에 걸린 경우
+						167 text 허리가 아픈 경우
+						168 text 암, 뇌졸중 등 중대질병에 걸린 경우
+					169 container
+						170 text * 사고내용, 특성, 상품(보장내역)에 따라 추가 심사서류를 요청할 수 있습니다.
+						171 text * 진단서, 통원확인서, 처방전, 진료확인서, 소견서, 수술확인서, 진료차트 등에는 질병분류코드(진단명)가 기재되어 있어야 합니다.
+						172 text * 2015.1.1일부터 실손의료보험 통원의료비는 동일사고 청구건당 3만원초과 10만원이하 청구시 처방전(질병분류코드 기재)으로 구비서류를 대체할 수 있습니다.
+						173 text * 일반적인 서류 안내 외에 각 보상담보별 청구서류 및 기타 세부사항은 해당 약관을 참고하여 주시기 바랍니다.
+					174 heading 구비서류, Value: 4
+						175 text 구비서류
+					176 table 구비서류 표
+						177 text 구비서류 표
+						178 row
+							179 cell
+								180 text 구분
+							181 cell
+								182 text 구비서류
+							183 cell
+								184 text 발급처
+						185 row
+							186 cell
+								187 text 공통서류
+							188 cell
+								189 text - 보험금청구서(당사양식, 계좌번호 기재)
+								190 text - 보험금 청구를 위한 상세동의서(당사양식)
+								191 text - 청구인의 신분증 사본 [미성년자 생략]
+								192 text (주민등록증 뒷면은 수집하지 않습니다.)
+							193 cell
+								194 text 당사양식
+						195 row
+							196 cell
+								197 text ※ [필요시] 추가서류
+								198 text - 가족관계 확인 필요시
+								199 text (배우자, 자녀 등의 보장상품, 수익자가 미성년자인 경우 등)
+								200 text : 가족관계서류 (예: 가족관계증명서, 혼인관계증명서 등)
+							201 cell
+								202 text 주민센터
+						203 row
+							204 cell
+								205 text ※ 타인에게 보험금을 위임하는 경우
+								206 text - 위임장(당사양식, 인감도장날인 또는 본인서명)
+								207 text - 인감증명서(또는 본인서명사실확인서) 제출
+								208 text - 보험금청구권자와 타인 각각의 보험금 청구를 위한 상세동의서(당사양식)
+							209 cell
+								210 text 주민센터
+								211 text 당사양식
+						212 row
+							213 cell
+								214 text ※ 진단서 발급시 유의사항
+								215 text 반드시 한국표준질병 사인분류번호가 기재된 진단서를 제출해 주십시오.
+							216 cell
+								217 text 의료기관
+						218 row
+							219 cell
+								220 text 의료비
+							221 cell
+								222 text 입원
+							223 cell
+								224 text - 진단서(질병분류코드(진단명), 입퇴원기간 기재 필수)
+								225 text ㆍ입퇴원확인서(질병분류코드(진단명)) 또는
+								226 text 진료확인서(질병분류코드(진단명), 입퇴원기간 기재 필수)로 대체 가능
+								227 text - 진료비계산서(영수증)
+								228 text - 진료비세부내역서(비급여 내역이 없는 경우 생략가능)
+							229 cell
+								230 text 의료기관
+						231 row
+							232 cell
+								233 text 통원
+							234 cell
+								235 table
+									236 row
+										237 cell
+											238 text 3만원 이하
+										239 cell
+											240 text - 진료비계산서(병원/약국 영수증)
+											241 text - 진료비세부내역서
+									242 row
+										243 cell
+											244 text 3만원 초과 ~
+											245 text 10만원 이하
+										246 cell
+											247 text - 진료비계산서(병원/약국 영수증)
+											248 text - [질병분류코드가 기재된] 처방전(무료)
+											249 text * [질병분류코드가 기재된] 처방전이 없는 경우
+											250 text 우측 ※ 추가증빙서류가 요청될 수 있습니다.
+											251 text - 진료비세부내역서
+										252 cell
+											253 text ※ 추가증빙서류
+											254 text - 진단서(소견서)
+											255 text - 통원(진료)확인서
+											256 text - 진료차트 등
+									257 row
+										258 cell
+											259 text 10만원 초과
+										260 cell
+											261 text - 진료비계산서(병원/약국 영수증)
+											262 text - [질병분류코드가 기재된] 처방전(무료)
+											263 text - 진료비세부내역서
+											264 text - 필요시 우측 ※추가증서류 제출 요청
+								265 text ※ 진료비세부내역서는 비급여 내역이 없는 경우 생략 가능합니다.
+								266 text ※ 진료비계산서(병원/약국 영수증)은 항목 구분이 가능한 표준영수증(의료법상 법정서식)으로 소득공제 확인용 '진료비납입확인서'나 '카드결제 영수증'은 해당하지 않습니다.
+								267 text ※ 병원에서 「환자보관용」처방전을 무료로 발급받으실 수 있습니다.
+								268 text ※ 보장제외 대상이 많은 진료과목(산부인과, 항문외과, 비뇨기과, 피부과 등) 및 짧은 기간 내 보험금 청구횟수가 과다한 경우 등 심사가 필요하다고 판단되는 때에는 별도의 추가 증빙서류 제출이 필요할 수 있음에 양해부탁드립니다.
+							269 cell
+								270 text 의료기관
+						271 row
+							272 cell
+								273 text 사망
+							274 cell
+								275 text - 사망진단서(사체검안서) 원본
+								276 text - 사망진단서(사체검안서) 사본 및 망인 기준 기본증명서(사망사실 기재)
+								277 text <수익자 미지정시>
+								278 text ㆍ상속관계 확인서류
+								279 text (예시) 망인기준 가족관계증명서, 혼인관계증명서 등
+								280 text <다수의 법정상속인 중 1인이 대표로 수령하는 경우>
+								281 text ㆍ상속관계 확인서류
+								282 text ㆍ위임장 작성(당사양식, 인감도장날인 또는 본인서명)
+								283 text ㆍ인감증명서(또는 본인서명사실확인서)
+								284 text ㆍ모든 법정상속인 각각의 보험금 청구를 위한 상세동의서(당사양식)
+							285 cell
+								286 text 의료기관
+								287 text 주민센터
+								288 text 주민센터
+								289 text 당사양식
+						290 row
+							291 cell
+								292 text 후유장해
+							293 cell
+								294 text - 후유장해진단서(약관상 장해분류표에 따른 장해판정 필요)
+								295 text ㆍ장해부위별 약관에 따른 장해진단 방법이 상이하므로 자세한 상담을
+								296 text 원하시는 경우 장해진단서 발급전 보상담당자와 상의하시기 바랍니다.
+							297 cell
+								298 text 의료기관
+						299 row
+							300 cell
+								301 text ※ 아래의 경우(일반)진단서로 대체 가능합니다. (아래 해당 서류와 함께 제출)
+								302 text - 만성신부전 혈액투석(최초 투석일, 환자상태 기재)
+								303 text - 사지절단(절단부위 명시 및 수술일자 기재), X-ray 필름(결과지)
+								304 text - 인공관절 치환술(치환일자, 부위명시) 수술기록지
+								305 text - 비장ㆍ신장ㆍ안구적출(적출일자, 부위명시) 수술기록지
+								306 text - 장기전절제(절제일자, 부위명시) 수술기록지
+							307 cell
+								308 text 의료기관
+						309 row
+							310 cell
+								311 text 3대
+								312 text 진단금
+							313 cell
+								314 text 암
+								315 text (경계성종양 등
+								316 text 제출서류동일)
+							317 cell
+								318 text - 초진차트
+								319 text - 진단서(질병분류코드(진단명)
+								320 text ㆍ조직검사를 시행한 경우: 조직(병리)검사결과지
+								321 text ㆍ백혈병 등의 혈액암의 경우: 골수생검검사결과지 및 혈액검사결과지
+								322 text ㆍ조직검사를 시행할 수 없는 경우: 영상의학검사 판독결과지(CT, MRI, PET등) 및 혈액검사결과지
+							323 cell
+								324 text 의료기관
+						325 row
+							326 cell
+								327 text 단계별/중증암
+								328 text 진단비
+							329 cell
+								330 text - 암의 병기에 따라 지급금액이 달라지는 담보로 단계별/중증암진단비(사고증명서)(당사양식) 추가 제출
+							331 cell
+								332 text 의료기관
+						333 row
+							334 cell
+								335 text 표적항암/
+								336 text 특정항암
+								337 text 호르몬약물
+								338 text 허가 치료비
+							339 cell
+								340 text - 약관상 해당하는 표적항암약물/특정항암호르몬약물 치료를 받은 경우
+								341 text · 표적항암약물허가치료확인서(당사양식)
+								342 text · 특정항암호르몬약물허가치료(당사양식)
+								343 text · 진료기록 사본, 정밀검사결과지 전체, 진료비세부내역서(급여적용 여부)
+							344 cell
+								345 text 의료기관
+						346 row
+							347 cell
+								348 text 뇌질환
+							349 cell
+								350 text - 초진차트 또는 응급실기록지
+								351 text - 진단서(질병분류코드(진단명))
+								352 text - 진단을 위해 시행한 정밀검사 판독결과지 전체
+								353 text (예시: CT, MRI, MRA, 뇌혈관조영술 등)
+							354 cell
+								355 text 의료기관
+						356 row
+							357 cell
+								358 text 심장질환
+							359 cell
+								360 text - 초진차트 또는 응급실기록지
+								361 text - 진단서(질병분류코드(진단명))
+								362 text - 진단을 위해 시행한 각종검사 판독결과지 전체
+								363 text (예시: 심장초음파, 심전도, 관상동맥조영술, 심장효소(혈액검사)결과지,
+								364 text 운동부하검사결과지 등)
+							365 cell
+								366 text 의료기관
+						367 row
+							368 cell
+								369 text 수술비
+							370 cell
+								371 text - 수술확인서(진단분류코드(진단명), 수술명, 수술일자가 포함된 서류)
+								372 text ※ 필요시 수술기록지를 요청할 수 있습니다.
+								373 text - 진료비세부내역서
+							374 cell
+								375 text 의료기관
+						376 row
+							377 cell
+								378 text 입원일당
+							379 cell
+								380 text - 입퇴원확인서(진단명(질병분류코드) 기재)
+								381 text - 진단서(진단명(질병분류코드))상 입퇴원 기간이 명시된 경우 입퇴원확인서 대체 가능
+							382 cell
+								383 text 의료기관
+						384 row
+							385 cell
+								386 text 독감(인플루엔자)
+								387 text 항바이러스제 치료비
+							388 cell
+								389 text - 진단서 또는 진료확인서 (진단명(질병분류코드) 기재)
+								390 text - 독감 항바이러스제 처방여부 및 의약품명 기재된 진단서 또는 진료비세부내역서
+							391 cell
+								392 text 의료기관
+						393 row
+							394 cell
+								395 text 태아
+								396 text 보험
+							397 cell
+								398 text 신생아
+								399 text 입원비/
+								400 text 저체중아
+								401 text 육아비용
+							402 cell
+								403 text - 출생증명서 또는 (신생아 기준) 가족관계증명서
+								404 text - 진단서(질병분류코드(진단명), 입퇴원기간 기재 필수)
+								405 text ㆍ입퇴원확인서(질병분류코드(진단명)) 또는 진료확인서(진병분류코드(진단명), 입퇴원기간 기재 필수)로 대체 가능
+								406 text ㆍ인큐베이터 사용시 해당기간을 진단서(소견서), 입퇴원확인서 또는 진료확인서에 명시하여 제출
+								407 text * 진단서나 진료확인서에 입원기간 및 인큐베이터 사용 기간이 명시된 경우 입원확인서 생략가능
+							408 cell
+								409 text 주민센터
+								410 text 의료기관
+						411 row
+							412 cell
+								413 text 유산/사산
+							414 cell
+								415 text - 진단서(유산), 사산증명서(사산)
+				416 link Description: 인쇄, Help: 새창열림, Value: javascript:printContent('printDiv',%20'scrollbars=yes');
+				417 text 이용안내
+				418 content list
+					419 text 서식/서류는 출력전용프로그램(오즈뷰어)가 정상적으로 설치되어야 출력 가능합니다.
+					420 container
+						421 text 출력전용프로그램(오즈뷰어)설치 오류 시 수동설치 파일을 다운로드하여 설치하시기 바랍니다.
+						422 content list
+							423 container
+								424 text 스크린리더 사용자이신 경우 스크린리더 미 작동 시 가상커서를 해제하셔야 합니다.
+								425 link Description: 수동설치파일 다운로드(Window용), Value: nozeuscs.kbinsure.co.kr:8800/ozviewer/Setup%20OZ%20Viewer.exe
+					426 text 출력이 원활하지 않을 경우, PDF로 다운로드 후 출력해주세요.
+	427 container mFooter
+		428 definition list
+			429 container 공시실
+				430 text 공시실
+			431 content list
+				432 link Description: 공시정보, Help: 펼치기, Value: kbinsure.co.kr/CG205020003.ec#
+				433 link Description: 신고센터, Help: 펼치기, Value: kbinsure.co.kr/CG205020003.ec#
+				434 link Description: 고객권리, Help: 펼치기, Value: kbinsure.co.kr/CG205020003.ec#
+				435 link Description: 관련사이트, Help: 펼치기, Value: kbinsure.co.kr/CG205020003.ec#
+				436 link Description: KB금융네트워크, Help: 펼치기, Value: kbinsure.co.kr/CG205020003.ec#
+		437 container
+			438 link Description: 스튜어드십코드, Value: javascript:content('CG802090601.ec?mdmn=0301%27);
+			439 link Description: 보호금융상품등록부, Value: javascript:content('CG802080001.ec?mdmn=0301%27);
+			440 link Description: 그룹내고객정보제공안내, Value: javascript:content('CU801060002.ec?mdmn=0301%27);
+			441 link Description: 개인정보처리방침, Help: 새창열림, Value: javascript:indvInfoDlngPolicy();
+			442 link Description: 이용약관, Value: javascript:content('CU106000001.ec?mdmn=0301%27);
+			443 link Description: 전자금융거래약관, Value: javascript:content('CU106000002.ec?mdmn=0301%27);
+			444 link Description: FOREIGN, Help: 새창열림, Value: javascript:goForeign('eng');
+			445 link Description: 채용안내, Help: 새창열림, Value: kbinsure.recruiter.co.kr/
+		446 container
+			447 image KB손해보험
+			448 text 대표이사 사장 구본욱 202-81-48370 (우)06134 서울시 강남구 테헤란로 117 KB손해보험빌딩(역삼동) COPYRIGHT ⓒ KB INSURANCE CO.,LTD. ALL RIGHTS RESERVED.
+			449 link Description: 과학기술정보통신부 WA(WEB접근성) 품질인증 마크,웹와치(WebWatch) 2026.04.20 ~ 2027.04.19, Help: 새 창 열기, Value: javascript:infoCommAccss();
+			450 image 인증마크
+			451 image 보험전문 신용평가 기관 A.M BEST 마크
+			452 link Description: 정보보호 관리체계 인증마크(새창), Help: 새 창 열기, Value: javascript:infoSafeMngtOrgz();
+			453 link Description: 한국서비스 대상 인증마크, Help: 새 창 열기, Value: javascript:infoKrSvcGrandPrix();
+			454 link Description: KB손해보험은 KB국민카드의 판매대리 · 중개업자입니다, Help: 새창열림, Value: kbinsure.co.kr/images/common/popup/finan_prdt_sale_agnt_mdtcp.pdf
+			455 link Description: 휴면금융재산 찾아주기, Value: kbinsure.co.kr/CG205020003.ec#none
+			456 image KB손해보험 QR코드보기(https://www.kbinsure.co.kr)
+
+The focused UI element is 1 AXWebArea 필요서류 안내(질병) | KB손해보험 [B], URL: kbinsure.co.kr/CG205020003.ec

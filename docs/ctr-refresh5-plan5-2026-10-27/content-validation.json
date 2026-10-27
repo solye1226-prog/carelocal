@@ -1,0 +1,37 @@
+[
+  {
+    "path": "/surgery-benefit/thyroid-surgery-benefit",
+    "h1": 1,
+    "images": 3,
+    "local_anchor_errors": [],
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/thyroid-surgery-benefit"
+  },
+  {
+    "path": "/surgery-benefit/type-surgery-benefit-claim",
+    "h1": 1,
+    "images": 3,
+    "local_anchor_errors": [],
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim"
+  },
+  {
+    "path": "/standards/actual-vs-fixed-benefit",
+    "h1": 1,
+    "images": 3,
+    "local_anchor_errors": [],
+    "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit"
+  },
+  {
+    "path": "/standards/indemnity-proportional-compensation",
+    "h1": 1,
+    "images": 3,
+    "local_anchor_errors": [],
+    "canonical": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation"
+  },
+  {
+    "path": "/standards/policyholder-insured-beneficiary",
+    "h1": 1,
+    "images": 3,
+    "local_anchor_errors": [],
+    "canonical": "https://hospital.hbuby.com/standards/policyholder-insured-beneficiary"
+  }
+]

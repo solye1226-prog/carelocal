@@ -1,0 +1,220 @@
+Browser tab: 4, Title: "KB 9회주는 암보험Plus(상품안내) | KB손해보험 [B]", URL: "https://www.kbinsure.co.kr/CG302260001.ec".
+1 AXWebArea KB 9회주는 암보험Plus(상품안내) | KB손해보험 [B], URL: kbinsure.co.kr/CG302260001.ec
+	2 container
+		3 link Description: 본문으로 바로가기, Value: kbinsure.co.kr/CG302260001.ec#contents
+		4 link Description: 하위메뉴 바로가기, Value: kbinsure.co.kr/CG302260001.ec#lnb
+	5 container header
+		6 container
+			7 content list
+				8 link Description: 회사소개, Value: javascript:content('CU600000001.ec?mdmn=0104%27);
+				9 link Description: 다이렉트보험, Help: 새창, Value: direct.kbinsure.co.kr/websquare/promotion.jsp?pid=1090036&code=0002&page=index
+				10 link Description: 기업보험, Help: 새창, Value: kbib2b.com/
+				11 link Description: 퇴직연금, Help: 새창, Value: pension.kbinsure.co.kr/
+				12 link Description: 소비자포털, Value: javascript:content('CG900000001.ec?mdmn=0104%27);
+				13 link Description: 공시실, Value: javascript:content('CG801010001.ec?mdmn=0104%27);
+				14 link Description: 정보/이벤트, Value: javascript:content('CG700000001.ec?mdmn=0104%27);
+				15 link Description: 사이트맵, Value: javascript:content('CU300000001.ec?mdmn=0104%27);
+			16 container
+				17 link Description: 크게보기, Value: kbinsure.co.kr/CG302260001.ec#
+				18 link Description: 작게보기, Value: kbinsure.co.kr/CG302260001.ec#
+			19 container 검색영역
+				20 text 검색영역
+				21 text field (settable) Description: 검색어 입력, ID: query
+				22 button 검색
+		23 heading KB손해보험, Value: 1
+			24 link Description: KB손해보험, Value: kbinsure.co.kr/main.ec?mdmn=0101
+		25 content list
+			26 link Description: 내 계약, Value: javascript:content('CG100000001.ecs');
+			27 link Description: 상품, Value: javascript:content('CG302130001.ec');
+			28 link Description: 보상, Value: javascript:content('CG212010002.ec');
+			29 link Description: 대출, Value: javascript:content('CG409010011.ec');
+			30 link Description: 고객센터, Value: javascript:content('CG602010001.ec');
+		31 container
+			32 link Description: 로그인, Value: javascript:content('CU101000001.ecs?mdmn=0103%27);
+			33 link Description: 회원가입, Value: javascript:content('CU102000005.ec?mdmn=0103%27);
+		34 content list
+			35 link Description: Home, Value: javascript:content('/main.ec?mdmn=0101%27);
+			36 link Description: 상품, Value: javascript:content('CG302130001.ec');
+			37 link Description: 자녀/건강/상해, Value: javascript:content('CG302130001.ec?pdcd%3D21654%27);
+			38 link Description: KB 9회주는 암보험Plus, Value: javascript:content('CG302260001.ec');
+	39 container
+		40 link Description: 챗봇 안녕하세요! KB손해보험 챗봇입니다., Help: 새 창 열기, Value: javascript:goChatbotConsl();
+		41 link Description: 상단으로 이동, Value: kbinsure.co.kr/CG302260001.ec#none
+	42 container mSection
+		43 container
+			44 heading 하위메뉴영역, Value: 2
+				45 text 하위메뉴영역
+			46 container lnb
+				47 container
+					48 heading 상품, Value: 1
+						49 text 상품
+					50 content list
+						51 link Description: 자동차/운전자, Value: javascript:;
+						52 link Description: 다이렉트, Value: javascript:;
+						53 container
+							54 link Description: 자녀/건강/상해, Value: javascript:;
+							55 content list
+								56 link Description: KB 9회주는 암보험Plus, Value: javascript:content('CG302260001.ec');
+								57 link Description: KB탑클래스 3.N.5 초경증 간편건강보험, Value: javascript:content('CG302120001.ec');
+								58 link Description: KB The건강한 치아보험, Value: javascript:content('CG302130001.ec');
+								59 link Description: KB금쪽같은자녀보험Plus, Value: javascript:content('CG302010001.ec');
+								60 link Description: KB 손보 실손의료비보장보험, Value: javascript:content('CG302090001.ec');
+								61 link Description: KB손보간편가입실손의료비보장보험, Value: javascript:content('CG302250001.ec');
+								62 link Description: KB 5.10.10 플러스 건강보험, Value: javascript:content('CG302290001.ec');
+								63 link Description: KB 5.10.10 Young 플러스 건강보험, Value: javascript:content('CG302230001.ec');
+						64 link Description: 연금/저축, Value: javascript:;
+						65 link Description: 노후/간병, Value: javascript:;
+						66 link Description: 화재, Value: javascript:;
+						67 link Description: 펫, Value: javascript:;
+						68 link Description: Biz보험, Value: javascript:;
+				69 container
+					70 link Description: 연금보험 간편설계, Value: javascript:goAnutyinsSimplDesign();
+					71 link Description: 통합상담신청, Value: javascript:goIntgrCslt();
+					72 link Description: 대표콜센터 1544-0114 (계약관리, 사고접수, 보상) 해외 82-1544-0114, Value: javascript:content('CG605030001.ec');
+					73 definition list
+						74 container
+							75 text 장애인 전용 콜센터
+							76 text 02-6715-8697
+						77 container
+							78 text 장애인 전용 이메일 상담
+							79 text cscenter@kbinsure.co.kr
+							80 container
+								81 text 언어ㆍ청각장애인 문자접수
+								82 text (자동차사고접수/고장출동)
+							83 text 010-5563-0114
+					84 definition list
+						85 container 중요콜센터
+							86 text 중요콜센터
+						87 container
+							88 text 다이렉트보험 가입문의 자동차 : 1544-0077
+							89 text 장기/일반 : 1644-6413
+							90 text 1644-6603
+						91 container
+							92 text 일반/장기 보험상품 가입문의 1544-0800
+						93 container
+							94 text 통신판매 CS콜센터(카드/홈쇼핑) 1544-0115
+						95 container
+							96 text 퇴직연금콜센터 1544-9520
+						97 container
+							98 text 대출콜센터 1544-9110
+						99 container
+							100 link Description: ARS메뉴, Value: javascript:goArsInfo();
+							101 link Description: 지점/서비스망, Value: javascript:goSvcNetSeek();
+							102 link Description: 자주하는질문, Value: javascript:goFaq();
+							103 link Description: 고객상담, Value: javascript:goCnclPropsl();
+			104 container contents
+				105 heading KB 9회주는 암보험Plus, Value: 1
+					106 text KB 9회주는 암보험Plus
+				107 container
+					108 link Description: 트위터 이동(새창), Value: javascript:tweeter('CG302260001.ec','KB%209%25ED%259A%258C%25EC%25A3%25BC%25EB%258A%2594%20%25EC%2595%2594%25EB%25B3%25B4%25ED%2597%2598Plus');
+					109 link Description: 페이스북 이동(새창), Value: javascript:shareFacebook('CG302260001.ec','KB%209%25ED%259A%258C%25EC%25A3%25BC%25EB%258A%2594%20%25EC%2595%2594%25EB%25B3%25B4%25ED%2597%2598Plus');
+				110 link Description: 보험약관, Help: 새창, Value: javascript:goPolView('25290');
+				111 definition list
+					112 container KB 9회주는 암보험Plus (무배당)(26.07)
+						113 container
+							114 text KB 9회주는 암보험Plus (무배당)(26.07)
+				115 container
+					116 container
+						117 text 고령화 시대, 커지는 암걱정
+						118 text 고령자도 가입 가능한 암 보장 보험!
+						119 text 최대 75세까지 가입 가능한
+					120 text KB손해보험
+					121 text 9회주는 암보험Plus
+					122 text 으로 대비하세요.
+					123 image 2016 주요 암 발생자 수 위 30,504 / 대장 28,127 / 갑상선 26,051 / 폐 25,780 / 유방 21,839 / 간 15,771 / 전립선 11,800 - 보건복지부 중증암등록본부 '2016년 국가암 등록 통계 발표'출처 
+					124 container myform
+						125 text 보험료 간편하게 확인해보세요!
+						126 table
+							127 row
+								128 cell
+									129 text 나이
+								130 cell
+									131 text field (settable) Description: 나이 입력, ID: cust_age
+									132 text 세
+							133 row
+								134 cell
+									135 text 성별
+								136 cell
+									137 radio button (settable, integer) Description: 남, Value: 0, ID: man
+									138 radio button (settable, integer) Description: 여, Value: 0, ID: woman
+									139 text  .
+						140 link Description: 보험료계산, Value: javascript:calNext();
+						141 content list
+							142 link Description: 상담신청, Value: javascript:content('CG302260101.ecs?pdcd=25290&regtype=02%27);
+							143 link Description: 자유설계, Help: 새창열림, Value: javascript:openPrice('25290');
+				144 content list
+					145 container
+						146 heading 01 암진단비를 최대 9번 보장!(해당 특약 가입 시), Value: 4
+							147 text 01 암진단비를 최대 9번 보장! (해당 특약 가입 시)
+						148 content list
+							149 text 통합암진단비 보장 하나로 암종별 최대 9번(전이암 포함)까지 암진단비 보장!
+						150 text ※ 암 보장개시일은 가입 후 91일부터입니다. ※ 자세한 사항은 약관을 참조해 주시기 바랍니다.
+					151 container
+						152 heading 02 남녀생식기암종에 대한 항암치료 집중 보장! (해당 특약 가입 시), Value: 4
+							153 text 02 남녀생식기암종에 대한 항암치료 집중 보장! (해당 특약 가입 시)
+						154 content list
+							155 container
+								156 text 남녀생식기암종에 대한 항암방사선치료비 보장 신설로 남/녀생식기암(전립선암 등)에 대해
+								157 text 항암중입자방사선치료 등 선진항암치료기술을 포함한 항암방사선치료 특화보장
+					158 container
+						159 heading 03 든든한 3대질병(암/뇌혈관질환/허혈성심장질환) 통원일당 보장! (해당 특약 가입 시), Value: 4
+							160 text 03 든든한 3대질병(암/뇌혈관질환/허혈성심장질환) 통원일당 보장!
+							161 text (해당 특약 가입 시)
+						162 content list
+							163 text 병원급별(상급종합병원/종합병원/일반병원) 통원일당 보장체계 구축
+							164 text 상급종합병원이 존재하지 않는 일부지역의 보장공백 해소를 위해 종합병원통원 보장 신설
+					165 container
+						166 heading 04 아래 보험사고 발생시 차회 이후의 보장보험료 납입을 면제하여 드립니다., Value: 4
+							167 text 04 아래 보험사고 발생시 차회 이후의 보장보험료 납입을 면제하여
+							168 text 드립니다.
+						169 content list
+							170 text 1) 1종 1형(7대 납입면제형)
+							171 text ① 암보장개시일 이후 암(유사암 제외)으로 진단 확정
+							172 text ② 일반상해80%이상후유장해 발생
+							173 text ③ 질병80%이상후유장해 발생
+							174 text ④ 뇌졸중으로 진단 확정
+							175 text ⑤ 급성심근경색증으로 진단 확정
+							176 text ⑥ 양성뇌종양으로 진단 확정
+							177 text ⑦ 만성당뇨합병증으로 진단 확정
+							178 text 2) 1종 2형(3대 납입면제형)
+							179 text ① 암보장개시일 이후 암(유사암 제외)으로 진단 확정
+							180 text ② 일반상해80%이상후유장해 발생
+							181 text ③ 질병80%이상후유장해 발생
+							182 image 가입, 납입면제 사고발생. 보장보험료 납입면제, 납입기간
+							183 text ※ 자세한 사항은 약관을 참조해주시기 바랍니다.
+				184 link Description: 보장내용, Help: 새창, Value: javascript:fileView('guarnt');
+				185 link Description: 가입예시, Help: 새창, Value: javascript:fileView('exmpl');
+				186 link Description: 알아두실 사항, Help: 새창, Value: javascript:openInformedLayer();
+				187 text KB손해보험 준법감시인 심의필 제2026-2189호(2026.08.10~2027.08.09)
+	188 container mFooter
+		189 definition list
+			190 container 공시실
+				191 text 공시실
+			192 content list
+				193 link Description: 공시정보, Help: 펼치기, Value: kbinsure.co.kr/CG302260001.ec#
+				194 link Description: 신고센터, Help: 펼치기, Value: kbinsure.co.kr/CG302260001.ec#
+				195 link Description: 고객권리, Help: 펼치기, Value: kbinsure.co.kr/CG302260001.ec#
+				196 link Description: 관련사이트, Help: 펼치기, Value: kbinsure.co.kr/CG302260001.ec#
+				197 link Description: KB금융네트워크, Help: 펼치기, Value: kbinsure.co.kr/CG302260001.ec#
+		198 container
+			199 link Description: 스튜어드십코드, Value: javascript:content('CG802090601.ec?mdmn=0301%27);
+			200 link Description: 보호금융상품등록부, Value: javascript:content('CG802080001.ec?mdmn=0301%27);
+			201 link Description: 그룹내고객정보제공안내, Value: javascript:content('CU801060002.ec?mdmn=0301%27);
+			202 link Description: 개인정보처리방침, Help: 새창열림, Value: javascript:indvInfoDlngPolicy();
+			203 link Description: 이용약관, Value: javascript:content('CU106000001.ec?mdmn=0301%27);
+			204 link Description: 전자금융거래약관, Value: javascript:content('CU106000002.ec?mdmn=0301%27);
+			205 link Description: FOREIGN, Help: 새창열림, Value: javascript:goForeign('eng');
+			206 link Description: 채용안내, Help: 새창열림, Value: kbinsure.recruiter.co.kr/
+		207 container
+			208 image KB손해보험
+			209 text 대표이사 사장 구본욱 202-81-48370 (우)06134 서울시 강남구 테헤란로 117 KB손해보험빌딩(역삼동) COPYRIGHT ⓒ KB INSURANCE CO.,LTD. ALL RIGHTS RESERVED.
+			210 link Description: 과학기술정보통신부 WA(WEB접근성) 품질인증 마크,웹와치(WebWatch) 2026.04.20 ~ 2027.04.19, Help: 새 창 열기, Value: javascript:infoCommAccss();
+			211 image 인증마크
+			212 image 보험전문 신용평가 기관 A.M BEST 마크
+			213 link Description: 정보보호 관리체계 인증마크(새창), Help: 새 창 열기, Value: javascript:infoSafeMngtOrgz();
+			214 link Description: 한국서비스 대상 인증마크, Help: 새 창 열기, Value: javascript:infoKrSvcGrandPrix();
+			215 link Description: KB손해보험은 KB국민카드의 판매대리 · 중개업자입니다, Help: 새창열림, Value: kbinsure.co.kr/images/common/popup/finan_prdt_sale_agnt_mdtcp.pdf
+			216 link Description: 휴면금융재산 찾아주기, Value: kbinsure.co.kr/CG302260001.ec#none
+			217 image KB손해보험 QR코드보기(https://www.kbinsure.co.kr)
+
+The focused UI element is 1 AXWebArea KB 9회주는 암보험Plus(상품안내) | KB손해보험 [B], URL: kbinsure.co.kr/CG302260001.ec

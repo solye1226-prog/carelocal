@@ -1,0 +1,17 @@
+{
+  "catalog_articles": 432,
+  "body_exact_matches": {
+    "116대": [],
+    "통합암": [],
+    "주요치료비": [],
+    "생식기": [],
+    "통원일당": []
+  },
+  "nearby_read": [
+    "guides/cancer-treatment-cost.html",
+    "underwriting/simplified-health-insurance-cancer-brain.html",
+    "diagnosis-benefit/cerebrovascular-benefit-claim-documents.html",
+    "claims/cancer-diagnosis-benefit-documents.html"
+  ],
+  "note": "Exact terms plus nearby-body intent review; not keyword-demand validation."
+}

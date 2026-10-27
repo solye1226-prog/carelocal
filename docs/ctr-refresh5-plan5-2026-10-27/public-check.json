@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/thyroid-surgery-benefit",
+    "status": 200,
+    "title": "갑상선 수술비 몇 종일까? 암·양성결절과 절제술 확인법",
+    "fresh_title": true,
+    "fresh_body": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/thyroid-surgery-benefit"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim",
+    "status": 200,
+    "title": "종수술비 청구서류와 계산 방법, 내 수술 몇 종인지 확인하기",
+    "fresh_title": true,
+    "fresh_body": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "status": 200,
+    "title": "실손·정액보험 차이, 보험 2개면 중복으로 받을 수 있을까?",
+    "fresh_title": true,
+    "fresh_body": true,
+    "canonical": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation",
+    "status": 200,
+    "title": "실손 비례보상 계산, 보험 2개인데 왜 반씩 안 나올까?",
+    "fresh_title": true,
+    "fresh_body": true,
+    "canonical": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation"
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/policyholder-insured-beneficiary",
+    "status": 200,
+    "title": "계약자·피보험자·수익자 차이, 보험금은 누가 받나요?",
+    "fresh_title": true,
+    "fresh_body": true,
+    "canonical": "https://hospital.hbuby.com/standards/policyholder-insured-beneficiary"
+  }
+]
