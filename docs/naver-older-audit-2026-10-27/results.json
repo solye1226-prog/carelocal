@@ -1,0 +1,165 @@
+[
+  {
+    "path": "/claims/driver-injury-14",
+    "status": "indexed",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/hospitalization-claim-documents",
+    "status": "indexed",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/insurance-claim-method",
+    "status": "indexed",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/insurance-claim-process",
+    "status": "indexed",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/medical-expense-claim-documents",
+    "status": "indexed",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "status": "indexed",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/insurance-claim-appeal",
+    "status": "indexed",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-denial-reasons",
+    "status": "indexed",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-documents",
+    "status": "indexed",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-limitation",
+    "status": "indexed",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-payment-delay",
+    "status": "indexed",
+    "published": "2026-07-14"
+  },
+  {
+    "index": 11,
+    "path": "/claims/insurance-claim-payout-period",
+    "status": "indexed",
+    "published": "2026-07-14"
+  },
+  {
+    "index": 12,
+    "path": "/claims/insurance-claim-period",
+    "status": "indexed",
+    "published": "2026-07-14"
+  },
+  {
+    "index": 13,
+    "path": "/claims/insurance-claim-supplement-documents",
+    "status": "indexed",
+    "published": "2026-07-14"
+  },
+  {
+    "index": 14,
+    "path": "/caregiver/caregiver-insurance-claim-documents",
+    "status": "indexed",
+    "published": "2026-09-19"
+  },
+  {
+    "index": 15,
+    "path": "/claims/colonoscopy-polyp-insurance-claim",
+    "status": "indexed",
+    "published": "2026-09-19"
+  },
+  {
+    "index": 16,
+    "path": "/claims/downstairs-water-leak-insurance",
+    "status": "indexed",
+    "published": "2026-09-19"
+  },
+  {
+    "index": 17,
+    "path": "/claims/home-fire-insurance-water-leak",
+    "status": "indexed",
+    "published": "2026-09-19"
+  },
+  {
+    "index": 18,
+    "path": "/claims/traffic-accident-outpatient-silbi-claim",
+    "status": "indexed",
+    "published": "2026-09-19"
+  },
+  {
+    "index": 19,
+    "path": "/diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "status": "indexed",
+    "published": "2026-09-19"
+  },
+  {
+    "index": 20,
+    "path": "/silbi/mri-silbi-claim",
+    "status": "indexed",
+    "published": "2026-09-19"
+  },
+  {
+    "index": 21,
+    "path": "/silbi/silson24-hospital-not-found",
+    "status": "indexed",
+    "published": "2026-09-19"
+  },
+  {
+    "index": 22,
+    "path": "/claims/appendicitis-surgery-claim-documents",
+    "status": "indexed",
+    "published": "2026-09-22"
+  },
+  {
+    "index": 23,
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "status": "indexed",
+    "published": "2026-09-22"
+  },
+  {
+    "index": 24,
+    "path": "/claims/inguinal-hernia-surgery-claim-documents",
+    "status": "indexed",
+    "published": "2026-09-22"
+  },
+  {
+    "index": 25,
+    "path": "/claims/knee-surgery-claim-documents",
+    "status": "indexed",
+    "published": "2026-09-22"
+  },
+  {
+    "index": 26,
+    "path": "/claims/urinary-stone-treatment-claim-documents",
+    "status": "indexed",
+    "published": "2026-09-22"
+  },
+  {
+    "index": 27,
+    "path": "/claims/uterine-fibroid-surgery-claim-documents",
+    "status": "indexed",
+    "published": "2026-09-22"
+  },
+  {
+    "index": 28,
+    "path": "/silbi/cartistem-silbi-claim",
+    "status": "indexed",
+    "published": "2026-09-22"
+  }
+]

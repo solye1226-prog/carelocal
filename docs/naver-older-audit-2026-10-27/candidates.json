@@ -1,0 +1,506 @@
+[
+  {
+    "path": "/claims/driver-injury-14",
+    "title": "자동차부상치료비 청구 방법 | 운전자보험 자부치 14급 서류",
+    "category": "보험금 청구",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/hospitalization-claim-documents",
+    "title": "입원비 보험금 청구서류, 입퇴원확인서만 있으면 될까요?",
+    "category": "보험금 청구",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/insurance-claim-method",
+    "title": "보험금 청구 방법 총정리, 필요한 서류부터 지급 절차까지",
+    "category": "보험금 청구",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/insurance-claim-process",
+    "title": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+    "category": "보험금 청구",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/medical-expense-claim-documents",
+    "title": "실비보험 청구서류 정리 | 진료비 영수증·세부내역서·처방전",
+    "category": "보험금 청구",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+    "category": "보험금 청구",
+    "published": "2026-07-13"
+  },
+  {
+    "path": "/claims/insurance-claim-appeal",
+    "title": "보험금 청구가 거절됐다면? 이의신청 방법과 절차",
+    "category": "보험금 청구",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-denial-reasons",
+    "title": "보험금 청구가 거절되는 대표적인 사유와 대응 방법",
+    "category": "보험금 청구",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-documents",
+    "title": "보험금 청구서류 체크리스트, 실비·수술비·진단비별 준비물",
+    "category": "보험금 청구",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-limitation",
+    "title": "보험금 청구 소멸시효, 기간이 지나면 어떻게 될까?",
+    "category": "보험금 청구",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-payment-delay",
+    "title": "보험금 지급이 늦어지는 이유와 대처 방법",
+    "category": "보험금 청구",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-payout-period",
+    "title": "보험금 지급 기간은 얼마나 걸릴까? 지급 지연 기준까지",
+    "category": "보험금 청구",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-period",
+    "title": "보험금 청구 기간은 언제까지? 소멸시효와 청구 가능 기간 정리",
+    "category": "보험금 청구",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/claims/insurance-claim-supplement-documents",
+    "title": "보험금 청구 보완서류 요청을 받았다면? 추가 제출 서류 정리",
+    "category": "보험금 청구",
+    "published": "2026-07-14"
+  },
+  {
+    "path": "/caregiver/caregiver-insurance-claim-documents",
+    "title": "간병인보험 청구서류, 이용내역과 입원 증빙 확인 방법",
+    "category": "간병",
+    "published": "2026-09-19"
+  },
+  {
+    "path": "/claims/colonoscopy-polyp-insurance-claim",
+    "title": "대장용종 제거 보험청구, 실비·수술비 서류와 조직검사 확인",
+    "category": "보험금 청구",
+    "published": "2026-09-19"
+  },
+  {
+    "path": "/claims/downstairs-water-leak-insurance",
+    "title": "아랫집 누수 보험 처리, 일상생활배상책임 청구 순서와 서류",
+    "category": "보험금 청구",
+    "published": "2026-09-19"
+  },
+  {
+    "path": "/claims/home-fire-insurance-water-leak",
+    "title": "주택화재보험 누수 보상, 일배책과 무엇이 다를까?",
+    "category": "보험금 청구",
+    "published": "2026-09-19"
+  },
+  {
+    "path": "/claims/traffic-accident-outpatient-silbi-claim",
+    "title": "교통사고 통원치료 실비 청구, 자동차보험 처리 내역부터 확인하세요",
+    "category": "보험금 청구",
+    "published": "2026-09-19"
+  },
+  {
+    "path": "/diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "title": "갑상선암 진단비 청구, 유사암 구분과 필요한 서류",
+    "category": "진단비",
+    "published": "2026-09-19"
+  },
+  {
+    "path": "/silbi/mri-silbi-claim",
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "category": "실비보험",
+    "published": "2026-09-19"
+  },
+  {
+    "path": "/silbi/silson24-hospital-not-found",
+    "title": "실손24에서 병원·약국이 안 뜰 때, 실비 청구는 어떻게 할까?",
+    "category": "실비보험",
+    "published": "2026-09-19"
+  },
+  {
+    "path": "/claims/appendicitis-surgery-claim-documents",
+    "title": "충수염 수술 보험금 청구서류, 충수절제술 확인부터 접수까지",
+    "category": "보험금 청구",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "title": "담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?",
+    "category": "보험금 청구",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/claims/inguinal-hernia-surgery-claim-documents",
+    "title": "서혜부 탈장 수술 보험금 청구서류, 복강경·절개 수술명 확인하기",
+    "category": "보험금 청구",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/claims/knee-surgery-claim-documents",
+    "title": "무릎 수술 보험금 청구서류, 관절경·인공관절 수술명별 확인 방법",
+    "category": "보험금 청구",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/claims/urinary-stone-treatment-claim-documents",
+    "title": "요로결석 치료 보험금 청구서류, 체외충격파·요관경 시술 구분하기",
+    "category": "보험금 청구",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/claims/uterine-fibroid-surgery-claim-documents",
+    "title": "자궁근종 수술 보험금 청구서류, 근종절제술과 자궁절제술 구분하기",
+    "category": "보험금 청구",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/silbi/cartistem-silbi-claim",
+    "title": "카티스템 실비 청구 가능할까? 재료대·수술료 구분과 필요서류",
+    "category": "실비보험",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/silbi/leqembi-silbi-claim",
+    "title": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+    "category": "실비보험",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "title": "백내장 수술비 몇 종일까? 인공수정체·수술명과 약관 확인 방법",
+    "category": "수술비",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/surgery-benefit/disease-vs-type-surgery-benefit",
+    "title": "질병수술비와 종수술비 차이, 수술 후 두 담보를 확인하는 순서",
+    "category": "수술비",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "title": "담낭제거수술 보험 몇 종? 담낭절제술 종수술비 확인법",
+    "category": "수술비",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
+    "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+    "category": "수술비",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/surgery-benefit/third-tier-surgery-classification",
+    "title": "3종 수술분류표, 내 수술이 해당하는지 약관에서 찾는 방법",
+    "category": "수술비",
+    "published": "2026-09-22"
+  },
+  {
+    "path": "/cancers/bladder-cancer",
+    "title": "방광암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/breast-cancer",
+    "title": "유방암 치료법과 유방암센터 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/cervical-cancer",
+    "title": "자궁경부암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/colorectal-cancer",
+    "title": "대장암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/kidney-cancer",
+    "title": "신장암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/liver-cancer",
+    "title": "간암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/lung-cancer",
+    "title": "폐암 치료법과 폐암센터 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/ovarian-cancer",
+    "title": "난소암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/pancreatic-cancer",
+    "title": "췌장암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/prostate-cancer",
+    "title": "전립선암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/stomach-cancer",
+    "title": "위암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/cancers/thyroid-cancer",
+    "title": "갑상선암 치료법과 병원 확인 가이드 | 케어로컬",
+    "category": "암 정보",
+    "published": ""
+  },
+  {
+    "path": "/caregiver/caregiver-insurance-renewal-period",
+    "title": "간병인보험 갱신주기 확인 기준 | 케어로컬",
+    "category": "간병",
+    "published": ""
+  },
+  {
+    "path": "/checkups/abnormal-results",
+    "title": "건강검진 이상 소견 확인 가이드 | 케어로컬",
+    "category": "건강검진",
+    "published": ""
+  },
+  {
+    "path": "/checkups/cancer-screening",
+    "title": "국가암검진 확인 가이드 | 케어로컬",
+    "category": "건강검진",
+    "published": ""
+  },
+  {
+    "path": "/checkups/endoscopy",
+    "title": "위·대장내시경 준비와 결과 확인 | 케어로컬",
+    "category": "건강검진",
+    "published": ""
+  },
+  {
+    "path": "/checkups/national-health-checkup",
+    "title": "국가건강검진 연령별 항목 가이드 | 케어로컬",
+    "category": "건강검진",
+    "published": ""
+  },
+  {
+    "path": "/claims/family-liability-water-leak-deductible",
+    "title": "누수 사고 일배책 자기부담금 확인 기준 | 케어로컬",
+    "category": "보험금 청구",
+    "published": ""
+  },
+  {
+    "path": "/diagnosis-benefit/cerebrovascular-living-cost",
+    "title": "심뇌혈관보험 치료 중 생활비 확인 기준 | 케어로컬",
+    "category": "진단비",
+    "published": ""
+  },
+  {
+    "path": "/guides/alzheimer-injection-therapy",
+    "title": "치매 주사 치료는 누가 받을까? 알츠하이머 치료 대상·검사·주의사항",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/guides/cancer-treatment-cost",
+    "title": "암치료비 확인 포인트 | 케어로컬",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/guides/caregiver-application",
+    "title": "간병인 신청 준비 가이드 | 케어로컬",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/guides/night-hospital-checklist",
+    "title": "야간진료와 응급실 이용 기준 | 케어로컬",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/guides/proton-therapy",
+    "title": "양성자치료 확인 가이드 | 케어로컬",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/guides/psychiatry-first-visit",
+    "title": "정신건강의학과 첫 방문 준비 | 케어로컬",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/guides/robotic-surgery",
+    "title": "로봇수술 종수술비, 수술 방식과 보험 약관은 어떻게 확인할까?",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/guides/sunday-hospital-checklist",
+    "title": "주말 진료 병원 체크리스트 | 케어로컬",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/guides/targeted-immunotherapy",
+    "title": "표적·면역항암치료 확인 가이드 | 케어로컬",
+    "category": "방문 가이드",
+    "published": ""
+  },
+  {
+    "path": "/silbi/covered-vs-noncovered-medical-costs",
+    "title": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+    "category": "실비보험",
+    "published": ""
+  },
+  {
+    "path": "/silbi/current-silbi",
+    "title": "5세대 실손보험 구조, 급여·중증·비중증 비급여 차이",
+    "category": "실비보험",
+    "published": ""
+  },
+  {
+    "path": "/silbi/deductible-vs-copayment",
+    "title": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+    "category": "실비보험",
+    "published": ""
+  },
+  {
+    "path": "/silbi/generation-comparison",
+    "title": "실비보험 1~5세대 차이, 내 가입 시기와 보장 구조 확인법",
+    "category": "실비보험",
+    "published": ""
+  },
+  {
+    "path": "/standards/auto-liability-one-vs-two",
+    "title": "대인배상 I·II 차이, 자동차보험에서 상대방 피해를 보장하는 범위",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/disclosure-vs-notification-duty",
+    "title": "고지의무와 통지의무 차이: 가입 전 병력과 가입 후 직업 변경",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/duplicate-vs-coinsurance",
+    "title": "중복보험과 공동보험은 다릅니다: 보험 여러 건의 보상 구조",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/full-partial-over-insurance",
+    "title": "전부보험·일부보험·초과보험, 가입금액에 따라 무엇이 달라질까?",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/insurable-value-vs-insured-amount",
+    "title": "보험가액·보험가입금액 차이, 보험금액은 실제 받는 돈일까?",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/main-contract-vs-rider",
+    "title": "주계약과 특약 차이, 보험증권에서 실제 가입한 보장 찾는 법",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/personal-injury-vs-auto-injury",
+    "title": "자기신체사고와 자동차상해 차이, 치료비·휴업손해를 비교하는 기준",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/premium-benefit-surrender-value",
+    "title": "보험료·보험금·해약환급금 차이, 낸 돈과 돌려받는 돈 구별하기",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/reinstatement-renewal-reenrollment",
+    "title": "보험 부활·갱신·재가입 차이, 끊긴 계약과 만기가 된 계약",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/renewable-vs-nonrenewable",
+    "title": "갱신형과 비갱신형 차이, 보험료·납입기간·보장기간 따로 보기",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/termination-invalidity-cancellation-withdrawal",
+    "title": "보험 해지·무효·취소·청약철회 차이, 돌려받는 돈도 다를까요?",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/third-sector-insurance",
+    "title": "제3보험이란? 상해·질병·간병보험과 실손·정액 보상의 관계",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/standards/waiting-reduction-exclusion",
+    "title": "면책기간·감액기간·부담보 차이, 가입했는데 보장이 제한되는 이유",
+    "category": "약관·기준",
+    "published": ""
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "title": "수술분류표 확인 | 1종·2종·3종 수술비 보험 기준",
+    "category": "수술비",
+    "published": ""
+  },
+  {
+    "path": "/treatment-costs/cartistem-stem-cell-knee-cost",
+    "title": "카티스템 수술비 보험, 무릎 연골 치료비와 약관 확인 방법",
+    "category": "치료비",
+    "published": ""
+  },
+  {
+    "path": "/treatment-costs/leqembi-cost-insurance",
+    "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+    "category": "치료비",
+    "published": ""
+  },
+  {
+    "path": "/underwriting/simplified-health-insurance-cancer-brain",
+    "title": "유병자보험 암·뇌혈관 치료비 확인 기준 | 케어로컬",
+    "category": "가입 심사",
+    "published": ""
+  }
+]

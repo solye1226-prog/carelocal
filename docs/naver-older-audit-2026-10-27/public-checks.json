@@ -1,0 +1,674 @@
+[
+  {
+    "path": "/claims/driver-injury-14",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/driver-injury-14",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3956
+  },
+  {
+    "path": "/claims/hospitalization-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3278
+  },
+  {
+    "path": "/claims/insurance-claim-method",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 5560
+  },
+  {
+    "path": "/claims/insurance-claim-process",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-process",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4945
+  },
+  {
+    "path": "/claims/medical-expense-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4213
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4148
+  },
+  {
+    "path": "/claims/insurance-claim-appeal",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-appeal",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3280
+  },
+  {
+    "path": "/claims/insurance-claim-denial-reasons",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-denial-reasons",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3064
+  },
+  {
+    "path": "/claims/insurance-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3886
+  },
+  {
+    "path": "/claims/insurance-claim-limitation",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-limitation",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4251
+  },
+  {
+    "path": "/claims/insurance-claim-payment-delay",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 5707
+  },
+  {
+    "path": "/claims/insurance-claim-payout-period",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-payout-period",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3767
+  },
+  {
+    "path": "/claims/insurance-claim-period",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-period",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4567
+  },
+  {
+    "path": "/claims/insurance-claim-supplement-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-supplement-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3808
+  },
+  {
+    "path": "/caregiver/caregiver-insurance-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2354
+  },
+  {
+    "path": "/claims/colonoscopy-polyp-insurance-claim",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3929
+  },
+  {
+    "path": "/claims/downstairs-water-leak-insurance",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/downstairs-water-leak-insurance",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2308
+  },
+  {
+    "path": "/claims/home-fire-insurance-water-leak",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/home-fire-insurance-water-leak",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2360
+  },
+  {
+    "path": "/claims/traffic-accident-outpatient-silbi-claim",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2310
+  },
+  {
+    "path": "/diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2221
+  },
+  {
+    "path": "/silbi/mri-silbi-claim",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3322
+  },
+  {
+    "path": "/silbi/silson24-hospital-not-found",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/silbi/silson24-hospital-not-found",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3289
+  },
+  {
+    "path": "/claims/appendicitis-surgery-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3057
+  },
+  {
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4902
+  },
+  {
+    "path": "/claims/inguinal-hernia-surgery-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2920
+  },
+  {
+    "path": "/claims/knee-surgery-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/knee-surgery-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2409
+  },
+  {
+    "path": "/claims/urinary-stone-treatment-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2406
+  },
+  {
+    "path": "/claims/uterine-fibroid-surgery-claim-documents",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2460
+  },
+  {
+    "path": "/silbi/cartistem-silbi-claim",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3877
+  },
+  {
+    "path": "/silbi/leqembi-silbi-claim",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4031
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4708
+  },
+  {
+    "path": "/surgery-benefit/disease-vs-type-surgery-benefit",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3134
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 4955
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3540
+  },
+  {
+    "path": "/surgery-benefit/third-tier-surgery-classification",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3818
+  },
+  {
+    "path": "/cancers/bladder-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/bladder-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 931
+  },
+  {
+    "path": "/cancers/breast-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/breast-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1101
+  },
+  {
+    "path": "/cancers/cervical-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/cervical-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 951
+  },
+  {
+    "path": "/cancers/colorectal-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/colorectal-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1012
+  },
+  {
+    "path": "/cancers/kidney-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/kidney-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 897
+  },
+  {
+    "path": "/cancers/liver-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/liver-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 980
+  },
+  {
+    "path": "/cancers/lung-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/lung-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1167
+  },
+  {
+    "path": "/cancers/ovarian-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/ovarian-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 888
+  },
+  {
+    "path": "/cancers/pancreatic-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/pancreatic-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 969
+  },
+  {
+    "path": "/cancers/prostate-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/prostate-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1192
+  },
+  {
+    "path": "/cancers/stomach-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/stomach-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 993
+  },
+  {
+    "path": "/cancers/thyroid-cancer",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/cancers/thyroid-cancer",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 973
+  },
+  {
+    "path": "/caregiver/caregiver-insurance-renewal-period",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/caregiver/caregiver-insurance-renewal-period",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 697
+  },
+  {
+    "path": "/checkups/abnormal-results",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/checkups/abnormal-results",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1946
+  },
+  {
+    "path": "/checkups/cancer-screening",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/checkups/cancer-screening",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1421
+  },
+  {
+    "path": "/checkups/endoscopy",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/checkups/endoscopy",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1900
+  },
+  {
+    "path": "/checkups/national-health-checkup",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/checkups/national-health-checkup",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2298
+  },
+  {
+    "path": "/claims/family-liability-water-leak-deductible",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/claims/family-liability-water-leak-deductible",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 819
+  },
+  {
+    "path": "/diagnosis-benefit/cerebrovascular-living-cost",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-living-cost",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 632
+  },
+  {
+    "path": "/guides/alzheimer-injection-therapy",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/alzheimer-injection-therapy",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2626
+  },
+  {
+    "path": "/guides/cancer-treatment-cost",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/cancer-treatment-cost",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 883
+  },
+  {
+    "path": "/guides/caregiver-application",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/caregiver-application",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 789
+  },
+  {
+    "path": "/guides/night-hospital-checklist",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/night-hospital-checklist",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 449
+  },
+  {
+    "path": "/guides/proton-therapy",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/proton-therapy",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1343
+  },
+  {
+    "path": "/guides/psychiatry-first-visit",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/psychiatry-first-visit",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 418
+  },
+  {
+    "path": "/guides/robotic-surgery",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/robotic-surgery",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1970
+  },
+  {
+    "path": "/guides/sunday-hospital-checklist",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/sunday-hospital-checklist",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 462
+  },
+  {
+    "path": "/guides/targeted-immunotherapy",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/guides/targeted-immunotherapy",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1422
+  },
+  {
+    "path": "/silbi/covered-vs-noncovered-medical-costs",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3097
+  },
+  {
+    "path": "/silbi/current-silbi",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/silbi/current-silbi",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 1890
+  },
+  {
+    "path": "/silbi/deductible-vs-copayment",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3395
+  },
+  {
+    "path": "/silbi/generation-comparison",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/silbi/generation-comparison",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2566
+  },
+  {
+    "path": "/standards/auto-liability-one-vs-two",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/auto-liability-one-vs-two",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2389
+  },
+  {
+    "path": "/standards/disclosure-vs-notification-duty",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/disclosure-vs-notification-duty",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2347
+  },
+  {
+    "path": "/standards/duplicate-vs-coinsurance",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/duplicate-vs-coinsurance",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2536
+  },
+  {
+    "path": "/standards/full-partial-over-insurance",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/full-partial-over-insurance",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2260
+  },
+  {
+    "path": "/standards/insurable-value-vs-insured-amount",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 3706
+  },
+  {
+    "path": "/standards/main-contract-vs-rider",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/main-contract-vs-rider",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2275
+  },
+  {
+    "path": "/standards/personal-injury-vs-auto-injury",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2422
+  },
+  {
+    "path": "/standards/premium-benefit-surrender-value",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2600
+  },
+  {
+    "path": "/standards/reinstatement-renewal-reenrollment",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/reinstatement-renewal-reenrollment",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2350
+  },
+  {
+    "path": "/standards/renewable-vs-nonrenewable",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/renewable-vs-nonrenewable",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2230
+  },
+  {
+    "path": "/standards/termination-invalidity-cancellation-withdrawal",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/termination-invalidity-cancellation-withdrawal",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2498
+  },
+  {
+    "path": "/standards/third-sector-insurance",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/third-sector-insurance",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2313
+  },
+  {
+    "path": "/standards/waiting-reduction-exclusion",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/standards/waiting-reduction-exclusion",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2302
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 5610
+  },
+  {
+    "path": "/treatment-costs/cartistem-stem-cell-knee-cost",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2539
+  },
+  {
+    "path": "/treatment-costs/leqembi-cost-insurance",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 2569
+  },
+  {
+    "path": "/underwriting/simplified-health-insurance-cancer-brain",
+    "status": 200,
+    "canonical": "https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain",
+    "title_match": true,
+    "noindex": false,
+    "main_text_chars": 646
+  }
+]
