@@ -885,6 +885,11 @@
     "category": "진단비"
   },
   {
+    "path": "/diagnosis-benefit/three-disease-outpatient-daily-hospital-tier",
+    "title": "3대질병 통원일당, 상급종합병원과 종합병원은 왜 따로 확인할까?",
+    "category": "진단비"
+  },
+  {
     "path": "/diagnosis-benefit/thyroid-cancer-benefit-claim",
     "title": "갑상선암 진단비 청구, 유사암 구분과 필요한 서류",
     "category": "진단비"
