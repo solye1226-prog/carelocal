@@ -1,0 +1,102 @@
+[
+  {
+    "path": "/claims/cataract-both-eyes-surgery-benefit",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/cataract-both-eyes-surgery-benefit 26.10.27 20:25:36\":"
+  },
+  {
+    "path": "/claims/cataract-day-surgery-inpatient-outpatient",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/cataract-day-surgery-inpatient-outpatient 26.10.27 20:25:45\":"
+  },
+  {
+    "path": "/claims/cataract-multifocal-lens-silbi",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/cataract-multifocal-lens-silbi 26.10.27 20:25:57\":"
+  },
+  {
+    "path": "/claims/gallbladder-pathology-request",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/gallbladder-pathology-request 26.10.27 20:26:16\":"
+  },
+  {
+    "path": "/claims/gallbladder-polyp-surgery-insurance-documents",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/gallbladder-polyp-surgery-insurance-documents 26.10.27 20:27:13\":"
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-ercp-combined-claim",
+    "status": "accepted",
+    "evidence": "      - row \"1 /surgery-benefit/gallbladder-ercp-combined-claim 26.10.27 20:27:22\":"
+  },
+  {
+    "path": "/surgery-benefit/repeated-ercp-surgery-benefit",
+    "status": "accepted",
+    "evidence": "      - row \"1 /surgery-benefit/repeated-ercp-surgery-benefit 26.10.27 20:27:40\":"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+    "status": "accepted",
+    "evidence": "      - row \"1 /surgery-benefit/hemorrhoid-pph-stapled-surgery-claim 26.10.27 20:28:07\":"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "status": "accepted",
+    "evidence": "      - row \"1 /surgery-benefit/hemorrhoid-repeat-surgery-benefit 26.10.27 20:28:15\":"
+  },
+  {
+    "path": "/claims/surgery-certificate-missing-diagnosis",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/surgery-certificate-missing-diagnosis 26.10.27 20:28:35\":"
+  },
+  {
+    "path": "/claims/english-operative-record-insurance-check",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/english-operative-record-insurance-check 26.10.27 20:28:40\":"
+  },
+  {
+    "path": "/claims/operative-record-upload-missing-pages",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/operative-record-upload-missing-pages 26.10.27 20:28:49\":"
+  },
+  {
+    "path": "/claims/minor-child-insurance-claim-documents",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/minor-child-insurance-claim-documents 26.10.27 20:28:59\":"
+  },
+  {
+    "path": "/claims/family-proxy-insurance-claim-form",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/family-proxy-insurance-claim-form 26.10.27 20:29:04\":"
+  },
+  {
+    "path": "/claims/insurance-claim-original-documents-request",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/insurance-claim-original-documents-request 26.10.27 20:29:31\":"
+  },
+  {
+    "path": "/claims/insurance-beneficiary-bank-account-mismatch",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/insurance-beneficiary-bank-account-mismatch 26.10.27 20:29:37\":"
+  },
+  {
+    "path": "/claims/hospital-receipt-reissue",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/hospital-receipt-reissue 26.10.27 20:29:42\":"
+  },
+  {
+    "path": "/claims/insurance-claim-bank-account-change",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/insurance-claim-bank-account-change 26.10.27 20:29:47\":"
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/dental-implant-insurance-claim-documents 26.10.27 20:30:11\":"
+  },
+  {
+    "path": "/claims/mammotome-claim-denied",
+    "status": "accepted",
+    "evidence": "      - row \"1 /claims/mammotome-claim-denied 26.10.27 20:30:17\":"
+  }
+]

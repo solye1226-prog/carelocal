@@ -1,0 +1,82 @@
+[
+  {
+    "path": "/claims/cataract-both-eyes-surgery-benefit",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/cataract-day-surgery-inpatient-outpatient",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/cataract-multifocal-lens-silbi",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/gallbladder-pathology-request",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/gallbladder-polyp-surgery-insurance-documents",
+    "status": "no_collection_data_or_inspection_unavailable"
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-ercp-combined-claim",
+    "status": "indexed"
+  },
+  {
+    "path": "/surgery-benefit/repeated-ercp-surgery-benefit",
+    "status": "no_collection_data_or_inspection_unavailable"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+    "status": "indexed"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/surgery-certificate-missing-diagnosis",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/english-operative-record-insurance-check",
+    "status": "no_collection_data_or_inspection_unavailable"
+  },
+  {
+    "path": "/claims/operative-record-upload-missing-pages",
+    "status": "no_collection_data_or_inspection_unavailable"
+  },
+  {
+    "path": "/claims/minor-child-insurance-claim-documents",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/family-proxy-insurance-claim-form",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/insurance-claim-original-documents-request",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/insurance-beneficiary-bank-account-mismatch",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/hospital-receipt-reissue",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/insurance-claim-bank-account-change",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "status": "indexed"
+  },
+  {
+    "path": "/claims/mammotome-claim-denied",
+    "status": "indexed"
+  }
+]

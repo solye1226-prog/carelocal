@@ -1,0 +1,202 @@
+[
+  {
+    "path": "/claims/cataract-both-eyes-surgery-benefit",
+    "title": "양쪽 눈 백내장 수술비, 두 번 받을까? 수술일과 약관 지급 단위",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/cataract-day-surgery-inpatient-outpatient",
+    "title": "백내장 당일 수술은 입원일까 통원일까? 실비 청구 전 확인할 기준",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/cataract-multifocal-lens-silbi",
+    "title": "백내장 다초점 인공수정체 비용, 실비보험은 어디까지 확인할까?",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/gallbladder-pathology-request",
+    "title": "담낭절제술 후 조직검사 결과지 요청받았다면? 청구서류 구분",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/gallbladder-pathology-request",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/gallbladder-polyp-surgery-insurance-documents",
+    "title": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-ercp-combined-claim",
+    "title": "담낭절제술과 ERCP를 모두 받았다면 수술비는 각각 청구할까?",
+    "category": "수술비",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/surgery-benefit/repeated-ercp-surgery-benefit",
+    "title": "담석 시술 후 다시 ERCP를 받았다면? 반복 시술 수술비 확인 순서",
+    "category": "수술비",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/repeated-ercp-surgery-benefit",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+    "title": "PPH 치핵 수술 보험금, 절제술·고무밴드 결찰술과 무엇이 다를까?",
+    "category": "수술비",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "title": "치핵 재수술 수술비, 같은 부위 반복 치료도 청구할까?",
+    "category": "수술비",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/surgery-certificate-missing-diagnosis",
+    "title": "수술확인서에 진단명이 없다면? 수술비 청구 전 확인 순서",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/english-operative-record-insurance-check",
+    "title": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/english-operative-record-insurance-check",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/operative-record-upload-missing-pages",
+    "title": "수술기록지 사진에 페이지가 빠졌다면? 재발급 전 첨부 확인법",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/operative-record-upload-missing-pages",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/minor-child-insurance-claim-documents",
+    "title": "미성년자 보험금 청구서류, 부모가 접수할 때 확인할 것",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/family-proxy-insurance-claim-form",
+    "title": "보험금 청구 대리인 위임장, 가족이 대신 접수할 때 필요한 것",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/insurance-claim-original-documents-request",
+    "title": "보험금 청구 원본 서류 요청, 사진 접수 뒤 무엇을 보내야 할까?",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-original-documents-request",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/insurance-beneficiary-bank-account-mismatch",
+    "title": "보험금 청구 계좌 명의가 다를 때, 수익자와 지급계좌 확인법",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/hospital-receipt-reissue",
+    "title": "병원 영수증 분실 시 재발급, 진료비 세부내역서 요청 방법",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/hospital-receipt-reissue",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/insurance-claim-bank-account-change",
+    "title": "보험금 청구 후 계좌 변경, 지급 전 확인할 것",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-bank-account-change",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "title": "치아보험 임플란트 청구서류, 발치 원인과 치아번호 확인",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  },
+  {
+    "path": "/claims/mammotome-claim-denied",
+    "title": "맘모톰 보험금 지급 거절, 사유별 추가서류와 대응 순서",
+    "category": "보험금 청구",
+    "status": 200,
+    "title_matches": true,
+    "canonical": "https://hospital.hbuby.com/claims/mammotome-claim-denied",
+    "noindex": false,
+    "exposure": "not_in_7day_or_30day_top30_not_proven_zero"
+  }
+]

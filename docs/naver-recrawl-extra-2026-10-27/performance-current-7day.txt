@@ -1,0 +1,253 @@
+- main:
+  - button:
+    - generic: arrow_back_ios
+  - generic: https://hospital.hbuby.com
+  - button:
+    - generic: more_vert
+  - separator
+  - link "콘텐츠 노출/클릭":
+    - /url: "#"
+    - generic: 콘텐츠 노출/클릭
+    - generic: expand_more
+  - separator
+  - list:
+    - generic: 웹마스터 도구
+    - listitem: /
+    - generic: 리포트
+    - listitem: /
+    - generic: 콘텐츠 노출/클릭
+  - generic: "최근 업데이트: 2026.10.26"
+  - generic: 노출/클릭 현황
+  - button "최근 7일":
+    - generic: 최근 7일
+    - textbox
+    - generic: arrow_drop_down
+  - button "PC + Mobile":
+    - generic: PC + Mobile
+    - textbox
+    - generic: arrow_drop_down
+  - generic: 최근 총 클릭
+  - generic: 5.8백
+  - generic: 지난주 대비
+  - generic: call_made
+  - text: 25.4%
+  - generic: 최근 총 노출
+  - generic: 1.6만
+  - generic: 지난주 대비
+  - generic: call_made
+  - text: 11.9%
+  - generic: 평균 CTR
+  - generic: 3.5%
+  - generic: 지난주 대비
+  - generic: call_made
+  - text: 0.4%
+  - generic: 검색 키워드 TOP 30
+  - table:
+    - rowgroup:
+      - row "No 검색 키워드 클릭 노출 CTR(%)":
+        - columnheader "No"
+        - columnheader "검색 키워드"
+        - columnheader "클릭"
+        - columnheader "노출"
+        - columnheader "CTR(%)"
+    - rowgroup:
+      - row "1 백내장 수술 몇종 12 18 66.7":
+        - cell "1"
+        - cell "백내장 수술 몇종":
+          - generic: 백내장 수술 몇종
+        - cell "12"
+        - cell "18"
+        - cell "66.7"
+      - row "2 백내장수술은 몇종일까요 11 66 16.7":
+        - cell "2"
+        - cell "백내장수술은 몇종일까요":
+          - generic: 백내장수술은 몇종일까요
+        - cell "11"
+        - cell "66"
+        - cell "16.7"
+      - row "3 치매 주사 비용 8 159 5":
+        - cell "3"
+        - cell "치매 주사 비용":
+          - generic: 치매 주사 비용
+        - cell "8"
+        - cell "159"
+        - cell "5"
+      - row "4 담낭제거수술 보험금 7 25 28":
+        - cell "4"
+        - cell "담낭제거수술 보험금":
+          - generic: 담낭제거수술 보험금
+        - cell "7"
+        - cell "25"
+        - cell "28"
+      - row "5 복강경 담낭절제술 보험 6 13 46.2":
+        - cell "5"
+        - cell "복강경 담낭절제술 보험":
+          - generic: 복강경 담낭절제술 보험
+        - cell "6"
+        - cell "13"
+        - cell "46.2"
+      - row "6 담낭제거수술 보험 5 39 12.8":
+        - cell "6"
+        - cell "담낭제거수술 보험":
+          - generic: 담낭제거수술 보험
+        - cell "5"
+        - cell "39"
+        - cell "12.8"
+      - row "7 레켐비 실비 5 33 15.2":
+        - cell "7"
+        - cell "레켐비 실비":
+          - generic: 레켐비 실비
+        - cell "5"
+        - cell "33"
+        - cell "15.2"
+      - row "8 담석제거수술 몇종 5 8 62.5":
+        - cell "8"
+        - cell "담석제거수술 몇종":
+          - generic: 담석제거수술 몇종
+        - cell "5"
+        - cell "8"
+        - cell "62.5"
+      - row "9 담낭절제술 종수술비 5 7 71.4":
+        - cell "9"
+        - cell "담낭절제술 종수술비":
+          - generic: 담낭절제술 종수술비
+        - cell "5"
+        - cell "7"
+        - cell "71.4"
+      - row "10 1-3종수술분류표 4 109 3.7":
+        - cell "10"
+        - cell "1-3종수술분류표":
+          - generic: 1-3종수술분류표
+        - cell "4"
+        - cell "109"
+        - cell "3.7"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지" [disabled]:
+        - generic: chevron_left
+      - button "현재 페이지, 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "고토 페이지 3": "3"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: 검색 웹문서 TOP 30
+  - table:
+    - rowgroup:
+      - row "No 검색 웹문서 클릭 노출 CTR(%)":
+        - columnheader "No"
+        - columnheader "검색 웹문서"
+        - columnheader "클릭"
+        - columnheader "노출"
+        - columnheader "CTR(%)"
+    - rowgroup:
+      - row "1 https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit 210 1,716 12.2":
+        - cell "1"
+        - cell "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit":
+          - link "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit":
+            - /url: https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit
+        - cell "210"
+        - cell "1,716"
+        - cell "12.2"
+      - row "2 https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit 77 717 10.7":
+        - cell "2"
+        - cell "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit":
+          - link "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit":
+            - /url: https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit
+        - cell "77"
+        - cell "717"
+        - cell "10.7"
+      - row "3 https://hospital.hbuby.com/surgery-benefit/ 43 1,178 3.7":
+        - cell "3"
+        - cell "https://hospital.hbuby.com/surgery-benefit/":
+          - link "https://hospital.hbuby.com/surgery-benefit/":
+            - /url: https://hospital.hbuby.com/surgery-benefit/
+        - cell "43"
+        - cell "1,178"
+        - cell "3.7"
+      - row "4 https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit 41 874 4.7":
+        - cell "4"
+        - cell "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit":
+          - link "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit":
+            - /url: https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit
+        - cell "41"
+        - cell "874"
+        - cell "4.7"
+      - row "5 https://hospital.hbuby.com/surgery-benefit/surgery-classification 38 576 6.6":
+        - cell "5"
+        - cell "https://hospital.hbuby.com/surgery-benefit/surgery-classification":
+          - link "https://hospital.hbuby.com/surgery-benefit/surgery-classification":
+            - /url: https://hospital.hbuby.com/surgery-benefit/surgery-classification
+        - cell "38"
+        - cell "576"
+        - cell "6.6"
+      - row "6 https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount 18 1,005 1.8":
+        - cell "6"
+        - cell "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount":
+          - link "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount":
+            - /url: https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount
+        - cell "18"
+        - cell "1,005"
+        - cell "1.8"
+      - row "7 https://hospital.hbuby.com/silbi/cartistem-silbi-claim 15 275 5.5":
+        - cell "7"
+        - cell "https://hospital.hbuby.com/silbi/cartistem-silbi-claim":
+          - link "https://hospital.hbuby.com/silbi/cartistem-silbi-claim":
+            - /url: https://hospital.hbuby.com/silbi/cartistem-silbi-claim
+        - cell "15"
+        - cell "275"
+        - cell "5.5"
+      - row "8 https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification 14 192 7.3":
+        - cell "8"
+        - cell "https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification":
+          - link "https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification":
+            - /url: https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification
+        - cell "14"
+        - cell "192"
+        - cell "7.3"
+      - row "9 https://hospital.hbuby.com/standards/actual-vs-fixed-benefit 13 1,348 1":
+        - cell "9"
+        - cell "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit":
+          - link "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit":
+            - /url: https://hospital.hbuby.com/standards/actual-vs-fixed-benefit
+        - cell "13"
+        - cell "1,348"
+        - cell "1"
+      - row "10 https://hospital.hbuby.com/standards/indemnity-proportional-compensation 12 993 1.2":
+        - cell "10"
+        - cell "https://hospital.hbuby.com/standards/indemnity-proportional-compensation":
+          - link "https://hospital.hbuby.com/standards/indemnity-proportional-compensation":
+            - /url: https://hospital.hbuby.com/standards/indemnity-proportional-compensation
+        - cell "12"
+        - cell "993"
+        - cell "1.2"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지" [disabled]:
+        - generic: chevron_left
+      - button "현재 페이지, 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "고토 페이지 3": "3"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: info
+  - text: 도움말
+  - list:
+    - generic: "클릭 : 검색 사용자가 웹 검색 영역의 검색 결과에서 해당 웹사이트를 클릭한 수를 기록한 지표입니다."
+    - generic: "노출 : 검색 사용자가 웹 검색 영역의 검색 결과에서 해당 웹사이트를 몇번 발견한 수를 기록한 지표입니다."
+    - generic: "CTR : 해당 웹사이트의 각 웹문서의 CTR (클릭수 / 노출수 x 100)의 평균 값입니다."
+  - paragraph:
+    - text: 자세한 내용은
+    - link "웹마스터 가이드":
+      - /url: /guide/report-expose-ctr
+    - text: 및
+    - link "스마트봇":
+      - /url: https://talk.naver.com/ct/w4o52y
+    - text: 에게 물어보세요
+- contentinfo:
+  - link "이용약관":
+    - /url: /policy/terms
+  - link "책임한계와 법적고지":
+    - /url: https://policy.naver.com/rules/disclaimer.html
+  - link "고객센터":
+    - /url: https://help.naver.com/alias/webmastertool/main.naver
+  - generic: ©NAVER Corp.

@@ -1,0 +1,162 @@
+- main:
+  - heading "NAVER" [level=1]:
+    - link "NAVER":
+      - /url: https://www.naver.com
+      - img "NAVER"
+  - link "Search Advisor":
+    - /url: /
+  - link "웹마스터 도구":
+    - /url: /console/board
+  - link "웹마스터 가이드":
+    - /url: /guide
+    - generic: list_alt
+    - text: 웹마스터 가이드
+  - generic: 쏠레미
+  - button:
+    - generic: power_settings_new
+  - separator
+  - tablist:
+    - tab "사이트 관리" [selected]
+    - tab "간단체크"
+    - tab "도구 설정"
+  - separator
+  - strong: https://hospital.hbuby.com
+  - link "목록보기":
+    - /url: /console/board
+    - generic: format_list_bulleted
+    - text: 목록보기
+  - list:
+    - generic: assignment
+    - text: 요약
+    - button "리포트":
+      - generic: insert_chart
+      - text: 리포트
+      - generic: expand_more
+    - button "요청" [expanded]:
+      - generic: assignment_turned_in
+      - text: 요청
+      - generic: expand_more
+    - generic: 웹 페이지 수집
+    - generic: 웹 페이지 검색 제외
+    - generic: RSS 제출
+    - generic: 사이트맵 제출
+    - button "검증":
+      - generic: repeat
+      - text: 검증
+      - generic: expand_more
+    - generic: settings
+    - text: 설정
+  - list:
+    - generic: 웹마스터 도구
+    - listitem: /
+    - generic: 요청
+    - listitem: /
+    - generic: 웹 페이지 수집
+  - strong: 웹 페이지 수집
+  - generic: 수집 요청 URL 입력
+  - paragraph
+  - textbox: https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form
+  - button "확인":
+    - generic: 확인
+  - generic: 수집 요청 내역
+  - generic: 최근 50개만 노출
+  - table:
+    - rowgroup:
+      - row "No URL 등록일":
+        - columnheader "No"
+        - columnheader "URL"
+        - columnheader "등록일"
+    - rowgroup:
+      - row "1 /claims/family-proxy-insurance-claim-form 26.10.27 20:29:04":
+        - cell "1"
+        - cell "/claims/family-proxy-insurance-claim-form":
+          - link "/claims/family-proxy-insurance-claim-form":
+            - /url: https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form
+        - cell "26.10.27 20:29:04"
+      - row "2 /claims/minor-child-insurance-claim-documents 26.10.27 20:28:59":
+        - cell "2"
+        - cell "/claims/minor-child-insurance-claim-documents":
+          - link "/claims/minor-child-insurance-claim-documents":
+            - /url: https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents
+        - cell "26.10.27 20:28:59"
+      - row "3 /claims/operative-record-upload-missing-pages 26.10.27 20:28:49":
+        - cell "3"
+        - cell "/claims/operative-record-upload-missing-pages":
+          - link "/claims/operative-record-upload-missing-pages":
+            - /url: https://hospital.hbuby.com/claims/operative-record-upload-missing-pages
+        - cell "26.10.27 20:28:49"
+      - row "4 /claims/english-operative-record-insurance-check 26.10.27 20:28:40":
+        - cell "4"
+        - cell "/claims/english-operative-record-insurance-check":
+          - link "/claims/english-operative-record-insurance-check":
+            - /url: https://hospital.hbuby.com/claims/english-operative-record-insurance-check
+        - cell "26.10.27 20:28:40"
+      - row "5 /claims/surgery-certificate-missing-diagnosis 26.10.27 20:28:35":
+        - cell "5"
+        - cell "/claims/surgery-certificate-missing-diagnosis":
+          - link "/claims/surgery-certificate-missing-diagnosis":
+            - /url: https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis
+        - cell "26.10.27 20:28:35"
+      - row "6 /surgery-benefit/hemorrhoid-repeat-surgery-benefit 26.10.27 20:28:15":
+        - cell "6"
+        - cell "/surgery-benefit/hemorrhoid-repeat-surgery-benefit":
+          - link "/surgery-benefit/hemorrhoid-repeat-surgery-benefit":
+            - /url: https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit
+        - cell "26.10.27 20:28:15"
+      - row "7 /surgery-benefit/hemorrhoid-pph-stapled-surgery-claim 26.10.27 20:28:07":
+        - cell "7"
+        - cell "/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim":
+          - link "/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim":
+            - /url: https://hospital.hbuby.com/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim
+        - cell "26.10.27 20:28:07"
+      - row "8 /surgery-benefit/repeated-ercp-surgery-benefit 26.10.27 20:27:40":
+        - cell "8"
+        - cell "/surgery-benefit/repeated-ercp-surgery-benefit":
+          - link "/surgery-benefit/repeated-ercp-surgery-benefit":
+            - /url: https://hospital.hbuby.com/surgery-benefit/repeated-ercp-surgery-benefit
+        - cell "26.10.27 20:27:40"
+      - row "9 /surgery-benefit/gallbladder-ercp-combined-claim 26.10.27 20:27:22":
+        - cell "9"
+        - cell "/surgery-benefit/gallbladder-ercp-combined-claim":
+          - link "/surgery-benefit/gallbladder-ercp-combined-claim":
+            - /url: https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim
+        - cell "26.10.27 20:27:22"
+      - row "10 /claims/gallbladder-polyp-surgery-insurance-documents 26.10.27 20:27:13":
+        - cell "10"
+        - cell "/claims/gallbladder-polyp-surgery-insurance-documents":
+          - link "/claims/gallbladder-polyp-surgery-insurance-documents":
+            - /url: https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents
+        - cell "26.10.27 20:27:13"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지" [disabled]:
+        - generic: chevron_left
+      - button "현재 페이지, 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "고토 페이지 3": "3"
+      - button "고토 페이지 4": "4"
+      - button "고토 페이지 5": "5"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: info
+  - text: 도움말
+  - list:
+    - generic: 요청 횟수는 사이트별로 제한될 수 있으며, 최근 한 달 이내의 요청 결과만 제공합니다.
+    - generic: 웹 페이지의 수집 및 색인까지의 소요 시간은 웹 페이지의 평판에 따라서 다릅니다.
+    - generic: 알고리즘을 통하여 스팸으로 판단되는 사이트의 수집 요청을 제한하고 있습니다.
+  - paragraph:
+    - text: 자세한 내용은
+    - link "웹마스터 가이드":
+      - /url: /guide/request-crawl
+    - text: 및
+    - link "스마트봇":
+      - /url: https://talk.naver.com/ct/w4o52y
+    - text: 에게 물어보세요
+- contentinfo:
+  - link "이용약관":
+    - /url: /policy/terms
+  - link "책임한계와 법적고지":
+    - /url: https://policy.naver.com/rules/disclaimer.html
+  - link "고객센터":
+    - /url: https://help.naver.com/alias/webmastertool/main.naver
+  - generic: ©NAVER Corp.
