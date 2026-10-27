@@ -1,0 +1,22 @@
+[
+  {
+    "parent": "/silbi/silson24-hospital-not-found",
+    "original_main_text_preserved": true
+  },
+  {
+    "parent": "/caregiver/caregiver-insurance-claim-documents",
+    "original_main_text_preserved": true
+  },
+  {
+    "parent": "/guides/night-hospital-checklist",
+    "original_main_text_preserved": true
+  },
+  {
+    "parent": "/guides/lost-prescription-reissue-cost",
+    "original_main_text_preserved": true
+  },
+  {
+    "parent": "/treatment-costs/cancer-special-copayment-registration",
+    "original_main_text_preserved": true
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "review_date": "2026-10-27",
+  "items": [
+    {
+      "rank": 1,
+      "title": "실손24 네이버·토스 청구, 앱에서 전송한 뒤 접수까지 확인하는 법",
+      "current_status": "플랫폼 연계 서비스 이용 안내",
+      "sources": [
+        {
+          "url": "https://www.fsc.go.kr/no010101/87818",
+          "title": "금융위원회 플랫폼 연계 개선 안내",
+          "supports": "10월 7일 개선 일정·네이버 지도/페이·토스 연계와 전자 전송 절차"
+        },
+        {
+          "url": "https://www.silson24.or.kr/claim/web/",
+          "title": "실손24 공식 서비스·참여기관·청구이력",
+          "supports": "최신 메뉴와 참여기관, 청구 상태 안내 확인"
+        },
+        {
+          "url": "https://www.silson24.or.kr/claim/web/custSupp/custSuppFAQ?postNo=25840",
+          "title": "실손24 접수·심사·지급 현황 FAQ",
+          "supports": "보험사 전송 뒤 진행 상태는 해당 보험사 홈페이지·앱에서 확인"
+        }
+      ],
+      "caveat": "개인 계정의 실제 청구 접수 또는 병원별 입원 가능 여부를 대신 검증하지 않음. 미래 시행 항목은 예정·입법예고 단계로 표시."
+    },
+    {
+      "rank": 2,
+      "title": "루게릭병 전문요양병원 시범사업, 입원 상담 전에 확인할 것",
+      "current_status": "11월 시행 계획·참여기관 공모 단계",
+      "sources": [
+        {
+          "url": "https://www.mohw.go.kr/gallery.es?act=view&bid=0003&list_no=380483&mid=a10505000000",
+          "title": "보건복지부 11월 시범사업 추진 안내",
+          "supports": "사업의 목적·4대 특화서비스·11월 시행 계획"
+        },
+        {
+          "url": "https://www.hira.or.kr/bbsDummy.do?brdBltNo=12308&brdScnBltNo=4&pageIndex=1&pgmid=HIRAA020002000100",
+          "title": "심평원 참여기관 공모 원문",
+          "supports": "기관 선정 요건과 공모 단계 확인"
+        }
+      ],
+      "caveat": "개인 계정의 실제 청구 접수 또는 병원별 입원 가능 여부를 대신 검증하지 않음. 미래 시행 항목은 예정·입법예고 단계로 표시."
+    },
+    {
+      "rank": 3,
+      "title": "민간구급차 인증제 시범사업, 병원 이송 예약 전 확인할 것",
+      "current_status": "10월 21~30일 업체 신청·12월 결과 발표 예정",
+      "sources": [
+        {
+          "url": "https://e-health.go.kr/gh/heNws/selectBbsDtlViewInfo.do?bbsId=U00186&bbsNo=422117&menuId=200048",
+          "title": "보건복지부 민간구급차 품질 인증제 발표",
+          "supports": "참여 접수 기간·심사 절차·12월 결과 발표 예정 안내"
+        }
+      ],
+      "caveat": "개인 계정의 실제 청구 접수 또는 병원별 입원 가능 여부를 대신 검증하지 않음. 미래 시행 항목은 예정·입법예고 단계로 표시."
+    },
+    {
+      "rank": 4,
+      "title": "비대면진료 초진·7일 처방 변경안, 지금 적용되는 기준과 구분하세요",
+      "current_status": "10월 19일~11월 9일 입법예고·12월 24일 법 시행 예정",
+      "sources": [
+        {
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156785554",
+          "title": "보건복지부 비대면진료 실시·처방기준 입법예고",
+          "supports": "예고안의 대상·처방일수와 12월 24일 법 시행 일정"
+        },
+        {
+          "url": "https://www.hira.or.kr/bbsDummy.do?brdBltNo=11761&brdScnBltNo=4&pgmid=HIRAA020002000100",
+          "title": "심평원 현재 시범사업 지침 게시 안내",
+          "supports": "2025년 10월 27일 개정 시행 지침과 첨부 원문"
+        }
+      ],
+      "caveat": "개인 계정의 실제 청구 접수 또는 병원별 입원 가능 여부를 대신 검증하지 않음. 미래 시행 항목은 예정·입법예고 단계로 표시."
+    },
+    {
+      "rank": 5,
+      "title": "희귀질환 산정특례 7% 인하 예정, 12월 전에 확인할 비용과 등록",
+      "current_status": "현재 10% 안내·2026년 12월 7% 인하 계획",
+      "sources": [
+        {
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971474",
+          "title": "보건복지부 건강보험 보장 확대 발표",
+          "supports": "2026년 12월 7%·2028년 상반기 5% 인하 계획"
+        },
+        {
+          "url": "https://www.nhis.or.kr/renewal_popup/poster/20260608_poster_longdesc_1.html",
+          "title": "국민건강보험공단 산정특례 제도 안내",
+          "supports": "현행 비율·급여 적용 범위·등록 및 조회 절차"
+        }
+      ],
+      "caveat": "개인 계정의 실제 청구 접수 또는 병원별 입원 가능 여부를 대신 검증하지 않음. 미래 시행 항목은 예정·입법예고 단계로 표시."
+    }
+  ]
+}

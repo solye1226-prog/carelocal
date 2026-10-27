@@ -1,0 +1,125 @@
+- main:
+  - button:
+    - generic: arrow_back_ios
+  - generic: https://hospital.hbuby.com
+  - button:
+    - generic: more_vert
+  - separator
+  - link "웹 페이지 수집":
+    - /url: "#"
+    - generic: 웹 페이지 수집
+    - generic: expand_more
+  - separator
+  - list:
+    - generic: 웹마스터 도구
+    - listitem: /
+    - generic: 요청
+    - listitem: /
+    - generic: 웹 페이지 수집
+  - generic: 수집 요청 URL 입력
+  - paragraph
+  - textbox: https://hospital.hbuby.com/silbi/silson24-hospital-not-found
+  - button "확인":
+    - generic: 확인
+  - generic: 수집 요청 내역
+  - generic: 최근 50개만 노출
+  - table:
+    - rowgroup:
+      - row "No URL 등록일":
+        - columnheader "No"
+        - columnheader "URL"
+        - columnheader "등록일"
+    - rowgroup:
+      - row "1 /silbi/silson24-hospital-not-found 26.10.27 23:24:03":
+        - cell "1"
+        - cell "/silbi/silson24-hospital-not-found":
+          - link "/silbi/silson24-hospital-not-found":
+            - /url: https://hospital.hbuby.com/silbi/silson24-hospital-not-found
+        - cell "26.10.27 23:24:03"
+      - row "2 /treatment-costs/rare-disease-copayment-december-2026 26.10.27 23:23:01":
+        - cell "2"
+        - cell "/treatment-costs/rare-disease-copayment-december-2026":
+          - link "/treatment-costs/rare-disease-copayment-december-2026":
+            - /url: https://hospital.hbuby.com/treatment-costs/rare-disease-copayment-december-2026
+        - cell "26.10.27 23:23:01"
+      - row "3 /guides/telemedicine-first-visit-proposed-rules 26.10.27 23:22:35":
+        - cell "3"
+        - cell "/guides/telemedicine-first-visit-proposed-rules":
+          - link "/guides/telemedicine-first-visit-proposed-rules":
+            - /url: https://hospital.hbuby.com/guides/telemedicine-first-visit-proposed-rules
+        - cell "26.10.27 23:22:35"
+      - row "4 /guides/private-ambulance-quality-pilot-check 26.10.27 23:22:16":
+        - cell "4"
+        - cell "/guides/private-ambulance-quality-pilot-check":
+          - link "/guides/private-ambulance-quality-pilot-check":
+            - /url: https://hospital.hbuby.com/guides/private-ambulance-quality-pilot-check
+        - cell "26.10.27 23:22:16"
+      - row "5 /caregiver/als-specialist-nursing-hospital-pilot 26.10.27 23:21:47":
+        - cell "5"
+        - cell "/caregiver/als-specialist-nursing-hospital-pilot":
+          - link "/caregiver/als-specialist-nursing-hospital-pilot":
+            - /url: https://hospital.hbuby.com/caregiver/als-specialist-nursing-hospital-pilot
+        - cell "26.10.27 23:21:47"
+      - row "6 /silbi/silson24-naver-toss-in-app-claim 26.10.27 23:21:18":
+        - cell "6"
+        - cell "/silbi/silson24-naver-toss-in-app-claim":
+          - link "/silbi/silson24-naver-toss-in-app-claim":
+            - /url: https://hospital.hbuby.com/silbi/silson24-naver-toss-in-app-claim
+        - cell "26.10.27 23:21:18"
+      - row "7 /claims/mammotome-claim-denied 26.10.27 20:30:17":
+        - cell "7"
+        - cell "/claims/mammotome-claim-denied":
+          - link "/claims/mammotome-claim-denied":
+            - /url: https://hospital.hbuby.com/claims/mammotome-claim-denied
+        - cell "26.10.27 20:30:17"
+      - row "8 /claims/dental-implant-insurance-claim-documents 26.10.27 20:30:11":
+        - cell "8"
+        - cell "/claims/dental-implant-insurance-claim-documents":
+          - link "/claims/dental-implant-insurance-claim-documents":
+            - /url: https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents
+        - cell "26.10.27 20:30:11"
+      - row "9 /claims/insurance-claim-bank-account-change 26.10.27 20:29:47":
+        - cell "9"
+        - cell "/claims/insurance-claim-bank-account-change":
+          - link "/claims/insurance-claim-bank-account-change":
+            - /url: https://hospital.hbuby.com/claims/insurance-claim-bank-account-change
+        - cell "26.10.27 20:29:47"
+      - row "10 /claims/hospital-receipt-reissue 26.10.27 20:29:42":
+        - cell "10"
+        - cell "/claims/hospital-receipt-reissue":
+          - link "/claims/hospital-receipt-reissue":
+            - /url: https://hospital.hbuby.com/claims/hospital-receipt-reissue
+        - cell "26.10.27 20:29:42"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지" [disabled]:
+        - generic: chevron_left
+      - button "현재 페이지, 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "고토 페이지 3": "3"
+      - button "고토 페이지 4": "4"
+      - button "고토 페이지 5": "5"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: info
+  - text: 도움말
+  - list:
+    - generic: 요청 횟수는 사이트별로 제한될 수 있으며, 최근 한 달 이내의 요청 결과만 제공합니다.
+    - generic: 웹 페이지의 수집 및 색인까지의 소요 시간은 웹 페이지의 평판에 따라서 다릅니다.
+    - generic: 알고리즘을 통하여 스팸으로 판단되는 사이트의 수집 요청을 제한하고 있습니다.
+  - paragraph:
+    - text: 자세한 내용은
+    - link "웹마스터 가이드":
+      - /url: /guide/request-crawl
+    - text: 및
+    - link "스마트봇":
+      - /url: https://talk.naver.com/ct/w4o52y
+    - text: 에게 물어보세요
+- contentinfo:
+  - link "이용약관":
+    - /url: /policy/terms
+  - link "책임한계와 법적고지":
+    - /url: https://policy.naver.com/rules/disclaimer.html
+  - link "고객센터":
+    - /url: https://help.naver.com/alias/webmastertool/main.naver
+  - generic: ©NAVER Corp.

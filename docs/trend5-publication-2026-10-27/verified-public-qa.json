@@ -1,0 +1,362 @@
+[
+  {
+    "id": "01",
+    "phase": "public",
+    "width": 360,
+    "mainWidth": 345,
+    "scrollWidth": 345,
+    "canonical": "https://hospital.hbuby.com/silbi/silson24-naver-toss-in-app-claim",
+    "images": [
+      {
+        "src": "/assets/images/silson24-naver-toss-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/silson24-naver-toss-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/silson24-naver-toss-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "01-public-360.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "01",
+    "phase": "public",
+    "width": 390,
+    "mainWidth": 375,
+    "scrollWidth": 375,
+    "canonical": "https://hospital.hbuby.com/silbi/silson24-naver-toss-in-app-claim",
+    "images": [
+      {
+        "src": "/assets/images/silson24-naver-toss-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/silson24-naver-toss-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/silson24-naver-toss-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "01-public-390.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "01",
+    "phase": "public",
+    "width": 1280,
+    "mainWidth": 800,
+    "scrollWidth": 1265,
+    "canonical": "https://hospital.hbuby.com/silbi/silson24-naver-toss-in-app-claim",
+    "images": [
+      {
+        "src": "/assets/images/silson24-naver-toss-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/silson24-naver-toss-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/silson24-naver-toss-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "01-public-1280.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "02",
+    "phase": "public",
+    "width": 360,
+    "mainWidth": 345,
+    "scrollWidth": 345,
+    "canonical": "https://hospital.hbuby.com/caregiver/als-specialist-nursing-hospital-pilot",
+    "images": [
+      {
+        "src": "/assets/images/als-specialist-pilot-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/als-specialist-pilot-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/als-specialist-pilot-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "02-public-360.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "02",
+    "phase": "public",
+    "width": 390,
+    "mainWidth": 375,
+    "scrollWidth": 375,
+    "canonical": "https://hospital.hbuby.com/caregiver/als-specialist-nursing-hospital-pilot",
+    "images": [
+      {
+        "src": "/assets/images/als-specialist-pilot-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/als-specialist-pilot-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/als-specialist-pilot-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "02-public-390.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "02",
+    "phase": "public",
+    "width": 1280,
+    "mainWidth": 800,
+    "scrollWidth": 1265,
+    "canonical": "https://hospital.hbuby.com/caregiver/als-specialist-nursing-hospital-pilot",
+    "images": [
+      {
+        "src": "/assets/images/als-specialist-pilot-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/als-specialist-pilot-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/als-specialist-pilot-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "02-public-1280.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "03",
+    "phase": "public",
+    "width": 360,
+    "mainWidth": 345,
+    "scrollWidth": 345,
+    "canonical": "https://hospital.hbuby.com/guides/private-ambulance-quality-pilot-check",
+    "images": [
+      {
+        "src": "/assets/images/private-ambulance-pilot-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/private-ambulance-pilot-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/private-ambulance-pilot-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "03-public-360.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "03",
+    "phase": "public",
+    "width": 390,
+    "mainWidth": 375,
+    "scrollWidth": 375,
+    "canonical": "https://hospital.hbuby.com/guides/private-ambulance-quality-pilot-check",
+    "images": [
+      {
+        "src": "/assets/images/private-ambulance-pilot-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/private-ambulance-pilot-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/private-ambulance-pilot-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "03-public-390.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "03",
+    "phase": "public",
+    "width": 1280,
+    "mainWidth": 800,
+    "scrollWidth": 1265,
+    "canonical": "https://hospital.hbuby.com/guides/private-ambulance-quality-pilot-check",
+    "images": [
+      {
+        "src": "/assets/images/private-ambulance-pilot-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/private-ambulance-pilot-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/private-ambulance-pilot-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "03-public-1280.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "04",
+    "phase": "public",
+    "width": 360,
+    "mainWidth": 345,
+    "scrollWidth": 345,
+    "canonical": "https://hospital.hbuby.com/guides/telemedicine-first-visit-proposed-rules",
+    "images": [
+      {
+        "src": "/assets/images/telemedicine-proposed-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/telemedicine-proposed-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/telemedicine-proposed-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "04-public-360.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "04",
+    "phase": "public",
+    "width": 390,
+    "mainWidth": 375,
+    "scrollWidth": 375,
+    "canonical": "https://hospital.hbuby.com/guides/telemedicine-first-visit-proposed-rules",
+    "images": [
+      {
+        "src": "/assets/images/telemedicine-proposed-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/telemedicine-proposed-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/telemedicine-proposed-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "04-public-390.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "04",
+    "phase": "public",
+    "width": 1280,
+    "mainWidth": 800,
+    "scrollWidth": 1265,
+    "canonical": "https://hospital.hbuby.com/guides/telemedicine-first-visit-proposed-rules",
+    "images": [
+      {
+        "src": "/assets/images/telemedicine-proposed-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/telemedicine-proposed-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/telemedicine-proposed-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "04-public-1280.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "05",
+    "phase": "public",
+    "width": 360,
+    "mainWidth": 345,
+    "scrollWidth": 345,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/rare-disease-copayment-december-2026",
+    "images": [
+      {
+        "src": "/assets/images/rare-copayment-december-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/rare-copayment-december-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/rare-copayment-december-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "05-public-360.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "05",
+    "phase": "public",
+    "width": 390,
+    "mainWidth": 375,
+    "scrollWidth": 375,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/rare-disease-copayment-december-2026",
+    "images": [
+      {
+        "src": "/assets/images/rare-copayment-december-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/rare-copayment-december-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/rare-copayment-december-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "05-public-390.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  },
+  {
+    "id": "05",
+    "phase": "public",
+    "width": 1280,
+    "mainWidth": 800,
+    "scrollWidth": 1265,
+    "canonical": "https://hospital.hbuby.com/treatment-costs/rare-disease-copayment-december-2026",
+    "images": [
+      {
+        "src": "/assets/images/rare-copayment-december-thumb.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/rare-copayment-december-body1.webp",
+        "loaded": true
+      },
+      {
+        "src": "/assets/images/rare-copayment-december-body2.webp",
+        "loaded": true
+      }
+    ],
+    "evidence": "05-public-1280.png",
+    "measurement_source": "completed browser observations; 01/360 rechecked on fresh viewport, 05/360 rechecked after scrolling to second body image"
+  }
+]

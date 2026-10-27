@@ -1,0 +1,122 @@
+{
+  "mode": "built-in image_gen",
+  "records": [
+    {
+      "i": 1,
+      "kind": "thumb",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-15ca6223-f125-47c9-a989-a94bb1914cd5.png"
+    },
+    {
+      "i": 1,
+      "kind": "body1",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-89cb2c98-d77c-47f0-8a17-16abd5861990.png"
+    },
+    {
+      "i": 1,
+      "kind": "body2",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-6045d76b-ea34-490f-8f8c-0f5c9b5b3841.png"
+    },
+    {
+      "i": 2,
+      "kind": "thumb",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-991e93ba-508f-4d52-9ad2-de3a5c9110cc.png"
+    },
+    {
+      "i": 2,
+      "kind": "body1",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-b29038ff-f58a-46fa-a021-08f367b38ee8.png"
+    },
+    {
+      "i": 2,
+      "kind": "body2",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-129ec8f3-a13f-47ef-ab31-70a27ee7c3ad.png"
+    },
+    {
+      "i": 3,
+      "kind": "thumb",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-b50584e2-cde0-4c8e-baad-9dceb3dbde20.png"
+    },
+    {
+      "i": 3,
+      "kind": "body1",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-a2c66cdf-8570-43da-beb0-29e1e16acb65.png"
+    },
+    {
+      "i": 3,
+      "kind": "body2",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-ec619eb8-c9cf-49ef-b3b0-254c316849d1.png"
+    },
+    {
+      "i": 4,
+      "kind": "thumb",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-b521a1fb-66c6-4c42-b138-a4acbb8f56de.png"
+    },
+    {
+      "i": 4,
+      "kind": "body1",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-15892fea-ad9b-488f-84d2-bec91686ae21.png"
+    },
+    {
+      "i": 4,
+      "kind": "body2",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-2aa9e82f-083e-4c76-a9a1-148baa9221b4.png"
+    },
+    {
+      "i": 5,
+      "kind": "thumb",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-74ae8b73-57e7-406f-8261-9adece7e9dd5.png"
+    },
+    {
+      "i": 5,
+      "kind": "body1",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-e078440d-1a9d-4ff1-a178-38366019ba44.png"
+    },
+    {
+      "i": 5,
+      "kind": "body2",
+      "source": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-51c5ea16-1124-4bb8-bdbf-70c13af5cce1.png"
+    }
+  ],
+  "body_prompts": [
+    [
+      "img1body1",
+      "Close-up of Korean adult reviewing a generic smartphone insurance submission form at kitchen table, receipt turned face down; checking hospital name and visit date."
+    ],
+    [
+      "img1body2",
+      "Korean adult at desk writing a short checklist in blank notebook beside smartphone with generic confirmation check symbol; calm claim receipt review."
+    ],
+    [
+      "img2body1",
+      "Caregiver and nurse discussing patient transfer planning in quiet hospital meeting room, empty wheelchair nearby, no actual medical intervention."
+    ],
+    [
+      "img2body2",
+      "Family caregiver organizing a care folder, generic medication bag and home ventilator information booklet without readable labels, hospital coordinator listening."
+    ],
+    [
+      "img3body1",
+      "Hospital discharge coordinator speaking with a family about scheduled patient transport, generic white ambulance visible outside window."
+    ],
+    [
+      "img3body2",
+      "A trained transport worker checking an empty clean ambulance stretcher and secured equipment before a planned transfer, no patient and no dangerous procedure."
+    ],
+    [
+      "img4body1",
+      "Korean adult consulting generic calendar and laptop, preparing questions for remote clinic consultation, simple home setting."
+    ],
+    [
+      "img4body2",
+      "Korean pharmacist and adult at pharmacy counter reviewing a plain prescription envelope, no readable medicine labels, no treatment instructions."
+    ],
+    [
+      "img5body1",
+      "Korean adult and hospital billing clerk comparing generic receipt categories at counter, papers without readable numbers or identifiable personal information."
+    ],
+    [
+      "img5body2",
+      "Korean family member calmly reviewing health insurance registration status on a generic laptop and calendar, unbranded screen with abstract neutral blocks."
+    ]
+  ]
+}
