@@ -1,0 +1,164 @@
+{
+  "mode": "built-in image_gen",
+  "thumbnail_prompts": [
+    [
+      "116-disease-vs-tier",
+      "116대 질병수술비",
+      "종수술비와 다른 기준",
+      "two distinctly colored policy folders and a simple surgery record on a Korean home office desk"
+    ],
+    [
+      "brain-heart-treatment",
+      "뇌·심장 주요치료비",
+      "진단과 치료를 구분",
+      "patient and family consulting a clinician using neutral heart and brain diagrams and a treatment calendar"
+    ],
+    [
+      "integrated-cancer",
+      "통합암진단비",
+      "전이암·재진단 확인",
+      "a person comparing a pathology report and insurance policy with a clean nine-group diagram without fake medical values"
+    ],
+    [
+      "reproductive-radiation",
+      "항암방사선 치료비",
+      "중입자치료와 특약",
+      "a patient discussing radiation planning with clinician in a modern consultation room, no treatment procedure shown"
+    ],
+    [
+      "outpatient-hospital-tier",
+      "3대질병 통원일당",
+      "병원급과 방문 목적",
+      "three different hospital building silhouettes and an outpatient appointment card on a desk"
+    ]
+  ],
+  "body_prompts": [
+    [
+      "116-disease-vs-tier",
+      "body1",
+      "a Korean adult comparing a surgical certificate with two policy booklets at a well-lit desk"
+    ],
+    [
+      "116-disease-vs-tier",
+      "body2",
+      "close view of an organized folder with a diagnosis report, surgery date calendar and checklist, all writing abstract not legible"
+    ],
+    [
+      "brain-heart-treatment",
+      "body1",
+      "Korean clinician explaining a heart and brain treatment plan to an adult patient and caregiver, calm non-diagnostic consultation"
+    ],
+    [
+      "brain-heart-treatment",
+      "body2",
+      "a caregiver marking treatment visits on a calendar beside hospital bills and an insurance folder"
+    ],
+    [
+      "integrated-cancer",
+      "body1",
+      "a Korean adult and clinician discussing a generic pathology diagram with separate organ groups, no actual patient data"
+    ],
+    [
+      "integrated-cancer",
+      "body2",
+      "a person organizing prior claim letters and new medical reports chronologically at home"
+    ],
+    [
+      "reproductive-radiation",
+      "body1",
+      "a radiation oncologist explaining treatment planning on a neutral monitor to a Korean adult, no invasive procedure"
+    ],
+    [
+      "reproductive-radiation",
+      "body2",
+      "hospital records desk with radiation treatment dates checklist and sealed medical document folder, no legible personal data"
+    ],
+    [
+      "outpatient-hospital-tier",
+      "body1",
+      "a Korean adult at a hospital information desk checking the medical institution classification on an abstract leaflet"
+    ],
+    [
+      "outpatient-hospital-tier",
+      "body2",
+      "home desk comparing outpatient visit confirmation and calendar with a mobile insurance claim screen, no readable private data"
+    ]
+  ],
+  "files": [
+    {
+      "slug": "116-disease-vs-tier",
+      "part": "body1",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-2ff0d04e-1200-4c8c-8b6c-f05cae9382a9.png"
+    },
+    {
+      "slug": "116-disease-vs-tier",
+      "part": "body2",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-d316f56d-2c1b-4fb9-a6b6-bba20c3c5a14.png"
+    },
+    {
+      "slug": "brain-heart-treatment",
+      "part": "body1",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-ab805704-b7cf-4cdd-8ece-2e1dbb34d5d3.png"
+    },
+    {
+      "slug": "brain-heart-treatment",
+      "part": "body2",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-fc710cb4-4765-4b76-91ba-0f21649bec81.png"
+    },
+    {
+      "slug": "integrated-cancer",
+      "part": "body1",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-6319171a-ca6f-4a5e-bccb-3d0418ec903e.png"
+    },
+    {
+      "slug": "integrated-cancer",
+      "part": "body2",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-80b2005f-b947-4c07-80d0-02080fedc989.png"
+    },
+    {
+      "slug": "reproductive-radiation",
+      "part": "body1",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-4e5a536a-6819-4c76-85be-36bce1aecc27.png"
+    },
+    {
+      "slug": "reproductive-radiation",
+      "part": "body2",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-694bc21f-140f-4f67-8eeb-80c646af87d2.png"
+    },
+    {
+      "slug": "outpatient-hospital-tier",
+      "part": "body1",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-037dd582-2a1d-4f52-bdd1-f70b863d3672.png"
+    },
+    {
+      "slug": "outpatient-hospital-tier",
+      "part": "body2",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-a923ab7c-3d58-43d6-8b06-b6e626f305f0.png"
+    },
+    {
+      "slug": "116-disease-vs-tier",
+      "part": "thumb",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-2fab7b17-ca22-41bc-84d9-dcaca6c6da5b.png"
+    },
+    {
+      "slug": "brain-heart-treatment",
+      "part": "thumb",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-970fd8b1-7d04-485b-b70b-3db6382fa354.png"
+    },
+    {
+      "slug": "integrated-cancer",
+      "part": "thumb",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-9610d15d-2f17-426b-9965-09c6c61b5766.png"
+    },
+    {
+      "slug": "reproductive-radiation",
+      "part": "thumb",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-5e0277e3-735e-452a-b981-0f6eb2460065.png"
+    },
+    {
+      "slug": "outpatient-hospital-tier",
+      "part": "thumb",
+      "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-50796954-6d94-4855-943c-3b230f880a2f.png"
+    }
+  ]
+}

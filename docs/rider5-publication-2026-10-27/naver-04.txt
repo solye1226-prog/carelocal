@@ -1,0 +1,162 @@
+- main:
+  - heading "NAVER" [level=1]:
+    - link "NAVER":
+      - /url: https://www.naver.com
+      - img "NAVER"
+  - link "Search Advisor":
+    - /url: /
+  - link "웹마스터 도구":
+    - /url: /console/board
+  - link "웹마스터 가이드":
+    - /url: /guide
+    - generic: list_alt
+    - text: 웹마스터 가이드
+  - generic: 쏠레미
+  - button:
+    - generic: power_settings_new
+  - separator
+  - tablist:
+    - tab "사이트 관리" [selected]
+    - tab "간단체크"
+    - tab "도구 설정"
+  - separator
+  - strong: https://hospital.hbuby.com
+  - link "목록보기":
+    - /url: /console/board
+    - generic: format_list_bulleted
+    - text: 목록보기
+  - list:
+    - generic: assignment
+    - text: 요약
+    - button "리포트":
+      - generic: insert_chart
+      - text: 리포트
+      - generic: expand_more
+    - button "요청" [expanded]:
+      - generic: assignment_turned_in
+      - text: 요청
+      - generic: expand_more
+    - generic: 웹 페이지 수집
+    - generic: 웹 페이지 검색 제외
+    - generic: RSS 제출
+    - generic: 사이트맵 제출
+    - button "검증":
+      - generic: repeat
+      - text: 검증
+      - generic: expand_more
+    - generic: settings
+    - text: 설정
+  - list:
+    - generic: 웹마스터 도구
+    - listitem: /
+    - generic: 요청
+    - listitem: /
+    - generic: 웹 페이지 수집
+  - strong: 웹 페이지 수집
+  - generic: 수집 요청 URL 입력
+  - paragraph
+  - textbox: https://hospital.hbuby.com/standards/indemnity-proportional-compensation
+  - button "확인":
+    - generic: 확인
+  - generic: 수집 요청 내역
+  - generic: 최근 50개만 노출
+  - table:
+    - rowgroup:
+      - row "No URL 등록일":
+        - columnheader "No"
+        - columnheader "URL"
+        - columnheader "등록일"
+    - rowgroup:
+      - row "1 /standards/indemnity-proportional-compensation 26.10.27 18:25:09":
+        - cell "1"
+        - cell "/standards/indemnity-proportional-compensation":
+          - link "/standards/indemnity-proportional-compensation":
+            - /url: https://hospital.hbuby.com/standards/indemnity-proportional-compensation
+        - cell "26.10.27 18:25:09"
+      - row "2 /standards/actual-vs-fixed-benefit 26.10.27 18:24:49":
+        - cell "2"
+        - cell "/standards/actual-vs-fixed-benefit":
+          - link "/standards/actual-vs-fixed-benefit":
+            - /url: https://hospital.hbuby.com/standards/actual-vs-fixed-benefit
+        - cell "26.10.27 18:24:49"
+      - row "3 /surgery-benefit/type-surgery-benefit-claim 26.10.27 18:24:32":
+        - cell "3"
+        - cell "/surgery-benefit/type-surgery-benefit-claim":
+          - link "/surgery-benefit/type-surgery-benefit-claim":
+            - /url: https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim
+        - cell "26.10.27 18:24:32"
+      - row "4 /surgery-benefit/thyroid-surgery-benefit 26.10.27 18:24:01":
+        - cell "4"
+        - cell "/surgery-benefit/thyroid-surgery-benefit":
+          - link "/surgery-benefit/thyroid-surgery-benefit":
+            - /url: https://hospital.hbuby.com/surgery-benefit/thyroid-surgery-benefit
+        - cell "26.10.27 18:24:01"
+      - row "5 /treatment-costs/hospital-refund-mediation-nonperformance-records 26.10.26 09:13:44":
+        - cell "5"
+        - cell "/treatment-costs/hospital-refund-mediation-nonperformance-records":
+          - link "/treatment-costs/hospital-refund-mediation-nonperformance-records":
+            - /url: https://hospital.hbuby.com/treatment-costs/hospital-refund-mediation-nonperformance-records
+        - cell "26.10.26 09:13:44"
+      - row "6 /guides/tablet-splitting-warning-product-check 26.10.26 09:11:47":
+        - cell "6"
+        - cell "/guides/tablet-splitting-warning-product-check":
+          - link "/guides/tablet-splitting-warning-product-check":
+            - /url: https://hospital.hbuby.com/guides/tablet-splitting-warning-product-check
+        - cell "26.10.26 09:11:47"
+      - row "7 /guides/longtermcare-home-nursing-provider-change 26.10.26 09:10:22":
+        - cell "7"
+        - cell "/guides/longtermcare-home-nursing-provider-change":
+          - link "/guides/longtermcare-home-nursing-provider-change":
+            - /url: https://hospital.hbuby.com/guides/longtermcare-home-nursing-provider-change
+        - cell "26.10.26 09:10:22"
+      - row "8 /guides/dexcom-g7-sensor-failure-replacement-evidence 26.10.26 09:09:52":
+        - cell "8"
+        - cell "/guides/dexcom-g7-sensor-failure-replacement-evidence":
+          - link "/guides/dexcom-g7-sensor-failure-replacement-evidence":
+            - /url: https://hospital.hbuby.com/guides/dexcom-g7-sensor-failure-replacement-evidence
+        - cell "26.10.26 09:09:52"
+      - row "9 /guides/pharmacy-dispensing-record-copy-request 26.10.26 09:08:15":
+        - cell "9"
+        - cell "/guides/pharmacy-dispensing-record-copy-request":
+          - link "/guides/pharmacy-dispensing-record-copy-request":
+            - /url: https://hospital.hbuby.com/guides/pharmacy-dispensing-record-copy-request
+        - cell "26.10.26 09:08:15"
+      - row "10 /treatment-costs/hospital-refund-cash-receipt-cancellation-check 26.10.26 09:07:52":
+        - cell "10"
+        - cell "/treatment-costs/hospital-refund-cash-receipt-cancellation-check":
+          - link "/treatment-costs/hospital-refund-cash-receipt-cancellation-check":
+            - /url: https://hospital.hbuby.com/treatment-costs/hospital-refund-cash-receipt-cancellation-check
+        - cell "26.10.26 09:07:52"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지" [disabled]:
+        - generic: chevron_left
+      - button "현재 페이지, 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "고토 페이지 3": "3"
+      - button "고토 페이지 4": "4"
+      - button "고토 페이지 5": "5"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: info
+  - text: 도움말
+  - list:
+    - generic: 요청 횟수는 사이트별로 제한될 수 있으며, 최근 한 달 이내의 요청 결과만 제공합니다.
+    - generic: 웹 페이지의 수집 및 색인까지의 소요 시간은 웹 페이지의 평판에 따라서 다릅니다.
+    - generic: 알고리즘을 통하여 스팸으로 판단되는 사이트의 수집 요청을 제한하고 있습니다.
+  - paragraph:
+    - text: 자세한 내용은
+    - link "웹마스터 가이드":
+      - /url: /guide/request-crawl
+    - text: 및
+    - link "스마트봇":
+      - /url: https://talk.naver.com/ct/w4o52y
+    - text: 에게 물어보세요
+- contentinfo:
+  - link "이용약관":
+    - /url: /policy/terms
+  - link "책임한계와 법적고지":
+    - /url: https://policy.naver.com/rules/disclaimer.html
+  - link "고객센터":
+    - /url: https://help.naver.com/alias/webmastertool/main.naver
+  - generic: ©NAVER Corp.

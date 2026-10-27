@@ -1,0 +1,57 @@
+[
+  {
+    "path": "/surgery-benefit/116-disease-vs-tier-surgery-benefit",
+    "slug": "116-disease-vs-tier",
+    "title": "116대 질병수술비와 종수술비 차이, 같은 수술이면 둘 다 확인할까?",
+    "desc": "116대 질병수술비의 질병군과 종수술비의 수술분류는 다른 기준입니다. 현행 공개 약관의 감액·수술 정의·반복수술 제한을 구분하고 담보별 검토를 요청하는 방법을 정리합니다.",
+    "parent": "/surgery-benefit/type-surgery-benefit-claim",
+    "pdf": "https://www.kbinsure.co.kr/pop/CR301010002.ec?pdcd=25434",
+    "page": 361,
+    "source": "KB 5.10.10 플러스 건강보험(연만기갱신형)(무배당)(26.09), 2026년 10월 1일 적용 약관",
+    "pages": "특별약관 73-1~73-6, 본문 359~367쪽(PDF 361~369쪽)"
+  },
+  {
+    "path": "/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis",
+    "slug": "brain-heart-treatment",
+    "title": "뇌·심장 주요치료비, 진단비와 다른 지급 요건과 연간 한도 확인법",
+    "desc": "뇌·심장 주요치료비는 진단만으로 지급되는 진단비와 다릅니다. 약관 원문으로 직접치료 범위, 진단일부터 계산하는 연간 기준, 10년 보장과 감액 구조를 확인합니다.",
+    "parent": "/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
+    "pdf": "https://www.kbinsure.co.kr/pop/CR301010002.ec?pdcd=25434",
+    "page": 613,
+    "source": "KB 5.10.10 플러스 건강보험(연만기갱신형)(무배당)(26.09), 2026년 10월 1일 적용 약관",
+    "pages": "특별약관 199, 본문 611~614쪽(PDF 613~616쪽)"
+  },
+  {
+    "path": "/diagnosis-benefit/integrated-cancer-metastasis-vs-rediagnosis",
+    "slug": "integrated-cancer",
+    "title": "통합암진단비 전이암 포함, 재진단암과 같은 뜻일까?",
+    "desc": "통합암진단비 전이암 포함은 재진단암 담보와 다른 구조입니다. 세부 암 그룹 최초 1회와 소멸 조건, 같은 그룹 전이와 다른 그룹 진단, 재진단 대기기간을 약관 원문으로 구분합니다.",
+    "parent": "/claims/cancer-diagnosis-benefit-documents",
+    "pdf": "https://www.kbinsure.co.kr/pop/CR301010002.ec?pdcd=25290",
+    "page": 437,
+    "source": "KB 9회주는 암보험Plus(무배당)(26.07), 2026년 8월 1일 적용 약관",
+    "pages": "특별약관 119 본문 435~440쪽(PDF 437~442쪽), 비교용 특별약관 25 본문 233쪽부터(PDF 235쪽부터)"
+  },
+  {
+    "path": "/diagnosis-benefit/reproductive-cancer-radiation-rider-check",
+    "slug": "reproductive-radiation",
+    "title": "남녀생식기암 항암방사선치료비, 중입자치료를 받으면 무엇을 확인할까?",
+    "desc": "남녀생식기암 항암방사선치료비의 대상 암, 항암방사선 정의, 최초 1회와 특약 소멸을 확인합니다. 중입자치료라는 치료 이름만으로 지급 여부를 단정하지 않는 약관 대조법입니다.",
+    "parent": "/guides/heavy-ion-therapy",
+    "pdf": "https://www.kbinsure.co.kr/pop/CR301010002.ec?pdcd=25290",
+    "page": 311,
+    "source": "KB 9회주는 암보험Plus(무배당)(26.07), 2026년 8월 1일 적용 약관",
+    "pages": "특별약관 63·64, 본문 309~312쪽(PDF 311~314쪽)"
+  },
+  {
+    "path": "/diagnosis-benefit/three-disease-outpatient-daily-hospital-tier",
+    "slug": "outpatient-hospital-tier",
+    "title": "3대질병 통원일당, 상급종합병원과 종합병원은 왜 따로 확인할까?",
+    "desc": "암·뇌혈관·허혈성심장질환 통원일당은 병원급과 직접치료 목적을 따로 확인해야 합니다. 현행 공개 약관의 1일 제한, 연간 기준과 병원 지정 변경을 구분합니다.",
+    "parent": "/standards/actual-vs-fixed-benefit",
+    "pdf": "https://www.kbinsure.co.kr/pop/CR301010002.ec?pdcd=25290",
+    "page": 317,
+    "source": "KB 9회주는 암보험Plus(무배당)(26.07), 2026년 8월 1일 적용 약관",
+    "pages": "암 통원 특별약관 22·23·26, 뇌혈관·허혈성심장 통원 특별약관 65~70; 본문 227쪽·239쪽·312~320쪽 등"
+  }
+]

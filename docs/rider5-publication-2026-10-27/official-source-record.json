@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.kbinsure.co.kr/pop/CR301010002.ec?pdcd=25434",
+    "local": "docs\\rider5-publication-2026-10-27\\25434-official.pdf",
+    "sha256": "84e39372b42e0598bd4548a8f86ee9d374ce9bc0ecb82d24900cb6b512b0d5ad",
+    "bytes": 24637923,
+    "effective_date": "2026-10-01",
+    "checked": "2026-10-27"
+  },
+  {
+    "url": "https://www.kbinsure.co.kr/pop/CR301010002.ec?pdcd=25290",
+    "local": "docs\\rider5-publication-2026-10-27\\25290-official.pdf",
+    "sha256": "a7418efae658578edfe428e7c4dd4ffd616135bdab09a6e87b83f3e28d2030a6",
+    "bytes": 18451194,
+    "effective_date": "2026-08-01",
+    "checked": "2026-10-27"
+  }
+]
