@@ -1,0 +1,117 @@
+[
+  {
+    "path": "/guides/covid-vaccine-2026-high-risk-documents",
+    "slug": "covid-high-risk-2026",
+    "cat": "병원 이용",
+    "title": "코로나19 무료접종 고위험군, 대상과 증빙서류 확인 순서",
+    "desc": "2026~2027절기 코로나19 무료접종의 면역저하자·시설 입소자 대상과 서류 예외를 정리합니다. 12세 미만 별도 일정, 접종기관 조회와 방문 전 문의할 항목을 확인하세요.",
+    "status": "12세 이상 고위험군 접종 시행·12세 미만은 별도 일정 안내 예정",
+    "parent": "/guides/flu-vaccination-2026",
+    "parent_note": "독감과 코로나19는 지원 대상과 시작 일정이 다릅니다. 코로나19 고위험군의 증빙서류와 12세 미만 안내를 별도로 확인하세요.",
+    "sources": [
+      [
+        "https://nip.kdca.go.kr/irhp/covd/goCov19Vcnt.do?menuCd=47&menuLv=4",
+        "질병관리청 코로나19 예방접종 안내",
+        "연령·고위험군·절기 일정·증빙 예외와 지정기관 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/guides/glp1-pregnancy-planning-official-guide",
+    "slug": "glp1-pregnancy-plan",
+    "cat": "병원 이용",
+    "title": "위고비·마운자로 임신 계획, 중단 시점과 피임 안내가 다른 이유",
+    "desc": "식약처 허가사항에서 위고비와 마운자로의 계획 임신 전 중단 기간은 다릅니다. 제품명·마지막 투여일·피임약을 정리해 처방의와 상담할 때 확인할 내용을 안내합니다.",
+    "status": "제품별 현행 허가사항 적용·임신 계획은 처방 의료진과 상담",
+    "parent": "/guides/inpatient-personal-medicine-handover",
+    "parent_note": "입원 시 가져가는 약에 위고비·마운자로가 있다면 제품명과 마지막 투여일을 정확히 알리세요. 임신 계획이 있는 경우의 제품별 허가사항도 확인할 수 있습니다.",
+    "sources": [
+      [
+        "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301388",
+        "의약품안전나라 위고비 허가사항",
+        "세마글루티드의 임신·계획 임신 전 중단 안내"
+      ],
+      [
+        "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301983",
+        "의약품안전나라 마운자로 허가사항",
+        "터제파타이드의 임신·중단·경구피임약 관련 주의"
+      ],
+      [
+        "https://e-health.go.kr/gh/heNws/selectBbsDtlViewInfo.do?bbsId=U00186&bbsNo=422005&menuId=200048",
+        "식약처 GLP-1 계열 비만치료제 안전사용 안내",
+        "의사 처방과 임신 계획 상담 필요성"
+      ]
+    ]
+  },
+  {
+    "path": "/silbi/age13-composite-resin-coverage-update",
+    "slug": "age13-resin-update",
+    "cat": "실비보험",
+    "title": "13세 레진 건강보험 확대 발표, 치료 전 나이·시행일 확인법",
+    "desc": "13세 광중합형 복합레진 건강보험 확대 추진 발표와 현재 안내되는 5~12세 기준을 구분합니다. 영구치·충치 치료 여부, 실제 적용일·급여 항목·민간보험을 확인하는 순서입니다.",
+    "status": "13세 확대 추진 발표·정확한 적용일과 최종 급여 기준은 치료 전 확인",
+    "parent": "/silbi/dental-covered-medical-expense-claim",
+    "parent_note": "치과 급여 실비와 13세 레진 급여 확대 발표는 구분해 확인해야 합니다. 치료일의 나이·치아·급여 기준을 먼저 대조하세요.",
+    "sources": [
+      [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148971474",
+        "정부 건강보험 보장 확대 발표",
+        "5~12세에서 5~13세 확대 방향 안내"
+      ],
+      [
+        "https://www.korea.kr/common/download.do?fileId=198572688&tblKey=GMN",
+        "보건복지부 의료혁신 추진방안 원문 PDF",
+        "인쇄 17쪽·PDF 19쪽의 레진 확대 추진 및 2027년 재정 소요"
+      ],
+      [
+        "https://www.hira.or.kr/bbsDummy.do?brdBltNo=47596&brdScnBltNo=4&pgmid=HIRAA010006011500",
+        "심평원 광중합형 복합레진 급여 안내",
+        "기존 5~12세 충치 레진 기준 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/checkups/cervical-screening-report-2027-change",
+    "slug": "cervical-report-2027",
+    "cat": "건강검진",
+    "title": "2027 자궁경부암 검진 결과 기록지 개정, 5가지 판정 읽는 법",
+    "desc": "2027년 1월 1일 시행되는 국가 자궁경부암 검진 판정 기준·기록지 개정을 정리합니다. 저위험·고위험·암 의심·판정불가를 확진과 구분하고 결과표에서 권고사항을 확인하는 방법입니다.",
+    "status": "고시 2026-214호 개정·2027년 1월 1일 시행 예정",
+    "parent": "/checkups/cervical-screening-ascus-followup",
+    "parent_note": "현재 ASC-US 결과의 후속 진료 안내와 2027년 국가검진 기록지 개정은 다른 질문입니다. 개정 판정 구분과 권고사항을 따로 확인하세요.",
+    "sources": [
+      [
+        "https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000286910",
+        "국가법령정보센터 암검진 실시기준",
+        "고시 2026-214호·시행일·별표 2와 별지 제14호"
+      ],
+      [
+        "https://www.kha.or.kr/kha_home/notice_list.do?articleNo=47640&mode=view",
+        "보건복지부 개정 고시 원문·신구조문",
+        "대한병원협회가 게시한 공문·붙임 원문 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/checkups/national-biobank-noncheckup-participation",
+    "slug": "biobank-general-participation",
+    "cat": "건강검진",
+    "title": "건강검진 비대상자도 바이오빅데이터 참여, 신청 전 확인할 것",
+    "desc": "국가통합바이오빅데이터 일반참여자 모집이 건강검진 비대상자까지 확대됐습니다. 만 19세 이상 대한민국 국적 기준, 모집기관·동의서·검체 기증 절차와 검진의 차이를 정리합니다.",
+    "status": "건강검진 비대상자 모집 확대·일반참여자 공식 안내 운영 중",
+    "parent": "/checkups/health-checkup-target-2026",
+    "parent_note": "국가건강검진 대상 확인과 바이오빅데이터 연구 참여는 별개입니다. 검진 비대상자의 일반참여자 신청·동의 절차를 확인하세요.",
+    "sources": [
+      [
+        "https://www.kdca.go.kr/kdca/2848/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2RjYSUyRjQyJTJGMzEyOTY3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+        "질병관리청 일반참여자 모집 확대 발표",
+        "2026년 10월 15일·건강검진 비대상자 참여 확대"
+      ],
+      [
+        "https://www.biobigdata.kr/guide/generalParticipantGuide.do?key=2601190045#instSearchStatus",
+        "국가통합바이오빅데이터 일반참여자 안내",
+        "자격·모집기관 검색·설명 및 동의·검체 기증 안내"
+      ]
+    ]
+  }
+]

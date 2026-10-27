@@ -1,0 +1,692 @@
+[
+  {
+    "n": 6,
+    "stage": "local",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "코로나19 무료접종 고위험군, 대상과 증빙서류 확인 순서",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "코로나19 무료접종 고위험군, 대상과 증빙서류 확인 순서",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "코로나19 무료접종 고위험군, 대상과 증빙서류 확인 순서",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 6,
+    "stage": "public",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "코로나19 무료접종 고위험군, 대상과 증빙서류 확인 순서",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "코로나19 무료접종 고위험군, 대상과 증빙서류 확인 순서",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/covid-high-risk-2026-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "코로나19 무료접종 고위험군, 대상과 증빙서류 확인 순서",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "stage": "local",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "위고비·마운자로 임신 계획, 중단 시점과 피임 안내가 다른 이유",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "위고비·마운자로 임신 계획, 중단 시점과 피임 안내가 다른 이유",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "위고비·마운자로 임신 계획, 중단 시점과 피임 안내가 다른 이유",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "stage": "public",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "위고비·마운자로 임신 계획, 중단 시점과 피임 안내가 다른 이유",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "위고비·마운자로 임신 계획, 중단 시점과 피임 안내가 다른 이유",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/glp1-pregnancy-plan-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "위고비·마운자로 임신 계획, 중단 시점과 피임 안내가 다른 이유",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "stage": "local",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "13세 레진 건강보험 확대 발표, 치료 전 나이·시행일 확인법",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "13세 레진 건강보험 확대 발표, 치료 전 나이·시행일 확인법",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "13세 레진 건강보험 확대 발표, 치료 전 나이·시행일 확인법",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "stage": "public",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "13세 레진 건강보험 확대 발표, 치료 전 나이·시행일 확인법",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "13세 레진 건강보험 확대 발표, 치료 전 나이·시행일 확인법",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/age13-resin-update-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "13세 레진 건강보험 확대 발표, 치료 전 나이·시행일 확인법",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "stage": "local",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "2027 자궁경부암 검진 결과 기록지 개정, 5가지 판정 읽는 법",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "2027 자궁경부암 검진 결과 기록지 개정, 5가지 판정 읽는 법",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "2027 자궁경부암 검진 결과 기록지 개정, 5가지 판정 읽는 법",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "stage": "public",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "2027 자궁경부암 검진 결과 기록지 개정, 5가지 판정 읽는 법",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "2027 자궁경부암 검진 결과 기록지 개정, 5가지 판정 읽는 법",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/cervical-report-2027-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "2027 자궁경부암 검진 결과 기록지 개정, 5가지 판정 읽는 법",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "stage": "local",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "건강검진 비대상자도 바이오빅데이터 참여, 신청 전 확인할 것",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "건강검진 비대상자도 바이오빅데이터 참여, 신청 전 확인할 것",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "건강검진 비대상자도 바이오빅데이터 참여, 신청 전 확인할 것",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "stage": "public",
+    "checks": [
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body2.webp"
+          }
+        ],
+        "mainWidth": 360,
+        "scrollWidth": 360,
+        "title": "건강검진 비대상자도 바이오빅데이터 참여, 신청 전 확인할 것",
+        "width": 360
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body2.webp"
+          }
+        ],
+        "mainWidth": 390,
+        "scrollWidth": 390,
+        "title": "건강검진 비대상자도 바이오빅데이터 참여, 신청 전 확인할 것",
+        "width": 390
+      },
+      {
+        "h1": 1,
+        "images": [
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-thumb.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body1.webp"
+          },
+          {
+            "loaded": true,
+            "src": "/assets/images/biobank-general-participation-body2.webp"
+          }
+        ],
+        "mainWidth": 800,
+        "scrollWidth": 1280,
+        "title": "건강검진 비대상자도 바이오빅데이터 참여, 신청 전 확인할 것",
+        "width": 1280
+      }
+    ]
+  }
+]

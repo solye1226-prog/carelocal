@@ -1,0 +1,25 @@
+Window: "ChatGPT", App: ChatGPT.exe.
+	0 창 ChatGPT Secondary Actions: Raise
+		1 창 (disabled)
+		2 영역 ChatGPT
+			3 대화 상자 searchadvisor.naver.com 내용: Secondary Actions: Raise
+				4 영역
+					5 영역
+						6 영역
+							7 제목 searchadvisor.naver.com 내용:
+						8 영역
+							9 영역
+								10 영역
+									11 영역
+										12 영역
+											13 영역
+												14 텍스트 사이트별 일간 최대 요청 수를 초과하였습니다.
+										15 영역
+							16 영역
+								17 영역
+								18 영역
+								19 단추 확인
+
+The focused UI element is 14 텍스트 사이트별 일간 최대 요청 수를 초과하였습니다..
+
+Focused element: 14 텍스트 사이트별 일간 최대 요청 수를 초과하였습니다.

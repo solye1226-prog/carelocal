@@ -1,0 +1,1 @@
+Accepted: 7 (new5, parents2). Quota exceeded on dental parent; stopped immediately. Remaining: 3. Exact alert: 사이트별 일간 최대 요청 수를 초과하였습니다. No retry, alternate URL or account used. Request acceptance is not indexing.

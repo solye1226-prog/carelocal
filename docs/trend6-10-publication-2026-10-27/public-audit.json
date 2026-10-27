@@ -1,0 +1,142 @@
+[
+  {
+    "n": 6,
+    "url": "https://hospital.hbuby.com/guides/covid-vaccine-2026-high-risk-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "canonical": "https://hospital.hbuby.com/guides/covid-vaccine-2026-high-risk-documents",
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/covid-high-risk-2026-thumb.webp",
+        "status": 200,
+        "bytes": 110152
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/covid-high-risk-2026-body1.webp",
+        "status": 200,
+        "bytes": 102680
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/covid-high-risk-2026-body2.webp",
+        "status": 200,
+        "bytes": 106508
+      }
+    ],
+    "parentLinksNew": true,
+    "newLinksParent": true,
+    "parentBodyPreserved": true,
+    "passed": true
+  },
+  {
+    "n": 7,
+    "url": "https://hospital.hbuby.com/guides/glp1-pregnancy-planning-official-guide",
+    "status": 200,
+    "bodyMatches": true,
+    "canonical": "https://hospital.hbuby.com/guides/glp1-pregnancy-planning-official-guide",
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/glp1-pregnancy-plan-thumb.webp",
+        "status": 200,
+        "bytes": 123532
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/glp1-pregnancy-plan-body1.webp",
+        "status": 200,
+        "bytes": 90816
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/glp1-pregnancy-plan-body2.webp",
+        "status": 200,
+        "bytes": 121580
+      }
+    ],
+    "parentLinksNew": true,
+    "newLinksParent": true,
+    "parentBodyPreserved": true,
+    "passed": true
+  },
+  {
+    "n": 8,
+    "url": "https://hospital.hbuby.com/silbi/age13-composite-resin-coverage-update",
+    "status": 200,
+    "bodyMatches": true,
+    "canonical": "https://hospital.hbuby.com/silbi/age13-composite-resin-coverage-update",
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/age13-resin-update-thumb.webp",
+        "status": 200,
+        "bytes": 106778
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/age13-resin-update-body1.webp",
+        "status": 200,
+        "bytes": 118868
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/age13-resin-update-body2.webp",
+        "status": 200,
+        "bytes": 96684
+      }
+    ],
+    "parentLinksNew": true,
+    "newLinksParent": true,
+    "parentBodyPreserved": true,
+    "passed": true
+  },
+  {
+    "n": 9,
+    "url": "https://hospital.hbuby.com/checkups/cervical-screening-report-2027-change",
+    "status": 200,
+    "bodyMatches": true,
+    "canonical": "https://hospital.hbuby.com/checkups/cervical-screening-report-2027-change",
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cervical-report-2027-thumb.webp",
+        "status": 200,
+        "bytes": 108786
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cervical-report-2027-body1.webp",
+        "status": 200,
+        "bytes": 109446
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/cervical-report-2027-body2.webp",
+        "status": 200,
+        "bytes": 118718
+      }
+    ],
+    "parentLinksNew": true,
+    "newLinksParent": true,
+    "parentBodyPreserved": true,
+    "passed": true
+  },
+  {
+    "n": 10,
+    "url": "https://hospital.hbuby.com/checkups/national-biobank-noncheckup-participation",
+    "status": 200,
+    "bodyMatches": true,
+    "canonical": "https://hospital.hbuby.com/checkups/national-biobank-noncheckup-participation",
+    "images": [
+      {
+        "url": "https://hospital.hbuby.com/assets/images/biobank-general-participation-thumb.webp",
+        "status": 200,
+        "bytes": 102408
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/biobank-general-participation-body1.webp",
+        "status": 200,
+        "bytes": 116102
+      },
+      {
+        "url": "https://hospital.hbuby.com/assets/images/biobank-general-participation-body2.webp",
+        "status": 200,
+        "bytes": 105688
+      }
+    ],
+    "parentLinksNew": true,
+    "newLinksParent": true,
+    "parentBodyPreserved": true,
+    "passed": true
+  }
+]
