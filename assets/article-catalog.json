@@ -1465,6 +1465,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/retevmo-ret-test-coverage",
+    "title": "레테브모 급여, RET 융합 폐암과 RET 변이 갑상선 수질암 차이",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/scaling-health-insurance-2026",
     "title": "스케일링 건강보험, 올해 적용받았는지 확인하는 방법",
     "category": "치료비"
