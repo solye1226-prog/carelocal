@@ -1,0 +1,51 @@
+- link "본문 바로가기":
+  - /url: "#content"
+- main:
+  - banner:
+    - link "네이버":
+      - /url: https://www.naver.com
+      - heading "네이버" [level=1]
+  - heading "searchadvisor 로그인 중" [level=2]:
+    - generic: searchadvisor
+    - generic: 로그인 중
+  - list:
+    - generic: 아이디 또는 전화번호
+    - textbox "아이디 또는 전화번호" [active]:
+      - /placeholder: ""
+    - generic: 비밀번호
+    - textbox "비밀번호"
+  - checkbox "로그인 상태 유지"
+  - generic: 로그인 상태 유지
+  - generic: IP 보안
+  - switch "IP 보안"
+  - generic: "OFF"
+  - list:
+    - button "패스키 로그인":
+      - generic: 패스키 로그인
+    - button "로그인":
+      - generic: 로그인
+  - list:
+    - link "QR 코드 로그인":
+      - /url: "#none"
+      - generic: QR 코드 로그인
+  - list:
+    - link "아이디 찾기":
+      - /url: https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=ko_KR
+      - generic: 아이디 찾기
+    - link "비밀번호 찾기":
+      - /url: https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=ko_KR
+      - generic: 비밀번호 찾기
+    - link "회원가입":
+      - /url: https://nid.naver.com/account/signup?lang=ko_KR&realname=N&rurl=https%3A%2F%2Fnid.naver.com%2Foauth2.0%2Fauthorize%3Fresponse_type%3Dcode%26state%3D2658c1859b748250d64a05daea11d67e8bcb0056%26client_id%3D4yEcJeBQXHdjnVsn5Yod%26redirect_uri%3Dhttps%253A%252F%252Fsearchadvisor.naver.com%252Fauth%252Fcallback%26locale%3Dko_KR%26inapp_view%3D%26oauth_os%3D
+      - generic: 회원가입
+  - iframe [id="log.banner_tgtLREC"]:
+    - link "N+스토어 넾다세일 매일 11시 & 18시 ! 체급이 거대한 득템 기회! 10.26.~11.8.":
+      - /url: https://tivan.naver.com/gc/101/jyB0RVWFS1AaSFyNOHpTavrALrGSvxxxtgx_lTErwKLOxHjaK-qx_Wq0qSzOVrmgjIqhWyAZh8NVkXocN7_6UgT0c7BAPeQ5I34OuLYAvFTY87iSQrB-_NIgqQ0VWdbfZDD2qnLIyJb7UXF9wAIH81qpAcukagiUW-l0jf1jsm912WTrX0VA0PguKXpaZ9W2F8GmOgjoOuKZFfdWuXznX12-5AxuJiIs4bGO2n7JBC3TIrmN01yDz1-bdGoIjuB_SmEXonAeLXRWvwDuA3XmBwh2TQZpDE7o2rTEB7sDr2gOGpDbpHA5ae0NOVEfxE4Hm0sUDSZAoSgkfShl-TW7Mk2JeVikGTYN5rE1iZciLYMkT2c9LqMVqo6bD15QzUwqmyBkJWFkmN0h_W3PD_xD3oUCdXfTd25DubQQCZ_B8OhsxkOZeZBckzIz4Q_AT8AVcIj19uVFeEiIHsBJ3XpYRfPzArDKWldOLovtlHcAzA71z7TDpavllMsKa0RWC2uBMya-u9DmMUL9pKZoFXuiXb0WDxTi2Wo8R9MbXoU6Xup4TnNhbKsDbvMcVs-D4upT7_6d6JeTqS8uJ2nF1lMgySGvRH42tAT0D9y9MoMXwXSH8JZAG7TdxA_oy4Ewnv7aI99HQJMQ2gE1X3684zg_NLIf_WadTqlozhHAUS4AbiPnMpnLYd3fSMBDtS5DQhyexxLHfwRGtOFS5nwBIKXUBjz1e8NMIq09X31OVjmT1u5V_IajosPM662VXBJXyQx5W6NG_cvsNvz46w5qkpbcyMA-jxN-TG7TWzKDtAUZH4nm6K_fKEmjweezS07h7vBK-RF7OTGTq_tTmTlBvpc_A9vn-H5gVdsKpgWu2USYIgrhcH2HHPHKcgMTJ1lVP79SYF6KPC8qTdjTS4eMvUbAgCXfhelLTifeR9fXGKThwvq3_-SLOd10eCO6iHMJth6X3E4MTnE3AWjKzVsFznbSFMEVXw_KCZXLkyMQUtwSgaAT195H2Mm5YUaT20uPiiZAaHX4q034uFQ-M3HEKNdLKrq-fB5WJ8wPwPgEO0FdYzrVJRcYXPE8Bw-PdL_ijCQq6TSFAIjLTNwW4eMjgOoMfbBSPrAVfxeG0LAykYS0xhSwAL3JI4MSIkK9yBGOZcBi/NE
+      - img "N+스토어 넾다세일 매일 11시 & 18시 ! 체급이 거대한 득템 기회! 10.26.~11.8."
+  - contentinfo:
+    - link "스마트봇 상담":
+      - /url: https://nca.naver.com/chat/account/view
+    - link "고객센터":
+      - /url: https://help.naver.com/service/5640/category/bookmark?lang=ko
+    - listbox "언어선택": 한국어
+  - generic: © NAVER Corp.

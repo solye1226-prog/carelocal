@@ -1,0 +1,137 @@
+[
+  {
+    "path": "/guides/hospice-provider-type-cost-check",
+    "slug": "hospice-provider-check",
+    "cat": "병원 이용",
+    "title": "호스피스 병원 찾기, 입원형·가정형 상담과 비용 확인 순서",
+    "desc": "중앙호스피스센터에서 지역과 서비스 유형을 골라 병원을 찾는 방법입니다. 입원형·가정형·자문형의 차이, 상담 자료, 병상·방문 지역과 비용을 확인할 질문을 정리합니다.",
+    "status": "기존 호스피스 제도 운영 중·유형별 대상과 기관 수용 가능 여부 확인",
+    "parent": "/guides/home-nursing-before-discharge",
+    "parent_note": "퇴원 뒤 가정간호와 가정형 호스피스는 대상과 상담 절차가 다릅니다. 말기 환자의 호스피스 기관·유형·비용을 확인하는 순서를 연결했습니다.",
+    "insurance": false,
+    "sources": [
+      [
+        "https://hospice.go.kr/",
+        "중앙호스피스센터 전문기관 찾기",
+        "지역·병원 종류·서비스 유형을 구분해 검색"
+      ],
+      [
+        "https://hospice.go.kr/?menuno=47",
+        "가정형 호스피스 공식 이용안내",
+        "대상·진료 의뢰·서류·이용동의 절차"
+      ],
+      [
+        "https://www.cancer.go.kr/lay1/S1T857C858/contents.do",
+        "국가암정보센터 입원형 이용절차",
+        "기존 병원 의뢰와 타 기관 상담 자료"
+      ]
+    ]
+  },
+  {
+    "path": "/treatment-costs/rare-disease-reregistration-evidence",
+    "slug": "rare-reregistration-evidence",
+    "cat": "치료비",
+    "title": "희귀질환 산정특례 재등록 서류, 검사 간소화 대상 확인법",
+    "desc": "9월 15일 시행된 공단 질환별 기준표에서 신규 등록과 재등록 칸을 나눠 보는 방법입니다. 종료 3개월 전 신청, 임상소견·기존 기록 확인과 재등록 접수 절차를 안내합니다.",
+    "status": "2026년 9월 15일 개정 기준 시행·질환별 재등록 요건은 별도 확인",
+    "parent": "/treatment-costs/cancer-special-copayment-registration",
+    "parent_note": "암과 희귀질환은 산정특례 재등록 요건이 다릅니다. 희귀질환의 검사 간소화 대상과 질환별 재등록 기준을 따로 확인하세요.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://www.nhis.or.kr/nhis/together/wbhaea01000m01.do?mode=view&articleNo=11013435",
+        "공단 9월 15일 시행 등록·재등록 기준표",
+        "붙임 1 질환별 현행 기준과 붙임 2 신구대비표"
+      ],
+      [
+        "https://www.nhis.or.kr/renewal_popup/poster/20260608_poster_longdesc_1.html",
+        "공단 산정특례 재등록 절차",
+        "종료 3개월 전 신청·적용기간 조회·재등록 신청서 접수"
+      ]
+    ]
+  },
+  {
+    "path": "/treatment-costs/vyloy-health-insurance-eligibility",
+    "slug": "vyloy-coverage-check",
+    "cat": "치료비",
+    "title": "빌로이 건강보험 급여, CLDN18.2·HER2 결과에서 확인할 것",
+    "desc": "10월 1일 시행된 빌로이 병용요법 급여기준을 검사결과·암종·치료차수로 나눠 설명합니다. CLDN18.2 양성 기준과 HER2 음성, 병용 약제·치료이력을 의료진에게 확인할 질문입니다.",
+    "status": "2026년 10월 1일 급여기준 시행·개인 적용은 검사와 치료계획 대조",
+    "parent": "/cancers/stomach-cancer",
+    "parent_note": "위암 치료에서 빌로이 병용요법을 상담한다면 일반 위암 진단 외에 CLDN18.2·HER2 검사와 치료차수 등 급여 조건을 확인하세요.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://www.hira.or.kr/bbsDummy.do?brdBltNo=45661&brdScnBltNo=4&pgmid=HIRAA030023010000",
+        "심평원 2026-210호 암 약제 급여 공고",
+        "10월 1일 시행 위암 병용요법 및 검사 기준"
+      ],
+      [
+        "https://www.kha.or.kr/kha_home/notice_list.do?articleNo=47588&mode=view",
+        "공고 원문 첨부 확인",
+        "공고전문_20261001의 위암 고식적 1차 요법과 검사 주석"
+      ],
+      [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972823",
+        "보건복지부 10월 급여 확대 안내",
+        "빌로이·요로상피암 병용요법의 적용 확대"
+      ]
+    ]
+  },
+  {
+    "path": "/treatment-costs/padcev-keytruda-combination-coverage",
+    "slug": "padcev-keytruda-coverage",
+    "cat": "치료비",
+    "title": "파드셉·키트루다 병용 급여, 요로상피암 1차 치료 확인법",
+    "desc": "10월 1일 시행된 엔포투맙 베도틴·펨브롤리주맙 병용 급여를 단독치료와 구분합니다. 국소 진행성·전이성 여부, 이전 면역항암제와 보조치료 이력, 비용 항목을 확인하세요.",
+    "status": "2026년 10월 1일 병용 1차 급여 시행·과거 치료와 세부 조건 확인",
+    "parent": "/cancers/bladder-cancer",
+    "parent_note": "방광암 일반 진료 정보와 요로상피암 파드셉·키트루다 병용 급여의 질문은 다릅니다. 과거 치료 이력·치료차수·비용을 나눠 확인하세요.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://www.hira.or.kr/bbsDummy.do?brdBltNo=45661&brdScnBltNo=4&pgmid=HIRAA030023010000",
+        "심평원 요로상피암 병용요법 공고",
+        "국소 진행성·전이성 1차 및 과거 PD-1·PD-L1 치료 조건"
+      ],
+      [
+        "https://www.kha.or.kr/kha_home/notice_list.do?articleNo=47588&mode=view",
+        "10월 1일 시행 공고 원문",
+        "요로상피암 고식적 1차의 병용요법·재발 조건·주석"
+      ],
+      [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148972823",
+        "보건복지부 병용요법 급여 확대 안내",
+        "단독요법과 구분한 1차 병용 적용 확대"
+      ]
+    ]
+  },
+  {
+    "path": "/treatment-costs/jascayd-nerandomilast-cost-check",
+    "slug": "jascayd-cost-check",
+    "cat": "치료비",
+    "title": "자스케이드 네란도밀라스트 허가, 공급·급여·비용 확인 순서",
+    "desc": "10월 15일 허가된 특발성 폐섬유증 치료제 자스케이드의 허가와 실제 처방·공급·건강보험 등재를 구분합니다. 병원·약국에서 약값과 실비 자료를 확인할 질문을 안내합니다.",
+    "status": "2026년 10월 15일 품목허가 확인·공급·급여·개인 약값은 별도 확인",
+    "parent": "/silbi/pharmacy-prescription-claim",
+    "parent_note": "새 약의 허가 소식은 실제 공급·건강보험·실손 보장과 구분해야 합니다. 자스케이드의 허가와 약값 확인 순서를 함께 보세요.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603158",
+        "의약품안전나라 자스케이드 허가사항",
+        "품목기준코드 202603158·허가일과 효능효과"
+      ],
+      [
+        "https://e-health.go.kr/gh/heNws/selectBbsDtlViewInfo.do?bbsId=U00186&bbsNo=422093&menuId=200048",
+        "식약처 품목허가 보도자료",
+        "특발성 폐섬유증 치료 수입 희귀의약품 허가"
+      ],
+      [
+        "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA030014050000",
+        "심평원 약제급여목록표",
+        "최신 목록과 시행일에서 제품·성분·함량별 등재 확인"
+      ]
+    ]
+  }
+]
