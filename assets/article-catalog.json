@@ -1430,6 +1430,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/padcev-keytruda-combination-coverage",
+    "title": "파드셉·키트루다 병용 급여, 요로상피암 1차 치료 확인법",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/peritoneal-dialysis-supplies-reimbursement",
     "title": "복막투석 소모성재료 요양비, 처방전·등록업소·청구서류 확인",
     "category": "치료비"
