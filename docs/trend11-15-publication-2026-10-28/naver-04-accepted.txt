@@ -1,0 +1,125 @@
+- main:
+  - button:
+    - generic: arrow_back_ios
+  - generic: https://hospital.hbuby.com
+  - button:
+    - generic: more_vert
+  - separator
+  - link "웹 페이지 수집":
+    - /url: "#"
+    - generic: 웹 페이지 수집
+    - generic: expand_more
+  - separator
+  - list:
+    - generic: 웹마스터 도구
+    - listitem: /
+    - generic: 요청
+    - listitem: /
+    - generic: 웹 페이지 수집
+  - generic: 수집 요청 URL 입력
+  - paragraph
+  - textbox: https://hospital.hbuby.com/treatment-costs/padcev-keytruda-combination-coverage
+  - button "확인":
+    - generic: 확인
+  - generic: 수집 요청 내역
+  - generic: 최근 50개만 노출
+  - table:
+    - rowgroup:
+      - row "No URL 등록일":
+        - columnheader "No"
+        - columnheader "URL"
+        - columnheader "등록일"
+    - rowgroup:
+      - row "1 /treatment-costs/padcev-keytruda-combination-coverage 26.10.28 12:28:30":
+        - cell "1"
+        - cell "/treatment-costs/padcev-keytruda-combination-coverage":
+          - link "/treatment-costs/padcev-keytruda-combination-coverage":
+            - /url: https://hospital.hbuby.com/treatment-costs/padcev-keytruda-combination-coverage
+        - cell "26.10.28 12:28:30"
+      - row "2 /treatment-costs/vyloy-health-insurance-eligibility 26.10.28 12:28:17":
+        - cell "2"
+        - cell "/treatment-costs/vyloy-health-insurance-eligibility":
+          - link "/treatment-costs/vyloy-health-insurance-eligibility":
+            - /url: https://hospital.hbuby.com/treatment-costs/vyloy-health-insurance-eligibility
+        - cell "26.10.28 12:28:17"
+      - row "3 /treatment-costs/rare-disease-reregistration-evidence 26.10.28 12:28:05":
+        - cell "3"
+        - cell "/treatment-costs/rare-disease-reregistration-evidence":
+          - link "/treatment-costs/rare-disease-reregistration-evidence":
+            - /url: https://hospital.hbuby.com/treatment-costs/rare-disease-reregistration-evidence
+        - cell "26.10.28 12:28:05"
+      - row "4 /guides/hospice-provider-type-cost-check 26.10.28 12:27:33":
+        - cell "4"
+        - cell "/guides/hospice-provider-type-cost-check":
+          - link "/guides/hospice-provider-type-cost-check":
+            - /url: https://hospital.hbuby.com/guides/hospice-provider-type-cost-check
+        - cell "26.10.28 12:27:33"
+      - row "5 /guides/inpatient-personal-medicine-handover 26.10.27 23:58:24":
+        - cell "5"
+        - cell "/guides/inpatient-personal-medicine-handover":
+          - link "/guides/inpatient-personal-medicine-handover":
+            - /url: https://hospital.hbuby.com/guides/inpatient-personal-medicine-handover
+        - cell "26.10.27 23:58:24"
+      - row "6 /guides/flu-vaccination-2026 26.10.27 23:57:54":
+        - cell "6"
+        - cell "/guides/flu-vaccination-2026":
+          - link "/guides/flu-vaccination-2026":
+            - /url: https://hospital.hbuby.com/guides/flu-vaccination-2026
+        - cell "26.10.27 23:57:54"
+      - row "7 /checkups/national-biobank-noncheckup-participation 26.10.27 23:57:42":
+        - cell "7"
+        - cell "/checkups/national-biobank-noncheckup-participation":
+          - link "/checkups/national-biobank-noncheckup-participation":
+            - /url: https://hospital.hbuby.com/checkups/national-biobank-noncheckup-participation
+        - cell "26.10.27 23:57:42"
+      - row "8 /checkups/cervical-screening-report-2027-change 26.10.27 23:57:21":
+        - cell "8"
+        - cell "/checkups/cervical-screening-report-2027-change":
+          - link "/checkups/cervical-screening-report-2027-change":
+            - /url: https://hospital.hbuby.com/checkups/cervical-screening-report-2027-change
+        - cell "26.10.27 23:57:21"
+      - row "9 /silbi/age13-composite-resin-coverage-update 26.10.27 23:57:05":
+        - cell "9"
+        - cell "/silbi/age13-composite-resin-coverage-update":
+          - link "/silbi/age13-composite-resin-coverage-update":
+            - /url: https://hospital.hbuby.com/silbi/age13-composite-resin-coverage-update
+        - cell "26.10.27 23:57:05"
+      - row "10 /guides/glp1-pregnancy-planning-official-guide 26.10.27 23:56:32":
+        - cell "10"
+        - cell "/guides/glp1-pregnancy-planning-official-guide":
+          - link "/guides/glp1-pregnancy-planning-official-guide":
+            - /url: https://hospital.hbuby.com/guides/glp1-pregnancy-planning-official-guide
+        - cell "26.10.27 23:56:32"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지" [disabled]:
+        - generic: chevron_left
+      - button "현재 페이지, 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "고토 페이지 3": "3"
+      - button "고토 페이지 4": "4"
+      - button "고토 페이지 5": "5"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: info
+  - text: 도움말
+  - list:
+    - generic: 요청 횟수는 사이트별로 제한될 수 있으며, 최근 한 달 이내의 요청 결과만 제공합니다.
+    - generic: 웹 페이지의 수집 및 색인까지의 소요 시간은 웹 페이지의 평판에 따라서 다릅니다.
+    - generic: 알고리즘을 통하여 스팸으로 판단되는 사이트의 수집 요청을 제한하고 있습니다.
+  - paragraph:
+    - text: 자세한 내용은
+    - link "웹마스터 가이드":
+      - /url: /guide/request-crawl
+    - text: 및
+    - link "스마트봇":
+      - /url: https://talk.naver.com/ct/w4o52y
+    - text: 에게 물어보세요
+- contentinfo:
+  - link "이용약관":
+    - /url: /policy/terms
+  - link "책임한계와 법적고지":
+    - /url: https://policy.naver.com/rules/disclaimer.html
+  - link "고객센터":
+    - /url: https://help.naver.com/alias/webmastertool/main.naver
+  - generic: ©NAVER Corp.
