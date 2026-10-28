@@ -1480,6 +1480,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/urinary-catheter-reimbursement-update",
+    "title": "자가도뇨카테터 요양비, 현재 기준과 12월 확대 계획 비교",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/vyloy-health-insurance-eligibility",
     "title": "빌로이 건강보험 급여, CLDN18.2·HER2 결과에서 확인할 것",
     "category": "치료비"
