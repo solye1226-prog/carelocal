@@ -1400,6 +1400,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/jascayd-nerandomilast-cost-check",
+    "title": "자스케이드 네란도밀라스트 허가, 공급·급여·비용 확인 순서",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/leqembi-cost-insurance",
     "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
     "category": "치료비"
