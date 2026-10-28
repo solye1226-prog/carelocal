@@ -1445,6 +1445,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/rare-disease-reregistration-evidence",
+    "title": "희귀질환 산정특례 재등록 서류, 검사 간소화 대상 확인법",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/scaling-health-insurance-2026",
     "title": "스케일링 건강보험, 올해 적용받았는지 확인하는 방법",
     "category": "치료비"
