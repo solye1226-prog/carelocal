@@ -1,0 +1,65 @@
+[
+  {
+    "documentWidth": 345,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-body2.webp"
+      }
+    ],
+    "mainWidth": 345,
+    "title": "레테브모 급여, RET 융합 폐암과 RET 변이 갑상선 수질암 차이",
+    "width": 360
+  },
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-body2.webp"
+      }
+    ],
+    "mainWidth": 375,
+    "title": "레테브모 급여, RET 융합 폐암과 RET 변이 갑상선 수질암 차이",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/retevmo-ret-test-coverage-body2.webp"
+      }
+    ],
+    "mainWidth": 800,
+    "title": "레테브모 급여, RET 융합 폐암과 RET 변이 갑상선 수질암 차이",
+    "width": 1280
+  }
+]

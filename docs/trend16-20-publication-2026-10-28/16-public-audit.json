@@ -1,0 +1,28 @@
+{
+  "n": 16,
+  "url": "https://hospital.hbuby.com/treatment-costs/urinary-catheter-reimbursement-update",
+  "status": 200,
+  "bodyMatches": true,
+  "canonical": "https://hospital.hbuby.com/treatment-costs/urinary-catheter-reimbursement-update",
+  "images": [
+    {
+      "url": "https://hospital.hbuby.com/assets/images/urinary-catheter-reimbursement-update-thumb.webp",
+      "status": 200,
+      "bytes": 68264
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/urinary-catheter-reimbursement-update-body1.webp",
+      "status": 200,
+      "bytes": 107270
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/urinary-catheter-reimbursement-update-body2.webp",
+      "status": 200,
+      "bytes": 137974
+    }
+  ],
+  "parentLinksNew": true,
+  "newLinksParent": true,
+  "parentBodyPreserved": true,
+  "passed": true
+}

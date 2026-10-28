@@ -1,0 +1,132 @@
+[
+  {
+    "path": "/treatment-costs/urinary-catheter-reimbursement-update",
+    "slug": "urinary-catheter-reimbursement-update",
+    "cat": "치료비",
+    "title": "자가도뇨카테터 요양비, 현재 기준과 12월 확대 계획 비교",
+    "desc": "자가도뇨카테터의 현행 일 9천 원·최대 6개 기준과 12월 확대 추진안을 나눠 봅니다. 소아·성인 예정 금액, 공단 등록·처방·제품 구입과 청구서류 확인 순서입니다.",
+    "status": "현행 지원 운영 중·확대안은 2026년 12월 추진 일정으로 발표",
+    "parent": "/claims/medical-expense-claim-documents",
+    "parent_note": "자가도뇨카테터 구입비는 병원 진료비 영수증만으로 처리하는 민간보험 청구와 절차가 다릅니다. 공단 요양비의 등록·처방·구입 증빙과 확대 예정 기준을 따로 확인하세요.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://www.nhis.or.kr/static/html/wbma/c/wbmac0219.html",
+        "공단 자가도뇨 소모성재료 안내",
+        "현행 대상·금액·등록·처방과 청구서류"
+      ],
+      [
+        "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780667",
+        "복지부 의료혁신 지원 발표",
+        "확대 정책과 추진 단계"
+      ],
+      [
+        "https://www.korea.kr/common/download.do?fileId=198572688&tblKey=GMN",
+        "정부 추진계획 원문 PDF",
+        "7쪽 시행 일정·15쪽 연령별 확대안"
+      ]
+    ]
+  },
+  {
+    "path": "/treatment-costs/glycogen-storage-glucose-supplies-support",
+    "slug": "glycogen-storage-glucose-supplies-support",
+    "cat": "치료비",
+    "title": "당원병 혈당검사지·연속혈당센서 지원, 2027년 시행 계획 확인",
+    "desc": "당원병 E74.0 환자의 혈당검사지·채혈침·연속혈당측정용 전극 지원 추진 내용을 정리합니다. 2027년 2분기 요양비와 질병관리청 본인부담 지원, 당뇨병 등록과의 차이를 설명합니다.",
+    "status": "요양비는 2027년 2분기 예정·질병관리청 본인부담 지원은 별도 지침·시스템 준비",
+    "parent": "/treatment-costs/diabetes-consumables-reimbursement-documents",
+    "parent_note": "당뇨병 소모성재료 제도의 현재 대상에 당원병이 자동 포함되는 것은 아닙니다. 당원병의 2027년 지원 계획과 별도 등록·본인부담 지원을 구분해 확인하세요.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://www.kdca.go.kr/bbs/kdca/42/310096/download.do",
+        "질병관리청 당원병 지원 발표 PDF",
+        "요양비 시행 예정·별도 본인부담 지원 대상과 일정"
+      ],
+      [
+        "https://www.korea.kr/common/download.do?fileId=198572688&tblKey=GMN",
+        "건강보험 지원 확대 계획 원문",
+        "7·14쪽 대상·품목·기준금액과 시행 일정"
+      ]
+    ]
+  },
+  {
+    "path": "/treatment-costs/retevmo-ret-test-coverage",
+    "slug": "retevmo-ret-test-coverage",
+    "cat": "치료비",
+    "title": "레테브모 급여, RET 융합 폐암과 RET 변이 갑상선 수질암 차이",
+    "desc": "10월 1일 시행 레테브모 급여를 암종·RET 검사·치료차수로 나눠 봅니다. 폐암의 RET 융합과 갑상선 수질암의 RET 변이, 진행 시점과 이전 TKI 이력의 확인 순서입니다.",
+    "status": "2026년 10월 1일 급여기준 시행·암종별 검사·진행 상태와 과거 치료 대조",
+    "parent": "/guides/targeted-immunotherapy",
+    "parent_note": "표적항암치료라도 약마다 검사·암종·치료차수가 다릅니다. 레테브모는 RET 융합 폐암과 RET 변이 갑상선 수질암의 급여 조건을 구분해 확인하세요.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://www.hira.or.kr/bbsDummy.do?brdBltNo=45661&brdScnBltNo=4&pgmid=HIRAA030023010000",
+        "심평원 2026-210호 암 약제 급여 공고",
+        "10월 1일 시행 셀퍼카티닙 단독요법"
+      ],
+      [
+        "https://www.kha.or.kr/kha_home/notice_list.do?articleNo=47588&mode=view",
+        "공고 원문 첨부 확인",
+        "폐암·갑상선암 투여대상과 주석"
+      ],
+      [
+        "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA030014050000",
+        "심평원 약제 급여 목록",
+        "처방일의 등재·상한금액 확인 경로"
+      ]
+    ]
+  },
+  {
+    "path": "/treatment-costs/livdelzi-approval-coverage-check",
+    "slug": "livdelzi-approval-coverage-check",
+    "cat": "치료비",
+    "title": "리브델지 허가, 원발성 담즙성 담관염 약값·보험 확인 순서",
+    "desc": "10월 20일 허가된 리브델지의 성인 PBC 적응증을 UDCA 반응 불충분·내약성 문제로 나눠 봅니다. 허가와 실제 공급, 약값·건강보험·실손 확인은 별개입니다.",
+    "status": "2026년 10월 20일 국내 품목허가 확인·공급·약가·개인 급여는 별도 확인",
+    "parent": "/silbi/pharmacy-prescription-claim",
+    "parent_note": "처방약 청구를 준비할 때 새 약의 국내 허가와 실제 공급·급여는 별도로 확인해야 합니다. 원발성 담즙성 담관염 리브델지의 허가 범위와 약값 확인 순서를 연결했습니다.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603207",
+        "식약처 리브델지 품목허가 원문",
+        "허가일·성분·성인 PBC 적응증과 주의사항"
+      ],
+      [
+        "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA030014050000",
+        "심평원 약제 급여 목록",
+        "현재 등재·상한금액과 적용일 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/treatment-costs/qinlock-ripretinib-coverage-check",
+    "slug": "qinlock-ripretinib-coverage-check",
+    "cat": "치료비",
+    "title": "퀸락정 리프레티닙 허가, GIST 4차 치료와 급여 확인법",
+    "desc": "10월 16일 허가된 퀸락정의 성인 진행성 GIST 대상과 이전 키나아제 억제제 치료이력을 확인합니다. 4차 치료와 암 4기의 차이, 국내 공급·급여·약값 상담 자료를 정리했습니다.",
+    "status": "2026년 10월 16일 국내 허가 확인·급여·공급·실제 약값은 별도 확인",
+    "parent": "/guides/cancer-treatment-cost",
+    "parent_note": "항암제 허가는 건강보험 등재·개인 비용과 다릅니다. GIST 퀸락정의 과거 치료 조건과 4차 치료·병기 구분, 약제비 상담 자료를 연결했습니다.",
+    "insurance": true,
+    "sources": [
+      [
+        "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603180",
+        "식약처 퀸락정 품목허가 원문",
+        "허가일·이매티닙 포함 이전 치료 조건·주의사항"
+      ],
+      [
+        "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA030014050000",
+        "심평원 약제 급여 목록",
+        "등재·약가·적용일 확인 경로"
+      ],
+      [
+        "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA030023010000",
+        "심평원 암 약제 세부 급여기준",
+        "위장관기질종양 요법의 최신 공고 확인"
+      ]
+    ]
+  }
+]

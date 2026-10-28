@@ -1,0 +1,28 @@
+{
+  "n": 17,
+  "url": "https://hospital.hbuby.com/treatment-costs/glycogen-storage-glucose-supplies-support",
+  "status": 200,
+  "bodyMatches": true,
+  "canonical": "https://hospital.hbuby.com/treatment-costs/glycogen-storage-glucose-supplies-support",
+  "images": [
+    {
+      "url": "https://hospital.hbuby.com/assets/images/glycogen-storage-glucose-supplies-support-thumb.webp",
+      "status": 200,
+      "bytes": 64016
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/glycogen-storage-glucose-supplies-support-body1.webp",
+      "status": 200,
+      "bytes": 135050
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/glycogen-storage-glucose-supplies-support-body2.webp",
+      "status": 200,
+      "bytes": 136254
+    }
+  ],
+  "parentLinksNew": true,
+  "newLinksParent": true,
+  "parentBodyPreserved": true,
+  "passed": true
+}

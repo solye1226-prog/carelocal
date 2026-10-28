@@ -1,0 +1,162 @@
+- main:
+  - heading "NAVER" [level=1]:
+    - link "NAVER":
+      - /url: https://www.naver.com
+      - img "NAVER"
+  - link "Search Advisor":
+    - /url: /
+  - link "웹마스터 도구":
+    - /url: /console/board
+  - link "웹마스터 가이드":
+    - /url: /guide
+    - generic: list_alt
+    - text: 웹마스터 가이드
+  - generic: 쏠레미
+  - button:
+    - generic: power_settings_new
+  - separator
+  - tablist:
+    - tab "사이트 관리" [selected]
+    - tab "간단체크"
+    - tab "도구 설정"
+  - separator
+  - strong: https://hospital.hbuby.com
+  - link "목록보기":
+    - /url: /console/board
+    - generic: format_list_bulleted
+    - text: 목록보기
+  - list:
+    - generic: assignment
+    - text: 요약
+    - button "리포트":
+      - generic: insert_chart
+      - text: 리포트
+      - generic: expand_more
+    - button "요청" [expanded]:
+      - generic: assignment_turned_in
+      - text: 요청
+      - generic: expand_more
+    - generic: 웹 페이지 수집
+    - generic: 웹 페이지 검색 제외
+    - generic: RSS 제출
+    - generic: 사이트맵 제출
+    - button "검증":
+      - generic: repeat
+      - text: 검증
+      - generic: expand_more
+    - generic: settings
+    - text: 설정
+  - list:
+    - generic: 웹마스터 도구
+    - listitem: /
+    - generic: 요청
+    - listitem: /
+    - generic: 웹 페이지 수집
+  - strong: 웹 페이지 수집
+  - generic: 수집 요청 URL 입력
+  - paragraph
+  - textbox: https://hospital.hbuby.com/treatment-costs/retevmo-ret-test-coverage
+  - button "확인":
+    - generic: 확인
+  - generic: 수집 요청 내역
+  - generic: 최근 50개만 노출
+  - table:
+    - rowgroup:
+      - row "No URL 등록일":
+        - columnheader "No"
+        - columnheader "URL"
+        - columnheader "등록일"
+    - rowgroup:
+      - row "1 /treatment-costs/retevmo-ret-test-coverage 26.10.28 13:05:32":
+        - cell "1"
+        - cell "/treatment-costs/retevmo-ret-test-coverage":
+          - link "/treatment-costs/retevmo-ret-test-coverage":
+            - /url: https://hospital.hbuby.com/treatment-costs/retevmo-ret-test-coverage
+        - cell "26.10.28 13:05:32"
+      - row "2 /treatment-costs/glycogen-storage-glucose-supplies-support 26.10.28 13:05:19":
+        - cell "2"
+        - cell "/treatment-costs/glycogen-storage-glucose-supplies-support":
+          - link "/treatment-costs/glycogen-storage-glucose-supplies-support":
+            - /url: https://hospital.hbuby.com/treatment-costs/glycogen-storage-glucose-supplies-support
+        - cell "26.10.28 13:05:19"
+      - row "3 /treatment-costs/urinary-catheter-reimbursement-update 26.10.28 13:05:07":
+        - cell "3"
+        - cell "/treatment-costs/urinary-catheter-reimbursement-update":
+          - link "/treatment-costs/urinary-catheter-reimbursement-update":
+            - /url: https://hospital.hbuby.com/treatment-costs/urinary-catheter-reimbursement-update
+        - cell "26.10.28 13:05:07"
+      - row "4 /silbi/pharmacy-prescription-claim 26.10.28 12:29:42":
+        - cell "4"
+        - cell "/silbi/pharmacy-prescription-claim":
+          - link "/silbi/pharmacy-prescription-claim":
+            - /url: https://hospital.hbuby.com/silbi/pharmacy-prescription-claim
+        - cell "26.10.28 12:29:42"
+      - row "5 /cancers/bladder-cancer 26.10.28 12:29:31":
+        - cell "5"
+        - cell "/cancers/bladder-cancer":
+          - link "/cancers/bladder-cancer":
+            - /url: https://hospital.hbuby.com/cancers/bladder-cancer
+        - cell "26.10.28 12:29:31"
+      - row "6 /cancers/stomach-cancer 26.10.28 12:29:18":
+        - cell "6"
+        - cell "/cancers/stomach-cancer":
+          - link "/cancers/stomach-cancer":
+            - /url: https://hospital.hbuby.com/cancers/stomach-cancer
+        - cell "26.10.28 12:29:18"
+      - row "7 /treatment-costs/cancer-special-copayment-registration 26.10.28 12:29:06":
+        - cell "7"
+        - cell "/treatment-costs/cancer-special-copayment-registration":
+          - link "/treatment-costs/cancer-special-copayment-registration":
+            - /url: https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration
+        - cell "26.10.28 12:29:06"
+      - row "8 /guides/home-nursing-before-discharge 26.10.28 12:28:56":
+        - cell "8"
+        - cell "/guides/home-nursing-before-discharge":
+          - link "/guides/home-nursing-before-discharge":
+            - /url: https://hospital.hbuby.com/guides/home-nursing-before-discharge
+        - cell "26.10.28 12:28:56"
+      - row "9 /treatment-costs/jascayd-nerandomilast-cost-check 26.10.28 12:28:42":
+        - cell "9"
+        - cell "/treatment-costs/jascayd-nerandomilast-cost-check":
+          - link "/treatment-costs/jascayd-nerandomilast-cost-check":
+            - /url: https://hospital.hbuby.com/treatment-costs/jascayd-nerandomilast-cost-check
+        - cell "26.10.28 12:28:42"
+      - row "10 /treatment-costs/padcev-keytruda-combination-coverage 26.10.28 12:28:30":
+        - cell "10"
+        - cell "/treatment-costs/padcev-keytruda-combination-coverage":
+          - link "/treatment-costs/padcev-keytruda-combination-coverage":
+            - /url: https://hospital.hbuby.com/treatment-costs/padcev-keytruda-combination-coverage
+        - cell "26.10.28 12:28:30"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지" [disabled]:
+        - generic: chevron_left
+      - button "현재 페이지, 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "고토 페이지 3": "3"
+      - button "고토 페이지 4": "4"
+      - button "고토 페이지 5": "5"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: info
+  - text: 도움말
+  - list:
+    - generic: 요청 횟수는 사이트별로 제한될 수 있으며, 최근 한 달 이내의 요청 결과만 제공합니다.
+    - generic: 웹 페이지의 수집 및 색인까지의 소요 시간은 웹 페이지의 평판에 따라서 다릅니다.
+    - generic: 알고리즘을 통하여 스팸으로 판단되는 사이트의 수집 요청을 제한하고 있습니다.
+  - paragraph:
+    - text: 자세한 내용은
+    - link "웹마스터 가이드":
+      - /url: /guide/request-crawl
+    - text: 및
+    - link "스마트봇":
+      - /url: https://talk.naver.com/ct/w4o52y
+    - text: 에게 물어보세요
+- contentinfo:
+  - link "이용약관":
+    - /url: /policy/terms
+  - link "책임한계와 법적고지":
+    - /url: https://policy.naver.com/rules/disclaimer.html
+  - link "고객센터":
+    - /url: https://help.naver.com/alias/webmastertool/main.naver
+  - generic: ©NAVER Corp.

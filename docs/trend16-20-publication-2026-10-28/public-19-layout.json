@@ -1,0 +1,65 @@
+[
+  {
+    "documentWidth": 345,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-body2.webp"
+      }
+    ],
+    "mainWidth": 345,
+    "title": "리브델지 허가, 원발성 담즙성 담관염 약값·보험 확인 순서",
+    "width": 360
+  },
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-body2.webp"
+      }
+    ],
+    "mainWidth": 375,
+    "title": "리브델지 허가, 원발성 담즙성 담관염 약값·보험 확인 순서",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/livdelzi-approval-coverage-check-body2.webp"
+      }
+    ],
+    "mainWidth": 800,
+    "title": "리브델지 허가, 원발성 담즙성 담관염 약값·보험 확인 순서",
+    "width": 1280
+  }
+]

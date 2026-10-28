@@ -1,0 +1,28 @@
+{
+  "n": 18,
+  "url": "https://hospital.hbuby.com/treatment-costs/retevmo-ret-test-coverage",
+  "status": 200,
+  "bodyMatches": true,
+  "canonical": "https://hospital.hbuby.com/treatment-costs/retevmo-ret-test-coverage",
+  "images": [
+    {
+      "url": "https://hospital.hbuby.com/assets/images/retevmo-ret-test-coverage-thumb.webp",
+      "status": 200,
+      "bytes": 55812
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/retevmo-ret-test-coverage-body1.webp",
+      "status": 200,
+      "bytes": 97354
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/retevmo-ret-test-coverage-body2.webp",
+      "status": 200,
+      "bytes": 130120
+    }
+  ],
+  "parentLinksNew": true,
+  "newLinksParent": true,
+  "parentBodyPreserved": true,
+  "passed": true
+}

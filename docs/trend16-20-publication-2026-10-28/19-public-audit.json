@@ -1,0 +1,28 @@
+{
+  "n": 19,
+  "url": "https://hospital.hbuby.com/treatment-costs/livdelzi-approval-coverage-check",
+  "status": 200,
+  "bodyMatches": true,
+  "canonical": "https://hospital.hbuby.com/treatment-costs/livdelzi-approval-coverage-check",
+  "images": [
+    {
+      "url": "https://hospital.hbuby.com/assets/images/livdelzi-approval-coverage-check-thumb.webp",
+      "status": 200,
+      "bytes": 63264
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/livdelzi-approval-coverage-check-body1.webp",
+      "status": 200,
+      "bytes": 111136
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/livdelzi-approval-coverage-check-body2.webp",
+      "status": 200,
+      "bytes": 105928
+    }
+  ],
+  "parentLinksNew": true,
+  "newLinksParent": true,
+  "parentBodyPreserved": true,
+  "passed": true
+}

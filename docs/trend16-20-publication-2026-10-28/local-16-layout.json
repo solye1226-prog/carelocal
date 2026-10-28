@@ -1,0 +1,65 @@
+[
+  {
+    "documentWidth": 345,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-body2.webp"
+      }
+    ],
+    "mainWidth": 345,
+    "title": "자가도뇨카테터 요양비, 현재 기준과 12월 확대 계획 비교",
+    "width": 360
+  },
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-body2.webp"
+      }
+    ],
+    "mainWidth": 375,
+    "title": "자가도뇨카테터 요양비, 현재 기준과 12월 확대 계획 비교",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/urinary-catheter-reimbursement-update-body2.webp"
+      }
+    ],
+    "mainWidth": 800,
+    "title": "자가도뇨카테터 요양비, 현재 기준과 12월 확대 계획 비교",
+    "width": 1280
+  }
+]

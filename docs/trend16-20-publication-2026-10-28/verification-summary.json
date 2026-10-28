@@ -1,0 +1,11 @@
+{
+  "publicArticles": 5,
+  "publicImages": 15,
+  "parentBodyPreserved": 5,
+  "localAndPublicViewportChecks": 30,
+  "newArticleCount": 457,
+  "sitemapUrlCount": 482,
+  "unitTests": 5,
+  "analyticsTests": 10,
+  "allPassed": true
+}
