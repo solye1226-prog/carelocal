@@ -1460,6 +1460,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/qinlock-ripretinib-coverage-check",
+    "title": "퀸락정 리프레티닙 허가, GIST 4차 치료와 급여 확인법",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/rare-disease-copayment-december-2026",
     "title": "희귀질환 산정특례 7% 인하 예정, 12월 전에 확인할 비용과 등록",
     "category": "치료비"
