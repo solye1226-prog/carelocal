@@ -1925,6 +1925,11 @@
     "category": "방문 가이드"
   },
   {
+    "path": "/guides/hospice-provider-type-cost-check",
+    "title": "호스피스 병원 찾기, 입원형·가정형 상담과 비용 확인 순서",
+    "category": "방문 가이드"
+  },
+  {
     "path": "/guides/inpatient-personal-medicine-handover",
     "title": "입원할 때 가져온 약, 병동에서 어떻게 관리할까? 지참약 확인·보관 준비",
     "category": "방문 가이드"
