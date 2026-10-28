@@ -1415,6 +1415,11 @@
     "category": "치료비"
   },
   {
+    "path": "/treatment-costs/livdelzi-approval-coverage-check",
+    "title": "리브델지 허가, 원발성 담즙성 담관염 약값·보험 확인 순서",
+    "category": "치료비"
+  },
+  {
     "path": "/treatment-costs/longtermcare-copay-reduction-status-check",
     "title": "방문간호 본인부담금 감경, 적용됐는지 어떻게 확인할까? 증명서·청구내역 대조",
     "category": "치료비"
