@@ -1,0 +1,230 @@
+[
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "수술분류표를 찾는 단계별 자료 대조",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "수술확인서·진단서·수술기록지 발급 전 비교",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "담낭절제술 보험청구 자료의 역할",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "백내장 수술 후 담보별 확인 자료 비교",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      },
+      {
+        "caption": "가상 양안 수술의 회신 상태 정리",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/silbi/cartistem-silbi-claim",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "카티스템 치료 전후 청구자료 대조",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "수술분류표를 찾는 단계별 자료 대조",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 390,
+    "width": 375
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "수술확인서·진단서·수술기록지 발급 전 비교",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 390,
+    "width": 375
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "담낭절제술 보험청구 자료의 역할",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 390,
+    "width": 375
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "백내장 수술 후 담보별 확인 자료 비교",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      },
+      {
+        "caption": "가상 양안 수술의 회신 상태 정리",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 390,
+    "width": 375
+  },
+  {
+    "path": "/silbi/cartistem-silbi-claim",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "카티스템 치료 전후 청구자료 대조",
+        "display": "block",
+        "labels": true,
+        "thead": "none"
+      }
+    ],
+    "viewport": 390,
+    "width": 375
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "수술분류표를 찾는 단계별 자료 대조",
+        "display": "table",
+        "labels": true,
+        "thead": "table-header-group"
+      }
+    ],
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "수술확인서·진단서·수술기록지 발급 전 비교",
+        "display": "table",
+        "labels": true,
+        "thead": "table-header-group"
+      }
+    ],
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "담낭절제술 보험청구 자료의 역할",
+        "display": "table",
+        "labels": true,
+        "thead": "table-header-group"
+      }
+    ],
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "백내장 수술 후 담보별 확인 자료 비교",
+        "display": "table",
+        "labels": true,
+        "thead": "table-header-group"
+      },
+      {
+        "caption": "가상 양안 수술의 회신 상태 정리",
+        "display": "table",
+        "labels": true,
+        "thead": "table-header-group"
+      }
+    ],
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/silbi/cartistem-silbi-claim",
+    "checklists": 1,
+    "tables": [
+      {
+        "caption": "카티스템 치료 전후 청구자료 대조",
+        "display": "table",
+        "labels": true,
+        "thead": "table-header-group"
+      }
+    ],
+    "viewport": 1280,
+    "width": 1265
+  }
+]

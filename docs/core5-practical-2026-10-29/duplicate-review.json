@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "alreadyPresent": "3단계 표·약관 불일치 예시·하단 체크리스트·문의 양식",
+    "decision": "기존 표·체크리스트·예시를 교체하여 설명을 중복 추가하지 않음"
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "alreadyPresent": "서류 3종 비교표·추가 요청 원인표·2쪽 누락 예시·발급 메모",
+    "decision": "같은 구성 추가 없이 기존 비교표·메모 앞 문장·예시를 개선"
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "alreadyPresent": "종수 핵심표·담낭절제술/ERCP 가상 예시·문의 양식",
+    "decision": "ERCP를 다시 설명하지 않고 진단·수술·병리 자료의 역할만 보강; 자세한 추가 요청은 기존 연결 글 유지"
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "alreadyPresent": "담보 3종 표·청구 전 체크리스트·양안 예시·문의 양식",
+    "decision": "기존 표·목록·예시 갱신; 입원/통원·다초점·횟수 상세 글의 내용을 재복제하지 않음"
+  },
+  {
+    "path": "/silbi/cartistem-silbi-claim",
+    "alreadyPresent": "청구 핵심표·비용별 서류표·접수 순서·보완요청 표",
+    "decision": "중복되던 하단 보완요청 표를 치료 전후 비교로 교체; 상단 청구 항목표와 역할 분리"
+  }
+]

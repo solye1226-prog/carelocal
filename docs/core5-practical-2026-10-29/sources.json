@@ -1,0 +1,55 @@
+[
+  {
+    "source": "ABL생명 2023년 11월 해당 상품 약관",
+    "method": "공식 PDF 직접 다운로드 및 pypdf 원문 확인",
+    "verified": "특약·별표·사용 지침을 함께 읽는 예시. 사용 지침은 인쇄 167쪽. 기존 166쪽 표기 수정.",
+    "limit": "다른 상품·계약에 조건을 대입하지 않음. 2023년 해당 판본 예시이며 현행 모든 계약의 공통 기준이 아님"
+  },
+  {
+    "source": "라이나손해보험(Chubb) 구비서류",
+    "url": "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+    "verified": "수술의 진단명·수술명·수술일 포함 자료, 진단서 또는 수술확인서 선택. 의료비와 진단(암) 자료 구분.",
+    "limit": "이 회사의 서류 예시만 설명"
+  },
+  {
+    "source": "KB손해보험 필요서류 안내(질병)",
+    "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+    "verified": "수술확인서의 진단·수술·날짜, 필요 시 기록지, 세부내역서.",
+    "limit": "다른 회사의 필수목록으로 일반화하지 않음"
+  },
+  {
+    "source": "서울대학교병원 제증명 FAQ",
+    "url": "https://www.snuh.org/board/B052/view.do?bbs_no=4154",
+    "verified": "별도 수술확인서 대신 수술 내용을 기재한 진단서 또는 수술기록지 안내.",
+    "limit": "게시일 2017-10-19의 현재 공개 FAQ. 현재 발급 가능 문서와 절차는 해당 병원 확인"
+  },
+  {
+    "source": "서울대학교병원 의무기록 사본 발급",
+    "url": "https://www.snuh.org/content/M002005006.do",
+    "verified": "본인·대리인 신청 구분, 발급 준비서류와 비용 안내.",
+    "limit": "기사에 특정 운영시간·가격을 새로 복제하지 않음"
+  },
+  {
+    "source": "식약처 카티스템 품목정보",
+    "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106062",
+    "method": "실제 브라우저 품목 상세 화면",
+    "verified": "품목명과 전문의약품 구분 확인.",
+    "limit": "허가정보를 개인 실손 지급기준으로 사용하지 않음"
+  },
+  {
+    "source": "삼성화재 현행 필요서류 안내",
+    "url": "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+    "method": "브라우저 질병/상해의 실손의료비 항목 확장",
+    "verified": "날짜별 영수증·세부내역서 및 필요 시 추가 기록 안내.",
+    "limit": "회사별 서류 안내, 개인 보장·지급액 확인 근거와 구분"
+  },
+  {
+    "source": "서울대학교병원 담낭절제술·백내장수술 설명",
+    "urls": [
+      "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000290",
+      "https://www.snuh.org/health/nMedInfo/nView.do?medid=BB000376"
+    ],
+    "verified": "진단명과 실제 행위·치료 설명의 구분 확인.",
+    "limit": "의료 설명을 보험 종수로 변환하지 않음"
+  }
+]
