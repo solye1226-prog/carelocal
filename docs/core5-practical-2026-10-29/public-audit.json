@@ -1,0 +1,57 @@
+[
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "headMatches": true,
+    "linksMatch": true,
+    "scopedStylesMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "headMatches": true,
+    "linksMatch": true,
+    "scopedStylesMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "headMatches": true,
+    "linksMatch": true,
+    "scopedStylesMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "headMatches": true,
+    "linksMatch": true,
+    "scopedStylesMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/cartistem-silbi-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "headMatches": true,
+    "linksMatch": true,
+    "scopedStylesMatch": true,
+    "passed": true
+  }
+]
