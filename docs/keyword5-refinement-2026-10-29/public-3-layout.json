@@ -1,0 +1,68 @@
+[
+  {
+    "documentWidth": 345,
+    "h1": [
+      "실비·수술비 중복 청구, 함께 접수할 때 서류와 담보 확인"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/silbi-fixed-surgery-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-claim-documents-checklist.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-claim-documents-mobile.webp"
+      }
+    ],
+    "title": "실비·수술비 중복 청구, 함께 접수할 때 서류와 담보 확인",
+    "width": 360
+  },
+  {
+    "documentWidth": 375,
+    "h1": [
+      "실비·수술비 중복 청구, 함께 접수할 때 서류와 담보 확인"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/silbi-fixed-surgery-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-claim-documents-checklist.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-claim-documents-mobile.webp"
+      }
+    ],
+    "title": "실비·수술비 중복 청구, 함께 접수할 때 서류와 담보 확인",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": [
+      "실비·수술비 중복 청구, 함께 접수할 때 서류와 담보 확인"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/silbi-fixed-surgery-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-claim-documents-checklist.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-claim-documents-mobile.webp"
+      }
+    ],
+    "title": "실비·수술비 중복 청구, 함께 접수할 때 서류와 담보 확인",
+    "width": 1280
+  }
+]

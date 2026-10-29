@@ -1,0 +1,27 @@
+{
+  "n": 2,
+  "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+  "status": 200,
+  "title": "치핵 재수술 수술비, 같은 부위 반복수술 보험금 확인사항",
+  "bodyMatches": true,
+  "canonicalMatches": true,
+  "h1Matches": true,
+  "metadataMatches": true,
+  "relatedLinks": true,
+  "imagesPreserved": true,
+  "images": [
+    {
+      "src": "/assets/images/hemorrhoid-repeat-surgery-benefit-thumb.webp",
+      "status": 200
+    },
+    {
+      "src": "/assets/images/hemorrhoid-surgery-benefit-documents.webp",
+      "status": 200
+    },
+    {
+      "src": "/assets/images/surgery-claim-documents-mobile.webp",
+      "status": 200
+    }
+  ],
+  "passed": true
+}

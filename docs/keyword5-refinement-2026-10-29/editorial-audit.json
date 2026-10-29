@@ -1,0 +1,57 @@
+[
+  {
+    "n": 1,
+    "title": "카티스템 수술비용, 재료대·수술료·입원비 견적 비교",
+    "keyword": "카티스템 수술비용",
+    "titleH1MetaLeadHeadingsValidated": true,
+    "boundary": "치료 전 병원 견적·총비용 비교 전용. 실비 제출서류는 /silbi/cartistem-silbi-claim, 동시수술 기록·수술비는 기존 시술별 글로 연결.",
+    "related": [
+      "/silbi/cartistem-silbi-claim",
+      "/surgery-benefit/cartistem-concurrent-procedure-records"
+    ]
+  },
+  {
+    "n": 2,
+    "title": "치핵 재수술 수술비, 같은 부위 반복수술 보험금 확인사항",
+    "keyword": "치핵 재수술 수술비",
+    "titleH1MetaLeadHeadingsValidated": true,
+    "boundary": "첫 수술의 종수 분류나 결찰술·절제술 치료법 재설명보다 재수술의 지급단위·이전 지급내역 비교에 집중.",
+    "related": [
+      "/surgery-benefit/hemorrhoid-surgery-benefit",
+      "/claims/hemorrhoid-surgery-claim-documents"
+    ]
+  },
+  {
+    "n": 3,
+    "title": "실비·수술비 중복 청구, 함께 접수할 때 서류와 담보 확인",
+    "keyword": "실비 수술비 중복 청구",
+    "titleH1MetaLeadHeadingsValidated": true,
+    "boundary": "실손·정액의 계산 원리는 /standards/actual-vs-fixed-benefit로 연결하고 이 글은 누락된 담보·접수번호·제출자료 확인에 집중.",
+    "related": [
+      "/standards/actual-vs-fixed-benefit",
+      "/claims/surgery-claim-documents"
+    ]
+  },
+  {
+    "n": 4,
+    "title": "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인",
+    "keyword": "처방전 질병코드 누락",
+    "titleH1MetaLeadHeadingsValidated": true,
+    "boundary": "약값 청구의 전체 준비물은 pharmacy-prescription-claim, 이 글은 처방전 코드 누락·대체자료·정정에 한정.",
+    "related": [
+      "/silbi/pharmacy-prescription-claim",
+      "/claims/insurance-claim-supplement-documents"
+    ]
+  },
+  {
+    "n": 5,
+    "title": "수술비 보험금 적게 지급된 이유, 종수·감액·지급횟수 확인",
+    "keyword": "수술비 보험금 적게 지급",
+    "titleH1MetaLeadHeadingsValidated": true,
+    "boundary": "새로운 종수 분류 안내나 이의신청서 절차를 반복하지 않고 예상액과 지급액의 차이 원인 찾기에 집중.",
+    "related": [
+      "/surgery-benefit/surgery-classification",
+      "/claims/insurance-claim-appeal"
+    ]
+  }
+]

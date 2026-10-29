@@ -1,0 +1,186 @@
+{
+  "passed": true,
+  "viewChecks": 30,
+  "rows": [
+    {
+      "file": "local-1-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-1-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-1-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-2-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-2-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-2-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-3-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-3-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-3-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-4-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-4-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-4-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-5-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-5-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "local-5-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-1-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-1-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-1-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-2-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-2-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-2-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-3-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-3-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-3-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-4-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-4-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-4-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-5-layout.json",
+      "width": 360,
+      "documentWidth": 345,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-5-layout.json",
+      "width": 390,
+      "documentWidth": 375,
+      "allImagesLoaded": true
+    },
+    {
+      "file": "public-5-layout.json",
+      "width": 1280,
+      "documentWidth": 1265,
+      "allImagesLoaded": true
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "documentWidth": 345,
+    "h1": [
+      "카티스템 수술비용, 재료대·수술료·입원비 견적 비교"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-bill.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-policy.webp"
+      }
+    ],
+    "title": "카티스템 수술비용, 재료대·수술료·입원비 견적 비교",
+    "width": 360
+  },
+  {
+    "documentWidth": 375,
+    "h1": [
+      "카티스템 수술비용, 재료대·수술료·입원비 견적 비교"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-bill.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-policy.webp"
+      }
+    ],
+    "title": "카티스템 수술비용, 재료대·수술료·입원비 견적 비교",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": [
+      "카티스템 수술비용, 재료대·수술료·입원비 견적 비교"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-bill.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/cartistem-silbi-claim-policy.webp"
+      }
+    ],
+    "title": "카티스템 수술비용, 재료대·수술료·입원비 견적 비교",
+    "width": 1280
+  }
+]

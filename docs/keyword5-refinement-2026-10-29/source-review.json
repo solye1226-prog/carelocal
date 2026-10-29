@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106062",
+    "status": 200,
+    "title": "식품의약품안전처 의약품통합정보시스템 의약품제품정보 상세보기-카티스템(동종제대혈유래중간엽줄기세포)",
+    "scope": "카티스템 품목 확인. 가격이나 보험 지급 근거로 사용하지 않음"
+  },
+  {
+    "url": "https://www.hira.or.kr/npay/index.do",
+    "error": "HTTPSConnectionPool(host='www.hira.or.kr', port=443): Read timed out. (read timeout=25)",
+    "scope": "의료기관별 공개 비급여 가격과 실제 총 진료비 구분",
+    "webContentVerified": true,
+    "note": "웹 검색 도구의 심평원 공식 페이지 본문에서 개별 가격과 실제 총비용 차이 확인. 일반 HTTP 요청은 타임아웃."
+  },
+  {
+    "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+    "status": 200,
+    "title": "필요서류 안내(질병) | KB손해보험 [B]",
+    "scope": "담보별 청구서류와 진단명·질병분류코드 기재, 회사별 안내 한정"
+  },
+  {
+    "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5818",
+    "status": 200,
+    "title": "치핵 | 국가건강정보포털 | 질병관리청",
+    "scope": "치핵 치료법 구분. 반복수술 보험금 지급 기준으로 사용하지 않음"
+  },
+  {
+    "url": "https://direct.samsungfire.com/claim/PP040202_001.html?pcMode=true",
+    "webStatus": 404,
+    "action": "대상 5편의 해당 링크를 확인된 KB 질병 청구서류로 교체"
+  }
+]

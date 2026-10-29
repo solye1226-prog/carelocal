@@ -1,0 +1,27 @@
+{
+  "n": 5,
+  "url": "https://hospital.hbuby.com/surgery-benefit/surgery-benefit-amount-review",
+  "status": 200,
+  "title": "수술비 보험금 적게 지급된 이유, 종수·감액·지급횟수 확인",
+  "bodyMatches": true,
+  "canonicalMatches": true,
+  "h1Matches": true,
+  "metadataMatches": true,
+  "relatedLinks": true,
+  "imagesPreserved": true,
+  "images": [
+    {
+      "src": "/assets/images/surgery-benefit-amount-review-thumb.webp",
+      "status": 200
+    },
+    {
+      "src": "/assets/images/surgery-classification-review.webp",
+      "status": 200
+    },
+    {
+      "src": "/assets/images/surgery-claim-documents-mobile.webp",
+      "status": 200
+    }
+  ],
+  "passed": true
+}

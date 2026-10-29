@@ -1,0 +1,68 @@
+[
+  {
+    "documentWidth": 345,
+    "h1": [
+      "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/outpatient-prescription-diagnosis-code-thumb-v2.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pharmacy-prescription-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pharmacy-prescription-claim-body2.webp"
+      }
+    ],
+    "title": "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인",
+    "width": 360
+  },
+  {
+    "documentWidth": 375,
+    "h1": [
+      "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/outpatient-prescription-diagnosis-code-thumb-v2.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pharmacy-prescription-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pharmacy-prescription-claim-body2.webp"
+      }
+    ],
+    "title": "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": [
+      "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인"
+    ],
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/outpatient-prescription-diagnosis-code-thumb-v2.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pharmacy-prescription-claim-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/pharmacy-prescription-claim-body2.webp"
+      }
+    ],
+    "title": "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인",
+    "width": 1280
+  }
+]

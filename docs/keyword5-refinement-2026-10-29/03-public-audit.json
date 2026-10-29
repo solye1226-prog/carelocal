@@ -1,0 +1,27 @@
+{
+  "n": 3,
+  "url": "https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim",
+  "status": 200,
+  "title": "실비·수술비 중복 청구, 함께 접수할 때 서류와 담보 확인",
+  "bodyMatches": true,
+  "canonicalMatches": true,
+  "h1Matches": true,
+  "metadataMatches": true,
+  "relatedLinks": true,
+  "imagesPreserved": true,
+  "images": [
+    {
+      "src": "/assets/images/silbi-fixed-surgery-claim-thumb.webp",
+      "status": 200
+    },
+    {
+      "src": "/assets/images/surgery-claim-documents-checklist.webp",
+      "status": 200
+    },
+    {
+      "src": "/assets/images/surgery-claim-documents-mobile.webp",
+      "status": 200
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,27 @@
+{
+  "n": 4,
+  "url": "https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code",
+  "status": 200,
+  "title": "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인",
+  "bodyMatches": true,
+  "canonicalMatches": true,
+  "h1Matches": true,
+  "metadataMatches": true,
+  "relatedLinks": true,
+  "imagesPreserved": true,
+  "images": [
+    {
+      "src": "/assets/images/outpatient-prescription-diagnosis-code-thumb-v2.webp",
+      "status": 200
+    },
+    {
+      "src": "/assets/images/pharmacy-prescription-claim-body1.webp",
+      "status": 200
+    },
+    {
+      "src": "/assets/images/pharmacy-prescription-claim-body2.webp",
+      "status": 200
+    }
+  ],
+  "passed": true
+}

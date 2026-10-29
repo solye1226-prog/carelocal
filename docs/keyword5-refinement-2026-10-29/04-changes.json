@@ -1,0 +1,23 @@
+{
+  "n": 4,
+  "path": "/silbi/outpatient-prescription-diagnosis-code",
+  "keyword": "처방전 질병코드 누락",
+  "title": "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인",
+  "lead": "처방전에 질병코드(질병분류기호)가 누락됐다면 실비 청구에 필요한 진단명 확인 자료를 보험사에 먼저 문의하세요. 기존 진료 자료로 대체할 수 있는지 확인한 뒤, 필요할 때 병원에 실제 기록에 따른 정정·재발급을 요청합니다. 질병코드를 직접 찾아 처방전에 적거나 고치지 않습니다.",
+  "headings": {
+    "요청받은 항목을 정확히 묻습니다": "처방전 질병코드 누락 시 보험사에 확인할 항목",
+    "병원과 약국 서류를 나눕니다": "실비 대체서류: 병원 자료와 약국 영수증 구분",
+    "기존 서류를 수정하지 않습니다": "질병분류기호 정정·재발급은 병원에 문의",
+    "코드 누락으로 보완 요청을 받았다면": "처방전 코드 누락 보완서류 제출 순서"
+  },
+  "boundary": "약값 청구의 전체 준비물은 pharmacy-prescription-claim, 이 글은 처방전 코드 누락·대체자료·정정에 한정.",
+  "related": [
+    "/silbi/pharmacy-prescription-claim",
+    "/claims/insurance-claim-supplement-documents"
+  ],
+  "oldTitle": "통원 실비 처방전에 진단명 코드가 없다면, 청구 전 확인 순서",
+  "oldH1": "처방전에 질병분류기호가 빠졌다면 어떻게 할까?",
+  "imagesPreserved": true,
+  "canonicalPreserved": true,
+  "state": "local_ready"
+}
