@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/checkups/cancer-screening",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/fatty-liver-ultrasound-followup",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents",
+    "status": "already_accepted_today_no_duplicate",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/discharge-day-outpatient-silbi",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+    "status": "already_accepted_today_no_duplicate",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+    "status": "already_accepted_today_no_duplicate",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "status": "already_accepted_today_no_duplicate",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/guides/cancer-treatment-cost",
+    "status": "already_accepted_today_no_duplicate",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/guides/flu-vaccination-2026",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/guides/night-hospital-checklist",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "status": "already_accepted_today_no_duplicate",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/breast-fibroadenoma-excision-benefit",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/endometriosis-laparoscopy-benefit",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/lumbar-disc",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/ureteroscopy",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  },
+  {
+    "url": "https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund",
+    "status": "deferred_known_daily_quota",
+    "submittedThisTask": false
+  }
+]

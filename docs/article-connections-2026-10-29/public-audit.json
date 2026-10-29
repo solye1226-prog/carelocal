@@ -1,0 +1,272 @@
+[
+  {
+    "path": "/checkups/cancer-screening",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/checkups/fatty-liver-ultrasound-followup",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/bile-culture-vs-pathology-records",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/discharge-day-outpatient-silbi",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/insurance-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/leqembi-repeat-claim-ledger",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/overseas-hospital-bill-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/uterine-fibroid-surgery-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/cancer-treatment-cost",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/flu-vaccination-2026",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/night-hospital-checklist",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/leqembi-silbi-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/mri-silbi-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/pharmacy-prescription-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/simplified-silbi-prescription-exclusion",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/standards/actual-vs-fixed-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/achilles-rupture-repair-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/breast-fibroadenoma-excision-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/endometriosis-laparoscopy-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/lumbar-disc",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/ureteroscopy",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/treatment-costs/leqembi-cost-insurance",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  },
+  {
+    "path": "/treatment-costs/out-of-pocket-cap-refund",
+    "status": 200,
+    "bodyMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linkOrderMatches": true,
+    "passed": true
+  }
+]
