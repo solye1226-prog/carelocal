@@ -116,7 +116,7 @@
   },
   {
     "path": "/claims/gallbladder-pathology-request",
-    "title": "담낭절제술 후 조직검사 결과지 요청받았다면? 청구서류 구분",
+    "title": "담낭절제술 조직검사 결과지, 보험청구 추가서류 확인",
     "category": "보험금 청구"
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "path": "/silbi/cartistem-silbi-claim",
-    "title": "카티스템 실비 청구 가능할까? 재료대·수술료 구분과 필요서류",
+    "title": "카티스템 실비 청구서류, 재료대·수술료 접수 확인",
     "category": "실비보험"
   },
   {
