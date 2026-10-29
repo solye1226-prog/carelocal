@@ -1,0 +1,28 @@
+{
+  "n": 9,
+  "url": "https://hospital.hbuby.com/standards/policy-amendment-renewal-reentry-conversion",
+  "status": 200,
+  "bodyMatches": true,
+  "canonical": "https://hospital.hbuby.com/standards/policy-amendment-renewal-reentry-conversion",
+  "h1": "보험 약관이 바뀌면 내 보험도? 갱신·재가입·전환 차이",
+  "images": [
+    {
+      "src": "/assets/images/policy-amendment-renewal-reentry-conversion-thumb.webp",
+      "status": 200,
+      "bytes": 64398
+    },
+    {
+      "src": "/assets/images/policy-amendment-renewal-reentry-conversion-body1.webp",
+      "status": 200,
+      "bytes": 153118
+    },
+    {
+      "src": "/assets/images/policy-amendment-renewal-reentry-conversion-body2.webp",
+      "status": 200,
+      "bytes": 116958
+    }
+  ],
+  "parentLinksNew": true,
+  "newLinksParent": true,
+  "passed": true
+}

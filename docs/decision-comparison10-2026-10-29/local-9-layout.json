@@ -1,0 +1,62 @@
+[
+  {
+    "documentWidth": 345,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-body2.webp"
+      }
+    ],
+    "title": "보험 약관이 바뀌면 내 보험도? 갱신·재가입·전환 차이",
+    "width": 360
+  },
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-body2.webp"
+      }
+    ],
+    "title": "보험 약관이 바뀌면 내 보험도? 갱신·재가입·전환 차이",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/policy-amendment-renewal-reentry-conversion-body2.webp"
+      }
+    ],
+    "title": "보험 약관이 바뀌면 내 보험도? 갱신·재가입·전환 차이",
+    "width": 1280
+  }
+]

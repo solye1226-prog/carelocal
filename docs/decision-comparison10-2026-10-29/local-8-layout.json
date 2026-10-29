@@ -1,0 +1,42 @@
+[
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/insurance-claim-appeal-thumb.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/insurance-claim-appeal-review.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/insurance-claim-appeal-flow.webp"
+      }
+    ],
+    "title": "보험금 청구가 거절됐다면? 이의신청 방법과 절차",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/insurance-claim-appeal-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/insurance-claim-appeal-review.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/insurance-claim-appeal-flow.webp"
+      }
+    ],
+    "title": "보험금 청구가 거절됐다면? 이의신청 방법과 절차",
+    "width": 1280
+  }
+]

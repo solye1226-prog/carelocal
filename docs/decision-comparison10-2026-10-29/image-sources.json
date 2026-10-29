@@ -1,0 +1,50 @@
+[
+  {
+    "n": 6,
+    "k": "thumb",
+    "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-df3aa16d-cfb5-4680-ae6a-55ee6663a5fd.png",
+    "prompt": "Korean insurance information thumbnail, navy blue, bright blue, white and yellow. Large exact Korean headline \"치료 목적과 미용 목적\" and subtitle \"보험 심사에서 보는 기록\". Editorial landscape layout 1536x1024, readable Korean, simple document icon, generous margins, no logos, no promises.",
+    "asset": "assets\\images\\treatment-purpose-vs-cosmetic-insurance-thumb.webp",
+    "bytes": 67102
+  },
+  {
+    "n": 6,
+    "k": "body1",
+    "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-1c6ba44d-7e32-4d03-ba04-96e259f2f029.png",
+    "prompt": "Photorealistic editorial landscape image 1536x1024. A Korean patient consulting a physician about treatment purpose and existing examination records. Natural Korean setting, respectful, realistic hands, no readable writing, no logos, no identifiable records, no medical procedure.",
+    "asset": "assets\\images\\treatment-purpose-vs-cosmetic-insurance-body1.webp",
+    "bytes": 140290
+  },
+  {
+    "n": 6,
+    "k": "body2",
+    "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-0204a796-10f7-4e70-8a1c-56e15cf89d3a.png",
+    "prompt": "Photorealistic editorial landscape image 1536x1024. A Korean woman separating a generic itemized hospital bill and a blank procedure note on a bright desk. Different composition, realistic hands, no readable text, no logos or sensitive records.",
+    "asset": "assets\\images\\treatment-purpose-vs-cosmetic-insurance-body2.webp",
+    "bytes": 102926
+  },
+  {
+    "n": 9,
+    "k": "thumb",
+    "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-e70e835d-814e-4132-b529-5f132d4a9c30.png",
+    "prompt": "Korean insurance information thumbnail, navy blue, bright blue, white and yellow. Large exact Korean headline \"약관이 바뀌면 내 보험도?\" and subtitle \"갱신·재가입·전환 비교\". Editorial landscape layout 1536x1024, readable Korean, simple document icon, generous margins, no logos, no promises.",
+    "asset": "assets\\images\\policy-amendment-renewal-reentry-conversion-thumb.webp",
+    "bytes": 64398
+  },
+  {
+    "n": 9,
+    "k": "body1",
+    "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-01b107f8-8cb0-4995-8235-a4d763c9da89.png",
+    "prompt": "Photorealistic editorial landscape image 1536x1024. A Korean adult comparing old insurance contract papers and a renewal notice with a counselor. Natural Korean setting, respectful, realistic hands, no readable writing, no logos, no identifiable records, no medical procedure.",
+    "asset": "assets\\images\\policy-amendment-renewal-reentry-conversion-body1.webp",
+    "bytes": 153118
+  },
+  {
+    "n": 9,
+    "k": "body2",
+    "path": "C:\\Users\\Solemee\\.codex\\generated_images\\01a11402-5d6d-70c1-802b-4e353aef9d82\\exec-0db4edd7-b5d8-4c3b-861b-7166eda65421.png",
+    "prompt": "Photorealistic editorial landscape image 1536x1024. A Korean couple reviewing an insurance comparison checklist on a laptop and blank paper, home living room. Different composition, realistic hands, no readable text, no logos or sensitive records.",
+    "asset": "assets\\images\\policy-amendment-renewal-reentry-conversion-body2.webp",
+    "bytes": 116958
+  }
+]

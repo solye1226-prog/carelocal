@@ -1,0 +1,11 @@
+{
+  "n": 2,
+  "url": "https://hospital.hbuby.com/surgery-benefit/surgery-name-mismatch",
+  "status": 200,
+  "bodyMatches": true,
+  "canonical": "https://hospital.hbuby.com/surgery-benefit/surgery-name-mismatch",
+  "h1": "수술확인서 수술명이 약관과 다르다면?",
+  "oldBodyPreserved": true,
+  "oldImagesPreserved": true,
+  "passed": true
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/same-surgery-different-policy-tiers-thumb.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/surgery-claim-documents-checklist.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/gallbladder-surgery-benefit-documents.webp"
+      }
+    ],
+    "title": "보험사마다 같은 수술의 종수가 다르다면? 두 계약 약관 비교법",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/same-surgery-different-policy-tiers-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-claim-documents-checklist.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/gallbladder-surgery-benefit-documents.webp"
+      }
+    ],
+    "title": "보험사마다 같은 수술의 종수가 다르다면? 두 계약 약관 비교법",
+    "width": 1280
+  }
+]

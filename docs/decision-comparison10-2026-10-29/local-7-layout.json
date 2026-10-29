@@ -1,0 +1,42 @@
+[
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-thumb.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp"
+      }
+    ],
+    "title": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body1.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/terms-covered-vs-noncovered-medical-costs-body2.webp"
+      }
+    ],
+    "title": "급여와 비급여 차이, 병원 영수증에서 실비 청구 항목 찾기",
+    "width": 1280
+  }
+]

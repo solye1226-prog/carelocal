@@ -1,0 +1,62 @@
+[
+  {
+    "documentWidth": 345,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-body2.webp"
+      }
+    ],
+    "title": "치료 목적과 미용 목적, 실비 심사에서 어떤 기록을 볼까?",
+    "width": 360
+  },
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-body2.webp"
+      }
+    ],
+    "title": "치료 목적과 미용 목적, 실비 심사에서 어떤 기록을 볼까?",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-body1.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-body2.webp"
+      }
+    ],
+    "title": "치료 목적과 미용 목적, 실비 심사에서 어떤 기록을 볼까?",
+    "width": 1280
+  }
+]

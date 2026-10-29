@@ -1,0 +1,42 @@
+[
+  {
+    "documentWidth": 375,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-name-mismatch-thumb.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/surgery-name-mismatch-hospital.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/surgery-name-mismatch-policy.webp"
+      }
+    ],
+    "title": "수술확인서 수술명이 분류표와 다를 때, 보험사에 무엇을 확인할까?",
+    "width": 390
+  },
+  {
+    "documentWidth": 1265,
+    "h1": 1,
+    "images": [
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-name-mismatch-thumb.webp"
+      },
+      {
+        "loaded": true,
+        "src": "/assets/images/surgery-name-mismatch-hospital.webp"
+      },
+      {
+        "loaded": false,
+        "src": "/assets/images/surgery-name-mismatch-policy.webp"
+      }
+    ],
+    "title": "수술확인서 수술명이 분류표와 다를 때, 보험사에 무엇을 확인할까?",
+    "width": 1280
+  }
+]

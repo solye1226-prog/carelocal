@@ -1,0 +1,28 @@
+{
+  "n": 6,
+  "url": "https://hospital.hbuby.com/silbi/treatment-purpose-vs-cosmetic-insurance",
+  "status": 200,
+  "bodyMatches": true,
+  "canonical": "https://hospital.hbuby.com/silbi/treatment-purpose-vs-cosmetic-insurance",
+  "h1": "치료 목적과 미용 목적, 실비 심사에서 어떤 기록을 볼까?",
+  "images": [
+    {
+      "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-thumb.webp",
+      "status": 200,
+      "bytes": 67102
+    },
+    {
+      "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-body1.webp",
+      "status": 200,
+      "bytes": 140290
+    },
+    {
+      "src": "/assets/images/treatment-purpose-vs-cosmetic-insurance-body2.webp",
+      "status": 200,
+      "bytes": 102926
+    }
+  ],
+  "parentLinksNew": true,
+  "newLinksParent": true,
+  "passed": true
+}

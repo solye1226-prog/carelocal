@@ -1,0 +1,226 @@
+{
+  "passed": true,
+  "viewChecks": 44,
+  "checks": [
+    {
+      "file": "local-1-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-1-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-10-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-10-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-2-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-2-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-3-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-3-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-4-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-4-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-5-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-5-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-6-layout.json",
+      "width": 360,
+      "documentWidth": 345
+    },
+    {
+      "file": "local-6-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-6-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-7-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-7-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-8-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-8-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "local-9-layout.json",
+      "width": 360,
+      "documentWidth": 345
+    },
+    {
+      "file": "local-9-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "local-9-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-1-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-1-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-10-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-10-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-2-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-2-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-3-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-3-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-4-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-4-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-5-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-5-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-6-layout.json",
+      "width": 360,
+      "documentWidth": 345
+    },
+    {
+      "file": "public-6-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-6-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-7-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-7-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-8-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-8-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    },
+    {
+      "file": "public-9-layout.json",
+      "width": 360,
+      "documentWidth": 345
+    },
+    {
+      "file": "public-9-layout.json",
+      "width": 390,
+      "documentWidth": 375
+    },
+    {
+      "file": "public-9-layout.json",
+      "width": 1280,
+      "documentWidth": 1265
+    }
+  ]
+}

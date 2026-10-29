@@ -1,0 +1,46 @@
+[
+  {
+    "file": "lina-policy.pdf",
+    "url": "https://www.lina.co.kr/cms/upload/upload/docs/disclosure/B00379001_0_P.pdf",
+    "status": 200,
+    "bytes": 2495866,
+    "used": false,
+    "reason": "후보 원문에 이번 주제 관련 조항이 없어 근거에서 제외"
+  },
+  {
+    "file": "kiri-surgery.pdf",
+    "url": "https://www.kiri.or.kr/pdf/%EC%97%B0%EA%B5%AC%EC%9E%90%EB%A3%8C/%EC%97%B0%EA%B5%AC%EB%B3%B4%EA%B3%A0%EC%84%9C/nre2023-13_2.pdf",
+    "status": 200,
+    "bytes": 459396
+  },
+  {
+    "file": "kb-documents.txt",
+    "url": "https://www.kbinsure.co.kr/CG205020003.ec",
+    "status": 200,
+    "bytes": 17067
+  },
+  {
+    "file": "db-review.txt",
+    "error": "HTTPSConnectionPool(host='www.idblife.com', port=443): Max retries exceeded with url: /support/guide/acbf_clm_info (Caused by SSLError(SSLError(1, '[SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:1002)')))",
+    "used": false,
+    "reason": "재접속 오류, 기존 문서 링크를 이번 신규 판단 근거로 사용하지 않음"
+  },
+  {
+    "file": "knia-claims.txt",
+    "url": "https://consumer.knia.or.kr/consumer/insurance-guide/0201.do",
+    "status": 200,
+    "bytes": 9604
+  },
+  {
+    "file": "fsc-conversion.txt",
+    "url": "https://www.fsc.go.kr/po010101/76157",
+    "status": 200,
+    "bytes": 22895
+  },
+  {
+    "file": "kca-inpatient.txt",
+    "url": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003803061",
+    "status": 200,
+    "bytes": 11112
+  }
+]

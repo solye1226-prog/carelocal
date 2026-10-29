@@ -1,0 +1,11 @@
+{
+  "n": 3,
+  "url": "https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim",
+  "status": 200,
+  "bodyMatches": true,
+  "canonical": "https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim",
+  "h1": "실손과 수술비 특약, 같은 수술로 함께 청구할까?",
+  "oldBodyPreserved": true,
+  "oldImagesPreserved": true,
+  "passed": true
+}

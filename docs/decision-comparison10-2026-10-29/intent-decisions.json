@@ -1,0 +1,92 @@
+[
+  {
+    "n": 1,
+    "path": "/surgery-benefit/same-surgery-different-policy-tiers",
+    "decision": "reinforce",
+    "question": "같은 수술인데 친구와 받은 보험금이 왜 다를까?",
+    "bodyEvidence": "기존 본문은 두 계약의 수술 정의·분류표와 가입금액·감액·횟수를 이미 비교한다.",
+    "relatedExisting": null,
+    "status": "published_verified"
+  },
+  {
+    "n": 2,
+    "path": "/surgery-benefit/surgery-name-mismatch",
+    "decision": "reinforce",
+    "question": "수술확인서에 수술이라고 적혀 있으면 수술비가 나올까?",
+    "bodyEvidence": "기존 본문이 실제 행위·수술 정의·분류 항목·제외 조항을 대조하고 이름만으로 결론내리지 않도록 설명한다.",
+    "relatedExisting": null,
+    "status": "published_verified"
+  },
+  {
+    "n": 3,
+    "path": "/claims/silbi-fixed-surgery-same-claim",
+    "decision": "reinforce",
+    "question": "실비를 받았는데 수술비도 따로 청구해도 될까?",
+    "bodyEvidence": "기존 글의 도입과 담보 비교표가 실손·정액 각각 확인 및 청구 자료 분리를 직접 다룬다.",
+    "relatedExisting": null,
+    "status": "published_verified"
+  },
+  {
+    "n": 4,
+    "path": "/claims/cataract-day-surgery-inpatient-outpatient",
+    "decision": "reinforce",
+    "question": "당일 퇴원했는데 입원인가 통원인가?",
+    "bodyEvidence": "기존 백내장 글은 당일 퇴원·체류시간과 약관 입원 판단, 입퇴원확인서의 한계를 이미 설명한다. 일반 주제를 별도 복제하지 않고 대표 사례의 비교를 보완한다.",
+    "relatedExisting": null,
+    "status": "published_verified"
+  },
+  {
+    "n": 5,
+    "path": "/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+    "decision": "reinforce",
+    "question": "수술을 두 번 했는데 왜 보험금은 한 번만 나올까?",
+    "bodyEvidence": "기존 치핵 재수술 글과 ERCP 반복 시술 글이 동일 부위·반복 치료 및 계약 지급단위를 이미 다룬다.",
+    "relatedExisting": null,
+    "status": "published_verified"
+  },
+  {
+    "n": 6,
+    "path": "/silbi/treatment-purpose-vs-cosmetic-insurance",
+    "decision": "publish",
+    "question": "치료 목적과 미용 목적, 실비 심사에서 어떤 기록을 볼까?",
+    "bodyEvidence": "질환별 시술 안내나 세대별 상품 구조 글과 구분되는, 공통 판단 절차 및 계약 변경 이벤트 비교에 집중한다.",
+    "relatedExisting": "/silbi/covered-vs-noncovered-medical-costs",
+    "status": "published_verified"
+  },
+  {
+    "n": 7,
+    "path": "/silbi/covered-vs-noncovered-medical-costs",
+    "decision": "reinforce",
+    "question": "비급여라서 실비가 안 되는 걸까 별도 조건이 있는 걸까?",
+    "bodyEvidence": "기존 급여·비급여 본문이 건강보험 분류와 민영 실손의 제외·자기부담·한도를 명시적으로 분리한다.",
+    "relatedExisting": null,
+    "status": "published_verified"
+  },
+  {
+    "n": 8,
+    "path": "/claims/insurance-claim-appeal",
+    "decision": "reinforce",
+    "question": "적게 지급됐을 때 추가 서류를 낼까 이의를 제기할까?",
+    "bodyEvidence": "기존 이의신청 글은 결정액 이견, 보완 자료, 보험사 재심사·외부 분쟁 절차를 이미 다룬다.",
+    "relatedExisting": null,
+    "status": "published_verified"
+  },
+  {
+    "n": 9,
+    "path": "/standards/policy-amendment-renewal-reentry-conversion",
+    "decision": "publish",
+    "question": "보험 약관이 바뀌면 내 보험도? 갱신·재가입·전환 차이",
+    "bodyEvidence": "질환별 시술 안내나 세대별 상품 구조 글과 구분되는, 공통 판단 절차 및 계약 변경 이벤트 비교에 집중한다.",
+    "relatedExisting": "/surgery-benefit/same-surgery-different-policy-tiers",
+    "status": "published_verified"
+  },
+  {
+    "n": 10,
+    "path": "/silbi/medical-certificate-fee-insurance",
+    "decision": "reinforce",
+    "question": "보험사에 먼저 물어볼까 병원 서류부터 발급할까?",
+    "bodyEvidence": "기존 발급비 글이 대체서류·필요 기재·발급 비용·보험사 추가 요청 비용을 이미 포괄한다.",
+    "relatedExisting": null,
+    "status": "published_verified"
+  }
+]
