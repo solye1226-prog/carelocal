@@ -1,0 +1,38 @@
+{
+  "url": "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim",
+  "verificationUrl": "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim?v=20261029follow6",
+  "status": 200,
+  "title": "주상병·부상병 차이, 수술비 청구 시 진단명 확인 기준",
+  "canonical": "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim",
+  "bodyMatches": true,
+  "images": [
+    {
+      "src": "/assets/images/primary-secondary-diagnosis-thumb.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/primary-secondary-diagnosis-body1.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/primary-secondary-diagnosis-body2.webp",
+      "status": 200,
+      "hashMatches": true
+    }
+  ],
+  "parents": [
+    {
+      "path": "/surgery-benefit/surgery-classification",
+      "status": 200,
+      "newLink": true
+    },
+    {
+      "path": "/surgery-benefit/gallbladder-surgery-benefit",
+      "status": 200,
+      "newLink": true
+    }
+  ],
+  "passed": true
+}

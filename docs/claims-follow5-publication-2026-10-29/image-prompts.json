@@ -1,0 +1,85 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "mode": "18 new images, no references",
+  "thumbnails": [
+    [
+      "claim-form-writing",
+      "보험금 청구서 작성",
+      "Korean adult at a clean home desk comparing a blank generic insurance application and a hospital surgery certificate, pen in hand, no readable personal data"
+    ],
+    [
+      "primary-secondary-diagnosis",
+      "주상병·부상병 차이",
+      "Korean adult comparing two clearly separated generic medical documents at a hospital consultation desk, no diagnosis claims"
+    ],
+    [
+      "cataract-slitlamp-records",
+      "백내장 검사자료",
+      "Generic ophthalmology clinic, slit lamp examination equipment visible on one side, adult organizing a medical folder on the other, no actual examination or operation"
+    ],
+    [
+      "past-surgery-history",
+      "수술내역 조회",
+      "Korean adult viewing an abstract nonbranded medical history timeline on a laptop and comparing a paper hospital folder, no real interface reproduction"
+    ],
+    [
+      "operative-record-retention",
+      "수술기록지 보존기간",
+      "Hospital records counter with orderly document archive folders and adult checking a dated generic medical record, no readable personal details"
+    ]
+  ],
+  "bodyAndDisease": [
+    [
+      "claim-form-writing-body1",
+      "overhead view of hands comparing a generic blank insurance claim form with a generic hospital medical certificate, a pen marking matching dates, all document text abstract and unreadable"
+    ],
+    [
+      "claim-form-writing-body2",
+      "Korean adult at home reviewing a generic abstract mobile upload checklist beside paper documents, no real app UI or readable data"
+    ],
+    [
+      "primary-secondary-diagnosis-body1",
+      "Korean physician showing a patient two separate generic medical sheets and pointing to distinct highlighted rows, abstract illegible document text"
+    ],
+    [
+      "primary-secondary-diagnosis-body2",
+      "top-down clean desk with surgery report, a diagnosis sheet, and a closed insurance booklet separated into three groups, no legible text"
+    ],
+    [
+      "cataract-slitlamp-records-body1",
+      "close editorial photograph of a modern slit lamp ophthalmic examination instrument in a tidy empty clinic, no patient or treatment"
+    ],
+    [
+      "cataract-slitlamp-records-body2",
+      "older Korean adult at hospital records counter discussing a generic eye examination folder with staff, no readable patient information"
+    ],
+    [
+      "past-surgery-history-body1",
+      "adult at a laptop browsing an abstract timeline of past clinic visits, clean private home desk, no branded site or readable text"
+    ],
+    [
+      "past-surgery-history-body2",
+      "hands sorting an old hospital envelope, an appointment memo and a generic surgery report at a desk, no readable text"
+    ],
+    [
+      "operative-record-retention-body1",
+      "orderly hospital archive folders and computer at a medical records counter, no visible names or labels"
+    ],
+    [
+      "operative-record-retention-body2",
+      "Korean adult making a phone call to hospital while checking a closed medical folder and blank calendar, no text or visible personal data"
+    ],
+    [
+      "anal-fissure-surgery-thumb",
+      "Korean health insurance blog card-news thumbnail with exact large navy Korean headline '치열 수술비', pale blue white layout and adult patient with closed documents at a hospital consultation desk. No anatomical depictions, no logos, no benefit promises"
+    ],
+    [
+      "anal-fissure-surgery-body1",
+      "Korean adult in modest everyday clothes consulting a clinician at a desk, no examination, no exposed body parts, document folder on table"
+    ],
+    [
+      "anal-fissure-surgery-body2",
+      "overhead hands organizing a generic surgery certificate, hospital receipt and insurance booklet on a tidy desk, no readable personal text"
+    ]
+  ]
+}

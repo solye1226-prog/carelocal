@@ -1,0 +1,44 @@
+[
+  {
+    "url": "/claims/insurance-claim-form-writing",
+    "intent": "청구서 자체의 항목 작성과 오류 예방. 병원 서류 목록·발급 안내와 구분.",
+    "existingBodiesScanned": 459,
+    "longParagraphs": 9,
+    "exactParagraphMatches": []
+  },
+  {
+    "url": "/claims/primary-secondary-diagnosis-surgery-claim",
+    "intent": "주상병과 부상병의 역할 및 수술과의 연결 확인. 종별 분류표·질병별 수술 설명과 구분.",
+    "existingBodiesScanned": 459,
+    "longParagraphs": 9,
+    "exactParagraphMatches": []
+  },
+  {
+    "url": "/claims/cataract-slitlamp-records",
+    "intent": "세극등 자료의 결과·사진·판독 범위 확인. 일반 백내장청구 목록과 구분.",
+    "existingBodiesScanned": 459,
+    "longParagraphs": 9,
+    "exactParagraphMatches": []
+  },
+  {
+    "url": "/claims/past-surgery-history-lookup",
+    "intent": "과거 수술 병원·날짜를 찾는 조회 단계. 서류 발급·보험가입내역 조회와 구분.",
+    "existingBodiesScanned": 459,
+    "longParagraphs": 8,
+    "exactParagraphMatches": []
+  },
+  {
+    "url": "/claims/operative-record-retention-period",
+    "intent": "의료기관 기록 종류별 보존 의무와 실제 발급 가능성. 보험금 소멸시효와 구분.",
+    "existingBodiesScanned": 459,
+    "longParagraphs": 8,
+    "exactParagraphMatches": []
+  },
+  {
+    "url": "/surgery-benefit/anal-fissure-surgery-benefit",
+    "intent": "치열과 실제 치열 수술의 보험 확인. 기존 치핵·치루의 병태 및 수술과 독립.",
+    "existingBodiesScanned": 459,
+    "longParagraphs": 9,
+    "exactParagraphMatches": []
+  }
+]

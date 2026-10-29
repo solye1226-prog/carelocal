@@ -1,0 +1,38 @@
+{
+  "url": "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit",
+  "verificationUrl": "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit?v=20261029follow6",
+  "status": 200,
+  "title": "치열 수술비, 내괄약근절개술과 치핵 수술의 차이",
+  "canonical": "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit",
+  "bodyMatches": true,
+  "images": [
+    {
+      "src": "/assets/images/anal-fissure-surgery-thumb.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/anal-fissure-surgery-body1.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/anal-fissure-surgery-body2.webp",
+      "status": 200,
+      "hashMatches": true
+    }
+  ],
+  "parents": [
+    {
+      "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
+      "status": 200,
+      "newLink": true
+    },
+    {
+      "path": "/claims/hemorrhoid-surgery-claim-documents",
+      "status": 200,
+      "newLink": true
+    }
+  ],
+  "passed": true
+}

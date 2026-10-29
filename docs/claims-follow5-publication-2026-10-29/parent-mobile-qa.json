@@ -1,0 +1,124 @@
+[
+  {
+    "doc": 345,
+    "path": "/claims/surgery-claim-documents.html",
+    "related": [
+      {
+        "href": "/claims/insurance-claim-form-writing",
+        "text": "보험금 청구서 작성법, 수술일·진단명·사고내용 기재 예시"
+      },
+      {
+        "href": "/claims/past-surgery-history-lookup",
+        "text": "수술내역 조회 방법, 심평원 진료정보와 병원 수술기록지 차이"
+      },
+      {
+        "href": "/claims/operative-record-retention-period",
+        "text": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/claims/insurance-claim-method.html",
+    "related": [
+      {
+        "href": "/claims/insurance-claim-form-writing",
+        "text": "보험금 청구서 작성법, 수술일·진단명·사고내용 기재 예시"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/surgery-benefit/surgery-classification.html",
+    "related": [
+      {
+        "href": "/claims/primary-secondary-diagnosis-surgery-claim",
+        "text": "주상병·부상병 차이, 수술비 청구 시 진단명 확인 기준"
+      },
+      {
+        "href": "/claims/past-surgery-history-lookup",
+        "text": "수술내역 조회 방법, 심평원 진료정보와 병원 수술기록지 차이"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/surgery-benefit/gallbladder-surgery-benefit.html",
+    "related": [
+      {
+        "href": "/claims/primary-secondary-diagnosis-surgery-claim",
+        "text": "주상병·부상병 차이, 수술비 청구 시 진단명 확인 기준"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/surgery-benefit/cataract-surgery-benefit.html",
+    "related": [
+      {
+        "href": "/claims/cataract-slitlamp-records",
+        "text": "백내장 세극등검사 결과지, 사진·판독기록 발급 전 확인"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/claims/cataract-surgery-claim-documents.html",
+    "related": [
+      {
+        "href": "/claims/cataract-slitlamp-records",
+        "text": "백내장 세극등검사 결과지, 사진·판독기록 발급 전 확인"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/claims/closed-hospital-records-request.html",
+    "related": [
+      {
+        "href": "/claims/operative-record-retention-period",
+        "text": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/claims/insurance-claim-limitation.html",
+    "related": [
+      {
+        "href": "/claims/operative-record-retention-period",
+        "text": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/surgery-benefit/hemorrhoid-surgery-benefit.html",
+    "related": [
+      {
+        "href": "/surgery-benefit/anal-fissure-surgery-benefit",
+        "text": "치열 수술비, 내괄약근절개술과 치핵 수술의 차이"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "doc": 345,
+    "path": "/claims/hemorrhoid-surgery-claim-documents.html",
+    "related": [
+      {
+        "href": "/surgery-benefit/anal-fissure-surgery-benefit",
+        "text": "치열 수술비, 내괄약근절개술과 치핵 수술의 차이"
+      }
+    ],
+    "width": 360
+  }
+]

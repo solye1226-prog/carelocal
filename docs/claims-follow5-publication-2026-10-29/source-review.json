@@ -1,0 +1,78 @@
+{
+  "checked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+      "title": "처브 보험금 청구 서류·양식",
+      "supports": "현재 제공되는 회사 양식으로 이동"
+    },
+    {
+      "url": "https://www.chubb.com/content/dam/chubb-sites/chubb-com/kr-kr/claims/individual-insurance/documents/pdf/claims-form-personal-insurance-sep-2022.pdf",
+      "title": "처브 개인보험 청구서 예시",
+      "supports": "사고일·내원 경위·진단명 등 실제 항목 확인"
+    },
+    {
+      "url": "https://www.hira.or.kr/ebooksc/2025/02/BZ202502131179639.pdf",
+      "title": "심평원 요양급여 청구 작성요령",
+      "supports": "주상병·부상병·배제된 상병의 구분"
+    },
+    {
+      "url": "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+      "title": "보험사 수술비 청구자료 예시",
+      "supports": "실제 제출 양식과 필요서류 확인"
+    },
+    {
+      "url": "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+      "title": "삼성화재 질병·상해 필요서류",
+      "supports": "실손의료비의 백내장 추가 검사자료 예시"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/의료법시행규칙/제15조",
+      "title": "의료법 시행규칙 제15조",
+      "supports": "검사소견 등 기록 종류별 보존 규정"
+    },
+    {
+      "url": "https://www.hira.or.kr/dummy.do?pgmid=HIRAA030009200000",
+      "title": "심평원 내 진료정보 열람",
+      "supports": "최대 5년 조회 범위와 증빙자료 활용 제한"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/의료법시행규칙/제15조",
+      "title": "의료법 시행규칙 제15조",
+      "supports": "병원 보존기록과 조회정보의 구분"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/의료법시행규칙/제15조",
+      "title": "의료법 시행규칙 제15조",
+      "supports": "기록별 보존기간과 계속 진료 시 연장 규정"
+    },
+    {
+      "url": "https://www.hira.or.kr/dummy.do?pgmid=HIRAA030009200000",
+      "title": "심평원 내 진료정보 열람",
+      "supports": "공공 조회기간과 병원 보존기간의 구분"
+    },
+    {
+      "url": "https://incheon.sejongh.co.kr/guide/disease-detail?Depth=2&cate1=177&cate2=291&html_mode=text&wr_id=71",
+      "title": "인천세종병원 치열 질환백과",
+      "supports": "치열의 의미와 내괄약근절개술 등 치료 설명"
+    },
+    {
+      "url": "https://www.snubh.org/service/info/com/view.do?BNO=139&Board_ID=B005",
+      "title": "분당서울대학교병원 치핵 안내",
+      "supports": "치질 통칭과 치핵의 구분"
+    },
+    {
+      "url": "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+      "title": "보험금 청구서류 공식 안내",
+      "supports": "계약 보험사의 필요자료 확인을 위한 예시"
+    }
+  ],
+  "verificationNotes": [
+    "HIRA current service reached from live homepage: dummy.do?pgmid=HIRAA030009200000; max 5 years and not insurance evidence visibly confirmed. Old rb/diag URL did not work and was not used.",
+    "Medical Act Enforcement Rule article 15 live lawService iframe: effective 2026-06-12, Ministry ordinance 1177; record periods and once-only extension confirmed.",
+    "Samsung Fire disease/injury > real-loss medical costs accordion: cataract slit-lamp results and operative record are examples of additional review documents.",
+    "Chubb current forms page link64 resolved to September 2022 personal form; verified actual form fields, not described as 2026 form revision.",
+    "HIRA 2025 PDF definitions confirmed in indexed official PDF extract; direct PDF fetch timed out. Cross-checked classification structure against accessible HIRA 2009 notice. Not a private-policy payout rule.",
+    "Incheon Sejong Hospital clinical page defines fissure and lists internal sphincterotomy; only brief condition/procedure distinction used, not treatment advice, prevalence, dosing or outcome promises."
+  ]
+}

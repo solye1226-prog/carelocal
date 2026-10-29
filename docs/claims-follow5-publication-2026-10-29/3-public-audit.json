@@ -1,0 +1,38 @@
+{
+  "url": "https://hospital.hbuby.com/claims/cataract-slitlamp-records",
+  "verificationUrl": "https://hospital.hbuby.com/claims/cataract-slitlamp-records?v=20261029follow6",
+  "status": 200,
+  "title": "백내장 세극등검사 결과지, 사진·판독기록 발급 전 확인",
+  "canonical": "https://hospital.hbuby.com/claims/cataract-slitlamp-records",
+  "bodyMatches": true,
+  "images": [
+    {
+      "src": "/assets/images/cataract-slitlamp-records-thumb.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/cataract-slitlamp-records-body1.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/cataract-slitlamp-records-body2.webp",
+      "status": 200,
+      "hashMatches": true
+    }
+  ],
+  "parents": [
+    {
+      "path": "/surgery-benefit/cataract-surgery-benefit",
+      "status": 200,
+      "newLink": true
+    },
+    {
+      "path": "/claims/cataract-surgery-claim-documents",
+      "status": 200,
+      "newLink": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "n": 1,
+    "requestedWidth": 360,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-form-writing",
+    "documentWidth": 345,
+    "h1": "보험금 청구서 작성법, 수술일·진단명·사고내용 기재 예시",
+    "insurerLinks": 2,
+    "tableWidth": 305,
+    "width": 360
+  },
+  {
+    "n": 1,
+    "requestedWidth": 390,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-form-writing",
+    "documentWidth": 375,
+    "h1": "보험금 청구서 작성법, 수술일·진단명·사고내용 기재 예시",
+    "insurerLinks": 2,
+    "tableWidth": 335,
+    "width": 390
+  },
+  {
+    "n": 1,
+    "requestedWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/claims/insurance-claim-form-writing",
+    "documentWidth": 1265,
+    "h1": "보험금 청구서 작성법, 수술일·진단명·사고내용 기재 예시",
+    "insurerLinks": 2,
+    "tableWidth": 744,
+    "width": 1280
+  },
+  {
+    "n": 2,
+    "requestedWidth": 360,
+    "canonical": "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim",
+    "documentWidth": 345,
+    "h1": "주상병·부상병 차이, 수술비 청구 시 진단명 확인 기준",
+    "insurerLinks": 2,
+    "tableWidth": 305,
+    "width": 360
+  },
+  {
+    "n": 2,
+    "requestedWidth": 390,
+    "canonical": "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim",
+    "documentWidth": 375,
+    "h1": "주상병·부상병 차이, 수술비 청구 시 진단명 확인 기준",
+    "insurerLinks": 2,
+    "tableWidth": 335,
+    "width": 390
+  },
+  {
+    "n": 2,
+    "requestedWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim",
+    "documentWidth": 1265,
+    "h1": "주상병·부상병 차이, 수술비 청구 시 진단명 확인 기준",
+    "insurerLinks": 2,
+    "tableWidth": 744,
+    "width": 1280
+  },
+  {
+    "n": 3,
+    "requestedWidth": 360,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-slitlamp-records",
+    "documentWidth": 345,
+    "h1": "백내장 세극등검사 결과지, 사진·판독기록 발급 전 확인",
+    "insurerLinks": 2,
+    "tableWidth": 305,
+    "width": 360
+  },
+  {
+    "n": 3,
+    "requestedWidth": 390,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-slitlamp-records",
+    "documentWidth": 375,
+    "h1": "백내장 세극등검사 결과지, 사진·판독기록 발급 전 확인",
+    "insurerLinks": 2,
+    "tableWidth": 335,
+    "width": 390
+  },
+  {
+    "n": 3,
+    "requestedWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/claims/cataract-slitlamp-records",
+    "documentWidth": 1265,
+    "h1": "백내장 세극등검사 결과지, 사진·판독기록 발급 전 확인",
+    "insurerLinks": 2,
+    "tableWidth": 744,
+    "width": 1280
+  },
+  {
+    "n": 4,
+    "requestedWidth": 360,
+    "canonical": "https://hospital.hbuby.com/claims/past-surgery-history-lookup",
+    "documentWidth": 345,
+    "h1": "수술내역 조회 방법, 심평원 진료정보와 병원 수술기록지 차이",
+    "insurerLinks": 2,
+    "tableWidth": 305,
+    "width": 360
+  },
+  {
+    "n": 4,
+    "requestedWidth": 390,
+    "canonical": "https://hospital.hbuby.com/claims/past-surgery-history-lookup",
+    "documentWidth": 375,
+    "h1": "수술내역 조회 방법, 심평원 진료정보와 병원 수술기록지 차이",
+    "insurerLinks": 2,
+    "tableWidth": 335,
+    "width": 390
+  },
+  {
+    "n": 4,
+    "requestedWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/claims/past-surgery-history-lookup",
+    "documentWidth": 1265,
+    "h1": "수술내역 조회 방법, 심평원 진료정보와 병원 수술기록지 차이",
+    "insurerLinks": 2,
+    "tableWidth": 744,
+    "width": 1280
+  },
+  {
+    "n": 5,
+    "requestedWidth": 360,
+    "canonical": "https://hospital.hbuby.com/claims/operative-record-retention-period",
+    "documentWidth": 345,
+    "h1": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인",
+    "insurerLinks": 2,
+    "tableWidth": 305,
+    "width": 360
+  },
+  {
+    "n": 5,
+    "requestedWidth": 390,
+    "canonical": "https://hospital.hbuby.com/claims/operative-record-retention-period",
+    "documentWidth": 375,
+    "h1": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인",
+    "insurerLinks": 2,
+    "tableWidth": 335,
+    "width": 390
+  },
+  {
+    "n": 5,
+    "requestedWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/claims/operative-record-retention-period",
+    "documentWidth": 1265,
+    "h1": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인",
+    "insurerLinks": 2,
+    "tableWidth": 744,
+    "width": 1280
+  },
+  {
+    "n": 6,
+    "requestedWidth": 360,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit",
+    "documentWidth": 345,
+    "h1": "치열 수술비, 내괄약근절개술과 치핵 수술의 차이",
+    "insurerLinks": 2,
+    "tableWidth": 305,
+    "width": 360
+  },
+  {
+    "n": 6,
+    "requestedWidth": 390,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit",
+    "documentWidth": 375,
+    "h1": "치열 수술비, 내괄약근절개술과 치핵 수술의 차이",
+    "insurerLinks": 2,
+    "tableWidth": 335,
+    "width": 390
+  },
+  {
+    "n": 6,
+    "requestedWidth": 1280,
+    "canonical": "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit",
+    "documentWidth": 1265,
+    "h1": "치열 수술비, 내괄약근절개술과 치핵 수술의 차이",
+    "insurerLinks": 2,
+    "tableWidth": 744,
+    "width": 1280
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "path": "/claims/insurance-claim-form-writing",
+    "slug": "claim-form-writing",
+    "cat": "청구서류",
+    "title": "보험금 청구서 작성법, 수술일·진단명·사고내용 기재 예시",
+    "desc": "보험금 청구서 작성 시 발병일과 수술일, 진단명과 사고내용을 구분하는 방법입니다. 보험사 양식의 항목을 병원 서류와 대조하고, 모르는 내용을 추측해 적지 않는 작성 순서와 가상 예시를 정리합니다.",
+    "parents": [
+      "/claims/surgery-claim-documents",
+      "/claims/insurance-claim-method"
+    ],
+    "intent": "청구서 자체의 항목 작성과 오류 예방. 병원 서류 목록·발급 안내와 구분.",
+    "sources": [
+      [
+        "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+        "처브 보험금 청구 서류·양식",
+        "현재 제공되는 회사 양식으로 이동"
+      ],
+      [
+        "https://www.chubb.com/content/dam/chubb-sites/chubb-com/kr-kr/claims/individual-insurance/documents/pdf/claims-form-personal-insurance-sep-2022.pdf",
+        "처브 개인보험 청구서 예시",
+        "사고일·내원 경위·진단명 등 실제 항목 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/claims/primary-secondary-diagnosis-surgery-claim",
+    "slug": "primary-secondary-diagnosis",
+    "cat": "청구서류",
+    "title": "주상병·부상병 차이, 수술비 청구 시 진단명 확인 기준",
+    "desc": "주상병과 부상병은 진료에서의 상병 구분입니다. 부상병이라는 이유만으로 수술비 지급 여부를 판단하지 않고, 수술 목적·실제 수술명·가입 특약을 함께 확인하는 방법을 정리합니다.",
+    "parents": [
+      "/surgery-benefit/surgery-classification",
+      "/surgery-benefit/gallbladder-surgery-benefit"
+    ],
+    "intent": "주상병과 부상병의 역할 및 수술과의 연결 확인. 종별 분류표·질병별 수술 설명과 구분.",
+    "sources": [
+      [
+        "https://www.hira.or.kr/ebooksc/2025/02/BZ202502131179639.pdf",
+        "심평원 요양급여 청구 작성요령",
+        "주상병·부상병·배제된 상병의 구분"
+      ],
+      [
+        "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+        "보험사 수술비 청구자료 예시",
+        "실제 제출 양식과 필요서류 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/claims/cataract-slitlamp-records",
+    "slug": "cataract-slitlamp-records",
+    "cat": "청구서류",
+    "title": "백내장 세극등검사 결과지, 사진·판독기록 발급 전 확인",
+    "desc": "백내장 보험청구에서 세극등검사 결과지나 사진을 요청받았다면 검사일·좌우 눈·요청 자료 범위를 먼저 확인하세요. 결과지와 영상의 차이, 병원 보유 여부, 추가자료 제출 순서를 정리합니다.",
+    "parents": [
+      "/surgery-benefit/cataract-surgery-benefit",
+      "/claims/cataract-surgery-claim-documents"
+    ],
+    "intent": "세극등 자료의 결과·사진·판독 범위 확인. 일반 백내장청구 목록과 구분.",
+    "sources": [
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 질병·상해 필요서류",
+        "실손의료비의 백내장 추가 검사자료 예시"
+      ],
+      [
+        "https://www.law.go.kr/법령/의료법시행규칙/제15조",
+        "의료법 시행규칙 제15조",
+        "검사소견 등 기록 종류별 보존 규정"
+      ]
+    ]
+  },
+  {
+    "path": "/claims/past-surgery-history-lookup",
+    "slug": "past-surgery-history",
+    "cat": "청구서류",
+    "title": "수술내역 조회 방법, 심평원 진료정보와 병원 수술기록지 차이",
+    "desc": "과거 수술 병원과 날짜가 기억나지 않을 때 심평원 내 진료정보 열람을 활용하는 방법입니다. 최대 5년 진료내역 조회와 보험청구용 수술기록지 발급의 차이, 조회되지 않을 때의 확인 순서를 정리합니다.",
+    "parents": [
+      "/claims/surgery-claim-documents",
+      "/surgery-benefit/surgery-classification"
+    ],
+    "intent": "과거 수술 병원·날짜를 찾는 조회 단계. 서류 발급·보험가입내역 조회와 구분.",
+    "sources": [
+      [
+        "https://www.hira.or.kr/dummy.do?pgmid=HIRAA030009200000",
+        "심평원 내 진료정보 열람",
+        "최대 5년 조회 범위와 증빙자료 활용 제한"
+      ],
+      [
+        "https://www.law.go.kr/법령/의료법시행규칙/제15조",
+        "의료법 시행규칙 제15조",
+        "병원 보존기록과 조회정보의 구분"
+      ]
+    ]
+  },
+  {
+    "path": "/claims/operative-record-retention-period",
+    "slug": "operative-record-retention",
+    "cat": "청구서류",
+    "title": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인",
+    "desc": "수술기록은 의료법 시행규칙상 10년 보존 대상입니다. 검사기록·진단서 부본의 기간 차이, 기간이 지난 자료의 실제 보유 여부와 보험금 청구기간을 나누어 확인하는 방법을 정리합니다.",
+    "parents": [
+      "/claims/surgery-claim-documents",
+      "/claims/closed-hospital-records-request",
+      "/claims/insurance-claim-limitation"
+    ],
+    "intent": "의료기관 기록 종류별 보존 의무와 실제 발급 가능성. 보험금 소멸시효와 구분.",
+    "sources": [
+      [
+        "https://www.law.go.kr/법령/의료법시행규칙/제15조",
+        "의료법 시행규칙 제15조",
+        "기록별 보존기간과 계속 진료 시 연장 규정"
+      ],
+      [
+        "https://www.hira.or.kr/dummy.do?pgmid=HIRAA030009200000",
+        "심평원 내 진료정보 열람",
+        "공공 조회기간과 병원 보존기간의 구분"
+      ]
+    ]
+  },
+  {
+    "path": "/surgery-benefit/anal-fissure-surgery-benefit",
+    "slug": "anal-fissure-surgery",
+    "cat": "수술비",
+    "title": "치열 수술비, 내괄약근절개술과 치핵 수술의 차이",
+    "desc": "치열 수술비는 치핵 수술비와 같은 말로 판단하면 안 됩니다. 진단명과 내괄약근절개술 등 실제 수술명을 구분하고, 실손·질병수술비·종수술비 약관과 청구자료를 확인하는 순서를 정리합니다.",
+    "parents": [
+      "/surgery-benefit/hemorrhoid-surgery-benefit",
+      "/claims/hemorrhoid-surgery-claim-documents"
+    ],
+    "intent": "치열과 실제 치열 수술의 보험 확인. 기존 치핵·치루의 병태 및 수술과 독립.",
+    "sources": [
+      [
+        "https://incheon.sejongh.co.kr/guide/disease-detail?Depth=2&cate1=177&cate2=291&html_mode=text&wr_id=71",
+        "인천세종병원 치열 질환백과",
+        "치열의 의미와 내괄약근절개술 등 치료 설명"
+      ],
+      [
+        "https://www.snubh.org/service/info/com/view.do?BNO=139&Board_ID=B005",
+        "분당서울대학교병원 치핵 안내",
+        "치질 통칭과 치핵의 구분"
+      ],
+      [
+        "https://www.chubb.com/kr-kr/claims-service/claims-documents-forms.html",
+        "보험금 청구서류 공식 안내",
+        "계약 보험사의 필요자료 확인을 위한 예시"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "url": "https://hospital.hbuby.com/claims/operative-record-retention-period",
+  "verificationUrl": "https://hospital.hbuby.com/claims/operative-record-retention-period?v=20261029follow6",
+  "status": 200,
+  "title": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인",
+  "canonical": "https://hospital.hbuby.com/claims/operative-record-retention-period",
+  "bodyMatches": true,
+  "images": [
+    {
+      "src": "/assets/images/operative-record-retention-thumb.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/operative-record-retention-body1.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/operative-record-retention-body2.webp",
+      "status": 200,
+      "hashMatches": true
+    }
+  ],
+  "parents": [
+    {
+      "path": "/claims/surgery-claim-documents",
+      "status": 200,
+      "newLink": true
+    },
+    {
+      "path": "/claims/closed-hospital-records-request",
+      "status": 200,
+      "newLink": true
+    },
+    {
+      "path": "/claims/insurance-claim-limitation",
+      "status": 200,
+      "newLink": true
+    }
+  ],
+  "passed": true
+}

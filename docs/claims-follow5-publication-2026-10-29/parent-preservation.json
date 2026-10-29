@@ -1,0 +1,72 @@
+[
+  {
+    "path": "/claims/cataract-surgery-claim-documents",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/claims/closed-hospital-records-request",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/claims/hemorrhoid-surgery-claim-documents",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/claims/insurance-claim-limitation",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/claims/insurance-claim-method",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-surgery-benefit",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "bodyPreserved": true,
+    "titlePreserved": true,
+    "imagesPreserved": true,
+    "canonicalPreserved": true
+  }
+]

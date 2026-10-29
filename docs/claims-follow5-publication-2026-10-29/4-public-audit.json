@@ -1,0 +1,38 @@
+{
+  "url": "https://hospital.hbuby.com/claims/past-surgery-history-lookup",
+  "verificationUrl": "https://hospital.hbuby.com/claims/past-surgery-history-lookup?v=20261029follow6",
+  "status": 200,
+  "title": "수술내역 조회 방법, 심평원 진료정보와 병원 수술기록지 차이",
+  "canonical": "https://hospital.hbuby.com/claims/past-surgery-history-lookup",
+  "bodyMatches": true,
+  "images": [
+    {
+      "src": "/assets/images/past-surgery-history-thumb.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/past-surgery-history-body1.webp",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "src": "/assets/images/past-surgery-history-body2.webp",
+      "status": 200,
+      "hashMatches": true
+    }
+  ],
+  "parents": [
+    {
+      "path": "/claims/surgery-claim-documents",
+      "status": 200,
+      "newLink": true
+    },
+    {
+      "path": "/surgery-benefit/surgery-classification",
+      "status": 200,
+      "newLink": true
+    }
+  ],
+  "passed": true
+}
