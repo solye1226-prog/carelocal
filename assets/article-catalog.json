@@ -30,6 +30,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/cataract-slitlamp-records",
+    "title": "백내장 세극등검사 결과지, 사진·판독기록 발급 전 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/cataract-surgery-claim-documents",
     "title": "백내장 수술 보험금 청구서류, 실비와 수술비는 무엇을 준비할까?",
     "category": "보험금 청구"
