@@ -454,7 +454,7 @@
   <url><loc>https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi</loc><lastmod>2026-10-22</lastmod><priority>0.8</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient</loc><lastmod>2026-10-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient</loc><lastmod>2026-10-29</lastmod><priority>0.8</priority></url>
 
 
   <url><loc>https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit</loc><lastmod>2026-10-18</lastmod><priority>0.8</priority></url>
@@ -484,7 +484,7 @@
   <url><loc>https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification</loc><lastmod>2026-10-17</lastmod></url>
 
 
-  <url><loc>https://hospital.hbuby.com/surgery-benefit/surgery-name-mismatch</loc><lastmod>2026-10-07</lastmod></url>
+  <url><loc>https://hospital.hbuby.com/surgery-benefit/surgery-name-mismatch</loc><lastmod>2026-10-29</lastmod></url>
 
 
   <url><loc>https://hospital.hbuby.com/surgery-benefit/fracture-hardware-removal-benefit</loc><lastmod>2026-09-29</lastmod></url>
@@ -805,10 +805,10 @@
   <url><loc>https://hospital.hbuby.com/surgery-benefit/hemorrhoid-ligation-benefit</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit</loc><lastmod>2026-10-29</lastmod><priority>0.8</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim</loc><lastmod>2026-10-29</lastmod><priority>0.8</priority></url>
 
 
   <url><loc>https://hospital.hbuby.com/surgery-benefit/surgery-benefit-amount-review</loc><lastmod>2026-10-13</lastmod><priority>0.8</priority></url>
@@ -961,7 +961,7 @@
 <url><loc>https://hospital.hbuby.com/silbi/cartistem-medical-necessity-supplement</loc><lastmod>2026-10-13</lastmod></url>
 
 
-<url><loc>https://hospital.hbuby.com/surgery-benefit/same-surgery-different-policy-tiers</loc><lastmod>2026-10-13</lastmod></url>
+<url><loc>https://hospital.hbuby.com/surgery-benefit/same-surgery-different-policy-tiers</loc><lastmod>2026-10-29</lastmod></url>
 
 
 <url><loc>https://hospital.hbuby.com/claims/english-operative-record-insurance-check</loc><lastmod>2026-10-13</lastmod></url>
