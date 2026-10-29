@@ -92,7 +92,7 @@ if __name__=='__main__':
    for dest in added:
     li=s.new_tag('li');a=s.new_tag('a',href=dest);a.string=titles[dest];li.append(a);ul.append(li)
    section.append(ul)
-   anchor=s.main.select_one('.official-guide-actions,.kakao-inquiry-cta')
+   anchor=next((h for h in s.main.select('h2') if '공식' in h.get_text(' ',strip=True)),None) or s.main.select_one('.official-guide-actions,.kakao-inquiry-cta')
    if anchor:
     while anchor.parent!=s.main:anchor=anchor.parent
     anchor.insert_before(section)
