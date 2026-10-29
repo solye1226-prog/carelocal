@@ -185,6 +185,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/insurance-claim-form-writing",
+    "title": "보험금 청구서 작성법, 수술일·진단명·사고내용 기재 예시",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/insurance-claim-limitation",
     "title": "보험금 청구 소멸시효, 기간이 지나면 어떻게 될까?",
     "category": "보험금 청구"
