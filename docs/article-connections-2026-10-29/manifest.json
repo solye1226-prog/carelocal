@@ -1,0 +1,339 @@
+[
+  {
+    "path": "/checkups/cancer-screening",
+    "title": "국가암검진 확인 가이드 | 케어로컬",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/cancers/cervical-cancer"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/checkups/fatty-liver-ultrasound-followup",
+    "title": "복부초음파 지방간 소견, 간수치 정상이어도 추가 검사가 필요할까?",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/silbi/abdominal-ultrasound-cost-claim"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/bile-culture-vs-pathology-records",
+    "title": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "edits": [
+      "keyword_heading",
+      "keyword_heading",
+      "keyword_heading"
+    ],
+    "addedLinks": [],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "title": "치아보험 임플란트 청구서류, 발치 원인과 치아번호 확인",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/claims/dental-extraction-implant-dates"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/discharge-day-outpatient-silbi",
+    "title": "퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/silbi/hospital-interim-bill-silbi-claim"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "title": "담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/claims/gallbladder-polyp-surgery-insurance-documents"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/insurance-claim-documents",
+    "title": "보험금 청구서류 체크리스트, 실비·수술비·진단비별 준비물",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/claims/insurance-claim-original-documents-request"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/leqembi-repeat-claim-ledger",
+    "title": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+    "edits": [
+      "lead_scope",
+      "keyword_heading",
+      "keyword_heading",
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/treatment-costs/leqembi-cost-insurance"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/overseas-hospital-bill-documents",
+    "title": "해외여행 중 병원비, 귀국 전 챙겨야 할 보험 청구서류",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/claims/overseas-hospital-card-slip-insurance",
+      "/claims/overseas-medical-note-diagnosis-claim",
+      "/claims/overseas-pharmacy-prescription-claim"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/claims/sinus-endoscopic-surgery-documents",
+      "/claims/surgery-certificate-missing-diagnosis"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/claims/uterine-fibroid-surgery-claim-documents",
+    "title": "자궁근종 수술 보험금 청구서류, 근종절제술과 자궁절제술 구분하기",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/surgery-benefit/adenomyosis-hysterectomy-benefit",
+      "/surgery-benefit/endometrial-polyp-hysteroscopy-benefit"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis",
+    "title": "뇌·심장 주요치료비, 진단비와 다른 지급 요건과 연간 한도 확인법",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/silbi/heart-echo-exam-purpose"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/guides/cancer-treatment-cost",
+    "title": "암치료비 확인 포인트 | 케어로컬",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/cancers/pancreatic-cancer",
+      "/guides/proton-therapy"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/guides/flu-vaccination-2026",
+    "title": "2026 독감 무료접종, 나이별 시작일과 접종 병원 찾는 방법",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/silbi/flu-test-cost-claim"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/guides/night-hospital-checklist",
+    "title": "야간진료와 응급실 이용 기준 | 케어로컬",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/guides/sunday-hospital-checklist"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/silbi/leqembi-silbi-claim",
+    "title": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+    "edits": [
+      "lead_scope"
+    ],
+    "addedLinks": [],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/silbi/mri-silbi-claim",
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/silbi/ct-scan-cost-claim"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/silbi/pharmacy-prescription-claim",
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/silbi/h-pylori-eradication-pharmacy-test",
+      "/silbi/outpatient-prescription-diagnosis-code"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/silbi/simplified-silbi-prescription-exclusion",
+    "title": "유병자 실손 약값 청구, 병원비는 나왔는데 약국비는 왜 다를까?",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/underwriting/simplified-health-insurance-cancer-brain"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/standards/actual-vs-fixed-benefit",
+    "title": "실손·정액보험 차이, 보험 2개면 중복으로 받을 수 있을까?",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/standards/third-sector-insurance"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/achilles-rupture-repair-claim",
+    "title": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/surgery-benefit/plantar-fasciitis-release-benefit"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/breast-fibroadenoma-excision-benefit",
+    "title": "유방 섬유선종 절제 수술비, 맘모톰과 어떻게 다를까?",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/surgery-benefit/breast-duct-excision-benefit"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "title": "백내장 수술비 몇 종일까? 인공수정체·수술명과 약관 확인 방법",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+      "/surgery-benefit/glaucoma-surgery-benefit"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/endometriosis-laparoscopy-benefit",
+    "title": "자궁내막증 복강경 수술비, 실제 시행한 수술명은 어디서 확인할까?",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/surgery-benefit/ovarian-cyst-surgery-benefit"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/lumbar-disc",
+    "title": "허리디스크 수술비 몇 종일까? 디스크절제·신경감압 기록 확인",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/surgery-benefit/cervical-disc-surgery-benefit"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "title": "난소낭종 복강경 수술비, 낭종 제거와 난소 절제 기록 확인법",
+    "edits": [
+      "lead_scope",
+      "h1_title_consistency"
+    ],
+    "addedLinks": [],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "title": "수술분류표 확인 | 1종·2종·3종 수술비 보험 기준",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/surgery-benefit/bph-surgery-benefit",
+      "/surgery-benefit/vocal-polyp-surgery-benefit",
+      "/surgery-benefit/varicocele-surgery-benefit"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/surgery-benefit/ureteroscopy",
+    "title": "요관경 결석 제거 수술비, 체외충격파 치료와 보험 기준 차이",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/surgery-benefit/percutaneous-kidney-stone-surgery-benefit"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/treatment-costs/leqembi-cost-insurance",
+    "title": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+    "edits": [
+      "lead_scope"
+    ],
+    "addedLinks": [],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  },
+  {
+    "path": "/treatment-costs/out-of-pocket-cap-refund",
+    "title": "본인부담상한제 환급, 대상 조회와 신청 방법",
+    "edits": [
+      "contextual_internal_links"
+    ],
+    "addedLinks": [
+      "/treatment-costs/nhis-copayment-refund-notice"
+    ],
+    "imagesCanonicalAndExistingLinksPreserved": true
+  }
+]

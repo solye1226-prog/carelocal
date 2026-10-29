@@ -1,0 +1,182 @@
+[
+  {
+    "path": "/checkups/cancer-screening",
+    "h1": "국가암검진 확인 가이드",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/checkups/fatty-liver-ultrasound-followup",
+    "h1": "지방간 소견초음파 소견과 간수치·대사 위험을 따로 확인하세요",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/bile-culture-vs-pathology-records",
+    "h1": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "h1": "임플란트 보험금 청구 전에 무엇을 확인할까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/discharge-day-outpatient-silbi",
+    "h1": "퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "h1": "담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/insurance-claim-documents",
+    "h1": "보험금 청구서류 체크리스트, 실비·수술비·진단비별 준비물",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/leqembi-repeat-claim-ledger",
+    "h1": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/overseas-hospital-bill-documents",
+    "h1": "해외여행 중 병원비, 귀국 전 챙겨야 할 보험 청구서류현지 진료확인서·영수증·처방전 챙기기",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "h1": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/claims/uterine-fibroid-surgery-claim-documents",
+    "h1": "자궁근종 수술 보험금 청구서류, 근종절제술과 자궁절제술 구분하기",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis",
+    "h1": "뇌·심장 주요치료비, 진단비와 다른 지급 요건과 연간 한도 확인법",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/guides/cancer-treatment-cost",
+    "h1": "암치료비 확인 포인트",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/guides/flu-vaccination-2026",
+    "h1": "2026 독감 무료접종, 나이별 시작일과 접종 병원 찾는 방법어린이·임신부·65세 이상 접종 일정 확인",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/guides/night-hospital-checklist",
+    "h1": "야간진료와 응급실 이용 기준",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/silbi/leqembi-silbi-claim",
+    "h1": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/silbi/mri-silbi-claim",
+    "h1": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/silbi/pharmacy-prescription-claim",
+    "h1": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/silbi/simplified-silbi-prescription-exclusion",
+    "h1": "유병자 실손 약값 청구, 병원비는 나왔는데 약국비는 왜 다를까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/standards/actual-vs-fixed-benefit",
+    "h1": "실손·정액보험 차이, 보험 2개면 중복으로 받을 수 있을까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/achilles-rupture-repair-claim",
+    "h1": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/breast-fibroadenoma-excision-benefit",
+    "h1": "유방 섬유선종 절제, 수술비는 어떻게 볼까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "h1": "백내장 수술비 몇 종일까? 인공수정체·수술명과 약관 확인 방법",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/endometriosis-laparoscopy-benefit",
+    "h1": "자궁내막증 복강경 수술비, 실제 시행한 수술명은 어디서 확인할까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/lumbar-disc",
+    "h1": "허리디스크 수술비 몇 종일까? 디스크절제·신경감압 기록 확인",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "h1": "난소낭종 복강경 수술비, 낭종 제거와 난소 절제 기록 확인법",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "h1": "수술분류표에서 내 수술은 몇 종일까?",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/surgery-benefit/ureteroscopy",
+    "h1": "요관경 결석 제거 수술비, 체외충격파 치료와 보험 기준 차이",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/treatment-costs/leqembi-cost-insurance",
+    "h1": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+    "viewport": 1280,
+    "width": 1265
+  },
+  {
+    "path": "/treatment-costs/out-of-pocket-cap-refund",
+    "h1": "본인부담상한제 환급진료연도와 제외 항목부터 확인하세요",
+    "viewport": 1280,
+    "width": 1265
+  }
+]

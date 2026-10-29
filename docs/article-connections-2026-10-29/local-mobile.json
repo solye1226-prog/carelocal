@@ -1,0 +1,397 @@
+[
+  {
+    "path": "/checkups/cancer-screening",
+    "added": [
+      {
+        "href": "/cancers/cervical-cancer",
+        "text": "자궁경부암 치료법과 병원 확인 가이드 | 케어로컬",
+        "width": 278.640625
+      }
+    ],
+    "h1": "국가암검진 확인 가이드",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/checkups/fatty-liver-ultrasound-followup",
+    "added": [
+      {
+        "href": "/silbi/abdominal-ultrasound-cost-claim",
+        "text": "복부초음파 검사비, 건강보험 적용과 실비 청구 확인법",
+        "width": 289.671875
+      }
+    ],
+    "h1": "지방간 소견초음파 소견과 간수치·대사 위험을 따로 확인하세요",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/bile-culture-vs-pathology-records",
+    "added": [],
+    "h1": "담도 배액 후 배양검사 결과지를 받았다면? 조직검사와 다른 항목 확인법",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "added": [
+      {
+        "href": "/claims/dental-extraction-implant-dates",
+        "text": "치아보험 발치일·임플란트 완료일 다를 때, 청구 시점 확인",
+        "width": 274.0625
+      }
+    ],
+    "h1": "임플란트 보험금 청구 전에 무엇을 확인할까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/discharge-day-outpatient-silbi",
+    "added": [
+      {
+        "href": "/silbi/hospital-interim-bill-silbi-claim",
+        "text": "입원 중간정산 영수증 실비 청구, 퇴원 전 확인할 것",
+        "width": 263.15625
+      }
+    ],
+    "h1": "퇴원한 날 외래도 봤다면? 입원·통원 영수증 나눠 확인하기",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "added": [
+      {
+        "href": "/claims/gallbladder-polyp-surgery-insurance-documents",
+        "text": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+        "width": 267.84375
+      }
+    ],
+    "h1": "담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/insurance-claim-documents",
+    "added": [
+      {
+        "href": "/claims/insurance-claim-original-documents-request",
+        "text": "보험금 청구 원본 서류 요청, 사진 접수 뒤 무엇을 보내야 할까?",
+        "width": 267.90625
+      }
+    ],
+    "h1": "보험금 청구서류 체크리스트, 실비·수술비·진단비별 준비물",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/leqembi-repeat-claim-ledger",
+    "added": [
+      {
+        "href": "/treatment-costs/leqembi-cost-insurance",
+        "text": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+        "width": 221
+      }
+    ],
+    "h1": "레켐비 반복 청구, 빠진 투여일 없이 접수·지급내역 정리하는 법",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/overseas-hospital-bill-documents",
+    "added": [
+      {
+        "href": "/claims/overseas-hospital-card-slip-insurance",
+        "text": "해외 병원비 카드 영수증만 있다면, 여행자보험 청구서류 확인",
+        "width": 294.4375
+      },
+      {
+        "href": "/claims/overseas-medical-note-diagnosis-claim",
+        "text": "해외 진료 소견서에 진단명이 없다면, 여행자보험 보완 순서",
+        "width": 294.4375
+      },
+      {
+        "href": "/claims/overseas-pharmacy-prescription-claim",
+        "text": "해외 약국 약값 보험청구, 처방전과 약제비 영수증 준비",
+        "width": 294.4375
+      }
+    ],
+    "h1": "해외여행 중 병원비, 귀국 전 챙겨야 할 보험 청구서류현지 진료확인서·영수증·처방전 챙기기",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "added": [
+      {
+        "href": "/claims/sinus-endoscopic-surgery-documents",
+        "text": "부비동염 내시경 수술 보험금 청구서류, 무엇을 준비할까?",
+        "width": 274.03125
+      },
+      {
+        "href": "/claims/surgery-certificate-missing-diagnosis",
+        "text": "수술확인서에 진단명이 없다면? 수술비 청구 전 확인 순서",
+        "width": 272.609375
+      }
+    ],
+    "h1": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/claims/uterine-fibroid-surgery-claim-documents",
+    "added": [
+      {
+        "href": "/surgery-benefit/adenomyosis-hysterectomy-benefit",
+        "text": "자궁샘근증 자궁절제술 수술비, 하이푸·색전술과 구분",
+        "width": 294.453125
+      },
+      {
+        "href": "/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
+        "text": "자궁내막용종 자궁경 수술비, 검사와 절제 구분하기",
+        "width": 289.671875
+      }
+    ],
+    "h1": "자궁근종 수술 보험금 청구서류, 근종절제술과 자궁절제술 구분하기",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis",
+    "added": [
+      {
+        "href": "/silbi/heart-echo-exam-purpose",
+        "text": "심장초음파 실비 청구, 일반 검사와 약물부하 검사명부터 확인하세요",
+        "width": 242.75
+      }
+    ],
+    "h1": "뇌·심장 주요치료비, 진단비와 다른 지급 요건과 연간 한도 확인법",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/guides/cancer-treatment-cost",
+    "added": [
+      {
+        "href": "/cancers/pancreatic-cancer",
+        "text": "췌장암 치료법과 병원 확인 가이드 | 케어로컬",
+        "width": 283.390625
+      },
+      {
+        "href": "/guides/proton-therapy",
+        "text": "양성자치료 확인 가이드 | 케어로컬",
+        "width": 242.59375
+      }
+    ],
+    "h1": "암치료비 확인 포인트",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/guides/flu-vaccination-2026",
+    "added": [
+      {
+        "href": "/silbi/flu-test-cost-claim",
+        "text": "독감 검사비 실비 청구, 예방접종 비용과 어떻게 다를까?",
+        "width": 278.796875
+      }
+    ],
+    "h1": "2026 독감 무료접종, 나이별 시작일과 접종 병원 찾는 방법어린이·임신부·65세 이상 접종 일정 확인",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/guides/night-hospital-checklist",
+    "added": [
+      {
+        "href": "/guides/sunday-hospital-checklist",
+        "text": "주말 진료 병원 체크리스트 | 케어로컬",
+        "width": 263
+      }
+    ],
+    "h1": "야간진료와 응급실 이용 기준",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/silbi/leqembi-silbi-claim",
+    "added": [],
+    "h1": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/silbi/mri-silbi-claim",
+    "added": [
+      {
+        "href": "/silbi/ct-scan-cost-claim",
+        "text": "CT 검사비 실비 청구, 조영제 비용과 필요서류 확인"
+      }
+    ],
+    "h1": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/silbi/pharmacy-prescription-claim",
+    "added": [
+      {
+        "href": "/silbi/h-pylori-eradication-pharmacy-test",
+        "text": "헬리코박터 제균치료 실비, 검사·처방약·재검 비용 연결하기"
+      },
+      {
+        "href": "/silbi/outpatient-prescription-diagnosis-code",
+        "text": "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인"
+      }
+    ],
+    "h1": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/silbi/simplified-silbi-prescription-exclusion",
+    "added": [
+      {
+        "href": "/underwriting/simplified-health-insurance-cancer-brain",
+        "text": "유병자보험 암·뇌혈관 치료비 확인 기준 | 케어로컬"
+      }
+    ],
+    "h1": "유병자 실손 약값 청구, 병원비는 나왔는데 약국비는 왜 다를까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/standards/actual-vs-fixed-benefit",
+    "added": [
+      {
+        "href": "/standards/third-sector-insurance",
+        "text": "제3보험이란? 상해·질병·간병보험과 실손·정액 보상의 관계"
+      }
+    ],
+    "h1": "실손·정액보험 차이, 보험 2개면 중복으로 받을 수 있을까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/achilles-rupture-repair-claim",
+    "added": [
+      {
+        "href": "/surgery-benefit/plantar-fasciitis-release-benefit",
+        "text": "족저근막염 근막절개술 수술비, 체외충격파와 구분하기"
+      }
+    ],
+    "h1": "아킬레스건 파열 수술비, 봉합술·재건술과 사고기록 확인",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/breast-fibroadenoma-excision-benefit",
+    "added": [
+      {
+        "href": "/surgery-benefit/breast-duct-excision-benefit",
+        "text": "유륜하 농양 유관절제술 수술비, 배농술과 구분하기"
+      }
+    ],
+    "h1": "유방 섬유선종 절제, 수술비는 어떻게 볼까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit",
+    "added": [
+      {
+        "href": "/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+        "text": "당뇨망막병증 유리체절제술 수술비, 주사·레이저와 구분"
+      },
+      {
+        "href": "/surgery-benefit/glaucoma-surgery-benefit",
+        "text": "녹내장 섬유주절제술 수술비, 레이저와 다른 점"
+      }
+    ],
+    "h1": "백내장 수술비 몇 종일까? 인공수정체·수술명과 약관 확인 방법",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/endometriosis-laparoscopy-benefit",
+    "added": [
+      {
+        "href": "/surgery-benefit/ovarian-cyst-surgery-benefit",
+        "text": "난소낭종 복강경 수술비, 낭종 제거와 난소 절제 기록 확인법"
+      }
+    ],
+    "h1": "자궁내막증 복강경 수술비, 실제 시행한 수술명은 어디서 확인할까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/lumbar-disc",
+    "added": [
+      {
+        "href": "/surgery-benefit/cervical-disc-surgery-benefit",
+        "text": "목디스크 경추 추간판절제·유합술 수술비 확인법"
+      }
+    ],
+    "h1": "허리디스크 수술비 몇 종일까? 디스크절제·신경감압 기록 확인",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "added": [],
+    "h1": "난소낭종 복강경 수술비, 낭종 제거와 난소 절제 기록 확인법",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "added": [
+      {
+        "href": "/surgery-benefit/bph-surgery-benefit",
+        "text": "전립선비대증 수술비 몇 종? 절제·레이저·결찰술 구분법"
+      },
+      {
+        "href": "/surgery-benefit/vocal-polyp-surgery-benefit",
+        "text": "성대폴립 후두미세수술 수술비, 몇 종일까?"
+      },
+      {
+        "href": "/surgery-benefit/varicocele-surgery-benefit",
+        "text": "정계정맥류 결찰술 수술비, 색전술과 구분하는 법"
+      }
+    ],
+    "h1": "수술분류표에서 내 수술은 몇 종일까?",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/surgery-benefit/ureteroscopy",
+    "added": [
+      {
+        "href": "/surgery-benefit/percutaneous-kidney-stone-surgery-benefit",
+        "text": "신장결석 경피적 제거술 수술비, 요관경·체외충격파와 차이"
+      }
+    ],
+    "h1": "요관경 결석 제거 수술비, 체외충격파 치료와 보험 기준 차이",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/treatment-costs/leqembi-cost-insurance",
+    "added": [],
+    "h1": "치매 주사 비용, 레켐비 치료비·검사비와 보험 확인 항목",
+    "viewport": 360,
+    "width": 345
+  },
+  {
+    "path": "/treatment-costs/out-of-pocket-cap-refund",
+    "added": [
+      {
+        "href": "/treatment-costs/nhis-copayment-refund-notice",
+        "text": "본인부담금환급금 안내문을 받았다면? 공단 확인·신청 순서"
+      }
+    ],
+    "h1": "본인부담상한제 환급진료연도와 제외 항목부터 확인하세요",
+    "viewport": 360,
+    "width": 345
+  }
+]

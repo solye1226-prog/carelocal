@@ -1,0 +1,172 @@
+[
+  {
+    "path": "/claims/dental-extraction-implant-dates",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/claims/gallbladder-polyp-surgery-insurance-documents",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/claims/insurance-claim-original-documents-request",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/claims/overseas-hospital-card-slip-insurance",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/claims/overseas-medical-note-diagnosis-claim",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/claims/overseas-pharmacy-prescription-claim",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/claims/sinus-endoscopic-surgery-documents",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/claims/surgery-certificate-missing-diagnosis",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/silbi/ct-scan-cost-claim",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/silbi/abdominal-ultrasound-cost-claim",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/silbi/flu-test-cost-claim",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/silbi/h-pylori-eradication-pharmacy-test",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/silbi/outpatient-prescription-diagnosis-code",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/silbi/heart-echo-exam-purpose",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/silbi/hospital-interim-bill-silbi-claim",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/adenomyosis-hysterectomy-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/bph-surgery-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/vocal-polyp-surgery-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/varicocele-surgery-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/breast-duct-excision-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/cervical-disc-surgery-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/glaucoma-surgery-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/percutaneous-kidney-stone-surgery-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/surgery-benefit/plantar-fasciitis-release-benefit",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/treatment-costs/nhis-copayment-refund-notice",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/standards/third-sector-insurance",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/underwriting/simplified-health-insurance-cancer-brain",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/cancers/cervical-cancer",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/cancers/pancreatic-cancer",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/guides/proton-therapy",
+    "before": 0,
+    "after": 1
+  },
+  {
+    "path": "/guides/sunday-hospital-checklist",
+    "before": 0,
+    "after": 1
+  }
+]
