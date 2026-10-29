@@ -300,6 +300,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/operative-record-retention-period",
+    "title": "수술기록지 보존기간, 오래된 수술 서류 발급 전 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/operative-record-upload-missing-pages",
     "title": "수술기록지 사진에 페이지가 빠졌다면? 재발급 전 첨부 확인법",
     "category": "보험금 청구"
