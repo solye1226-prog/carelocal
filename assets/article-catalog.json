@@ -701,7 +701,7 @@
   },
   {
     "path": "/silbi/outpatient-prescription-diagnosis-code",
-    "title": "통원 실비 처방전에 진단명 코드가 없다면, 청구 전 확인 순서",
+    "title": "처방전 질병코드 누락, 실비 청구 대체서류와 재발급 확인",
     "category": "실비보험"
   },
   {
