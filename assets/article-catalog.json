@@ -325,6 +325,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/past-surgery-history-lookup",
+    "title": "수술내역 조회 방법, 심평원 진료정보와 병원 수술기록지 차이",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/polyp-pathology-diagnosis-benefit",
     "title": "대장 용종 조직검사에서 선종·암이 나오면 진단비는 어떻게 확인할까?",
     "category": "보험금 청구"
