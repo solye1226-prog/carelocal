@@ -335,6 +335,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/primary-secondary-diagnosis-surgery-claim",
+    "title": "주상병·부상병 차이, 수술비 청구 시 진단명 확인 기준",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/same-day-multiple-departments-silbi",
     "title": "같은 날 두 진료과 실비 청구, 영수증과 공제 단위 확인법",
     "category": "보험금 청구"
