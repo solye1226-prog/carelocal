@@ -1,0 +1,724 @@
+[
+  {
+    "n": 1,
+    "url": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+    "title": "카티스템 실비 청구서류, 재료대·수술료 접수 확인",
+    "status": "accepted",
+    "priority": "representative",
+    "evidence": "1\t\n/silbi/cartistem-silbi-claim\n\t26.10.29 18:19:12"
+  },
+  {
+    "n": 2,
+    "url": "https://hospital.hbuby.com/claims/gallbladder-pathology-request",
+    "title": "담낭절제술 조직검사 결과지, 보험청구 추가서류 확인",
+    "status": "accepted",
+    "priority": "representative",
+    "evidence": "1\t\n/claims/gallbladder-pathology-request\n\t26.10.29 18:19:28"
+  },
+  {
+    "n": 3,
+    "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+    "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+    "status": "accepted",
+    "priority": "representative",
+    "evidence": "1\t\n/surgery-benefit/hemorrhoid-surgery-benefit\n\t26.10.29 18:19:46"
+  },
+  {
+    "n": 4,
+    "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+    "status": "accepted",
+    "priority": "representative",
+    "evidence": "1\t\n/claims/surgery-claim-documents\n\t26.10.29 18:20:17"
+  },
+  {
+    "n": 5,
+    "url": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+    "title": "MRI 실비 청구 방법, 급여·비급여 확인과 필요서류",
+    "status": "accepted",
+    "priority": "representative",
+    "evidence": "1\t\n/silbi/mri-silbi-claim\n\t26.10.29 18:20:51"
+  },
+  {
+    "n": 6,
+    "url": "https://hospital.hbuby.com/checkups/national-health-checkup",
+    "title": "국가건강검진 연령별 항목 가이드 | 케어로컬",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/checkups/national-health-checkup\n\t26.10.29 18:21:15"
+  },
+  {
+    "n": 7,
+    "url": "https://hospital.hbuby.com/claims/cancer-diagnosis-benefit-documents",
+    "title": "암 진단비 청구서류 총정리, 보험금 청구 절차까지",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/cancer-diagnosis-benefit-documents\n\t26.10.29 18:21:21"
+  },
+  {
+    "n": 8,
+    "url": "https://hospital.hbuby.com/claims/dental-extraction-implant-dates",
+    "title": "치아보험 발치일·임플란트 완료일 다를 때, 청구 시점 확인",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/dental-extraction-implant-dates\n\t26.10.29 18:21:26"
+  },
+  {
+    "n": 9,
+    "url": "https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents",
+    "title": "치아보험 임플란트 청구서류, 발치 원인과 치아번호 확인",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/dental-implant-insurance-claim-documents\n\t26.10.29 18:21:36"
+  },
+  {
+    "n": 10,
+    "url": "https://hospital.hbuby.com/claims/english-operative-record-insurance-check",
+    "title": "수술기록지가 영문이라면? 보험청구 전 수술명·약어 확인 방법",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/english-operative-record-insurance-check\n\t26.10.29 18:21:42"
+  },
+  {
+    "n": 11,
+    "url": "https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form",
+    "title": "보험금 청구 대리인 위임장, 가족이 대신 접수할 때 필요한 것",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/family-proxy-insurance-claim-form\n\t26.10.29 18:21:47"
+  },
+  {
+    "n": 12,
+    "url": "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents",
+    "title": "담낭용종으로 담낭절제술을 받았다면? 담석 수술과 보험청구 확인사항",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/gallbladder-polyp-surgery-insurance-documents\n\t26.10.29 18:21:52"
+  },
+  {
+    "n": 13,
+    "url": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+    "title": "담석증 수술 보험금 청구서류, 담낭절제술과 담도 시술은 어떻게 구분할까?",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/gallstone-surgery-claim-documents\n\t26.10.29 18:21:58"
+  },
+  {
+    "n": 14,
+    "url": "https://hospital.hbuby.com/claims/hospital-receipt-reissue",
+    "title": "병원 영수증 분실 시 재발급, 진료비 세부내역서 요청 방법",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/hospital-receipt-reissue\n\t26.10.29 18:22:33"
+  },
+  {
+    "n": 15,
+    "url": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+    "title": "입원비 보험금 청구서류, 입퇴원확인서만 있으면 될까요?",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/hospitalization-claim-documents\n\t26.10.29 18:22:38"
+  },
+  {
+    "n": 16,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-bank-account-change",
+    "title": "보험금 청구 후 계좌 변경, 지급 전 확인할 것",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/insurance-claim-bank-account-change\n\t26.10.29 18:22:43"
+  },
+  {
+    "n": 17,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "title": "보험금 청구 방법 총정리, 필요한 서류부터 지급 절차까지",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/insurance-claim-method\n\t26.10.29 18:22:49"
+  },
+  {
+    "n": 18,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-original-documents-request",
+    "title": "보험금 청구 원본 서류 요청, 사진 접수 뒤 무엇을 보내야 할까?",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/insurance-claim-original-documents-request\n\t26.10.29 18:22:54"
+  },
+  {
+    "n": 19,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+    "title": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/insurance-claim-process\n\t26.10.29 18:23:05"
+  },
+  {
+    "n": 20,
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-supplement-documents",
+    "title": "보험금 청구 보완서류 요청을 받았다면? 추가 제출 서류 정리",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/insurance-claim-supplement-documents\n\t26.10.29 18:23:10"
+  },
+  {
+    "n": 21,
+    "url": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+    "title": "진료기록 사본 대리발급, 가족과 대리인의 준비서류",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/medical-records-proxy-documents\n\t26.10.29 18:23:16"
+  },
+  {
+    "n": 22,
+    "url": "https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents",
+    "title": "미성년자 보험금 청구서류, 부모가 접수할 때 확인할 것",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/minor-child-insurance-claim-documents\n\t26.10.29 18:23:21"
+  },
+  {
+    "n": 23,
+    "url": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+    "title": "해외여행 중 병원비, 귀국 전 챙겨야 할 보험 청구서류",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/overseas-hospital-bill-documents\n\t26.10.29 18:23:27"
+  },
+  {
+    "n": 24,
+    "url": "https://hospital.hbuby.com/claims/overseas-hospital-card-slip-insurance",
+    "title": "해외 병원비 카드 영수증만 있다면, 여행자보험 청구서류 확인",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/overseas-hospital-card-slip-insurance\n\t26.10.29 18:23:54"
+  },
+  {
+    "n": 25,
+    "url": "https://hospital.hbuby.com/claims/overseas-medical-note-diagnosis-claim",
+    "title": "해외 진료 소견서에 진단명이 없다면, 여행자보험 보완 순서",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/overseas-medical-note-diagnosis-claim\n\t26.10.29 18:23:59"
+  },
+  {
+    "n": 26,
+    "url": "https://hospital.hbuby.com/claims/overseas-pharmacy-prescription-claim",
+    "title": "해외 약국 약값 보험청구, 처방전과 약제비 영수증 준비",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/overseas-pharmacy-prescription-claim\n\t26.10.29 18:24:05"
+  },
+  {
+    "n": 27,
+    "url": "https://hospital.hbuby.com/claims/same-tooth-repeat-dental-treatment-claim",
+    "title": "같은 치아 재치료 치아보험 청구, 이전 치료기록 확인 기준",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/same-tooth-repeat-dental-treatment-claim\n\t26.10.29 18:24:10"
+  },
+  {
+    "n": 28,
+    "url": "https://hospital.hbuby.com/claims/sinus-endoscopic-surgery-documents",
+    "title": "부비동염 내시경 수술 보험금 청구서류, 무엇을 준비할까?",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/sinus-endoscopic-surgery-documents\n\t26.10.29 18:24:15"
+  },
+  {
+    "n": 29,
+    "url": "https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis",
+    "title": "수술확인서에 진단명이 없다면? 수술비 청구 전 확인 순서",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/surgery-certificate-missing-diagnosis\n\t26.10.29 18:24:27"
+  },
+  {
+    "n": 30,
+    "url": "https://hospital.hbuby.com/claims/surgery-certificate-unavailable",
+    "title": "수술확인서 발급이 어렵다면? 보험금 청구 대체자료 확인",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/surgery-certificate-unavailable\n\t26.10.29 18:24:32"
+  },
+  {
+    "n": 31,
+    "url": "https://hospital.hbuby.com/claims/surgery-record-additional-request",
+    "title": "보험사가 수술기록지를 추가 요청했다면? 발급 범위 확인법",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/claims/surgery-record-additional-request\n\t26.10.29 18:24:37"
+  },
+  {
+    "n": 32,
+    "url": "https://hospital.hbuby.com/guides/cancer-treatment-cost",
+    "title": "암치료비 확인 포인트 | 케어로컬",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/guides/cancer-treatment-cost\n\t26.10.29 18:24:43"
+  },
+  {
+    "n": 33,
+    "url": "https://hospital.hbuby.com/guides/caregiver-application",
+    "title": "간병인 신청 준비 가이드 | 케어로컬",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/guides/caregiver-application\n\t26.10.29 18:24:48"
+  },
+  {
+    "n": 34,
+    "url": "https://hospital.hbuby.com/guides/contrast-reaction-drug-safety-card",
+    "title": "조영제 부작용 경험 후 재검사, 약물안전카드·기록 준비법",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/guides/contrast-reaction-drug-safety-card\n\t26.10.29 18:24:59"
+  },
+  {
+    "n": 35,
+    "url": "https://hospital.hbuby.com/guides/hira-medication-history-before-admission",
+    "title": "내가 먹는 약 한눈에 조회, 입원 전 약 목록에 빠진 내용 보완하기",
+    "status": "accepted",
+    "priority": "maintenance",
+    "evidence": "1\t\n/guides/hira-medication-history-before-admission\n\t26.10.29 18:25:05"
+  },
+  {
+    "n": 36,
+    "url": "https://hospital.hbuby.com/guides/home-nursing-before-discharge",
+    "title": "퇴원 후 가정간호 신청, 상처 소독·관 관리가 필요하면 퇴원 전에 확인",
+    "status": "quota_exceeded",
+    "priority": "maintenance",
+    "error": "사이트별 일간 최대 요청 수를 초과하였습니다."
+  },
+  {
+    "n": 37,
+    "url": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+    "title": "백내장 수술 후 MRI 예약, 인공수정체 제품 정보를 어디에 확인할까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 38,
+    "url": "https://hospital.hbuby.com/guides/night-hospital-checklist",
+    "title": "야간진료와 응급실 이용 기준 | 케어로컬",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 39,
+    "url": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+    "title": "재활병원 입원 중 수술병원 외래를 가야 한다면? 진료의뢰·수납 확인 순서",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 40,
+    "url": "https://hospital.hbuby.com/guides/unused-prescription-medicine-disposal",
+    "title": "퇴원 후 남은 약, 어디에 버릴까? 폐의약품 수거함·물약 배출 확인",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 41,
+    "url": "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim",
+    "title": "복부초음파 검사비, 건강보험 적용과 실비 청구 확인법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 42,
+    "url": "https://hospital.hbuby.com/silbi/cartistem-medical-necessity-supplement",
+    "title": "카티스템 실비 심사에서 치료 필요성 자료를 요청받았다면?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 43,
+    "url": "https://hospital.hbuby.com/silbi/cataract-preoperative-test-claim",
+    "title": "백내장 수술 전 검사비 실비, 수술비 영수증과 어떻게 나눠 청구할까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 44,
+    "url": "https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim",
+    "title": "보험금 지급 전 병원비 영수증이 정정됐다면? 실비 보완서류 제출 순서",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 45,
+    "url": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+    "title": "CT 검사비 실비 청구, 조영제 비용과 필요서류 확인",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 46,
+    "url": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+    "title": "실비 자기부담금과 공제금액, 병원비보다 보험금이 적은 이유",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 47,
+    "url": "https://hospital.hbuby.com/silbi/emergency-room-cost-claim",
+    "title": "응급실 비용 실비 청구, 응급의료관리료부터 확인하세요",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 48,
+    "url": "https://hospital.hbuby.com/silbi/flu-test-cost-claim",
+    "title": "독감 검사비 실비 청구, 예방접종 비용과 어떻게 다를까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 49,
+    "url": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+    "title": "퇴사 후 단체실손 청구, 재직 중 병원비는 어디에 접수할까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 50,
+    "url": "https://hospital.hbuby.com/silbi/hospital-bill-correction-silbi-claim",
+    "title": "실비보험 청구 뒤 병원비 환불받았다면, 정산 확인 방법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 51,
+    "url": "https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim",
+    "title": "입원 중간정산 영수증 실비 청구, 퇴원 전 확인할 것",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 52,
+    "url": "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate",
+    "title": "실비 청구 영수증과 진료비 납입확인서, 무엇이 다를까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 53,
+    "url": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "title": "카티스템·절골술 후 재활병원으로 옮겼다면? 실비 청구서류 나누는 법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 54,
+    "url": "https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim",
+    "title": "도수치료 실비 청구, 가입 세대별로 무엇을 확인할까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 55,
+    "url": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+    "title": "해외 장기체류 실손보험료 환급, 귀국 후 어떤 서류를 준비할까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 56,
+    "url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 57,
+    "url": "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi",
+    "title": "해외여행 후 국내 재진료 실비 청구, 여행자보험과 구분",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 58,
+    "url": "https://hospital.hbuby.com/silbi/sleep-study-cost-insurance",
+    "title": "수면다원검사 비용과 실비 청구 전 확인할 사항",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 59,
+    "url": "https://hospital.hbuby.com/silbi/treatment-material-cost-silbi",
+    "title": "치료재료대 실비 청구 가능할까? 진료비 세부내역서 확인법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 60,
+    "url": "https://hospital.hbuby.com/silbi/uterine-fibroid-hifu-insurance",
+    "title": "자궁근종 하이푸 치료, 실비와 수술비 특약은 어떻게 다를까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 61,
+    "url": "https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction",
+    "title": "치아보험 가입 후 바로 치료받아도 될까? 면책·감액기간 확인",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 62,
+    "url": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+    "title": "보험료·보험금·해약환급금 차이, 낸 돈과 돌려받는 돈 구별하기",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 63,
+    "url": "https://hospital.hbuby.com/surgery-benefit/adenomyosis-hysterectomy-benefit",
+    "title": "자궁샘근증 자궁절제술 수술비, 하이푸·색전술과 구분",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 64,
+    "url": "https://hospital.hbuby.com/surgery-benefit/anal-abscess-drainage-benefit",
+    "title": "항문주위농양 절개배농술 수술비, 치루 수술과 구분하기",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 65,
+    "url": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit",
+    "title": "치루 수술비 보험금, 치핵 수술과 약관 기준이 다를까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 66,
+    "url": "https://hospital.hbuby.com/surgery-benefit/benign-thyroid-nodule-surgery-benefit",
+    "title": "양성 갑상선 결절 절제 수술비, 암 진단비와 구분하는 법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 67,
+    "url": "https://hospital.hbuby.com/surgery-benefit/biliary-stent-removal-replacement-benefit",
+    "title": "담도 스텐트 제거·교체도 수술비 청구할까? 삽입 때와 다른 확인사항",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 68,
+    "url": "https://hospital.hbuby.com/surgery-benefit/bph-surgery-benefit",
+    "title": "전립선비대증 수술비 몇 종? 절제·레이저·결찰술 구분법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 69,
+    "url": "https://hospital.hbuby.com/surgery-benefit/breast-duct-excision-benefit",
+    "title": "유륜하 농양 유관절제술 수술비, 배농술과 구분하기",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 70,
+    "url": "https://hospital.hbuby.com/surgery-benefit/breast-fibroadenoma-excision-benefit",
+    "title": "유방 섬유선종 절제 수술비, 맘모톰과 어떻게 다를까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 71,
+    "url": "https://hospital.hbuby.com/surgery-benefit/cartistem-concurrent-procedure-records",
+    "title": "카티스템과 미세천공술을 함께 받았다면? 수술비 청구 기록 확인법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 72,
+    "url": "https://hospital.hbuby.com/surgery-benefit/cervical-disc-surgery-benefit",
+    "title": "목디스크 경추 추간판절제·유합술 수술비 확인법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 73,
+    "url": "https://hospital.hbuby.com/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+    "title": "당뇨망막병증 유리체절제술 수술비, 주사·레이저와 구분",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 74,
+    "url": "https://hospital.hbuby.com/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
+    "title": "자궁내막용종 자궁경 수술비, 검사와 절제 구분하기",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 75,
+    "url": "https://hospital.hbuby.com/surgery-benefit/endometriosis-laparoscopy-benefit",
+    "title": "자궁내막증 복강경 수술비, 실제 시행한 수술명은 어디서 확인할까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 76,
+    "url": "https://hospital.hbuby.com/surgery-benefit/ercp",
+    "title": "담도 내시경 ERCP 보험 수술비, 검사와 결석 제거는 다를까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 77,
+    "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim",
+    "title": "담낭절제술과 ERCP를 모두 받았다면 수술비는 각각 청구할까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 78,
+    "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+    "title": "담낭 수술 중 개복으로 전환됐다면? 수술비 청구 기록 확인법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 79,
+    "url": "https://hospital.hbuby.com/surgery-benefit/glaucoma-surgery-benefit",
+    "title": "녹내장 섬유주절제술 수술비, 레이저와 다른 점",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 80,
+    "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-ligation-benefit",
+    "title": "치핵 고무밴드 결찰술 수술비, 절제술과 무엇이 다를까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 81,
+    "url": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+    "title": "상해 종수술비 분류표는 어디서 확인할까? 골절·인대 수술명 대조법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 82,
+    "url": "https://hospital.hbuby.com/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "title": "난소낭종 복강경 수술비, 낭종 제거와 난소 절제 기록 확인법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 83,
+    "url": "https://hospital.hbuby.com/surgery-benefit/percutaneous-kidney-stone-surgery-benefit",
+    "title": "신장결석 경피적 제거술 수술비, 요관경·체외충격파와 차이",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 84,
+    "url": "https://hospital.hbuby.com/surgery-benefit/plantar-fasciitis-release-benefit",
+    "title": "족저근막염 근막절개술 수술비, 체외충격파와 구분하기",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 85,
+    "url": "https://hospital.hbuby.com/surgery-benefit/ptosis-surgery-benefit",
+    "title": "안검하수 교정 수술비, 눈꺼풀올림근 절제술 확인법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 86,
+    "url": "https://hospital.hbuby.com/surgery-benefit/repeated-ercp-surgery-benefit",
+    "title": "담석 시술 후 다시 ERCP를 받았다면? 반복 시술 수술비 확인 순서",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 87,
+    "url": "https://hospital.hbuby.com/surgery-benefit/retinal-detachment-surgery-benefit",
+    "title": "망막박리 유리체절제술 수술비, 공막돌륭술과 구분하기",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 88,
+    "url": "https://hospital.hbuby.com/surgery-benefit/same-surgery-different-policy-tiers",
+    "title": "보험사마다 같은 수술의 종수가 다르다면? 두 계약 약관 비교법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 89,
+    "url": "https://hospital.hbuby.com/surgery-benefit/secondary-cataract-laser-benefit",
+    "title": "후발백내장 레이저 치료도 수술비 대상일까? 처음 수술과 구분하기",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 90,
+    "url": "https://hospital.hbuby.com/surgery-benefit/sleep-apnea-throat-surgery-benefit",
+    "title": "수면무호흡증 인두부 수술비, 양압기와 구분하는 법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 91,
+    "url": "https://hospital.hbuby.com/surgery-benefit/spinal-stenosis-surgery-benefit",
+    "title": "척추관협착증 감압술·유합술 수술비, 몇 종일까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 92,
+    "url": "https://hospital.hbuby.com/surgery-benefit/tonsil-adenoid-same-day-benefit",
+    "title": "편도·아데노이드 동시수술, 수술비는 각각 청구할 수 있을까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 93,
+    "url": "https://hospital.hbuby.com/surgery-benefit/tonsillectomy-surgery-benefit",
+    "title": "편도절제술 수술비 몇 종? 편도만 절제한 경우 확인법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 94,
+    "url": "https://hospital.hbuby.com/surgery-benefit/varicocele-surgery-benefit",
+    "title": "정계정맥류 결찰술 수술비, 색전술과 구분하는 법",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 95,
+    "url": "https://hospital.hbuby.com/surgery-benefit/vocal-polyp-surgery-benefit",
+    "title": "성대폴립 후두미세수술 수술비, 몇 종일까?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 96,
+    "url": "https://hospital.hbuby.com/treatment-costs/closed-hospital-prepaid-card-installment",
+    "title": "병원 폐업 후 선납 진료비, 카드 할부금이 남았다면?",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 97,
+    "url": "https://hospital.hbuby.com/treatment-costs/continuous-glucose-monitor-device-sensor-support",
+    "title": "연속혈당측정기 건강보험, 기기와 센서 지원을 따로 확인하세요",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  },
+  {
+    "n": 98,
+    "url": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "title": "수술 취소 후 예약금이 안 돌아온다면? 선납 진료비·검사비와 구분해 문의하기",
+    "status": "not_attempted",
+    "priority": "maintenance"
+  }
+]

@@ -1,0 +1,162 @@
+- main:
+  - heading "NAVER" [level=1]:
+    - link "NAVER":
+      - /url: https://www.naver.com
+      - img "NAVER"
+  - link "Search Advisor":
+    - /url: /
+  - link "웹마스터 도구":
+    - /url: /console/board
+  - link "웹마스터 가이드":
+    - /url: /guide
+    - generic: list_alt
+    - text: 웹마스터 가이드
+  - generic: 쏠레미
+  - button:
+    - generic: power_settings_new
+  - separator
+  - tablist:
+    - tab "사이트 관리" [selected]
+    - tab "간단체크"
+    - tab "도구 설정"
+  - separator
+  - strong: https://hospital.hbuby.com
+  - link "목록보기":
+    - /url: /console/board
+    - generic: format_list_bulleted
+    - text: 목록보기
+  - list:
+    - generic: assignment
+    - text: 요약
+    - button "리포트":
+      - generic: insert_chart
+      - text: 리포트
+      - generic: expand_more
+    - button "요청" [expanded]:
+      - generic: assignment_turned_in
+      - text: 요청
+      - generic: expand_more
+    - generic: 웹 페이지 수집
+    - generic: 웹 페이지 검색 제외
+    - generic: RSS 제출
+    - generic: 사이트맵 제출
+    - button "검증":
+      - generic: repeat
+      - text: 검증
+      - generic: expand_more
+    - generic: settings
+    - text: 설정
+  - list:
+    - generic: 웹마스터 도구
+    - listitem: /
+    - generic: 요청
+    - listitem: /
+    - generic: 웹 페이지 수집
+  - strong: 웹 페이지 수집
+  - generic: 수집 요청 URL 입력
+  - paragraph
+  - textbox: https://hospital.hbuby.com/guides/cancer-treatment-cost
+  - button "확인":
+    - generic: 확인
+  - generic: 수집 요청 내역
+  - generic: 최근 50개만 노출
+  - table:
+    - rowgroup:
+      - row "No URL 등록일":
+        - columnheader "No"
+        - columnheader "URL"
+        - columnheader "등록일"
+    - rowgroup:
+      - row "1 /guides/cancer-treatment-cost 26.10.29 18:24:43":
+        - cell "1"
+        - cell "/guides/cancer-treatment-cost":
+          - link "/guides/cancer-treatment-cost":
+            - /url: https://hospital.hbuby.com/guides/cancer-treatment-cost
+        - cell "26.10.29 18:24:43"
+      - row "2 /claims/surgery-record-additional-request 26.10.29 18:24:37":
+        - cell "2"
+        - cell "/claims/surgery-record-additional-request":
+          - link "/claims/surgery-record-additional-request":
+            - /url: https://hospital.hbuby.com/claims/surgery-record-additional-request
+        - cell "26.10.29 18:24:37"
+      - row "3 /claims/surgery-certificate-unavailable 26.10.29 18:24:32":
+        - cell "3"
+        - cell "/claims/surgery-certificate-unavailable":
+          - link "/claims/surgery-certificate-unavailable":
+            - /url: https://hospital.hbuby.com/claims/surgery-certificate-unavailable
+        - cell "26.10.29 18:24:32"
+      - row "4 /claims/surgery-certificate-missing-diagnosis 26.10.29 18:24:27":
+        - cell "4"
+        - cell "/claims/surgery-certificate-missing-diagnosis":
+          - link "/claims/surgery-certificate-missing-diagnosis":
+            - /url: https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis
+        - cell "26.10.29 18:24:27"
+      - row "5 /claims/sinus-endoscopic-surgery-documents 26.10.29 18:24:15":
+        - cell "5"
+        - cell "/claims/sinus-endoscopic-surgery-documents":
+          - link "/claims/sinus-endoscopic-surgery-documents":
+            - /url: https://hospital.hbuby.com/claims/sinus-endoscopic-surgery-documents
+        - cell "26.10.29 18:24:15"
+      - row "6 /claims/same-tooth-repeat-dental-treatment-claim 26.10.29 18:24:10":
+        - cell "6"
+        - cell "/claims/same-tooth-repeat-dental-treatment-claim":
+          - link "/claims/same-tooth-repeat-dental-treatment-claim":
+            - /url: https://hospital.hbuby.com/claims/same-tooth-repeat-dental-treatment-claim
+        - cell "26.10.29 18:24:10"
+      - row "7 /claims/overseas-pharmacy-prescription-claim 26.10.29 18:24:05":
+        - cell "7"
+        - cell "/claims/overseas-pharmacy-prescription-claim":
+          - link "/claims/overseas-pharmacy-prescription-claim":
+            - /url: https://hospital.hbuby.com/claims/overseas-pharmacy-prescription-claim
+        - cell "26.10.29 18:24:05"
+      - row "8 /claims/overseas-medical-note-diagnosis-claim 26.10.29 18:23:59":
+        - cell "8"
+        - cell "/claims/overseas-medical-note-diagnosis-claim":
+          - link "/claims/overseas-medical-note-diagnosis-claim":
+            - /url: https://hospital.hbuby.com/claims/overseas-medical-note-diagnosis-claim
+        - cell "26.10.29 18:23:59"
+      - row "9 /claims/overseas-hospital-card-slip-insurance 26.10.29 18:23:54":
+        - cell "9"
+        - cell "/claims/overseas-hospital-card-slip-insurance":
+          - link "/claims/overseas-hospital-card-slip-insurance":
+            - /url: https://hospital.hbuby.com/claims/overseas-hospital-card-slip-insurance
+        - cell "26.10.29 18:23:54"
+      - row "10 /claims/overseas-hospital-bill-documents 26.10.29 18:23:27":
+        - cell "10"
+        - cell "/claims/overseas-hospital-bill-documents":
+          - link "/claims/overseas-hospital-bill-documents":
+            - /url: https://hospital.hbuby.com/claims/overseas-hospital-bill-documents
+        - cell "26.10.29 18:23:27"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지" [disabled]:
+        - generic: chevron_left
+      - button "현재 페이지, 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "고토 페이지 3": "3"
+      - button "고토 페이지 4": "4"
+      - button "고토 페이지 5": "5"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: info
+  - text: 도움말
+  - list:
+    - generic: 요청 횟수는 사이트별로 제한될 수 있으며, 최근 한 달 이내의 요청 결과만 제공합니다.
+    - generic: 웹 페이지의 수집 및 색인까지의 소요 시간은 웹 페이지의 평판에 따라서 다릅니다.
+    - generic: 알고리즘을 통하여 스팸으로 판단되는 사이트의 수집 요청을 제한하고 있습니다.
+  - paragraph:
+    - text: 자세한 내용은
+    - link "웹마스터 가이드":
+      - /url: /guide/request-crawl
+    - text: 및
+    - link "스마트봇":
+      - /url: https://talk.naver.com/ct/w4o52y
+    - text: 에게 물어보세요
+- contentinfo:
+  - link "이용약관":
+    - /url: /policy/terms
+  - link "책임한계와 법적고지":
+    - /url: https://policy.naver.com/rules/disclaimer.html
+  - link "고객센터":
+    - /url: https://help.naver.com/alias/webmastertool/main.naver
+  - generic: ©NAVER Corp.

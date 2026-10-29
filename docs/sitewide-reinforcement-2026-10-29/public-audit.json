@@ -1,0 +1,982 @@
+[
+  {
+    "path": "/silbi/cartistem-silbi-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/gallbladder-pathology-request",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/surgery-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/mri-silbi-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/checkups/national-health-checkup",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/cancer-diagnosis-benefit-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/dental-extraction-implant-dates",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/dental-implant-insurance-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/english-operative-record-insurance-check",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/family-proxy-insurance-claim-form",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/gallbladder-polyp-surgery-insurance-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/gallstone-surgery-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/hospital-receipt-reissue",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/hospitalization-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/insurance-claim-bank-account-change",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/insurance-claim-method",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/insurance-claim-original-documents-request",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/insurance-claim-process",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/insurance-claim-supplement-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/medical-records-proxy-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/minor-child-insurance-claim-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/overseas-hospital-bill-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/overseas-hospital-card-slip-insurance",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/overseas-medical-note-diagnosis-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/overseas-pharmacy-prescription-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/same-tooth-repeat-dental-treatment-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/sinus-endoscopic-surgery-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/surgery-certificate-missing-diagnosis",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/surgery-certificate-unavailable",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/claims/surgery-record-additional-request",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/cancer-treatment-cost",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/caregiver-application",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/contrast-reaction-drug-safety-card",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/hira-medication-history-before-admission",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/home-nursing-before-discharge",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/iol-mri-device-information-check",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/night-hospital-checklist",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/rehab-inpatient-other-hospital-referral",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/guides/unused-prescription-medicine-disposal",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/abdominal-ultrasound-cost-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/cartistem-medical-necessity-supplement",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/cataract-preoperative-test-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/corrected-hospital-bill-insurance-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/ct-scan-cost-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/deductible-vs-copayment",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/emergency-room-cost-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/flu-test-cost-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/group-silbi-after-resignation-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/hospital-bill-correction-silbi-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/hospital-interim-bill-silbi-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/hospital-receipt-vs-payment-certificate",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/manual-therapy-silbi-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/overseas-stay-premium-refund-documents",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/pharmacy-prescription-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/post-travel-domestic-followup-silbi",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/sleep-study-cost-insurance",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/treatment-material-cost-silbi",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/silbi/uterine-fibroid-hifu-insurance",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/standards/dental-insurance-waiting-reduction",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/standards/premium-benefit-surrender-value",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/adenomyosis-hysterectomy-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/anal-abscess-drainage-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/anal-fistula-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/benign-thyroid-nodule-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/biliary-stent-removal-replacement-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/bph-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/breast-duct-excision-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/breast-fibroadenoma-excision-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/cartistem-concurrent-procedure-records",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/cervical-disc-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/endometriosis-laparoscopy-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/ercp",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-ercp-combined-claim",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/glaucoma-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-ligation-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/injury-surgery-classification",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/ovarian-cyst-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/percutaneous-kidney-stone-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/plantar-fasciitis-release-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/ptosis-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/repeated-ercp-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/retinal-detachment-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/same-surgery-different-policy-tiers",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/secondary-cataract-laser-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/sleep-apnea-throat-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/spinal-stenosis-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/tonsil-adenoid-same-day-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/tonsillectomy-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/varicocele-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/vocal-polyp-surgery-benefit",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/treatment-costs/closed-hospital-prepaid-card-installment",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/treatment-costs/continuous-glucose-monitor-device-sensor-support",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  },
+  {
+    "path": "/treatment-costs/surgery-deposit-cancellation-refund-records",
+    "status": 200,
+    "bodyMatches": true,
+    "titleMatches": true,
+    "canonicalMatches": true,
+    "imagesMatch": true,
+    "linksMatch": true,
+    "passed": true
+  }
+]
