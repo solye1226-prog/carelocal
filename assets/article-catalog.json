@@ -1050,6 +1050,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/diverticulitis-colectomy-claim-documents",
+    "title": "게실염 수술비 청구서류, 대장절제술·입원치료 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
     "title": "자궁내막용종 자궁경 수술비, 검사와 절제 구분하기",
     "category": "수술비"
