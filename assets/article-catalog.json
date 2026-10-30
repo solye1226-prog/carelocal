@@ -1065,6 +1065,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/dupuytren-fasciectomy-surgery-claim",
+    "title": "듀피트렌 구축 수술비, 건막절제술 청구서류와 방아쇠수지 차이",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
     "title": "자궁내막용종 자궁경 수술비, 검사와 절제 구분하기",
     "category": "수술비"
