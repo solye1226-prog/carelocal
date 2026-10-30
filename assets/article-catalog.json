@@ -1040,6 +1040,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/cubital-tunnel-ulnar-nerve-surgery-claim",
+    "title": "주관증후군 수술비, 척골신경 감압·전방이동술 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/de-quervain-release-claim-documents",
     "title": "손목건초염 수술비, 드퀘르벵 건초절개술 청구서류 확인",
     "category": "수술비"
