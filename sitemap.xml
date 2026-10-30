@@ -790,7 +790,7 @@
   <url><loc>https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis</loc><lastmod>2026-10-29</lastmod><priority>0.8</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/surgery-record-additional-request</loc><lastmod>2026-10-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/surgery-record-additional-request</loc><lastmod>2026-10-31</lastmod><priority>0.8</priority></url>
 
 
   <url><loc>https://hospital.hbuby.com/claims/surgery-certificate-unavailable</loc><lastmod>2026-10-29</lastmod><priority>0.8</priority></url>
@@ -1162,7 +1162,7 @@
 <url><loc>https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents</loc><lastmod>2026-10-17</lastmod></url>
 
 
-<url><loc>https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim</loc><lastmod>2026-10-17</lastmod></url>
+<url><loc>https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim</loc><lastmod>2026-10-31</lastmod></url>
 
 
 <url><loc>https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents</loc><lastmod>2026-10-17</lastmod></url>
@@ -1374,6 +1374,7 @@
 <url><loc>https://hospital.hbuby.com/claims/salivary-stone-surgery-claim-documents</loc><lastmod>2026-10-31</lastmod></url>
 <url><loc>https://hospital.hbuby.com/surgery-benefit/cubital-tunnel-ulnar-nerve-surgery-claim</loc><lastmod>2026-10-31</lastmod></url>
 <url><loc>https://hospital.hbuby.com/surgery-benefit/dupuytren-fasciectomy-surgery-claim</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://hospital.hbuby.com/claims/cholesteatoma-ear-surgery-claim-documents</loc><lastmod>2026-10-31</lastmod></url>
 </urlset>
 
 

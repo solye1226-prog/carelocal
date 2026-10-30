@@ -40,6 +40,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/cholesteatoma-ear-surgery-claim-documents",
+    "title": "진주종 수술비 청구서류, 유양동·고실성형 기록과 재수술 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/claim-paid-no-bank-deposit",
     "title": "보험금 지급완료인데 입금이 안 보이면? 지급내역·계좌 확인 순서",
     "category": "보험금 청구"
