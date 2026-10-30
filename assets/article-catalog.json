@@ -160,6 +160,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/hydrocele-surgery-claim-documents",
+    "title": "음낭수종 수술비 청구서류, 성인·소아와 천자흡입 구분",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/inguinal-hernia-surgery-claim-documents",
     "title": "서혜부 탈장 수술 보험금 청구서류, 복강경·절개 수술명 확인하기",
     "category": "보험금 청구"
