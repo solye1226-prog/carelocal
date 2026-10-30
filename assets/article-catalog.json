@@ -1345,6 +1345,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/vertebral-compression-fracture-vertebroplasty-claim",
+    "title": "척추압박골절 수술비, 척추성형술·풍선후만성형술 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/vocal-polyp-surgery-benefit",
     "title": "성대폴립 후두미세수술 수술비, 몇 종일까?",
     "category": "수술비"
