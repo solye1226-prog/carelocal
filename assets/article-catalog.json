@@ -360,6 +360,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/salivary-stone-surgery-claim-documents",
+    "title": "타석증 수술비 청구서류, 침샘결석 제거·침샘절제 구분",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/same-day-multiple-departments-silbi",
     "title": "같은 날 두 진료과 실비 청구, 영수증과 공제 단위 확인법",
     "category": "보험금 청구"
