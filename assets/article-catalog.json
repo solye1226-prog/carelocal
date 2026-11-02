@@ -910,6 +910,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/vestibular-function-test-claim",
+    "title": "전정기능검사 실비·비용, 어지럼증 검사 종류와 제출자료",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/vitamin-infusion-drug-purpose",
     "title": "비타민 수액 실비, 상품명보다 약제 성분·투여 목적을 확인하세요",
     "category": "실비보험"
