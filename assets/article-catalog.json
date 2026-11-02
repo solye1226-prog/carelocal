@@ -945,6 +945,11 @@
     "category": "진단비"
   },
   {
+    "path": "/diagnosis-benefit/cdr-gds-dementia-scale-difference",
+    "title": "CDR GDS 차이, 치매검사 결과지와 보험 약관 대조 방법",
+    "category": "진단비"
+  },
+  {
     "path": "/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
     "title": "뇌혈관질환 진단비 청구서류, 진단서 외 확인할 자료는?",
     "category": "진단비"
