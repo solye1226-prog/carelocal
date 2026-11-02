@@ -2065,6 +2065,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/workplace-health-checkup-missed-penalty",
+    "title": "직장인 건강검진 미수검 과태료, 사업주·근로자 기준과 확인 순서",
+    "category": "건강검진"
+  },
+  {
     "path": "/guides/alzheimer-injection-therapy",
     "title": "치매 주사 치료는 누가 받을까? 알츠하이머 치료 대상·검사·주의사항",
     "category": "방문 가이드"
