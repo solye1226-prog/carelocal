@@ -935,6 +935,11 @@
     "category": "진단비"
   },
   {
+    "path": "/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+    "title": "치매보험 진단비 청구서류, CDR 검사결과와 특약 조건 확인",
+    "category": "진단비"
+  },
+  {
     "path": "/diagnosis-benefit/integrated-cancer-metastasis-vs-rediagnosis",
     "title": "통합암진단비 전이암 포함, 재진단암과 같은 뜻일까?",
     "category": "진단비"
