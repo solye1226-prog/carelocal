@@ -296,7 +296,7 @@
   },
   {
     "path": "/claims/medical-expense-claim-documents",
-    "title": "실비보험 청구서류 정리 | 진료비 영수증·세부내역서·처방전",
+    "title": "실비보험 청구서류, 영수증·세부내역서·처방전 준비 순서",
     "category": "보험금 청구"
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "path": "/silbi/abdominal-ultrasound-cost-claim",
-    "title": "복부초음파 검사비, 건강보험 적용과 실비 청구 확인법",
+    "title": "상복부 초음파 실비·비용, 검진과 진료 목적 및 청구서류",
     "category": "실비보험"
   },
   {
@@ -1061,7 +1061,7 @@
   },
   {
     "path": "/surgery-benefit/cataract-surgery-benefit",
-    "title": "백내장 수술비 몇 종일까? 인공수정체·수술명과 약관 확인 방법",
+    "title": "백내장 수술비 몇종? 인공수정체삽입술과 약관 분류표 확인",
     "category": "수술비"
   },
   {
@@ -1986,7 +1986,7 @@
   },
   {
     "path": "/checkups/health-checkup-fasting-medication",
-    "title": "건강검진 금식과 복용약, 예약 병원에 확인할 사항",
+    "title": "건강검진 금식·복용약·전날 술, 검사 전 확인할 사항",
     "category": "건강검진"
   },
   {
