@@ -1340,6 +1340,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/septic-arthritis-lavage-claim",
+    "title": "화농성 관절염 수술비, 관절경 세척·배농 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/shoulder-dislocation-bankart-repair-claim",
     "title": "어깨탈구 수술비 청구서류, 방카르트 봉합술과 도수정복 구분",
     "category": "수술비"
