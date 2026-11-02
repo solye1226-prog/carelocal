@@ -1270,6 +1270,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/preauricular-fistula-excision-claim",
+    "title": "전이개누공 수술비, 이루공 절제술·선천성 담보 확인",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/ptbd-biliary-drainage-insurance",
     "title": "담도 배액술 PTBD 수술비, ERCP·담낭절제술과 청구 기록은 어떻게 다를까?",
     "category": "수술비"
