@@ -740,6 +740,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/neuropsychological-snsb-test-claim",
+    "title": "신경심리검사 실비·비용, SNSB 검사와 치매 진단서 구분",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/nhis-ineligible-medical-cost-silbi",
     "title": "건강보험 미적용 실비 청구, 자격 문제와 비급여 치료는 어떻게 다를까?",
     "category": "실비보험"
