@@ -1315,6 +1315,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/scaphoid-nonunion-bone-graft-claim",
+    "title": "주상골 불유합 수술비, 골이식·나사고정 청구서류 확인",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/second-tier-surgery-benefit",
     "title": "2종 수술보험금, 내 수술이 해당하는지 확인하는 법",
     "category": "수술비"
