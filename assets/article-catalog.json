@@ -1205,6 +1205,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/hidradenitis-suppurativa-excision-claim",
+    "title": "화농성 한선염 수술비, 절개배농·병변절제 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/hip-arthroplasty-claim-documents",
     "title": "고관절 인공관절 수술비, 반치환술·전치환술 청구서류",
     "category": "수술비"
