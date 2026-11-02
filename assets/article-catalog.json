@@ -1115,6 +1115,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/frozen-shoulder-capsular-release-claim",
+    "title": "오십견 수술비, 관절낭유리술·마취하 도수조작 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/gallbladder-ercp-combined-claim",
     "title": "담낭절제술과 ERCP를 모두 받았다면 수술비는 각각 청구할까?",
     "category": "수술비"
