@@ -1,0 +1,13 @@
+{
+  "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+  "status": "passed",
+  "http_status": 200,
+  "example_rows": 11,
+  "local_public_body_links_styles": "match",
+  "images_verified": [
+    "/assets/images/surgery-classification-thumb.webp",
+    "/assets/images/surgery-classification-policy.webp",
+    "/assets/images/surgery-classification-review.webp"
+  ],
+  "indexing": "not checked or requested"
+}
