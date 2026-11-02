@@ -775,6 +775,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/prostate-ultrasound-cost-claim",
+    "title": "전립선 초음파 비용·실비, 검진과 진료 목적 및 청구서류 비교",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/psychiatry-covered-silbi-documents",
     "title": "정신과 실비 청구서류, 진료비·약값·상담비를 어떻게 구분할까?",
     "category": "실비보험"
