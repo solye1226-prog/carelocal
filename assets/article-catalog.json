@@ -1260,6 +1260,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/osteomyelitis-debridement-sequestrectomy-claim",
+    "title": "골수염 수술비 청구서류, 부골제거·변연절제와 금속 제거 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/otosclerosis-stapes-surgery-claim",
     "title": "이경화증 수술비 청구서류, 등골절개술·등골절제술 확인",
     "category": "수술비"
