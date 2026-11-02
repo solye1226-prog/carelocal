@@ -1245,6 +1245,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/pilonidal-disease-operation-claim",
+    "title": "모소낭 수술비 청구서류, 절개배농·모소낭 절제 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/plantar-fasciitis-release-benefit",
     "title": "족저근막염 근막절개술 수술비, 체외충격파와 구분하기",
     "category": "수술비"
