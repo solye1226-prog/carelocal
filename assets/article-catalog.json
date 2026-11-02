@@ -756,7 +756,7 @@
   },
   {
     "path": "/silbi/pharmacy-prescription-claim",
-    "title": "약값 실비 청구, 처방전과 약제비 영수증 무엇이 필요할까?",
+    "title": "약제비 실비 청구서류, 약국 영수증·처방전과 공제 확인",
     "category": "실비보험"
   },
   {
@@ -926,7 +926,7 @@
   },
   {
     "path": "/diagnosis-benefit/cerebrovascular-living-cost",
-    "title": "심뇌혈관보험 치료 중 생활비 확인 기준 | 케어로컬",
+    "title": "뇌혈관·심장 진단비와 생활비 보장, 입원일당·주요치료비 구분",
     "category": "진단비"
   },
   {
@@ -1256,7 +1256,7 @@
   },
   {
     "path": "/surgery-benefit/mammotome-surgery-benefit",
-    "title": "맘모톰 수술비 보험, 질병수술비와 종수술비는 어떻게 확인할까?",
+    "title": "맘모톰 종수술비 몇 종? 질병수술비·실비와 구분하는 기준",
     "category": "수술비"
   },
   {
@@ -1726,12 +1726,12 @@
   },
   {
     "path": "/standards/indemnity-proportional-compensation",
-    "title": "실손 비례보상 계산, 보험 2개인데 왜 반씩 안 나올까?",
+    "title": "실비 비례보상 계산법, 보험 2개 청구할 때 확인할 금액",
     "category": "약관·기준"
   },
   {
     "path": "/standards/insurable-value-vs-insured-amount",
-    "title": "보험가액·보험가입금액 차이, 보험금액은 실제 받는 돈일까?",
+    "title": "보험가액 보험금액 차이, 보험가입금액·지급보험금 구분",
     "category": "약관·기준"
   },
   {
@@ -1786,7 +1786,7 @@
   },
   {
     "path": "/underwriting/simplified-health-insurance-cancer-brain",
-    "title": "유병자보험 암·뇌혈관 치료비 확인 기준 | 케어로컬",
+    "title": "유병자보험 간편심사, 일반심사와 고지·암·뇌혈관 보장 비교",
     "category": "가입 심사"
   },
   {
@@ -1861,7 +1861,7 @@
   },
   {
     "path": "/caregiver/caregiver-insurance-renewal-period",
-    "title": "간병인보험 갱신주기 확인 기준 | 케어로컬",
+    "title": "간병인보험 갱신형 비교, 갱신주기·보험료·지원비용 구분",
     "category": "간병"
   },
   {
@@ -2101,7 +2101,7 @@
   },
   {
     "path": "/guides/ct-mri-image-cd-transfer",
-    "title": "CT·MRI 영상 CD 발급, 다른 병원에 갈 때 판독지도 필요할까?",
+    "title": "MRI·CT CD 발급 비용과 준비서류, 판독지·대리발급 확인",
     "category": "방문 가이드"
   },
   {
