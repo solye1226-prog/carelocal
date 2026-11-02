@@ -91,7 +91,7 @@
   <url><loc>https://hospital.hbuby.com/claims/insurance-claim-limitation</loc><priority>0.9</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/claims/medical-expense-claim-documents</loc><lastmod>2026-10-28</lastmod><priority>0.9</priority></url>
+  <url><loc>https://hospital.hbuby.com/claims/medical-expense-claim-documents</loc><lastmod>2026-11-02</lastmod><priority>0.9</priority></url>
 
 
   <url><loc>https://hospital.hbuby.com/claims/hospitalization-claim-documents</loc><lastmod>2026-11-02</lastmod><priority>0.9</priority></url>
@@ -1396,6 +1396,7 @@
 <url><loc>https://hospital.hbuby.com/surgery-benefit/osteomyelitis-debridement-sequestrectomy-claim</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://hospital.hbuby.com/surgery-benefit/hidradenitis-suppurativa-excision-claim</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://hospital.hbuby.com/surgery-benefit/cochlear-implant-surgery-cost-claim</loc><lastmod>2026-11-02</lastmod></url>
+<url><loc>https://hospital.hbuby.com/claims/epost-silbi-claim-documents</loc><lastmod>2026-11-02</lastmod></url>
 </urlset>
 
 

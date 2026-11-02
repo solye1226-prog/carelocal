@@ -115,6 +115,11 @@
     "category": "보험금 청구"
   },
   {
+    "path": "/claims/epost-silbi-claim-documents",
+    "title": "우체국 실비 청구서류, 입원·통원·약제비 준비와 제출 확인",
+    "category": "보험금 청구"
+  },
+  {
     "path": "/claims/family-liability-water-leak-deductible",
     "title": "누수 사고 일배책 자기부담금 확인 기준 | 케어로컬",
     "category": "보험금 청구"
