@@ -1,0 +1,20 @@
+{
+  "source": "ABL official 2023-11 policy downloaded and visually reviewed earlier on 2026-11-03; same retained local PDF",
+  "new_download": "Web tool returned overseas-access restriction. No access workaround attempted. Fixed historical PDF already on disk used.",
+  "first_tier_count": 10,
+  "representative_count": 8,
+  "clauses": [
+    2,
+    7,
+    14,
+    17,
+    23,
+    39,
+    44,
+    63,
+    71,
+    82
+  ],
+  "traffic_basis": "User-provided historical Naver keyword screenshots, not newly measured search volume",
+  "scope": "Only existing surgery-classification page; no new posts or indexing submissions"
+}
