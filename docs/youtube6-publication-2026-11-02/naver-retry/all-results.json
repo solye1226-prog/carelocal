@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/cochlear-implant-surgery-cost-claim",
+    "status": "accepted",
+    "registration": "1\t\n/surgery-benefit/cochlear-implant-surgery-cost-claim\n\t26.11.02 22:16:35",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid",
+    "status": "accepted",
+    "registration": "1\t\n/silbi/audiometry-test-vs-hearing-aid\n\t26.11.02 22:17:11",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+    "status": "existing_accepted_excluded",
+    "evidence": "\n          10\n         \n            /surgery-benefit/tympanoplasty-ear-surgery-claim\n           \n          26.11.02 13:21:59\n        ",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/epost-silbi-claim-documents",
+    "status": "accepted",
+    "registration": "1\t\n/claims/epost-silbi-claim-documents\n\t26.11.02 22:17:16",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "status": "accepted",
+    "registration": "1\t\n/claims/medical-expense-claim-documents\n\t26.11.02 22:17:21",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "status": "accepted",
+    "registration": "1\t\n/claims/insurance-claim-method\n\t26.11.02 22:17:27",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+    "status": "accepted",
+    "registration": "1\t\n/diagnosis-benefit/dementia-diagnosis-benefit-documents\n\t26.11.02 22:17:36",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "status": "submitted_unconfirmed",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/workplace-health-checkup-missed-penalty",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/missed-health-checkup-application",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/health-checkup-target-2026",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/health-checkup-result-reissue",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/national-health-checkup",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/prostate-ultrasound-cost-claim",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/high-psa-followup",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/bph-surgery-benefit",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication",
+    "status": "not_attempted",
+    "reason": "Browser transport stopped responding: CDP Emulation.setFocusEmulationEnabled timeout. No further submissions or alternate account/browser used.",
+    "indexing": "unknown"
+  }
+]

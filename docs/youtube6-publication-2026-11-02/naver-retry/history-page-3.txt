@@ -1,0 +1,163 @@
+- main:
+  - heading "NAVER" [level=1]:
+    - link "NAVER":
+      - /url: https://www.naver.com
+      - img "NAVER"
+  - link "Search Advisor":
+    - /url: /
+  - link "웹마스터 도구":
+    - /url: /console/board
+  - link "웹마스터 가이드":
+    - /url: /guide
+    - generic: list_alt
+    - text: 웹마스터 가이드
+  - generic: 쏠레미
+  - button:
+    - generic: power_settings_new
+  - separator
+  - tablist:
+    - tab "사이트 관리" [selected]
+    - tab "간단체크"
+    - tab "도구 설정"
+  - separator
+  - strong: https://hospital.hbuby.com
+  - link "목록보기":
+    - /url: /console/board
+    - generic: format_list_bulleted
+    - text: 목록보기
+  - list:
+    - generic: assignment
+    - text: 요약
+    - button "리포트":
+      - generic: insert_chart
+      - text: 리포트
+      - generic: expand_more
+    - button "요청" [expanded]:
+      - generic: assignment_turned_in
+      - text: 요청
+      - generic: expand_more
+    - generic: 웹 페이지 수집
+    - generic: 웹 페이지 검색 제외
+    - generic: RSS 제출
+    - generic: 사이트맵 제출
+    - button "검증":
+      - generic: repeat
+      - text: 검증
+      - generic: expand_more
+    - generic: settings
+    - text: 설정
+  - list:
+    - generic: 웹마스터 도구
+    - listitem: /
+    - generic: 요청
+    - listitem: /
+    - generic: 웹 페이지 수집
+  - strong: 웹 페이지 수집
+  - generic: 수집 요청 URL 입력
+  - paragraph
+  - generic: https://hospital.hbuby.com
+  - textbox "https://hospital.hbuby.com"
+  - button "확인":
+    - generic: 확인
+  - generic: 수집 요청 내역
+  - generic: 최근 50개만 노출
+  - table:
+    - rowgroup:
+      - row "No URL 등록일":
+        - columnheader "No"
+        - columnheader "URL"
+        - columnheader "등록일"
+    - rowgroup:
+      - row "21 /surgery-benefit/tfcc-repair-debridement-claim 26.11.02 13:12:24":
+        - cell "21"
+        - cell "/surgery-benefit/tfcc-repair-debridement-claim":
+          - link "/surgery-benefit/tfcc-repair-debridement-claim":
+            - /url: https://hospital.hbuby.com/surgery-benefit/tfcc-repair-debridement-claim
+        - cell "26.11.02 13:12:24"
+      - row "22 /surgery-benefit/meniscus-repair-vs-meniscectomy-benefit 26.11.02 12:12:53":
+        - cell "22"
+        - cell "/surgery-benefit/meniscus-repair-vs-meniscectomy-benefit":
+          - link "/surgery-benefit/meniscus-repair-vs-meniscectomy-benefit":
+            - /url: https://hospital.hbuby.com/surgery-benefit/meniscus-repair-vs-meniscectomy-benefit
+        - cell "26.11.02 12:12:53"
+      - row "23 /claims/hydrocele-surgery-claim-documents 26.11.02 12:12:48":
+        - cell "23"
+        - cell "/claims/hydrocele-surgery-claim-documents":
+          - link "/claims/hydrocele-surgery-claim-documents":
+            - /url: https://hospital.hbuby.com/claims/hydrocele-surgery-claim-documents
+        - cell "26.11.02 12:12:48"
+      - row "24 /claims/cholesteatoma-ear-surgery-claim-documents 26.11.02 12:12:42":
+        - cell "24"
+        - cell "/claims/cholesteatoma-ear-surgery-claim-documents":
+          - link "/claims/cholesteatoma-ear-surgery-claim-documents":
+            - /url: https://hospital.hbuby.com/claims/cholesteatoma-ear-surgery-claim-documents
+        - cell "26.11.02 12:12:42"
+      - row "25 /surgery-benefit/epidermal-cyst-drainage-vs-excision 26.11.02 12:12:37":
+        - cell "25"
+        - cell "/surgery-benefit/epidermal-cyst-drainage-vs-excision":
+          - link "/surgery-benefit/epidermal-cyst-drainage-vs-excision":
+            - /url: https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision
+        - cell "26.11.02 12:12:37"
+      - row "26 /surgery-benefit/anal-abscess-drainage-benefit 26.11.02 12:12:25":
+        - cell "26"
+        - cell "/surgery-benefit/anal-abscess-drainage-benefit":
+          - link "/surgery-benefit/anal-abscess-drainage-benefit":
+            - /url: https://hospital.hbuby.com/surgery-benefit/anal-abscess-drainage-benefit
+        - cell "26.11.02 12:12:25"
+      - row "27 /surgery-benefit/wound-suture-specific-rider 26.11.02 12:12:19":
+        - cell "27"
+        - cell "/surgery-benefit/wound-suture-specific-rider":
+          - link "/surgery-benefit/wound-suture-specific-rider":
+            - /url: https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider
+        - cell "26.11.02 12:12:19"
+      - row "28 /silbi/manual-therapy-silbi-claim 26.11.02 12:12:14":
+        - cell "28"
+        - cell "/silbi/manual-therapy-silbi-claim":
+          - link "/silbi/manual-therapy-silbi-claim":
+            - /url: https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim
+        - cell "26.11.02 12:12:14"
+      - row "29 /surgery-benefit/rotator-cuff 26.11.02 12:12:09":
+        - cell "29"
+        - cell "/surgery-benefit/rotator-cuff":
+          - link "/surgery-benefit/rotator-cuff":
+            - /url: https://hospital.hbuby.com/surgery-benefit/rotator-cuff
+        - cell "26.11.02 12:12:09"
+      - row "30 /claims/hospitalization-claim-documents 26.11.02 12:12:03":
+        - cell "30"
+        - cell "/claims/hospitalization-claim-documents":
+          - link "/claims/hospitalization-claim-documents":
+            - /url: https://hospital.hbuby.com/claims/hospitalization-claim-documents
+        - cell "26.11.02 12:12:03"
+  - navigation "Pagination Navigation":
+    - list:
+      - button "이전 페이지":
+        - generic: chevron_left
+      - button "고토 페이지 1": "1"
+      - button "고토 페이지 2": "2"
+      - button "현재 페이지, 페이지 3" [active]: "3"
+      - button "고토 페이지 4": "4"
+      - button "고토 페이지 5": "5"
+      - button "다음 페이지":
+        - generic: chevron_right
+  - generic: info
+  - text: 도움말
+  - list:
+    - generic: 요청 횟수는 사이트별로 제한될 수 있으며, 최근 한 달 이내의 요청 결과만 제공합니다.
+    - generic: 웹 페이지의 수집 및 색인까지의 소요 시간은 웹 페이지의 평판에 따라서 다릅니다.
+    - generic: 알고리즘을 통하여 스팸으로 판단되는 사이트의 수집 요청을 제한하고 있습니다.
+  - paragraph:
+    - text: 자세한 내용은
+    - link "웹마스터 가이드":
+      - /url: /guide/request-crawl
+    - text: 및
+    - link "스마트봇":
+      - /url: https://talk.naver.com/ct/w4o52y
+    - text: 에게 물어보세요
+- contentinfo:
+  - link "이용약관":
+    - /url: /policy/terms
+  - link "책임한계와 법적고지":
+    - /url: https://policy.naver.com/rules/disclaimer.html
+  - link "고객센터":
+    - /url: https://help.naver.com/alias/webmastertool/main.naver
+  - generic: ©NAVER Corp.

@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/cochlear-implant-surgery-cost-claim",
+    "status": "accepted",
+    "registration": "1\t\n/surgery-benefit/cochlear-implant-surgery-cost-claim\n\t26.11.02 22:16:35",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid",
+    "status": "accepted",
+    "registration": "1\t\n/silbi/audiometry-test-vs-hearing-aid\n\t26.11.02 22:17:11",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/epost-silbi-claim-documents",
+    "status": "accepted",
+    "registration": "1\t\n/claims/epost-silbi-claim-documents\n\t26.11.02 22:17:16",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "status": "accepted",
+    "registration": "1\t\n/claims/medical-expense-claim-documents\n\t26.11.02 22:17:21",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "status": "accepted",
+    "registration": "1\t\n/claims/insurance-claim-method\n\t26.11.02 22:17:27",
+    "indexing": "unknown"
+  },
+  {
+    "url": "https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+    "status": "accepted",
+    "registration": "1\t\n/diagnosis-benefit/dementia-diagnosis-benefit-documents\n\t26.11.02 22:17:36",
+    "indexing": "unknown"
+  }
+]
