@@ -1065,6 +1065,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/distal-radius-fracture-fixation-claim",
+    "title": "손목골절 수술비 청구서류, 원위요골 금속판 고정술 확인",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/diverticulitis-colectomy-claim-documents",
     "title": "게실염 수술비 청구서류, 대장절제술·입원치료 구분",
     "category": "수술비"
