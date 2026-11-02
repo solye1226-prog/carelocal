@@ -890,6 +890,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/urodynamic-study-cost-claim",
+    "title": "요역동학검사 실비·비용, 방광기능검사와 수술 전 검사자료",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/uroflowmetry-residual-urine-test-claim",
     "title": "요속검사 잔뇨검사 실비, 전립선 초음파와 비용 항목 구분",
     "category": "실비보험"
