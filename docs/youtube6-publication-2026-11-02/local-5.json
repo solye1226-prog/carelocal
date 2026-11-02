@@ -1,0 +1,11 @@
+{
+  "n": 5,
+  "url": "https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup",
+  "public": false,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/checkups/health-checkup-result-reissue",
+    "/checkups/national-health-checkup"
+  ]
+}

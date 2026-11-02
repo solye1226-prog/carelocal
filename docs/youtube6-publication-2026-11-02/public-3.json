@@ -1,0 +1,11 @@
+{
+  "n": 3,
+  "url": "https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+  "public": true,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/silbi/leqembi-silbi-claim",
+    "/silbi/dementia-designated-proxy-claimant"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-02",
+  "cochlear": {
+    "url": "https://www.hira.or.kr/bbsDummy.do?brdBltNo=47809&brdScnBltNo=4&pgmid=HIRAA010006011100",
+    "verified": "HIRA official page via web text, 2026-09-15. Direct request timed out; do not treat local failed fetch as evidence."
+  },
+  "dementia": {
+    "url": "https://www.samsungfire.com/publication/pdf/ZPB369040_0_20260101_file1.pdf?_v=202601100034#page=328",
+    "verified": "Official 801-page PDF text via web, PDF pages 327-338; CDR 1/2/3 riders separate. Screenshot unavailable, local base URL returned 411. No claim that all policies share these conditions."
+  },
+  "law": {
+    "url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=167382913&bylClsCd=110201",
+    "verified": "Current 2026-08-01 decree, annex 35 PDF pages21-22 rendered and visually checked. Future 2027 annex excluded."
+  },
+  "prostate": {
+    "url": "https://www.brmh.org/medi_info/non_medifee.do?site=001&user_code=009015000&CSUBCD_NM1=%ED%96%89%EC%9C%84%EB%A3%8C&CSUBCD_NM2=%EC%A0%84%EC%B2%B4&searchword=%EC%A0%84%EB%A6%BD%EC%84%A0",
+    "verified": "Live hospital search via CUA, saved prostate-price-live-dom.txt. Original page=49 no longer contains this item, replaced with live search URL. 93000/104000 min/max in EB4510001 row, not total fee."
+  },
+  "alcohol": {
+    "url": "https://health.hanilmed.net/health/contents.do?menuNo=60300000",
+    "verified": "Official hospital prep instructions. Its 2-3 days avoid excess drinking advice not treated as universal fasting or medication rule."
+  }
+}

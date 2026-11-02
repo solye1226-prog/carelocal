@@ -1,0 +1,151 @@
+[
+  {
+    "path": "/surgery-benefit/cochlear-implant-surgery-cost-claim",
+    "slug": "cochlear-implant-surgery-cost-claim",
+    "keyword": "인공와우 수술비",
+    "title": "인공와우 수술비, 건강보험·기기 비용과 수술비 청구서류 구분",
+    "desc": "인공와우 수술비는 수술 자체의 비용, 내부·외부 장치, 수술 후 조절·재활 비용을 나눠 봐야 합니다. 건강보험 급여와 민간 수술비 담보를 구분하고 견적서·수술확인서에서 확인할 항목을 정리합니다.",
+    "cat": "수술비",
+    "parents": [
+      "/silbi/audiometry-test-vs-hearing-aid",
+      "/surgery-benefit/tympanoplasty-ear-surgery-claim"
+    ],
+    "sources": [
+      [
+        "https://www.hira.or.kr/bbsDummy.do?brdBltNo=47809&brdScnBltNo=4&pgmid=HIRAA010006011100",
+        "건강보험심사평가원 인공와우 급여기준",
+        "2026.9.15 게시 기준. 연령·청력·보청기 사용 및 장치 급여 조건"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 보험금 청구서류 예시",
+        "개별 담보 약관과 함께 필요한 수술 자료 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/claims/epost-silbi-claim-documents",
+    "slug": "epost-silbi-claim-documents",
+    "keyword": "우체국 실비 청구서류",
+    "title": "우체국 실비 청구서류, 입원·통원·약제비 준비와 제출 확인",
+    "desc": "우체국 실비 청구서류는 입원·통원·약제비에 따라 다릅니다. 우체국보험 공식 구비서류의 처방전 생략 조건, 날짜별 영수증, 모바일·방문 제출 전 확인할 사항을 정리합니다.",
+    "cat": "보험금 청구",
+    "parents": [
+      "/claims/medical-expense-claim-documents",
+      "/claims/insurance-claim-method"
+    ],
+    "sources": [
+      [
+        "https://www.epostlife.go.kr/PYIMRD0002.do",
+        "우체국보험 실손 구비서류 원문",
+        "입원·통원·약제비와 동일 질병 소액 청구의 처방전 조건"
+      ],
+      [
+        "https://www.epostlife.go.kr/PYIMIM0001.do",
+        "우체국보험 청구방법·절차",
+        "공식 접수 경로와 원본·사본 안내"
+      ]
+    ]
+  },
+  {
+    "path": "/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+    "slug": "dementia-diagnosis-benefit-documents",
+    "keyword": "치매보험 진단비 청구서류",
+    "title": "치매보험 진단비 청구서류, CDR 검사결과와 특약 조건 확인",
+    "desc": "치매보험 진단비 청구서류는 진단서만으로 끝나지 않을 수 있습니다. CDR 평가와 진료기록, 담보별 치매 정도·보장개시·상태 지속 조건을 실제 공개 약관 예시와 나눠 확인합니다.",
+    "cat": "진단비",
+    "parents": [
+      "/silbi/leqembi-silbi-claim",
+      "/silbi/dementia-designated-proxy-claimant"
+    ],
+    "sources": [
+      [
+        "https://www.samsungfire.com/publication/pdf/ZPB369040_0_20260101_file1.pdf?_v=202601100034#page=328",
+        "삼성화재 헤리티지 클래스 2601.3 약관",
+        "2026.1 공개판의 경증·중등도·중증 치매 진단비 특약 예시. 본인 계약과 대조"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 진단비 구비서류 안내",
+        "청구서·진단 자료 및 추가 요청 항목 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/checkups/workplace-health-checkup-missed-penalty",
+    "slug": "workplace-health-checkup-missed-penalty",
+    "keyword": "직장인 건강검진 미수검 과태료",
+    "title": "직장인 건강검진 미수검 과태료, 사업주·근로자 기준과 확인 순서",
+    "desc": "직장인 건강검진 미수검 과태료는 모든 국가검진 미수검자에게 자동 부과되는 벌금이 아닙니다. 산업안전보건법상 건강진단 의무와 사업주·근로자의 기준, 검진 증빙·추가등록 확인 순서를 정리합니다.",
+    "cat": "건강검진",
+    "parents": [
+      "/checkups/missed-health-checkup-application",
+      "/checkups/health-checkup-target-2026"
+    ],
+    "sources": [
+      [
+        "https://www.law.go.kr/법령/산업안전보건법시행령",
+        "국가법령정보센터 산업안전보건법 시행령",
+        "2026.8.1 시행판과 별표 35 현행 조문 확인"
+      ],
+      [
+        "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=167382913&bylClsCd=110201",
+        "현행 별표 35 과태료 부과기준 PDF",
+        "2026.11.2 확인한 현행 별표. 일반기준과 개별기준 함께 확인"
+      ],
+      [
+        "https://1350.moel.go.kr/rtmview.do?id=1000320231",
+        "고용노동부 1350 건강진단 안내",
+        "일반건강진단 의무와 사무직·그 밖의 근로자 주기 설명"
+      ]
+    ]
+  },
+  {
+    "path": "/checkups/driving-license-renewal-health-checkup",
+    "slug": "driving-license-renewal-health-checkup",
+    "keyword": "운전면허 갱신 건강검진",
+    "title": "운전면허 갱신 건강검진, 적성검사 대체 가능 범위와 조회 조건",
+    "desc": "운전면허 갱신 건강검진 자료는 일부 적성검사 신체검사를 대체하는 데 사용할 수 있습니다. 1종 보통·70세 이상 2종의 범위, 2년 이내 검진과 자료 반영·시력 기준을 구분해 확인합니다.",
+    "cat": "건강검진",
+    "parents": [
+      "/checkups/health-checkup-result-reissue",
+      "/checkups/national-health-checkup"
+    ],
+    "sources": [
+      [
+        "https://www.safedriving.or.kr/diGuide/selectDiGuide01.do",
+        "한국도로교통공단 적성검사·면허갱신 안내",
+        "건강검진 자료 이용 범위·검사일·시력 및 갱신기간 확인"
+      ]
+    ]
+  },
+  {
+    "path": "/silbi/prostate-ultrasound-cost-claim",
+    "slug": "prostate-ultrasound-cost-claim",
+    "keyword": "전립선 초음파 실비",
+    "title": "전립선 초음파 비용·실비, 검진과 진료 목적 및 청구서류 비교",
+    "desc": "전립선 초음파 비용과 실비는 검사명만으로 정해지지 않습니다. 증상 진료·검진 선택검사의 목적, 급여·비급여 내역과 병원 공개가격, 영수증·세부내역서의 확인 순서를 정리합니다.",
+    "cat": "실비보험",
+    "parents": [
+      "/checkups/high-psa-followup",
+      "/surgery-benefit/bph-surgery-benefit"
+    ],
+    "sources": [
+      [
+        "https://www.brmh.org/medi_info/non_medifee.do?site=001&user_code=009015000&CSUBCD_NM1=%ED%96%89%EC%9C%84%EB%A3%8C&CSUBCD_NM2=%EC%A0%84%EC%B2%B4&searchword=%EC%A0%84%EB%A6%BD%EC%84%A0",
+        "보라매병원 비급여 진료비 공개",
+        "전립선·정낭 초음파 항목의 해당 병원 가격 예시. 총 진료비 아님"
+      ],
+      [
+        "https://kbthink.com/insurance/claims/ultrasonic-waves.html",
+        "KB 공식 초음파 실비 안내",
+        "검사 목적과 가입 실손 조건의 구분"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 실손 청구서류 예시",
+        "영수증·세부내역서 등 가입 회사별 필요 자료 확인"
+      ]
+    ]
+  }
+]

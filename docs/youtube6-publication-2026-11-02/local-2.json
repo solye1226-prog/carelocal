@@ -1,0 +1,11 @@
+{
+  "n": 2,
+  "url": "https://hospital.hbuby.com/claims/epost-silbi-claim-documents",
+  "public": false,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/claims/medical-expense-claim-documents",
+    "/claims/insurance-claim-method"
+  ]
+}

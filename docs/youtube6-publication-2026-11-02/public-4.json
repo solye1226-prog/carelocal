@@ -1,0 +1,11 @@
+{
+  "n": 4,
+  "url": "https://hospital.hbuby.com/checkups/workplace-health-checkup-missed-penalty",
+  "public": true,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/checkups/missed-health-checkup-application",
+    "/checkups/health-checkup-target-2026"
+  ]
+}

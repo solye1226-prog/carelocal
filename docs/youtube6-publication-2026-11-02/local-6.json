@@ -1,0 +1,11 @@
+{
+  "n": 6,
+  "url": "https://hospital.hbuby.com/silbi/prostate-ultrasound-cost-claim",
+  "public": false,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/checkups/high-psa-followup",
+    "/surgery-benefit/bph-surgery-benefit"
+  ]
+}

@@ -1,0 +1,158 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/health-checkup-result-reissue",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/health-checkup-target-2026",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/high-psa-followup",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/missed-health-checkup-application",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/national-health-checkup",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/checkups/workplace-health-checkup-missed-penalty",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/epost-silbi-claim-documents",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/diagnosis-benefit/",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/prostate-ultrasound-cost-claim",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/bph-surgery-benefit",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/cochlear-implant-surgery-cost-claim",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+    "status": 200,
+    "title_body_links_images": "match",
+    "indexing": "not verified"
+  }
+]

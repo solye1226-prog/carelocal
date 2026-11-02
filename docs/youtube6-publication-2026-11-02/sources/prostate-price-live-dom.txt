@@ -1,0 +1,289 @@
+- link "전체 메뉴 바로가기":
+  - /url: "#gnb"
+- link "본문 바로가기":
+  - /url: "#contents"
+- link "하단 영역 바로가기":
+  - /url: "#footer"
+- list:
+  - link "암센터":
+    - /url: https://cancer.brmh.org/main/main.do
+  - link "종합건강진단센터":
+    - /url: https://center.brmh.org/main/main.do
+  - link "장례식장":
+    - /url: https://funeral.brmh.org/main/main.do
+- list:
+  - link "로그인":
+    - /url: ../service/login.do?site=001&user_code=011001000
+  - link "회원가입":
+    - /url: ../service/join.do?site=001&user_code=011014000
+  - link "오시는길":
+    - /url: ../cms_manage/view.do?site=001&user_code=009001001
+- link "English":
+  - /url: https://en.brmh.org/main/main.do
+- link "온라인 진료예약":
+  - /url: /reservation/online_reservation.do?site=001&user_code=010016001
+- heading "서울특별시보라매병원 서울대학교병원운영" [level=1]:
+  - link "서울특별시보라매병원 서울대학교병원운영":
+    - /url: ../main/main.do
+    - img "서울특별시보라매병원 서울대학교병원운영"
+- list:
+  - link "진료예약/안내":
+    - /url: javascript:void(0);
+  - link "이용안내":
+    - /url: javascript:void(0);
+  - link "건강정보/소식":
+    - /url: javascript:void(0);
+  - link "병원소개":
+    - /url: javascript:void(0);
+  - link "회원서비스":
+    - /url: javascript:void(0);
+- list:
+  - link "통합검색":
+    - /url: javascript:void(0);
+    - img "통합검색"
+  - link "사이트맵":
+    - /url: javascript:void(0);
+    - img "사이트맵"
+- link "홈으로 바로가기":
+  - /url: /main/main.do
+- list:
+  - link "메뉴 펼치기":
+    - /url: javascript:void(0);
+- heading [level=3]
+- list:
+  - link "1. 행위료":
+    - /url: /medi_info/non_medifee.do?site=001&user_code=009017001&CSUBCD_NM1=행위료
+  - link "2. 치료재료대":
+    - /url: /medi_info/non_medifee.do?site=001&user_code=009017001&CSUBCD_NM1=치료재료대
+  - link "3. 약제비":
+    - /url: /medi_info/non_medifee.do?site=001&user_code=009017001&CSUBCD_NM1=약제비
+  - link "4. 제증명수수료":
+    - /url: /medi_info/non_medifee.do?site=001&user_code=009017001&CSUBCD_NM1=제증명수수료
+- paragraph: "2026-11-02 제공 | Total : 11"
+- group "게시물 검색":
+  - combobox "검색 조건 선택":
+    - option "전체" [selected]
+    - option "제1장 기본진료료"
+    - option "제1-1장 상급병실료 차액"
+    - option "제2장 검사료"
+    - option "제2-1장 초음파 검사료"
+    - option "제3장 영상진단 및 방사선 치료료"
+    - option "제3-1장 초음파영상료"
+    - option "제3-2장 자기공명영상진단료(MRI)"
+    - option "제3-3장 양전자단층촬영료(PET)"
+    - option "제5장 주사료"
+    - option "제7장 이학요법료(물리치료료)"
+    - option "제8장 정신요법료"
+    - option "제9장 처치 및 수술료 등"
+    - option "제10장 치과 처치·수술료"
+    - option "제18장 치과의 보철료"
+    - option "기타"
+  - generic: 검색어 입력
+  - textbox "검색어 입력": 전립선
+  - button "Submit"
+- table "비급여 진료비 행위료 관련 표이며, 중분류, 분류, 항목(명칭,코드), 진료비용등(단위:원)(구분,비용,최저비용, 최대비용, 치료재료대조합여부, 약제비포함여부), 특이사항, 최종변경일로 구성되어 있습니다.":
+  - caption:
+    - strong: 비급여 진료비 행위료 관련 표이며, 중분류, 분류, 항목(명칭,코드), 진료비용등(단위:원)(구분,비용,최저비용, 최대비용, 치료재료대조합여부, 약제비포함여부), 특이사항, 최종변경일로 구성되어 있습니다.
+  - rowgroup:
+    - 'row "중분류 분류 항목 진료비용 등(단위: 원) 특이사항 최종변경일"':
+      - columnheader "중분류"
+      - columnheader "분류"
+      - columnheader "항목"
+      - 'columnheader "진료비용 등(단위: 원)"'
+      - columnheader "특이사항"
+      - columnheader "최종변경일"
+    - row "명칭 코드 구분 비용 최저비용 최대비용 치료재료대조합여부 약제비포함여부":
+      - columnheader "명칭"
+      - columnheader "코드"
+      - columnheader "구분"
+      - columnheader "비용"
+      - columnheader "최저비용"
+      - columnheader "최대비용"
+      - columnheader "치료재료대조합여부"
+      - columnheader "약제비포함여부"
+  - rowgroup:
+    - row "초음파 검사료 초음파검사료2 제한초음파검사-복부,골반-남성생식기-전립선·정낭 EB4510001 과내검사 31000 급여 인정기준 외 실시한 경우 비급여 2026-05-01":
+      - cell "초음파 검사료"
+      - cell "초음파검사료2"
+      - cell "제한초음파검사-복부,골반-남성생식기-전립선·정낭"
+      - cell "EB4510001"
+      - cell "과내검사"
+      - cell "31000"
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell "급여 인정기준 외 실시한 경우 비급여"
+      - cell "2026-05-01"
+    - row "초음파 검사료 초음파검사료3 제한초음파검사-복부,골반-남성생식기-전립선·정낭-(주)경복부 EB4520001 과내검사 31000 급여 인정기준 외 실시한 경우 비급여 2026-05-01":
+      - cell "초음파 검사료"
+      - cell "초음파검사료3"
+      - cell "제한초음파검사-복부,골반-남성생식기-전립선·정낭-(주)경복부"
+      - cell "EB4520001"
+      - cell "과내검사"
+      - cell "31000"
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell "급여 인정기준 외 실시한 경우 비급여"
+      - cell "2026-05-01"
+    - row "초음파 검사료 초음파 검사료 초음파검사-복부,골반-남성생식기-전립선·정낭 EB4510001 비뇨의학과 31000 X X 급여 인정기준 외 실시한 경우 비급여 2026-10-07":
+      - cell "초음파 검사료"
+      - cell "초음파 검사료"
+      - cell "초음파검사-복부,골반-남성생식기-전립선·정낭"
+      - cell "EB4510001"
+      - cell "비뇨의학과"
+      - cell "31000"
+      - cell
+      - cell
+      - cell "X"
+      - cell "X"
+      - cell "급여 인정기준 외 실시한 경우 비급여"
+      - cell "2026-10-07"
+    - row "초음파 검사료 초음파 검사료 복부-남성생식기 초음파-전립선·정낭 EB451 영상의학과 149000 X X 급여 인정기준 외 실시한 경우 비급여 2026-05-01":
+      - cell "초음파 검사료"
+      - cell "초음파 검사료"
+      - cell "복부-남성생식기 초음파-전립선·정낭"
+      - cell "EB451"
+      - cell "영상의학과"
+      - cell "149000"
+      - cell
+      - cell
+      - cell "X"
+      - cell "X"
+      - cell "급여 인정기준 외 실시한 경우 비급여"
+      - cell "2026-05-01"
+    - row "초음파 검사료 초음파 검사료 복부-남성생식기 초음파-전립선·정낭 EB4510001 비뇨의학과 93000 104000 X X 급여 인정기준 외 실시한 경우 비급여 2026-10-07":
+      - cell "초음파 검사료"
+      - cell "초음파 검사료"
+      - cell "복부-남성생식기 초음파-전립선·정낭"
+      - cell "EB4510001"
+      - cell "비뇨의학과"
+      - cell
+      - cell "93000"
+      - cell "104000"
+      - cell "X"
+      - cell "X"
+      - cell "급여 인정기준 외 실시한 경우 비급여"
+      - cell "2026-10-07"
+    - row "자기공명영상진단료(MRI-기본검사) 복부 기본자기공명영상진단-복부-전립선-일반 HE134 판독료, 촬영료 등을 포함한 1회 비용 620000 급여 인정기준 외 비급여 2026-06-01":
+      - cell "자기공명영상진단료(MRI-기본검사)"
+      - cell "복부"
+      - cell "기본자기공명영상진단-복부-전립선-일반"
+      - cell "HE134"
+      - cell "판독료, 촬영료 등을 포함한 1회 비용"
+      - cell "620000"
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell "급여 인정기준 외 비급여"
+      - cell "2026-06-01"
+    - row "처치 및 수술료 등 기타 다빈치 로봇 전립선 및 림프절 절제술 추가 QZ9660802 전립선정낭전적출술[림프절적출 포함] 12234000 X X 2026-10-06":
+      - cell "처치 및 수술료 등"
+      - cell "기타"
+      - cell "다빈치 로봇 전립선 및 림프절 절제술 추가"
+      - cell "QZ9660802"
+      - cell "전립선정낭전적출술[림프절적출 포함]"
+      - cell "12234000"
+      - cell
+      - cell
+      - cell "X"
+      - cell "X"
+      - cell
+      - cell "2026-10-06"
+    - row "처치 및 수술료 등 기타 로봇 보조 근치적 전립선 수술 QZ9660801 전립선적출술 11215000 X X 2026-10-06":
+      - cell "처치 및 수술료 등"
+      - cell "기타"
+      - cell "로봇 보조 근치적 전립선 수술"
+      - cell "QZ9660801"
+      - cell "전립선적출술"
+      - cell "11215000"
+      - cell
+      - cell
+      - cell "X"
+      - cell "X"
+      - cell
+      - cell "2026-10-06"
+    - row "처치 및 수술료 등 남성 비뇨기계 전립선 비대증에서 일시적 니티놀 스텐트 삽입술(재료대 별도) RZ519 신의료기술 2550000 X X 2026-05-01":
+      - cell "처치 및 수술료 등"
+      - cell "남성 비뇨기계"
+      - cell "전립선 비대증에서 일시적 니티놀 스텐트 삽입술(재료대 별도)"
+      - cell "RZ519"
+      - cell "신의료기술"
+      - cell "2550000"
+      - cell
+      - cell
+      - cell "X"
+      - cell "X"
+      - cell
+      - cell "2026-05-01"
+    - row "처치 및 수술료 등 남성 비뇨기계 이식형 결찰사를 이용한 전립선 결찰술A RZ5150000 413000 620000 X X 2026-06-16":
+      - cell "처치 및 수술료 등"
+      - cell "남성 비뇨기계"
+      - cell "이식형 결찰사를 이용한 전립선 결찰술A"
+      - cell "RZ5150000"
+      - cell
+      - cell
+      - cell "413000"
+      - cell "620000"
+      - cell "X"
+      - cell "X"
+      - cell
+      - cell "2026-06-16"
+- list
+- list:
+  - link "1":
+    - /url: "javascript:"
+    - strong: "1"
+  - link "2":
+    - /url: https://www.brmh.org/medi_info/non_medifee.do?page=2&site=001&user_code=009015000&CSUBCD_NM1=%ED%96%89%EC%9C%84%EB%A3%8C&CSUBCD_NM2=%EC%A0%84%EC%B2%B4&searchword=%EC%A0%84%EB%A6%BD%EC%84%A0
+- list
+- link "TOP":
+  - /url: "#"
+  - generic: TOP
+- list:
+  - link "환자권리장전":
+    - /url: javascript:void(0);
+  - link "개인정보처리방침":
+    - /url: javascript:void(0);
+  - link "이용약관":
+    - /url: javascript:void(0);
+  - link "이메일주소수집거부":
+    - /url: javascript:void(0);
+  - link "고객서비스헌장":
+    - /url: javascript:void(0);
+  - link "원격지원":
+    - /url: javascript:void(0);
+  - link "비급여진료비":
+    - /url: javascript:void(0);
+- link "주요서비스":
+  - /url: javascript:void(0);
+- link "Family Site":
+  - /url: javascript:void(0);
+- text: 서울대학교병원운영 서울특별시보라매병원
+- text: "진료예약 : 1577-0075 병원안내 : 02-870-2114"
+- text: 07061 서울특별시 동작구 보라매로5길 20 (신대방동 425번지, 보라매공원 동문에 위치)
+- text: COPYRIGHT© SMG–SNU BORAMAE MEDICAL CENTER. ALL RIGHTS RESERVED.
+- paragraph:
+  - img "보건복지부인증의료기관"
+  - link "ePRIVACY 인증서 아이콘":
+    - /url: javascript:void(0);
+    - img "ePRIVACY 인증서 아이콘"
+  - link "웹접근성 인증마크":
+    - /url: http://www.webwatch.or.kr/Situation/WA_Situation.html?MenuCD=110&skey=1&sval=%EB%B3%B4%EB%9D%BC%EB%A7%A4%EB%B3%91%EC%9B%90&search_btn=%EA%B2%80%EC%83%89
+    - img "웹접근성 인증마크"
+- paragraph:
+  - link "카카오채널":
+    - /url: https://pf.kakao.com/_HsxkNK
+    - img "카카오채널"
+  - link "유튜브":
+    - /url: https://www.youtube.com/channel/UCUEoRTcgmZbaHY9BGw_iduA
+    - img "유튜브"
+  - link "인스타그램":
+    - /url: https://www.instagram.com/boramae_seoul
+    - img "인스타그램"
+  - link "네이버포스트":
+    - /url: https://post.naver.com/chbmc
+    - img "네이버포스트"
