@@ -754,7 +754,7 @@
   <url><loc>https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup</loc><lastmod>2026-10-15</lastmod><priority>0.8</priority></url>
 
 
-  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-result-reissue</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://hospital.hbuby.com/checkups/health-checkup-result-reissue</loc><lastmod>2026-11-03</lastmod><priority>0.8</priority></url>
 
 
   <url><loc>https://hospital.hbuby.com/checkups/health-checkup-low-egfr</loc><lastmod>2026-10-07</lastmod><priority>0.8</priority></url>
@@ -1399,7 +1399,7 @@
 <url><loc>https://hospital.hbuby.com/claims/epost-silbi-claim-documents</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://hospital.hbuby.com/checkups/workplace-health-checkup-missed-penalty</loc><lastmod>2026-11-03</lastmod></url>
-<url><loc>https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup</loc><lastmod>2026-11-02</lastmod></url>
+<url><loc>https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/prostate-ultrasound-cost-claim</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/abr-hearing-test-claim</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/vestibular-function-test-claim</loc><lastmod>2026-11-02</lastmod></url>
@@ -1410,6 +1410,7 @@
 <url><loc>https://hospital.hbuby.com/silbi/urodynamic-study-cost-claim</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://hospital.hbuby.com/silbi/prostate-mri-cost-claim</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://hospital.hbuby.com/checkups/special-vs-general-occupational-checkup</loc><lastmod>2026-11-03</lastmod></url>
+<url><loc>https://hospital.hbuby.com/checkups/employment-health-checkup-substitute-notice</loc><lastmod>2026-11-03</lastmod></url>
 </urlset>
 
 

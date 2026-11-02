@@ -1965,6 +1965,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/employment-health-checkup-substitute-notice",
+    "title": "채용 건강검진 대체 통보서 발급, 조회 조건과 제출 전 확인",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/endoscopy",
     "title": "위·대장내시경 준비와 결과 확인 | 케어로컬",
     "category": "건강검진"
