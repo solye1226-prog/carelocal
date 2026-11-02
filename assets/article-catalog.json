@@ -460,6 +460,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/abr-hearing-test-claim",
+    "title": "청성뇌간반응검사 실비, ABR 검사 목적과 청구서류 확인",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/age13-composite-resin-coverage-update",
     "title": "13세 레진 건강보험 확대 발표, 치료 전 나이·시행일 확인법",
     "category": "실비보험"
