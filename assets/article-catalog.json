@@ -1325,6 +1325,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/shoulder-dislocation-bankart-repair-claim",
+    "title": "어깨탈구 수술비 청구서류, 방카르트 봉합술과 도수정복 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/sleep-apnea-throat-surgery-benefit",
     "title": "수면무호흡증 인두부 수술비, 양압기와 구분하는 법",
     "category": "수술비"
