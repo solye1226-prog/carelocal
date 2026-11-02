@@ -1,0 +1,11 @@
+{
+  "n": 10,
+  "url": "https://hospital.hbuby.com/checkups/employment-health-checkup-substitute-notice",
+  "public": true,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/checkups/health-checkup-result-reissue",
+    "/checkups/driving-license-renewal-health-checkup"
+  ]
+}

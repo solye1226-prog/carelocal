@@ -1,0 +1,250 @@
+[
+  {
+    "path": "/silbi/abr-hearing-test-claim",
+    "slug": "abr-hearing-test-claim",
+    "keyword": "청성뇌간반응검사 실비",
+    "title": "청성뇌간반응검사 실비, ABR 검사 목적과 청구서류 확인",
+    "desc": "청성뇌간반응검사 실비는 ABR의 시행 목적과 실제 비용 항목을 확인합니다. 순음청력검사·신생아 선별검사·장애평가를 구분하고 검사비와 진정 비용의 청구자료를 정리합니다.",
+    "cat": "실비보험",
+    "parents": [
+      "/silbi/audiometry-test-vs-hearing-aid",
+      "/surgery-benefit/cochlear-implant-surgery-cost-claim"
+    ],
+    "intent": "ABR 검사와 선별·장애평가 목적, 검사 기록·비용 항목 확인",
+    "sources": [
+      [
+        "https://www.snubh.org/dh/main/index.do?DP_CD=NCD9&MENU_ID=005003005",
+        "분당서울대학교병원 난청 진단 안내",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 실손 청구서류 안내",
+        "구비서류의 회사별 예시. 가입 회사 요구항목은 별도 대조"
+      ]
+    ]
+  },
+  {
+    "path": "/silbi/vestibular-function-test-claim",
+    "slug": "vestibular-function-test-claim",
+    "keyword": "전정기능검사 실비",
+    "title": "전정기능검사 실비·비용, 어지럼증 검사 종류와 제출자료",
+    "desc": "전정기능검사 실비는 어지럼증 진료에서 실제로 시행한 검사와 비용을 대조합니다. 안진검사·회전검사와 추가 MRI를 구분하고 검사 전 준비·청구자료 확인 순서를 정리합니다.",
+    "cat": "실비보험",
+    "parents": [
+      "/silbi/audiometry-test-vs-hearing-aid"
+    ],
+    "intent": "어지럼증 평가에서 실제 시행한 안진·회전 검사와 추가 영상검사 구분",
+    "sources": [
+      [
+        "https://cancer.amc.seoul.kr/asan/mobile/healthinfo/management/managementDetail.do?managementId=323",
+        "서울아산병원 전정기능검사",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 실손 청구서류 안내",
+        "구비서류의 회사별 예시. 가입 회사 요구항목은 별도 대조"
+      ]
+    ]
+  },
+  {
+    "path": "/silbi/impedance-tympanometry-test-claim",
+    "slug": "impedance-tympanometry-test-claim",
+    "keyword": "임피던스 청력검사",
+    "title": "임피던스 청력검사 비용·실비, 고막운동성검사와 순음검사 차이",
+    "desc": "임피던스 청력검사는 고막·중이 상태를 평가하는 검사로 순음청력검사와 역할이 다릅니다. 고막운동성검사 비용과 결과지, 실비 청구 전 확인할 항목을 정리합니다.",
+    "cat": "실비보험",
+    "parents": [
+      "/silbi/audiometry-test-vs-hearing-aid",
+      "/surgery-benefit/tympanoplasty-ear-surgery-claim"
+    ],
+    "intent": "고막·중이 상태 검사와 소리 역치 검사의 자료 차이",
+    "sources": [
+      [
+        "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000101",
+        "서울대학교병원 청력검사 안내",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 실손 청구서류 안내",
+        "구비서류의 회사별 예시. 가입 회사 요구항목은 별도 대조"
+      ]
+    ]
+  },
+  {
+    "path": "/diagnosis-benefit/cdr-gds-dementia-scale-difference",
+    "slug": "cdr-gds-dementia-scale-difference",
+    "keyword": "CDR GDS 차이",
+    "title": "CDR GDS 차이, 치매검사 결과지와 보험 약관 대조 방법",
+    "desc": "CDR GDS 차이는 치매 평가 결과지를 약관과 비교할 때 중요합니다. CDR·CDR-SB·GDS의 표기와 검사일을 구분하고 점수를 임의 환산하지 않는 확인 방법을 정리합니다.",
+    "cat": "진단비",
+    "parents": [
+      "/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+      "/silbi/leqembi-silbi-claim"
+    ],
+    "intent": "두 척도 및 CDR-SB와 global CDR을 구분하고 임의 점수 환산을 막음",
+    "sources": [
+      [
+        "https://pc.dnd.or.kr/DOIx.php?id=10.12779/dnd.2022.21.1.42",
+        "대한치매학회 진료지침·국문 부록",
+        "척도 역할과 CDR-SB 구분. 2022년 발표 자료이며 최신 보험 약관 자체가 아님"
+      ],
+      [
+        "https://www.samsungfire.com/publication/pdf/ZPB369040_0_20260101_file1.pdf?_v=202601100034#page=328",
+        "삼성화재 치매 특약 약관 예시",
+        "2601.3 판본의 CDR 관련 조항. 본인 계약과 별도 대조"
+      ]
+    ]
+  },
+  {
+    "path": "/silbi/neuropsychological-snsb-test-claim",
+    "slug": "neuropsychological-snsb-test-claim",
+    "keyword": "신경심리검사 실비",
+    "title": "신경심리검사 실비·비용, SNSB 검사와 치매 진단서 구분",
+    "desc": "신경심리검사 실비는 정밀 인지평가를 받은 목적과 실제 시행한 검사명을 확인합니다. SNSB 등 검사 비용·결과보고서와 치매 진단서, 평가일·설명일을 나눠 청구자료를 준비합니다.",
+    "cat": "실비보험",
+    "parents": [
+      "/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+      "/guides/alzheimer-injection-therapy"
+    ],
+    "intent": "정밀 인지평가 비용·시행일·결과자료와 진단비용 자료 구분",
+    "sources": [
+      [
+        "https://www.snubh.org/dh/main/index.do?DP_CD=BCD7&MENU_ID=006001",
+        "분당서울대학교병원 신경인지행동센터",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 실손 청구서류 안내",
+        "구비서류의 회사별 예시. 가입 회사 요구항목은 별도 대조"
+      ]
+    ]
+  },
+  {
+    "path": "/silbi/uroflowmetry-residual-urine-test-claim",
+    "slug": "uroflowmetry-residual-urine-test-claim",
+    "keyword": "요속검사 잔뇨검사 실비",
+    "title": "요속검사 잔뇨검사 실비, 전립선 초음파와 비용 항목 구분",
+    "desc": "요속검사 잔뇨검사 실비는 배뇨 속도와 배뇨 후 남은 소변을 평가한 비용을 확인합니다. 전립선 초음파와 다른 검사 항목, 검사 전 준비와 영수증·결과 자료의 구분 방법입니다.",
+    "cat": "실비보험",
+    "parents": [
+      "/silbi/prostate-ultrasound-cost-claim",
+      "/checkups/high-psa-followup"
+    ],
+    "intent": "배뇨 속도·배뇨 후 잔뇨 평가와 전립선 형태 검사 구분",
+    "sources": [
+      [
+        "https://bme.amc.seoul.kr/asan/healthtv/video/videoDetail.do?videoId=1375",
+        "서울아산병원 요역동학검사 안내",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 실손 청구서류 안내",
+        "구비서류의 회사별 예시. 가입 회사 요구항목은 별도 대조"
+      ]
+    ]
+  },
+  {
+    "path": "/silbi/urodynamic-study-cost-claim",
+    "slug": "urodynamic-study-cost-claim",
+    "keyword": "요역동학검사 실비",
+    "title": "요역동학검사 실비·비용, 방광기능검사와 수술 전 검사자료",
+    "desc": "요역동학검사 실비는 실제 시행한 방광기능검사 구성과 질환·검사 목적을 대조합니다. 단순 요속검사와 다른 범위, 수술 전 자료 및 보험사 보완 요청에서 확인할 항목을 정리합니다.",
+    "cat": "실비보험",
+    "parents": [
+      "/silbi/prostate-ultrasound-cost-claim"
+    ],
+    "intent": "여러 기능검사 구성·실제 시행범위와 수술비 혼동 방지",
+    "sources": [
+      [
+        "https://bme.amc.seoul.kr/asan/healthtv/video/videoDetail.do?videoId=1375",
+        "서울아산병원 요역동학검사 안내",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 실손 청구서류 안내",
+        "구비서류의 회사별 예시. 가입 회사 요구항목은 별도 대조"
+      ]
+    ]
+  },
+  {
+    "path": "/silbi/prostate-mri-cost-claim",
+    "slug": "prostate-mri-cost-claim",
+    "keyword": "전립선 MRI 실비",
+    "title": "전립선 MRI 실비·비용, 조영제와 급여·비급여 확인 순서",
+    "desc": "전립선 MRI 실비는 암 의심 진료·검진·추적 목적과 실제 촬영 범위를 확인합니다. 일반·조영 MRI 비용 항목, 급여·비급여와 검사자료를 나눠 청구 전 대조하는 방법입니다.",
+    "cat": "실비보험",
+    "parents": [
+      "/silbi/prostate-ultrasound-cost-claim",
+      "/silbi/mri-silbi-claim"
+    ],
+    "intent": "전립선 MRI 시행목적·조영·판독 비용과 수술·암진단비 구분",
+    "sources": [
+      [
+        "https://www.cancer.go.kr/lay1/program/S1T211C218/cancer/view.do?cancer_seq=4949&menu_seq=4961",
+        "국가암정보센터 전립선암 진단방법",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ],
+      [
+        "https://www.samsungfire.com/v2/html/customer/13/G_030_010_010.html?init=direct",
+        "삼성화재 실손 청구서류 안내",
+        "구비서류의 회사별 예시. 가입 회사 요구항목은 별도 대조"
+      ],
+      [
+        "https://www.brmh.org/medi_info/non_medifee.do?site=001&user_code=009015000&CSUBCD_NM1=%ED%96%89%EC%9C%84%EB%A3%8C&CSUBCD_NM2=%EC%A0%84%EC%B2%B4&searchword=%EC%A0%84%EB%A6%BD%EC%84%A0",
+        "보라매병원 전립선 관련 비급여 항목 검색",
+        "전립선 일반 MRI 공개가격의 병원별 예시. 총 진료비 아님"
+      ]
+    ]
+  },
+  {
+    "path": "/checkups/special-vs-general-occupational-checkup",
+    "slug": "special-vs-general-occupational-checkup",
+    "keyword": "특수건강검진 일반건강검진 차이",
+    "title": "특수건강검진 일반건강검진 차이, 대상 업무와 배치전검진 구분",
+    "desc": "특수건강검진 일반건강검진 차이는 대상 업무와 검진 목적에 있습니다. 유해인자 노출에 따른 검진, 배치전검진과 정기 일반검진을 구분해 회사·검진기관에 확인할 자료를 정리합니다.",
+    "cat": "건강검진",
+    "parents": [
+      "/checkups/workplace-health-checkup-missed-penalty",
+      "/checkups/health-checkup-target-2026"
+    ],
+    "intent": "유해인자·배치전 평가와 정기 일반검진을 구분해 회사에 확인할 자료",
+    "sources": [
+      [
+        "https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1033347731",
+        "국가법령정보센터 산업안전보건법 제129~132조",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ]
+    ]
+  },
+  {
+    "path": "/checkups/employment-health-checkup-substitute-notice",
+    "slug": "employment-health-checkup-substitute-notice",
+    "keyword": "채용 건강검진 대체 통보서 발급",
+    "title": "채용 건강검진 대체 통보서 발급, 조회 조건과 제출 전 확인",
+    "desc": "채용 건강검진 대체 통보서는 기존 국가건강검진 결과를 활용하는 제출용 서류입니다. 발급 경로, 최근 검진 기록의 반영과 제출처 인정 여부, 별도 검사가 필요한 경우의 확인 순서를 정리합니다.",
+    "cat": "건강검진",
+    "parents": [
+      "/checkups/health-checkup-result-reissue",
+      "/checkups/driving-license-renewal-health-checkup"
+    ],
+    "intent": "공단 결과 활용 채용제출용 서류의 발급·인정·기록 반영 조건",
+    "sources": [
+      [
+        "https://www.nhis.or.kr/nhis/healthin/retrieveHealthinCheckUpEmployment.do",
+        "국민건강보험공단 채용 건강검진 대체 통보서 발급",
+        "검사의 역할 또는 해당 제도의 공식 설명. 개별 실손 지급 보장은 아님"
+      ],
+      [
+        "https://www.suwon.go.kr/common-upload/upload/board/2026/6/1/f4736e67-343d-4027-9362-053a94173e95.pdf#page=7",
+        "공공기관 채용공고의 제출서류 안내 예시",
+        "2026년 공고 7쪽의 검진 기록 안내. 해당 기관의 과거 공고이며 일반 발급 양식이 아님"
+      ]
+    ]
+  }
+]

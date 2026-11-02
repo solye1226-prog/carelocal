@@ -1,0 +1,10 @@
+{
+  "n": 2,
+  "url": "https://hospital.hbuby.com/silbi/vestibular-function-test-claim",
+  "public": false,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/silbi/audiometry-test-vs-hearing-aid"
+  ]
+}

@@ -1,0 +1,84 @@
+케어로컬 관련 세부키워드 10편 발행 보고
+작업 기간: 2026-11-02 ~ 2026-11-03 KST
+
+기존 501편의 실제 본문을 대상으로 중복 검색 의도를 검토하고 독립적인 검사·자료 확인 의도로 10편을 선정했습니다. 검색량·CPC·경쟁도 수치를 새로 측정한 황금키워드 순위는 아닙니다.
+1~4번 발행일은 11월 2일, 5~10번은 11월 3일입니다. 작업 폴더는 시작 날짜를 유지합니다.
+
+1. 청성뇌간반응검사 실비
+https://hospital.hbuby.com/silbi/abr-hearing-test-claim
+제목: 청성뇌간반응검사 실비, ABR 검사 목적과 청구서류 확인
+독립 의도: ABR 검사와 선별·장애평가 목적, 검사 기록·비용 항목 확인
+
+2. 전정기능검사 실비
+https://hospital.hbuby.com/silbi/vestibular-function-test-claim
+제목: 전정기능검사 실비·비용, 어지럼증 검사 종류와 제출자료
+독립 의도: 어지럼증 평가에서 실제 시행한 안진·회전 검사와 추가 영상검사 구분
+
+3. 임피던스 청력검사
+https://hospital.hbuby.com/silbi/impedance-tympanometry-test-claim
+제목: 임피던스 청력검사 비용·실비, 고막운동성검사와 순음검사 차이
+독립 의도: 고막·중이 상태 검사와 소리 역치 검사의 자료 차이
+
+4. CDR GDS 차이
+https://hospital.hbuby.com/diagnosis-benefit/cdr-gds-dementia-scale-difference
+제목: CDR GDS 차이, 치매검사 결과지와 보험 약관 대조 방법
+독립 의도: 두 척도 및 CDR-SB와 global CDR을 구분하고 임의 점수 환산을 막음
+
+5. 신경심리검사 실비
+https://hospital.hbuby.com/silbi/neuropsychological-snsb-test-claim
+제목: 신경심리검사 실비·비용, SNSB 검사와 치매 진단서 구분
+독립 의도: 정밀 인지평가 비용·시행일·결과자료와 진단비용 자료 구분
+
+6. 요속검사 잔뇨검사 실비
+https://hospital.hbuby.com/silbi/uroflowmetry-residual-urine-test-claim
+제목: 요속검사 잔뇨검사 실비, 전립선 초음파와 비용 항목 구분
+독립 의도: 배뇨 속도·배뇨 후 잔뇨 평가와 전립선 형태 검사 구분
+
+7. 요역동학검사 실비
+https://hospital.hbuby.com/silbi/urodynamic-study-cost-claim
+제목: 요역동학검사 실비·비용, 방광기능검사와 수술 전 검사자료
+독립 의도: 여러 기능검사 구성·실제 시행범위와 수술비 혼동 방지
+
+8. 전립선 MRI 실비
+https://hospital.hbuby.com/silbi/prostate-mri-cost-claim
+제목: 전립선 MRI 실비·비용, 조영제와 급여·비급여 확인 순서
+독립 의도: 전립선 MRI 시행목적·조영·판독 비용과 수술·암진단비 구분
+
+9. 특수건강검진 일반건강검진 차이
+https://hospital.hbuby.com/checkups/special-vs-general-occupational-checkup
+제목: 특수건강검진 일반건강검진 차이, 대상 업무와 배치전검진 구분
+독립 의도: 유해인자·배치전 평가와 정기 일반검진을 구분해 회사에 확인할 자료
+
+10. 채용 건강검진 대체 통보서 발급
+https://hospital.hbuby.com/checkups/employment-health-checkup-substitute-notice
+제목: 채용 건강검진 대체 통보서 발급, 조회 조건과 제출 전 확인
+독립 의도: 공단 결과 활용 채용제출용 서류의 발급·인정·기록 반영 조건
+
+내부 연결
+기존 글 13편에 관련 글 링크를 추가했습니다. 기존 본문은 보존하고 관련 링크 영역을 통합했습니다.
+https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup
+https://hospital.hbuby.com/checkups/health-checkup-result-reissue
+https://hospital.hbuby.com/checkups/health-checkup-target-2026
+https://hospital.hbuby.com/checkups/high-psa-followup
+https://hospital.hbuby.com/checkups/workplace-health-checkup-missed-penalty
+https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents
+https://hospital.hbuby.com/guides/alzheimer-injection-therapy
+https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid
+https://hospital.hbuby.com/silbi/leqembi-silbi-claim
+https://hospital.hbuby.com/silbi/mri-silbi-claim
+https://hospital.hbuby.com/silbi/prostate-ultrasound-cost-claim
+https://hospital.hbuby.com/surgery-benefit/cochlear-implant-surgery-cost-claim
+https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim
+
+검수
+각 글을 별도 커밋으로 순차 발행했습니다. public-1.json~public-10.json은 개별 공개 본문·이미지 검증, public-final.json은 새 글 10편·기존 글 13편·카테고리 3개의 공개 비교 결과입니다.
+1280·390·360px 화면에서 10편 모두 검수했습니다. 총 30개 화면 조합에 가로 넘침이 없고 표가 모바일 카드 형태로 표시됩니다. 결과와 스크린샷은 responsive 폴더에 있습니다.
+pnpm run check 통과: HTML 1056개 링크, 사이트맵 536 URL, 글 목록 511편, Python 5개와 Node 10개 테스트.
+공식 근거 확인 범위와 접근 제한은 source-verification.json에 기록했습니다. 보험 지급은 개별 약관·시행 목적·실제 비용에 따라 달라진다는 조건을 구분했습니다.
+채용 통보서의 과거 포스터 링크는 404여서 제외했습니다. 현행 공단 서비스 메뉴와 2026년 공공기관 채용공고 PDF 7쪽을 확인했습니다. 해당 기관 사례를 전국 공통 제출 기준으로 일반화하지 않았습니다.
+
+이미지
+built-in image generation 모드로 30장 생성 후 WebP로 배치했습니다. 원본 경로·정확한 프롬프트·최종 파일 경로는 image-manifest.json과 image-sources.json에 있습니다. 이미지 장면은 설명용 가상 장면입니다.
+
+수집·색인 구분
+이번 요청 범위인 기획·발행·내부링크·공개 검수를 진행했습니다. 이번 10편에 네이버 수집 요청을 별도로 제출하지 않았으며 실제 네이버·구글 색인 여부는 확인하지 않았습니다. 이전 수집 대기 기록은 유지했습니다.

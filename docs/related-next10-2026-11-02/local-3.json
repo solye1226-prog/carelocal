@@ -1,0 +1,11 @@
+{
+  "n": 3,
+  "url": "https://hospital.hbuby.com/silbi/impedance-tympanometry-test-claim",
+  "public": false,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/silbi/audiometry-test-vs-hearing-aid",
+    "/surgery-benefit/tympanoplasty-ear-surgery-claim"
+  ]
+}

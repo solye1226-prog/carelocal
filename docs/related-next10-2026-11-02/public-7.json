@@ -1,0 +1,10 @@
+{
+  "n": 7,
+  "url": "https://hospital.hbuby.com/silbi/urodynamic-study-cost-claim",
+  "public": true,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/silbi/prostate-ultrasound-cost-claim"
+  ]
+}

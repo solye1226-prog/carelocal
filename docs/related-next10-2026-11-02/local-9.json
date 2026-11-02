@@ -1,0 +1,11 @@
+{
+  "n": 9,
+  "url": "https://hospital.hbuby.com/checkups/special-vs-general-occupational-checkup",
+  "public": false,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/checkups/workplace-health-checkup-missed-penalty",
+    "/checkups/health-checkup-target-2026"
+  ]
+}

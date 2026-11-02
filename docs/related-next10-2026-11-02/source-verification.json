@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "body_review": "501 actual article bodies indexed. Literal and related-term contexts inspected; detailed independent intent recorded in final-duplicate-review.json.",
+  "keyword_metrics": "No new absolute search-volume, competition or CPC claim. Editorial fit and existing article connections used.",
+  "sources": {
+    "ABR": "SNUBH objective audiometry explanation directly opened; no numeric disability or cochlear eligibility claim.",
+    "vestibular": "AMC managementId323 directly opened. Its medication-stop and fasting schedule not copied into general instructions; individual clinician guidance required.",
+    "impedance": "SNUH BA000101 search text confirms pressure/reflection mechanism; no numeric result interpretation supplied.",
+    "CDR_GDS": "Korean Dementia Association 2021 revised guideline published2022, official DND landing accessible. Its indexed Korean supplement text distinguishes global CDR and CDR-SB. Direct supplement fetch returned403; no claim that full local PDF download succeeded. Policy2601.3 is only an example, not universal.",
+    "neuropsychology": "SNUBH BCD7 MENU006001 directly opened: cognitive measurement and detailed/follow-up/simple/custom types. No actual test items or copyrighted questions reproduced.",
+    "uroflow_and_urodynamics": "AMC video1375 official transcript directly opened. Brief function distinction paraphrased; no self-procedure instructions. No automatic insurance payment claim.",
+    "MRI": "NCC clinical source directly opened; BRMH exact search URL fetched again2026-11-03. HE134 general MRI row:620000 including scan/read, noncovered outside criteria, modified2026-06-01. Raw row saved in sources/prostate-mri-price-live.json. Not national average or full patient total.",
+    "workplace": "Current Industrial Safety and Health Act effective2026-10-27 sections129-132 directly opened. No old2012 penalty table used.",
+    "employment_notice": "Original NHIS poster URL returned404 on direct download, despite cached web result. Removed that URL before publication. Current NHIS service menu observed via CUA on2026-11-03: /nhis/healthin/retrieveHealthinCheckUpEmployment.do. Official2026 Suwon public recruitment PDF downloaded; page7 rendered and inspected for record availability and recent2-year explanation. No personal login or document issuance."
+  },
+  "date_rollover": "Articles1-4 published2026-11-02, article5 onward use2026-11-03 KST. Batch folder retains start date."
+}

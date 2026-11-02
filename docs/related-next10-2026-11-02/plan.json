@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-02",
+  "basis": "최근 발행한 인공와우·치매 진단비·전립선 초음파·건강검진 글에서 이어지는 독립 질문. 검색량이나 CPC 검증 순위는 아님.",
+  "plan": [
+    {
+      "keyword": "청성뇌간반응검사 실비",
+      "title": "청성뇌간반응검사 실비, ABR 검사 목적과 청구서류 확인",
+      "path": "/silbi/abr-hearing-test-claim",
+      "cat": "실비보험",
+      "parents": [
+        "/silbi/audiometry-test-vs-hearing-aid",
+        "/surgery-benefit/cochlear-implant-surgery-cost-claim"
+      ],
+      "intent": "ABR 검사와 선별·장애평가 목적, 검사 기록·비용 항목 확인",
+      "medical": "https://www.snubh.org/dh/main/index.do?DP_CD=NCD9&MENU_ID=005003005",
+      "label": "분당서울대학교병원 난청 진단 안내",
+      "scene": "adult hearing test consultation, generic headphones and closed folder, no anatomical drawings"
+    },
+    {
+      "keyword": "전정기능검사 실비",
+      "title": "전정기능검사 실비·비용, 어지럼증 검사 종류와 제출자료",
+      "path": "/silbi/vestibular-function-test-claim",
+      "cat": "실비보험",
+      "parents": [
+        "/silbi/audiometry-test-vs-hearing-aid"
+      ],
+      "intent": "어지럼증 평가에서 실제 시행한 안진·회전 검사와 추가 영상검사 구분",
+      "medical": "https://cancer.amc.seoul.kr/asan/mobile/healthinfo/management/managementDetail.do?managementId=323",
+      "label": "서울아산병원 전정기능검사",
+      "scene": "balance clinic consultation with generic video goggles resting on a desk, no procedure on person"
+    },
+    {
+      "keyword": "임피던스 청력검사",
+      "title": "임피던스 청력검사 비용·실비, 고막운동성검사와 순음검사 차이",
+      "path": "/silbi/impedance-tympanometry-test-claim",
+      "cat": "실비보험",
+      "parents": [
+        "/silbi/audiometry-test-vs-hearing-aid",
+        "/surgery-benefit/tympanoplasty-ear-surgery-claim"
+      ],
+      "intent": "고막·중이 상태 검사와 소리 역치 검사의 자료 차이",
+      "medical": "https://www.snuh.org/health/nMedInfo/nView.do?category=TEST&medid=BA000101",
+      "label": "서울대학교병원 청력검사 안내",
+      "scene": "generic tympanometry probe on clinic desk and clinician explaining a blank card, no device inserted into ear"
+    },
+    {
+      "keyword": "CDR GDS 차이",
+      "title": "CDR GDS 차이, 치매검사 결과지와 보험 약관 대조 방법",
+      "path": "/diagnosis-benefit/cdr-gds-dementia-scale-difference",
+      "cat": "진단비",
+      "parents": [
+        "/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+        "/silbi/leqembi-silbi-claim"
+      ],
+      "intent": "두 척도 및 CDR-SB와 global CDR을 구분하고 임의 점수 환산을 막음",
+      "medical": "https://pc.dnd.or.kr/DOIx.php?id=10.12779/dnd.2022.21.1.42",
+      "label": "대한치매학회 치매 임상 진료지침",
+      "scene": "memory clinic clinician and older adult hands comparing two closed unlabelled folders, no scores"
+    },
+    {
+      "keyword": "신경심리검사 실비",
+      "title": "신경심리검사 실비·비용, SNSB 검사와 치매 진단서 구분",
+      "path": "/silbi/neuropsychological-snsb-test-claim",
+      "cat": "실비보험",
+      "parents": [
+        "/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+        "/guides/alzheimer-injection-therapy"
+      ],
+      "intent": "정밀 인지평가 비용·시행일·결과자료와 진단비용 자료 구분",
+      "medical": "https://www.snubh.org/dh/main/index.do?DP_CD=BCD7&MENU_ID=006001",
+      "label": "분당서울대학교병원 신경인지행동센터",
+      "scene": "quiet neuropsychology consultation, blank paper shapes and pencils on desk, no real tests or score charts"
+    },
+    {
+      "keyword": "요속검사 잔뇨검사 실비",
+      "title": "요속검사 잔뇨검사 실비, 전립선 초음파와 비용 항목 구분",
+      "path": "/silbi/uroflowmetry-residual-urine-test-claim",
+      "cat": "실비보험",
+      "parents": [
+        "/silbi/prostate-ultrasound-cost-claim",
+        "/checkups/high-psa-followup"
+      ],
+      "intent": "배뇨 속도·배뇨 후 잔뇨 평가와 전립선 형태 검사 구분",
+      "medical": "https://bme.amc.seoul.kr/asan/healthtv/video/videoDetail.do?videoId=1375",
+      "label": "서울아산병원 요역동학검사 안내",
+      "scene": "urology consultation desk with closed files and generic ultrasound equipment in background, no intimate anatomy or actual procedure"
+    },
+    {
+      "keyword": "요역동학검사 실비",
+      "title": "요역동학검사 실비·비용, 방광기능검사와 수술 전 검사자료",
+      "path": "/silbi/urodynamic-study-cost-claim",
+      "cat": "실비보험",
+      "parents": [
+        "/silbi/prostate-ultrasound-cost-claim"
+      ],
+      "intent": "여러 기능검사 구성·실제 시행범위와 수술비 혼동 방지",
+      "medical": "https://bme.amc.seoul.kr/asan/healthtv/video/videoDetail.do?videoId=1375",
+      "label": "서울아산병원 요역동학검사 안내",
+      "scene": "urology clinician hands reviewing a blank appointment folder, clean clinic equipment in background, no tubes inserted, no graphs"
+    },
+    {
+      "keyword": "전립선 MRI 실비",
+      "title": "전립선 MRI 실비·비용, 조영제와 급여·비급여 확인 순서",
+      "path": "/silbi/prostate-mri-cost-claim",
+      "cat": "실비보험",
+      "parents": [
+        "/silbi/prostate-ultrasound-cost-claim",
+        "/silbi/mri-silbi-claim"
+      ],
+      "intent": "전립선 MRI 시행목적·조영·판독 비용과 수술·암진단비 구분",
+      "medical": "https://www.cancer.go.kr/lay1/program/S1T211C218/cancer/view.do?cancer_seq=4949&menu_seq=4961",
+      "label": "국가암정보센터 전립선암 진단방법",
+      "scene": "MRI scanner room with no patient inside, adult patient and clinician hands holding closed preparation folder outside room"
+    },
+    {
+      "keyword": "특수건강검진 일반건강검진 차이",
+      "title": "특수건강검진 일반건강검진 차이, 대상 업무와 배치전검진 구분",
+      "path": "/checkups/special-vs-general-occupational-checkup",
+      "cat": "건강검진",
+      "parents": [
+        "/checkups/workplace-health-checkup-missed-penalty",
+        "/checkups/health-checkup-target-2026"
+      ],
+      "intent": "유해인자·배치전 평가와 정기 일반검진을 구분해 회사에 확인할 자료",
+      "medical": "https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1033347731",
+      "label": "국가법령정보센터 산업안전보건법 제129~132조",
+      "scene": "occupational health consultation with worker helmet resting on desk and blank checkup folder, no logos or hazard labels"
+    },
+    {
+      "keyword": "채용 건강검진 대체 통보서 발급",
+      "title": "채용 건강검진 대체 통보서 발급, 조회 조건과 제출 전 확인",
+      "path": "/checkups/employment-health-checkup-substitute-notice",
+      "cat": "건강검진",
+      "parents": [
+        "/checkups/health-checkup-result-reissue",
+        "/checkups/driving-license-renewal-health-checkup"
+      ],
+      "intent": "공단 결과 활용 채용제출용 서류의 발급·인정·기록 반영 조건",
+      "medical": "https://www.nhis.or.kr/nhis/healthin/retrieveHealthinCheckUpEmployment.do",
+      "label": "국민건강보험공단 채용 건강검진 대체 통보서 발급",
+      "scene": "adult applicant at home desk checking a generic laptop and blank envelope, no official seals or copied website UI"
+    }
+  ]
+}

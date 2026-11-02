@@ -1,0 +1,11 @@
+{
+  "n": 6,
+  "url": "https://hospital.hbuby.com/silbi/uroflowmetry-residual-urine-test-claim",
+  "public": false,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/silbi/prostate-ultrasound-cost-claim",
+    "/checkups/high-psa-followup"
+  ]
+}

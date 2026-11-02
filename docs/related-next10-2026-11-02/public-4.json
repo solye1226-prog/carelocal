@@ -1,0 +1,11 @@
+{
+  "n": 4,
+  "url": "https://hospital.hbuby.com/diagnosis-benefit/cdr-gds-dementia-scale-difference",
+  "public": true,
+  "status": "passed",
+  "images": 3,
+  "parents": [
+    "/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+    "/silbi/leqembi-silbi-claim"
+  ]
+}
