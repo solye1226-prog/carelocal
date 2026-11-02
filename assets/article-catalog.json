@@ -2110,6 +2110,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/special-vs-general-occupational-checkup",
+    "title": "특수건강검진 일반건강검진 차이, 대상 업무와 배치전검진 구분",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/thyroid-tsh-abnormal-followup",
     "title": "갑상선기능검사 TSH 이상, 재검사 항목과 내분비내과 방문 기준",
     "category": "건강검진"
