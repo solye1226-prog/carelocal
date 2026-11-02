@@ -1115,6 +1115,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/femoral-head-osteonecrosis-core-decompression-claim",
+    "title": "대퇴골두 무혈성괴사 수술비, 중심감압술·인공관절 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/fibroid",
     "title": "자궁근종 절제술 수술비, 자궁절제술과 청구 기준은 어떻게 다를까?",
     "category": "수술비"
