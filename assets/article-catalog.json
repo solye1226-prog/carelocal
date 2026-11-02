@@ -1240,6 +1240,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/pneumothorax-chest-tube-vats-claim",
+    "title": "기흉 수술비 청구서류, 흉관삽입술·흉강경 수술 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/ptbd-biliary-drainage-insurance",
     "title": "담도 배액술 PTBD 수술비, ERCP·담낭절제술과 청구 기록은 어떻게 다를까?",
     "category": "수술비"
