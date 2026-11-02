@@ -1260,6 +1260,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/otosclerosis-stapes-surgery-claim",
+    "title": "이경화증 수술비 청구서류, 등골절개술·등골절제술 확인",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/ovarian-cyst-surgery-benefit",
     "title": "난소낭종 복강경 수술비, 낭종 제거와 난소 절제 기록 확인법",
     "category": "수술비"
