@@ -1280,6 +1280,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/proximal-humerus-fracture-surgery-claim",
+    "title": "상완골 근위부 골절 수술비, 금속판 고정·인공관절 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/ptbd-biliary-drainage-insurance",
     "title": "담도 배액술 PTBD 수술비, ERCP·담낭절제술과 청구 기록은 어떻게 다를까?",
     "category": "수술비"
