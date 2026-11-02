@@ -1915,6 +1915,11 @@
     "category": "건강검진"
   },
   {
+    "path": "/checkups/driving-license-renewal-health-checkup",
+    "title": "운전면허 갱신 건강검진, 적성검사 대체 가능 범위와 조회 조건",
+    "category": "건강검진"
+  },
+  {
     "path": "/checkups/endoscopy",
     "title": "위·대장내시경 준비와 결과 확인 | 케어로컬",
     "category": "건강검진"
