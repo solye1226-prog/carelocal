@@ -995,6 +995,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/baker-cyst-operation-claim",
+    "title": "베이커낭종 수술비, 무릎 물혹 흡인·절제 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/benign-thyroid-nodule-surgery-benefit",
     "title": "양성 갑상선 결절 절제 수술비, 암 진단비와 구분하는 법",
     "category": "수술비"
