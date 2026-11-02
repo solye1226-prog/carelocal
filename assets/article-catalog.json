@@ -1020,6 +1020,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/calcific-tendinitis-deposit-removal-claim",
+    "title": "석회성건염 수술비, 석회제거술·체외충격파 청구서류",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/carpal-tunnel-surgery-benefit",
     "title": "손목터널증후군 수술비, 신경 압박을 푸는 수술은 어떻게 확인할까?",
     "category": "수술비"
