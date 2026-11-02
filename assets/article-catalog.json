@@ -1060,6 +1060,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/cochlear-implant-surgery-cost-claim",
+    "title": "인공와우 수술비, 건강보험·기기 비용과 수술비 청구서류 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/cubital-tunnel-ulnar-nerve-surgery-claim",
     "title": "주관증후군 수술비, 척골신경 감압·전방이동술 청구서류",
     "category": "수술비"
