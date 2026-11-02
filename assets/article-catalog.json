@@ -790,6 +790,11 @@
     "category": "실비보험"
   },
   {
+    "path": "/silbi/prostate-mri-cost-claim",
+    "title": "전립선 MRI 실비·비용, 조영제와 급여·비급여 확인 순서",
+    "category": "실비보험"
+  },
+  {
     "path": "/silbi/prostate-ultrasound-cost-claim",
     "title": "전립선 초음파 비용·실비, 검진과 진료 목적 및 청구서류 비교",
     "category": "실비보험"
