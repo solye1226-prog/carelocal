@@ -1095,6 +1095,11 @@
     "category": "수술비"
   },
   {
+    "path": "/surgery-benefit/empyema-pleural-decortication-claim",
+    "title": "농흉 수술비 청구서류, 흉관배액·흉막박피술 구분",
+    "category": "수술비"
+  },
+  {
     "path": "/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
     "title": "자궁내막용종 자궁경 수술비, 검사와 절제 구분하기",
     "category": "수술비"
