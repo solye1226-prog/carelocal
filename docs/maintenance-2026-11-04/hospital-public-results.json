@@ -1,0 +1,112 @@
+[
+  {
+    "path": "/",
+    "final_url": "https://hospital.hbuby.com/",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/surgery-classification",
+    "final_url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/claims/insurance-claim-process",
+    "final_url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/silbi/leqembi-silbi-claim",
+    "final_url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/surgery-benefit/cataract-surgery-benefit.html",
+    "final_url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit.html",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/api/hospitals",
+    "final_url": "https://hospital.hbuby.com/api/hospitals",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/api/analytics",
+    "final_url": "https://hospital.hbuby.com/api/analytics",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/assets/site.css",
+    "final_url": "https://hospital.hbuby.com/assets/site.css",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/maintenance-probe-not-a-page",
+    "final_url": "https://hospital.hbuby.com/maintenance-probe-not-a-page",
+    "status": 503,
+    "maintenance": "enabled",
+    "retry_after": "3600",
+    "cache_control": "no-store, max-age=0",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/robots.txt",
+    "final_url": "https://hospital.hbuby.com/robots.txt",
+    "status": 200,
+    "maintenance": null,
+    "retry_after": null,
+    "cache_control": "public, max-age=0, must-revalidate",
+    "scripts": false,
+    "passed": true
+  },
+  {
+    "path": "/ads.txt",
+    "final_url": "https://hospital.hbuby.com/ads.txt",
+    "status": 200,
+    "maintenance": null,
+    "retry_after": null,
+    "cache_control": "public, max-age=0, must-revalidate",
+    "scripts": false,
+    "passed": true
+  }
+]
