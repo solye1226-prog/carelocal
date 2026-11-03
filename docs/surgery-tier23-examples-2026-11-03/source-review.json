@@ -1,0 +1,33 @@
+{
+  "basis": "Same dated official ABL 2023-11 historical policy downloaded and rendered earlier on2026-11-03, retained locally; not a universal current policy",
+  "two": {
+    "count": 10,
+    "clauses": [
+      "41",
+      "88-2",
+      "87",
+      "52",
+      "50",
+      "13-2",
+      "5",
+      "79",
+      "72",
+      "60"
+    ]
+  },
+  "three": {
+    "count": 8,
+    "clauses": [
+      "36+laparoscopy note",
+      "57",
+      "9",
+      "70",
+      "3",
+      "1",
+      "28",
+      "88-1"
+    ]
+  },
+  "traffic": "Familiar surgery terms and earlier user-provided traffic, not measured search-volume ranking",
+  "scope": "Existing surgery-classification page only"
+}
