@@ -1,0 +1,47 @@
+arrow_back_ios
+https://hospital.hbuby.com
+more_vert
+색인 상태 확인
+expand_more
+웹마스터 도구
+/
+검증
+/
+색인 상태 확인
+확인
+2026-11-06 12:07:50에 네이버 봇이 방문한 문서입니다.
+페이지가 검색될 수 있게 수집 요청해보세요.
+가이드
+수집 요청
+색인
+error_outline
+keyboard_arrow_down
+최종 업데이트 
+help_outline
+70. 01. 01.
+수집 허용 여부 
+help_outline
+예
+수집 완료 
+help_outline
+아니오
+응답 결과 
+help_outline
+Service Unavailable (503)
+색인 허용 여부 
+help_outline
+아니오
+색인 완료 
+help_outline
+아니오
+info
+ 도움말
+가장 최근 수집된 HTML 문서를 분석한 결과를 보여줍니다.
+요청하신 페이지 콘텐츠가 검색엔진이 잘 해석할 수 있는지를 진단할 수 있습니다.
+
+자세한 내용은 웹마스터 가이드 및 스마트봇 에게 물어보세요
+
+이용약관
+ 책임한계와 법적고지
+ 고객센터
+©NAVER Corp.

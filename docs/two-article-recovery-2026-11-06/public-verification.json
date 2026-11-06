@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+    "status": 200,
+    "matches_local": true,
+    "title": "카티스템 실비 청구, 약제비·수술료 확인과 필요서류",
+    "maintenance": null
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "status": 200,
+    "matches_local": true,
+    "title": "수술확인서 수술기록지 차이, 수술비 청구서류와 대체 가능 여부",
+    "maintenance": null
+  }
+]

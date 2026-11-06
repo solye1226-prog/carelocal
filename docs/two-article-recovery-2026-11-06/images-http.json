@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/assets/images/cartistem-silbi-claim-thumb.webp",
+    "status": 200,
+    "bytes": 65430,
+    "loading": "eager"
+  },
+  {
+    "url": "https://hospital.hbuby.com/assets/images/cartistem-silbi-claim-bill.webp",
+    "status": 200,
+    "bytes": 92582,
+    "loading": "lazy"
+  },
+  {
+    "url": "https://hospital.hbuby.com/assets/images/cartistem-silbi-claim-policy.webp",
+    "status": 200,
+    "bytes": 100308,
+    "loading": "lazy"
+  },
+  {
+    "url": "https://hospital.hbuby.com/assets/images/surgery-claim-documents-thumb-cardnews-v2.webp",
+    "status": 200,
+    "bytes": 94038,
+    "loading": "eager"
+  },
+  {
+    "url": "https://hospital.hbuby.com/assets/images/surgery-claim-documents-checklist.webp",
+    "status": 200,
+    "bytes": 79832,
+    "loading": "lazy"
+  },
+  {
+    "url": "https://hospital.hbuby.com/assets/images/surgery-claim-documents-mobile.webp",
+    "status": 200,
+    "bytes": 84808,
+    "loading": "lazy"
+  }
+]

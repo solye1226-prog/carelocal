@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+    "status": "accepted",
+    "evidence": "1\t\n/silbi/cartistem-silbi-claim\n\t26.11.06 14:37:19"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+    "status": "accepted",
+    "evidence": "1\t\n/claims/surgery-claim-documents\n\t26.11.06 14:37:30"
+  }
+]
