@@ -1,0 +1,96 @@
+{
+  "checked_at": "2026-11-06T05:16:02.528809+00:00",
+  "method": "HTTP only; no JavaScript or advertisement execution",
+  "results": [
+    {
+      "path": "/",
+      "url": "https://hospital.hbuby.com/",
+      "status": 200,
+      "maintenance": null,
+      "title": "케어로컬 | 실비보험·진단비·수술비·보험금 청구 정보",
+      "canonical": "<link rel=\"canonical\" href=\"https://hospital.hbuby.com/\">",
+      "matches_local": true,
+      "passed": true
+    },
+    {
+      "path": "/surgery-benefit/surgery-classification",
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "status": 200,
+      "maintenance": null,
+      "title": "수술분류표 1종·2종·3종, 실제 수술 종류와 약관 항목 비교",
+      "canonical": "<link href=\"https://hospital.hbuby.com/surgery-benefit/surgery-classification\" rel=\"canonical\"/>",
+      "matches_local": true,
+      "passed": true
+    },
+    {
+      "path": "/claims/insurance-claim-process",
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+      "status": 200,
+      "maintenance": null,
+      "title": "보험금 청구 절차 한눈에 보기, 접수부터 지급까지",
+      "canonical": "<link href=\"https://hospital.hbuby.com/claims/insurance-claim-process\" rel=\"canonical\"/>",
+      "matches_local": true,
+      "passed": true
+    },
+    {
+      "path": "/silbi/leqembi-silbi-claim",
+      "url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+      "status": 200,
+      "maintenance": null,
+      "title": "레켐비 실비보험 적용될까? 약제비·투여비·MRI 청구서류",
+      "canonical": "<link href=\"https://hospital.hbuby.com/silbi/leqembi-silbi-claim\" rel=\"canonical\"/>",
+      "matches_local": true,
+      "passed": true
+    },
+    {
+      "path": "/surgery-benefit/cataract-surgery-benefit.html",
+      "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "status": 200,
+      "maintenance": null,
+      "title": "백내장 수술비 몇종? 인공수정체삽입술과 약관 분류표 확인",
+      "canonical": "<link href=\"https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit\" rel=\"canonical\"/>",
+      "matches_local": true,
+      "passed": true
+    },
+    {
+      "path": "/assets/site.css",
+      "url": "https://hospital.hbuby.com/assets/site.css",
+      "status": 200,
+      "maintenance": null,
+      "title": null,
+      "canonical": null,
+      "matches_local": true,
+      "passed": true
+    },
+    {
+      "path": "/sitemap.xml",
+      "url": "https://hospital.hbuby.com/sitemap.xml",
+      "status": 200,
+      "maintenance": null,
+      "title": null,
+      "canonical": null,
+      "matches_local": true,
+      "passed": true
+    },
+    {
+      "path": "/robots.txt",
+      "url": "https://hospital.hbuby.com/robots.txt",
+      "status": 200,
+      "maintenance": null,
+      "title": null,
+      "canonical": null,
+      "matches_local": true,
+      "passed": true
+    },
+    {
+      "path": "/ads.txt",
+      "url": "https://hospital.hbuby.com/ads.txt",
+      "status": 200,
+      "maintenance": null,
+      "title": null,
+      "canonical": null,
+      "matches_local": true,
+      "passed": true
+    }
+  ]
+}

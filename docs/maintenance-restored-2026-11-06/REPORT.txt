@@ -1,0 +1,19 @@
+hospital.hbuby.com maintenance restoration — 2026-11-06
+
+User explicitly requested removal of maintenance mode and restoration of original site.
+Reverted maintenance-only commit f6b6fe0 with commit 2db9c30 and pushed main.
+Removed global maintenance middleware, wildcard routing override, and its obsolete tests.
+Existing functions/api handlers, articles, images, advertising configuration and URLs are unchanged.
+hbuby.com WordPress and loan.hbuby.com were not modified.
+
+Public HTTP verification: nine routes passed, including homepage, four article URLs,
+CSS, sitemap, robots.txt and ads.txt. Legacy .html article redirects to its original clean URL.
+All final responses were HTTP 200, without X-Carelocal-Maintenance.
+Bodies match local originals after removing the existing Cloudflare-injected analytics beacon.
+536 sitemap URLs passed canonical checks. Original API handler files remain tracked.
+HTTP-only verification executed no JavaScript and generated no AdSense impressions/clicks.
+No new indexing submissions or Google Ads changes were performed.
+Search ranking/indexing recovery and actual advertisement delivery were not verified by this restoration.
+
+Evidence: public-verification.json
+Reproducible check: python scripts/verify_restoration_20261106.py
