@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/surgery-benefit/injury-surgery-classification",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/injury-surgery-classification\n\t26.11.06 16:34:59"
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/hemorrhoid-surgery-benefit\n\t26.11.06 16:35:12"
+  },
+  {
+    "path": "/surgery-benefit/fracture-hardware-removal-benefit",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/fracture-hardware-removal-benefit\n\t26.11.06 16:35:23"
+  },
+  {
+    "path": "/surgery-benefit/lumbar-disc",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/lumbar-disc\n\t26.11.06 16:36:09"
+  },
+  {
+    "path": "/surgery-benefit/mammotome-surgery-benefit",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/mammotome-surgery-benefit\n\t26.11.06 16:36:17"
+  },
+  {
+    "path": "/surgery-benefit/acl-reconstruction",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/acl-reconstruction\n\t26.11.06 16:36:28"
+  },
+  {
+    "path": "/surgery-benefit/ureteroscopy",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/ureteroscopy\n\t26.11.06 16:36:49"
+  },
+  {
+    "path": "/claims/insurance-claim-payout-period",
+    "status": "accepted",
+    "evidence": "1\t\n/claims/insurance-claim-payout-period\n\t26.11.06 16:37:07"
+  },
+  {
+    "path": "/treatment-costs/cartistem-stem-cell-knee-cost",
+    "status": "accepted",
+    "evidence": "1\t\n/treatment-costs/cartistem-stem-cell-knee-cost\n\t26.11.06 16:37:42"
+  }
+]

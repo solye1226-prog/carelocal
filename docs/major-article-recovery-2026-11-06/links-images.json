@@ -1,0 +1,96 @@
+{
+  "pages": 6,
+  "broken_internal_paths": [],
+  "images": [
+    {
+      "url": "https://hospital.hbuby.com/assets/images/acl-reconstruction-hospital.webp",
+      "status": 200,
+      "bytes": 122020
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/acl-reconstruction-policy.webp",
+      "status": 200,
+      "bytes": 122098
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/acl-reconstruction-thumb.webp",
+      "status": 200,
+      "bytes": 90296
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-surgery-benefit-consult.webp",
+      "status": 200,
+      "bytes": 88996
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-surgery-benefit-documents.webp",
+      "status": 200,
+      "bytes": 126468
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/hemorrhoid-surgery-benefit-thumb.webp",
+      "status": 200,
+      "bytes": 61028
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/injury-surgery-classification-hospital.webp",
+      "status": 200,
+      "bytes": 60094
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/injury-surgery-classification-policy.webp",
+      "status": 200,
+      "bytes": 118256
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/injury-surgery-classification-thumb.webp",
+      "status": 200,
+      "bytes": 73074
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/insurance-claim-payout-period-flow.webp",
+      "status": 200,
+      "bytes": 73764
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/insurance-claim-payout-period-status.webp",
+      "status": 200,
+      "bytes": 86844
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/insurance-claim-payout-period-thumb.webp",
+      "status": 200,
+      "bytes": 90578
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/lumbar-disc-hospital.webp",
+      "status": 200,
+      "bytes": 124274
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/lumbar-disc-policy.webp",
+      "status": 200,
+      "bytes": 99368
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/lumbar-disc-thumb.webp",
+      "status": 200,
+      "bytes": 105794
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/ureteroscopy-hospital.webp",
+      "status": 200,
+      "bytes": 124638
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/ureteroscopy-policy.webp",
+      "status": 200,
+      "bytes": 120768
+    },
+    {
+      "url": "https://hospital.hbuby.com/assets/images/ureteroscopy-thumb.webp",
+      "status": 200,
+      "bytes": 114210
+    }
+  ]
+}

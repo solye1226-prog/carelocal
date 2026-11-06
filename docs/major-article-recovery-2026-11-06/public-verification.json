@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/surgery-benefit/injury-surgery-classification",
+    "status": 200,
+    "matches_local": true,
+    "title": "상해 종수술비 분류표, 골절·인대 수술명과 특약 확인법",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification"
+    ]
+  },
+  {
+    "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
+    "status": 200,
+    "matches_local": true,
+    "title": "치질 수술비 몇종? 치핵 근본수술 약관 예시와 청구서류",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit"
+    ]
+  },
+  {
+    "path": "/surgery-benefit/fracture-hardware-removal-benefit",
+    "status": 200,
+    "matches_local": true,
+    "title": "골절 핀·금속판 제거 수술비, 첫 수술과 다시 청구할 수 있을까?",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/surgery-benefit/fracture-hardware-removal-benefit"
+    ]
+  },
+  {
+    "path": "/surgery-benefit/lumbar-disc",
+    "status": 200,
+    "matches_local": true,
+    "title": "허리디스크 수술비 몇종? 관혈·내시경 약관 예시와 청구서류",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/surgery-benefit/lumbar-disc"
+    ]
+  },
+  {
+    "path": "/surgery-benefit/mammotome-surgery-benefit",
+    "status": 200,
+    "matches_local": true,
+    "title": "맘모톰 종수술비 몇 종? 질병수술비·실비와 구분하는 기준",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit"
+    ]
+  },
+  {
+    "path": "/surgery-benefit/acl-reconstruction",
+    "status": 200,
+    "matches_local": true,
+    "title": "십자인대 재건술 수술비, 상해 담보·동반 수술 청구서류",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/surgery-benefit/acl-reconstruction"
+    ]
+  },
+  {
+    "path": "/surgery-benefit/ureteroscopy",
+    "status": 200,
+    "matches_local": true,
+    "title": "요로결석 수술비 몇종? 요관경·체외충격파쇄석술 비교",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/surgery-benefit/ureteroscopy"
+    ]
+  },
+  {
+    "path": "/claims/insurance-claim-payout-period",
+    "status": 200,
+    "matches_local": true,
+    "title": "보험금 지급 기간, 3영업일 기준과 조사·지연 시 확인사항",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/claims/insurance-claim-payout-period"
+    ]
+  },
+  {
+    "path": "/treatment-costs/cartistem-stem-cell-knee-cost",
+    "status": 200,
+    "matches_local": true,
+    "title": "카티스템 수술비용, 재료대·수술료·입원비 견적 비교",
+    "noindex": false,
+    "canonical": [
+      "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost"
+    ]
+  }
+]
