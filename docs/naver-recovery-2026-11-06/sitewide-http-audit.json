@@ -1,0 +1,5369 @@
+{
+  "checked_at": "2026-11-06T05:28:24.449999+00:00",
+  "count": 536,
+  "issues": 0,
+  "results": [
+    {
+      "url": "https://hospital.hbuby.com/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/",
+      "canonical": [
+        "https://hospital.hbuby.com/"
+      ],
+      "robots": [
+        "index, follow"
+      ],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/bladder-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/bladder-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/bladder-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/breast-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/breast-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/breast-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/cervical-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/cervical-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/cervical-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/colorectal-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/colorectal-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/colorectal-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/kidney-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/kidney-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/kidney-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/liver-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/liver-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/liver-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/lung-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/lung-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/lung-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/ovarian-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/ovarian-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/ovarian-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/pancreatic-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/pancreatic-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/pancreatic-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/prostate-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/prostate-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/prostate-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/stomach-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/stomach-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/stomach-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cancers/thyroid-cancer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cancers/thyroid-cancer",
+      "canonical": [
+        "https://hospital.hbuby.com/cancers/thyroid-cancer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/caregiver/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/caregiver/",
+      "canonical": [
+        "https://hospital.hbuby.com/caregiver/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/caregiver/als-specialist-nursing-hospital-pilot",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/caregiver/als-specialist-nursing-hospital-pilot",
+      "canonical": [
+        "https://hospital.hbuby.com/caregiver/als-specialist-nursing-hospital-pilot"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/caregiver/caregiver-insurance-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/caregiver/caregiver-insurance-renewal-period",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/caregiver/caregiver-insurance-renewal-period",
+      "canonical": [
+        "https://hospital.hbuby.com/caregiver/caregiver-insurance-renewal-period"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/caregiver/integrated-nursing-care-cost-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/caregiver/integrated-nursing-care-cost-check",
+      "canonical": [
+        "https://hospital.hbuby.com/caregiver/integrated-nursing-care-cost-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/caregiver/longterm-care-welfare-equipment-limit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/caregiver/longterm-care-welfare-equipment-limit",
+      "canonical": [
+        "https://hospital.hbuby.com/caregiver/longterm-care-welfare-equipment-limit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/cases/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/cases/",
+      "canonical": [
+        "https://hospital.hbuby.com/cases/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/abnormal-results",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/abnormal-results",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/abnormal-results"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/cancer-screening",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/cancer-screening",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/cancer-screening"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/cervical-screening-ascus-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/cervical-screening-report-2027-change",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/cervical-screening-report-2027-change",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/cervical-screening-report-2027-change"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/chest-xray-abnormal-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/driving-license-renewal-health-checkup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/employment-health-checkup-substitute-notice",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/employment-health-checkup-substitute-notice",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/employment-health-checkup-substitute-notice"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/endoscopy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/endoscopy",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/endoscopy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/fatty-liver-ultrasound-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/fatty-liver-ultrasound-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/fatty-liver-ultrasound-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/fecal-occult-blood-positive",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/fecal-occult-blood-positive",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/fecal-occult-blood-positive"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/gallbladder-polyp-ultrasound-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/gallbladder-polyp-ultrasound-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/gallbladder-polyp-ultrasound-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/gastric-intestinal-metaplasia-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/gastric-intestinal-metaplasia-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/gastric-intestinal-metaplasia-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-20s",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-20s",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-20s"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-30s",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-30s",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-30s"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-40s",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-40s",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-40s"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-50s",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-50s",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-50s"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-60plus",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-60plus",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-60plus"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-cholesterol-abnormal",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-cholesterol-abnormal",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-cholesterol-abnormal"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-confirmatory-test"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-fasting-medication"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-hematuria",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-hematuria"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-high-blood-pressure"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-high-fasting-glucose",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-high-fasting-glucose",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-high-fasting-glucose"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-high-liver-enzymes",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-high-liver-enzymes",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-high-liver-enzymes"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-low-egfr",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-low-egfr",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-low-egfr"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-low-hemoglobin",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-low-hemoglobin",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-low-hemoglobin"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-proteinuria",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-proteinuria",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-proteinuria"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-result-reissue",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-result-reissue",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-result-reissue"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/health-checkup-target-2026",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/health-checkup-target-2026",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/health-checkup-target-2026"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/high-psa-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/high-psa-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/high-psa-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/kidney-cyst-ultrasound-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/kidney-cyst-ultrasound-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/kidney-cyst-ultrasound-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/mammography-abnormal-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/mammography-abnormal-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/mammography-abnormal-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/missed-health-checkup-application",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/missed-health-checkup-application",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/missed-health-checkup-application"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/national-biobank-noncheckup-participation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/national-biobank-noncheckup-participation",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/national-biobank-noncheckup-participation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/national-health-checkup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/national-health-checkup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/national-health-checkup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/osteopenia-bone-density-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/osteopenia-bone-density-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/osteopenia-bone-density-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/special-vs-general-occupational-checkup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/special-vs-general-occupational-checkup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/special-vs-general-occupational-checkup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/thyroid-tsh-abnormal-followup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/thyroid-tsh-abnormal-followup",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/thyroid-tsh-abnormal-followup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/checkups/workplace-health-checkup-missed-penalty",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/checkups/workplace-health-checkup-missed-penalty",
+      "canonical": [
+        "https://hospital.hbuby.com/checkups/workplace-health-checkup-missed-penalty"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/appendicitis-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/bile-culture-vs-pathology-records"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/cancer-diagnosis-benefit-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/cancer-diagnosis-benefit-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/cancer-diagnosis-benefit-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/cataract-both-eyes-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/cataract-day-surgery-inpatient-outpatient"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/cataract-multifocal-lens-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/cataract-slitlamp-records",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/cataract-slitlamp-records",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/cataract-slitlamp-records"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/cataract-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/cataract-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/cataract-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/cholesteatoma-ear-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/cholesteatoma-ear-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/cholesteatoma-ear-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/claim-paid-no-bank-deposit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/closed-hospital-records-request",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/closed-hospital-records-request",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/closed-hospital-records-request"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/colonoscopy-polyp-insurance-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/contrast-adverse-reaction-relief-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/contrast-adverse-reaction-relief-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/contrast-adverse-reaction-relief-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/dental-crown-insurance-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/dental-extraction-implant-dates",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/dental-extraction-implant-dates",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/dental-extraction-implant-dates"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/dental-implant-insurance-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/discharge-day-outpatient-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/discharge-day-outpatient-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/discharge-day-outpatient-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/dormant-insurance-payment-application",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/dormant-insurance-payment-application",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/dormant-insurance-payment-application"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/downstairs-water-leak-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/downstairs-water-leak-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/downstairs-water-leak-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/driver-injury-14",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/driver-injury-14",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/driver-injury-14"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/duplicate-insurance-claim-receipt"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/english-operative-record-insurance-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/english-operative-record-insurance-check",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/english-operative-record-insurance-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/entry-departure-certificate-silbi-submission",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/entry-departure-certificate-silbi-submission",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/entry-departure-certificate-silbi-submission"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/epost-silbi-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/epost-silbi-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/epost-silbi-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/family-liability-water-leak-deductible",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/family-liability-water-leak-deductible",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/family-liability-water-leak-deductible"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/family-proxy-insurance-claim-form"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/gallbladder-pathology-request",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/gallbladder-pathology-request",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/gallbladder-pathology-request"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/gallbladder-polyp-surgery-insurance-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/gallstone-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/hemorrhoid-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/hidden-insurance-vs-unclaimed-medical-bills"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/home-fire-insurance-water-leak",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/home-fire-insurance-water-leak",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/home-fire-insurance-water-leak"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/hospital-receipt-reissue",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/hospital-receipt-reissue",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/hospital-receipt-reissue"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/hospitalization-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/hospitalization-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/hydrocele-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/hydrocele-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/hydrocele-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/inguinal-hernia-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-beneficiary-bank-account-mismatch"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-appeal",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-appeal",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-appeal"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-bank-account-change",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-bank-account-change",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-bank-account-change"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-denial-reasons",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-denial-reasons",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-denial-reasons"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-form-writing",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-form-writing",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-form-writing"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-limitation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-limitation",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-limitation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-method",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-method"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-missing-visit-date",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-missing-visit-date",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-missing-visit-date"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-original-documents-request",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-original-documents-request",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-original-documents-request"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-payment-delay",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-payment-delay"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-payout-period",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-payout-period",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-payout-period"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-period",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-period",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-period"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-process"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-claim-supplement-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-claim-supplement-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-claim-supplement-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/insurance-payment-statement-certificate"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/iol-implant-card-lost-records",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/iol-implant-card-lost-records",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/iol-implant-card-lost-records"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/knee-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/knee-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/knee-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/leqembi-mri-different-hospitals"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/leqembi-repeat-claim-ledger"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/mammotome-claim-denied",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/mammotome-claim-denied",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/mammotome-claim-denied"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/mammotome-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/mammotome-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/mammotome-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/medical-certificate-online-first-issue",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/medical-certificate-online-first-issue",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/medical-certificate-online-first-issue"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/medical-expense-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/medical-expense-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/medical-records-proxy-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/medical-records-proxy-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/minor-child-insurance-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/multiple-polyps-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/operative-record-retention-period",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/operative-record-retention-period",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/operative-record-retention-period"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/operative-record-upload-missing-pages",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/operative-record-upload-missing-pages",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/operative-record-upload-missing-pages"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/overseas-hospital-bill-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/overseas-hospital-card-slip-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/overseas-hospital-card-slip-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/overseas-hospital-card-slip-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/overseas-medical-note-diagnosis-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/overseas-medical-note-diagnosis-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/overseas-medical-note-diagnosis-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/overseas-pharmacy-prescription-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/overseas-pharmacy-prescription-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/overseas-pharmacy-prescription-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/page/2/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/page/2/",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/page/2/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/page/3/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/page/3/",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/page/3/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/past-surgery-history-lookup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/past-surgery-history-lookup",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/past-surgery-history-lookup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/polyp-pathology-diagnosis-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/polyp-removal-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/polyp-removal-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/polyp-removal-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/polyp-removal-surgery-benefit-tier"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/primary-secondary-diagnosis-surgery-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/salivary-stone-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/salivary-stone-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/salivary-stone-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/same-day-multiple-departments-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/same-day-multiple-departments-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/same-day-multiple-departments-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/same-tooth-repeat-dental-treatment-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/same-tooth-repeat-dental-treatment-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/same-tooth-repeat-dental-treatment-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/screening-polyp-removal-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/screening-polyp-removal-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/screening-polyp-removal-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/silbi-fixed-surgery-same-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/sinus-endoscopic-surgery-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/sinus-endoscopic-surgery-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/sinus-endoscopic-surgery-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/spouse-card-medical-bill-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/surgery-certificate-missing-diagnosis"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/surgery-certificate-unavailable",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/surgery-certificate-unavailable",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/surgery-certificate-unavailable"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/surgery-first-diagnosis-later-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/surgery-record-additional-request",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/surgery-record-additional-request",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/surgery-record-additional-request"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/surgery-record-certificate-mismatch"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/traffic-accident-outpatient-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/urinary-stone-treatment-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/uterine-fibroid-surgery-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied",
+      "canonical": [
+        "https://hospital.hbuby.com/claims/varicose-insurance-low-payout-denied"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/brain-heart-major-treatment-vs-diagnosis"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/cdr-gds-dementia-scale-difference",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/cdr-gds-dementia-scale-difference",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/cdr-gds-dementia-scale-difference"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-benefit-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-living-cost",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-living-cost",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/cerebrovascular-living-cost"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/dementia-diagnosis-benefit-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/integrated-cancer-metastasis-vs-rediagnosis",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/integrated-cancer-metastasis-vs-rediagnosis",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/integrated-cancer-metastasis-vs-rediagnosis"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/reproductive-cancer-radiation-rider-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/reproductive-cancer-radiation-rider-check",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/reproductive-cancer-radiation-rider-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/three-disease-outpatient-daily-hospital-tier",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/three-disease-outpatient-daily-hospital-tier",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/three-disease-outpatient-daily-hospital-tier"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/diagnosis-benefit/thyroid-cancer-benefit-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/alzheimer-injection-therapy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/alzheimer-injection-therapy",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/alzheimer-injection-therapy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/amc-external-image-cd-registration",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/amc-external-image-cd-registration",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/amc-external-image-cd-registration"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/amc-home-nursing-service-area",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/amc-home-nursing-service-area",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/amc-home-nursing-service-area"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/amc-noncovered-price-material-drug",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/amc-noncovered-price-material-drug",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/amc-noncovered-price-material-drug"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/cancer-treatment-cost",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/cancer-treatment-cost",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/cancer-treatment-cost"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/caregiver-application",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/caregiver-application",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/caregiver-application"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/cgm-clarity-report-clinic-sharing",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/cgm-clarity-report-clinic-sharing",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/cgm-clarity-report-clinic-sharing"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/cgm-fingerstick-reading-mismatch-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/cgm-fingerstick-reading-mismatch-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/cgm-fingerstick-reading-mismatch-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/contrast-reaction-drug-safety-card",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/contrast-reaction-drug-safety-card",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/contrast-reaction-drug-safety-card"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/covid-vaccine-2026-high-risk-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/covid-vaccine-2026-high-risk-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/covid-vaccine-2026-high-risk-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/ct-mri-image-cd-transfer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/designated-blood-donation-recipient-number",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/designated-blood-donation-recipient-number",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/designated-blood-donation-recipient-number"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/dexcom-g7-airport-security-travel-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/dexcom-g7-airport-security-travel-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/dexcom-g7-airport-security-travel-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/dexcom-g7-sensor-failure-replacement-evidence",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/dexcom-g7-sensor-failure-replacement-evidence",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/dexcom-g7-sensor-failure-replacement-evidence"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/dexcom-g7-smartphone-change-pairing-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/dexcom-g7-smartphone-change-pairing-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/dexcom-g7-smartphone-change-pairing-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/dispensed-prescription-medicine-return-refund",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/dispensed-prescription-medicine-return-refund",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/dispensed-prescription-medicine-return-refund"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/dur-duplicate-prescription-warning-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/dur-duplicate-prescription-warning-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/dur-duplicate-prescription-warning-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/flu-vaccination-2026",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/flu-vaccination-2026",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/flu-vaccination-2026"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/glp1-pregnancy-planning-official-guide",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/glp1-pregnancy-planning-official-guide",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/glp1-pregnancy-planning-official-guide"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/heavy-ion-therapy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/heavy-ion-therapy",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/heavy-ion-therapy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/hira-medication-history-before-admission",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/hira-medication-history-before-admission",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/hira-medication-history-before-admission"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/home-nursing-before-discharge",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/home-nursing-before-discharge",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/home-nursing-before-discharge"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/hospice-provider-type-cost-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/hospice-provider-type-cost-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/hospice-provider-type-cost-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/inpatient-personal-medicine-handover",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/inpatient-personal-medicine-handover",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/inpatient-personal-medicine-handover"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/iol-mri-device-information-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/iol-mri-device-information-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-hospitalization-pause",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-hospitalization-pause",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/longtermcare-home-nursing-hospitalization-pause"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-order-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-order-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/longtermcare-home-nursing-order-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-provider-change",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-provider-change",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/longtermcare-home-nursing-provider-change"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-provider-search",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-provider-search",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/longtermcare-home-nursing-provider-search"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-service-record-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/longtermcare-home-nursing-service-record-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/longtermcare-home-nursing-service-record-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/lost-prescription-reissue-cost",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/lost-prescription-reissue-cost",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/lost-prescription-reissue-cost"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/medical-dispute-counselling-records",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/medical-dispute-counselling-records",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/medical-dispute-counselling-records"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/medical-information-exchange-consent-transfer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/medical-information-exchange-consent-transfer",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/medical-information-exchange-consent-transfer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/medicine-driving-warning-label-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/medicine-driving-warning-label-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/medicine-driving-warning-label-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/medicine-recall-lot-number-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/medicine-recall-lot-number-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/medicine-recall-lot-number-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/mobile-health-insurance-id-error",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/mobile-health-insurance-id-error",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/mobile-health-insurance-id-error"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/moonlight-childrens-hospital-night-search",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/moonlight-childrens-hospital-night-search",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/moonlight-childrens-hospital-night-search"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/mri-cgm-insulin-pump-preparation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/mri-cgm-insulin-pump-preparation",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/mri-cgm-insulin-pump-preparation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/mri-transdermal-patch-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/mri-transdermal-patch-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/mri-transdermal-patch-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/my-health-record-missing-hospital-data",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/my-health-record-missing-hospital-data",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/my-health-record-missing-hospital-data"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/night-hospital-checklist",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/night-hospital-checklist",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/night-hospital-checklist"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/nursing-hospital-referral-prescription-medicine",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/nursing-hospital-referral-prescription-medicine",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/nursing-hospital-referral-prescription-medicine"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/parent-prescription-proxy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/parent-prescription-proxy",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/parent-prescription-proxy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/pathology-slide-loan-return",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/pathology-slide-loan-return",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/pathology-slide-loan-return"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/patient-drug-adverse-event-report",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/patient-drug-adverse-event-report",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/patient-drug-adverse-event-report"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/personal-medical-narcotics-history-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/personal-medical-narcotics-history-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/personal-medical-narcotics-history-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/pharmacy-dispensing-record-copy-request",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/pharmacy-dispensing-record-copy-request",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/pharmacy-dispensing-record-copy-request"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/pharmacy-substitution-dispensed-medicine-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/pharmacy-substitution-dispensed-medicine-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/pharmacy-substitution-dispensed-medicine-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/postdischarge-home-rehabilitation-consultation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/postdischarge-home-rehabilitation-consultation",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/postdischarge-home-rehabilitation-consultation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/private-ambulance-quality-pilot-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/private-ambulance-quality-pilot-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/private-ambulance-quality-pilot-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/proton-therapy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/proton-therapy",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/proton-therapy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/psychiatry-first-visit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/psychiatry-first-visit",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/psychiatry-first-visit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/recovery-rehabilitation-designation-transfer-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/recovery-rehabilitation-designation-transfer-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/recovery-rehabilitation-designation-transfer-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/rehab-inpatient-other-hospital-referral"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/robotic-surgery",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/robotic-surgery",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/robotic-surgery"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/severance-first-reservation-referral-upload",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/severance-first-reservation-referral-upload",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/severance-first-reservation-referral-upload"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/severance-healthcheck-national-screening",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/severance-healthcheck-national-screening",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/severance-healthcheck-national-screening"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/severance-record-copy-proxy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/severance-record-copy-proxy",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/severance-record-copy-proxy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/single-use-eye-drops-opened-disposal-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/single-use-eye-drops-opened-disposal-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/single-use-eye-drops-opened-disposal-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/smc-first-visit-quick-reservation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/smc-first-visit-quick-reservation",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/smc-first-visit-quick-reservation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/smc-medical-certificate-first-reissue",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/smc-medical-certificate-first-reissue",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/smc-medical-certificate-first-reissue"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/smc-receipt-itemized-bill-download",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/smc-receipt-itemized-bill-download",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/smc-receipt-itemized-bill-download"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-admission-room-assignment",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-admission-room-assignment",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-admission-room-assignment"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-advance-directive-counselling",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-advance-directive-counselling",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-advance-directive-counselling"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-day-surgery-call-guardian",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-day-surgery-call-guardian",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-day-surgery-call-guardian"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-discharge-payment-medicine",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-discharge-payment-medicine",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-discharge-payment-medicine"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-emergency-discharge-next-visit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-emergency-discharge-next-visit",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-emergency-discharge-next-visit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-first-visit-referral",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-first-visit-referral",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-first-visit-referral"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-hipass-card-exclusions",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-hipass-card-exclusions",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-hipass-card-exclusions"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-integrated-nursing-ward-application",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-integrated-nursing-ward-application",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-integrated-nursing-ward-application"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-parking-admission-discharge",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-parking-admission-discharge",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-parking-admission-discharge"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-sign-language-interpreter-reservation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-sign-language-interpreter-reservation",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-sign-language-interpreter-reservation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snubh-visiting-ward-guardian",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snubh-visiting-ward-guardian",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snubh-visiting-ward-guardian"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snuh-appointment-cancel-test-prepaid",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snuh-appointment-cancel-test-prepaid",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snuh-appointment-cancel-test-prepaid"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snuh-cancer-information-education-center",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snuh-cancer-information-education-center",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snuh-cancer-information-education-center"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snuh-external-image-cd-usb",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snuh-external-image-cd-usb",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snuh-external-image-cd-usb"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/snuh-surgery-record-certificate",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/snuh-surgery-record-certificate",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/snuh-surgery-record-certificate"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/sunday-hospital-checklist",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/sunday-hospital-checklist",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/sunday-hospital-checklist"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/tablet-splitting-warning-product-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/tablet-splitting-warning-product-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/tablet-splitting-warning-product-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/targeted-immunotherapy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/targeted-immunotherapy",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/targeted-immunotherapy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/telemedicine-first-visit-proposed-rules",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/telemedicine-first-visit-proposed-rules",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/telemedicine-first-visit-proposed-rules"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/temporary-wheelchair-free-rental",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/temporary-wheelchair-free-rental",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/temporary-wheelchair-free-rental"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/tertiary-hospital-referral-checkup"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/unlabelled-pill-identification-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/unlabelled-pill-identification-check",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/unlabelled-pill-identification-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/guides/unused-prescription-medicine-disposal",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/guides/unused-prescription-medicine-disposal",
+      "canonical": [
+        "https://hospital.hbuby.com/guides/unused-prescription-medicine-disposal"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/hospitals/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/hospitals/",
+      "canonical": [
+        "https://hospital.hbuby.com/hospitals/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/hospitals/seoul/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/hospitals/seoul/",
+      "canonical": [
+        "https://hospital.hbuby.com/hospitals/seoul/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/hospitals/seoul/psychiatry-sunday",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/hospitals/seoul/psychiatry-sunday",
+      "canonical": [
+        "https://hospital.hbuby.com/hospitals/seoul/psychiatry-sunday"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/hospitals/seoul/sunday",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/hospitals/seoul/sunday",
+      "canonical": [
+        "https://hospital.hbuby.com/hospitals/seoul/sunday"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/insurance-companies/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/insurance-companies/",
+      "canonical": [
+        "https://hospital.hbuby.com/insurance-companies/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/legal/about",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/legal/about",
+      "canonical": [
+        "https://hospital.hbuby.com/legal/about"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/legal/contact",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/legal/contact",
+      "canonical": [
+        "https://hospital.hbuby.com/legal/contact"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/legal/disclaimer",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/legal/disclaimer",
+      "canonical": [
+        "https://hospital.hbuby.com/legal/disclaimer"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/legal/privacy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/legal/privacy",
+      "canonical": [
+        "https://hospital.hbuby.com/legal/privacy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/abdominal-ultrasound-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/abr-hearing-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/abr-hearing-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/abr-hearing-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/age13-composite-resin-coverage-update",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/age13-composite-resin-coverage-update",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/age13-composite-resin-coverage-update"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/anal-surgery-outpatient-dressing-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/audiometry-test-vs-hearing-aid"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/breast-ultrasound-silbi-purpose",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/breast-ultrasound-silbi-purpose",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/breast-ultrasound-silbi-purpose"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/cancelled-surgery-test-anesthesia-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/cancelled-surgery-test-anesthesia-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/cancelled-surgery-test-anesthesia-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/cartistem-medical-necessity-supplement",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/cartistem-medical-necessity-supplement",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/cartistem-medical-necessity-supplement"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/cartistem-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/cartistem-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/cataract-preoperative-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/cataract-preoperative-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/cataract-preoperative-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/cervical-biopsy-pathology-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/cervical-biopsy-pathology-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/cervical-biopsy-pathology-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/claim-photo-upload-error",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/claim-photo-upload-error",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/claim-photo-upload-error"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/comprehensive-psychological-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/corrected-hospital-bill-insurance-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/covered-vs-noncovered-medical-costs"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/cpap-rental-private-insurance-costs"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/ct-scan-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/current-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/current-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/current-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/cystoscopy-exam-biopsy-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/cystoscopy-exam-biopsy-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/cystoscopy-exam-biopsy-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/deceased-parent-unclaimed-medical-bills"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/deductible-vs-copayment",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/deductible-vs-copayment"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/dementia-designated-proxy-claimant"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/dental-covered-medical-expense-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/emergency-room-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/emergency-room-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/emergency-room-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/emg-nerve-conduction-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/flu-test-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/flu-test-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/flu-test-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/foreign-resident-name-id-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/gastroscopy-biopsy-pathology-cost",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/gastroscopy-biopsy-pathology-cost",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/gastroscopy-biopsy-pathology-cost"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/generation-comparison",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/generation-comparison",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/generation-comparison"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/group-silbi-after-resignation-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/group-to-personal-silbi-conversion-retirement",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/group-to-personal-silbi-conversion-retirement",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/group-to-personal-silbi-conversion-retirement"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/h-pylori-eradication-pharmacy-test",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/h-pylori-eradication-pharmacy-test",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/h-pylori-eradication-pharmacy-test"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/heart-echo-exam-purpose",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/heart-echo-exam-purpose",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/heart-echo-exam-purpose"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/hemorrhoid-surgery-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/holter-ambulatory-ecg-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/hometax-silson-payment-record-mismatch",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/hometax-silson-payment-record-mismatch",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/hometax-silson-payment-record-mismatch"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/hospital-bill-correction-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/hospital-bill-correction-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/hospital-bill-correction-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/hospital-interim-bill-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/hospital-receipt-vs-payment-certificate"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/impedance-tympanometry-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/impedance-tympanometry-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/impedance-tympanometry-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/independent-loss-adjuster-appointment-cost"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/infertility-test-treatment-support-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/jaw-joint-treatment-splint-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/knee-surgery-rehabilitation-hospital-transfer-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/korean-medicine-covered-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/korean-medicine-western-collaborative-bill"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/leqembi-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/leqembi-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/mammotome-day-admission",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/mammotome-day-admission",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/mammotome-day-admission"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/mammotome-low-payout",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/mammotome-low-payout",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/mammotome-low-payout"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/mammotome-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/mammotome-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/mammotome-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/manual-therapy-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/mast-allergy-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/mast-allergy-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/medical-aid-recipient-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/medical-certificate-fee-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/mri-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/mri-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/multiple-silbi-insurers-document-forwarding"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/neuropsychological-snsb-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/neuropsychological-snsb-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/neuropsychological-snsb-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/nhis-ineligible-medical-cost-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/noncovered-itemized-bill-silbi-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/osteoporosis-injection-drug-bill"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/outpatient-prescription-diagnosis-code"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/overseas-stay-premium-refund-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/personal-silbi-resume-after-group-end"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/pharmacy-prescription-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/post-travel-domestic-followup-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/predeparture-overseas-premium-suspension",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/predeparture-overseas-premium-suspension",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/predeparture-overseas-premium-suspension"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/prostate-mri-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/prostate-mri-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/prostate-mri-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/prostate-ultrasound-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/prostate-ultrasound-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/prostate-ultrasound-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/psychiatry-covered-silbi-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/pulmonary-function-test-purpose"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/renamed-person-silbi-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/root-canal-crown-same-tooth-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/sedation-mri-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/sedation-mri-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/sedation-mri-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/septoplasty-with-rhinoplasty-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/septoplasty-with-rhinoplasty-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/septoplasty-with-rhinoplasty-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/silbi-medical-advice-consent"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/silson24-hospital-not-found",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/silson24-hospital-not-found",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/silson24-hospital-not-found"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/silson24-naver-toss-in-app-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/silson24-naver-toss-in-app-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/silson24-naver-toss-in-app-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/silson24-parent-third-party-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/silson24-transfer-failure",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/silson24-transfer-failure",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/silson24-transfer-failure"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/simplified-silbi-prescription-exclusion"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/single-room-charge-difference",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/single-room-charge-difference",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/single-room-charge-difference"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/sleep-study-cost-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/sleep-study-cost-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/sleep-study-cost-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/terminated-policy-past-treatment-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/thyroid-nodule-rfa-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/thyroid-nodule-rfa-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/thyroid-nodule-rfa-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/thyroid-ultrasound-test-vs-rfa",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/thyroid-ultrasound-test-vs-rfa",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/thyroid-ultrasound-test-vs-rfa"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/treatment-material-cost-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/treatment-material-cost-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/treatment-material-cost-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/treatment-purpose-vs-cosmetic-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/treatment-purpose-vs-cosmetic-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/treatment-purpose-vs-cosmetic-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/urodynamic-study-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/urodynamic-study-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/urodynamic-study-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/uroflowmetry-residual-urine-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/uroflowmetry-residual-urine-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/uroflowmetry-residual-urine-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/uterine-fibroid-hifu-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/uterine-fibroid-hifu-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/uterine-fibroid-hifu-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/varicose-compression-stocking-cost",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/varicose-compression-stocking-cost",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/varicose-compression-stocking-cost"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/varicose-laser-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/varicose-radiofrequency-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/varicose-vein-silbi-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/varicose-venaseal-clarivein-silbi"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/vestibular-function-test-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/vestibular-function-test-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/vestibular-function-test-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/vitamin-infusion-drug-purpose",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/vitamin-infusion-drug-purpose",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/vitamin-infusion-drug-purpose"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/wart-cryotherapy-policy-exclusions"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/workers-compensation-silbi-balance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement",
+      "canonical": [
+        "https://hospital.hbuby.com/silbi/yearend-medical-tax-insurance-reimbursement"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/actual-vs-fixed-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/auto-liability-one-vs-two",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/auto-liability-one-vs-two",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/auto-liability-one-vs-two"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/dental-insurance-waiting-reduction"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/disclosure-vs-notification-duty",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/disclosure-vs-notification-duty",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/disclosure-vs-notification-duty"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/duplicate-vs-coinsurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/duplicate-vs-coinsurance",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/duplicate-vs-coinsurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/full-partial-over-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/full-partial-over-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/full-partial-over-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/indemnity-proportional-compensation",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/indemnity-proportional-compensation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/insurable-value-vs-insured-amount"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/main-contract-vs-rider",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/main-contract-vs-rider",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/main-contract-vs-rider"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/page/2/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/page/2/",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/page/2/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/personal-injury-vs-auto-injury"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/policy-amendment-renewal-reentry-conversion",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/policy-amendment-renewal-reentry-conversion",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/policy-amendment-renewal-reentry-conversion"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/policyholder-insured-beneficiary",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/policyholder-insured-beneficiary",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/policyholder-insured-beneficiary"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/premium-benefit-surrender-value",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/premium-benefit-surrender-value"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/reinstatement-renewal-reenrollment",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/reinstatement-renewal-reenrollment",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/reinstatement-renewal-reenrollment"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/renewable-vs-nonrenewable",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/renewable-vs-nonrenewable",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/renewable-vs-nonrenewable"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/termination-invalidity-cancellation-withdrawal",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/termination-invalidity-cancellation-withdrawal",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/termination-invalidity-cancellation-withdrawal"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/third-sector-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/third-sector-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/third-sector-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/standards/waiting-reduction-exclusion",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/standards/waiting-reduction-exclusion",
+      "canonical": [
+        "https://hospital.hbuby.com/standards/waiting-reduction-exclusion"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/116-disease-vs-tier-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/116-disease-vs-tier-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/116-disease-vs-tier-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/achilles-rupture-repair-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/acl-reconstruction",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/acl-reconstruction",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/acl-reconstruction"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/adenomyosis-hysterectomy-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/adenomyosis-hysterectomy-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/adenomyosis-hysterectomy-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/anal-abscess-drainage-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/anal-abscess-drainage-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/anal-abscess-drainage-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/anal-fissure-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-seton-staged-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-seton-staged-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/anal-fistula-seton-staged-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/anal-fistula-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/appendectomy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/appendectomy",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/appendectomy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/baker-cyst-operation-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/baker-cyst-operation-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/baker-cyst-operation-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/benign-thyroid-nodule-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/benign-thyroid-nodule-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/benign-thyroid-nodule-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/biliary-stent-removal-replacement-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/biliary-stent-removal-replacement-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/biliary-stent-removal-replacement-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/bph-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/bph-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/bph-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/breast-duct-excision-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/breast-duct-excision-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/breast-duct-excision-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/breast-fibroadenoma-excision-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/breast-fibroadenoma-excision-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/breast-fibroadenoma-excision-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/calcific-tendinitis-deposit-removal-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/calcific-tendinitis-deposit-removal-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/calcific-tendinitis-deposit-removal-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/carpal-tunnel-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/cartistem-concurrent-procedure-records",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/cartistem-concurrent-procedure-records",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/cartistem-concurrent-procedure-records"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/cartistem-high-tibial-osteotomy-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/cartistem-high-tibial-osteotomy-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/cartistem-high-tibial-osteotomy-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/cervical-disc-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/cervical-disc-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/cervical-disc-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/clavicle-fracture-fixation-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/clavicle-fracture-fixation-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/clavicle-fracture-fixation-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/cochlear-implant-surgery-cost-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/cochlear-implant-surgery-cost-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/cochlear-implant-surgery-cost-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/cubital-tunnel-ulnar-nerve-surgery-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/cubital-tunnel-ulnar-nerve-surgery-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/cubital-tunnel-ulnar-nerve-surgery-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/de-quervain-release-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/de-quervain-release-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/de-quervain-release-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/diabetic-retinopathy-vitrectomy-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/disease-vs-type-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/distal-radius-fracture-fixation-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/distal-radius-fracture-fixation-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/distal-radius-fracture-fixation-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/diverticulitis-colectomy-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/diverticulitis-colectomy-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/diverticulitis-colectomy-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/dupuytren-fasciectomy-surgery-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/dupuytren-fasciectomy-surgery-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/dupuytren-fasciectomy-surgery-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/empyema-pleural-decortication-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/empyema-pleural-decortication-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/empyema-pleural-decortication-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/endometrial-polyp-hysteroscopy-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/endometrial-polyp-hysteroscopy-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/endometriosis-laparoscopy-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/endometriosis-laparoscopy-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/endometriosis-laparoscopy-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/epidermal-cyst-drainage-vs-excision"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/ercp",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/ercp",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/ercp"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/femoral-head-osteonecrosis-core-decompression-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/femoral-head-osteonecrosis-core-decompression-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/femoral-head-osteonecrosis-core-decompression-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/fibroid",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/fibroid",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/fibroid"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/fracture-hardware-removal-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/fracture-hardware-removal-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/fracture-hardware-removal-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/frenotomy-child-insurance-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/frozen-shoulder-capsular-release-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/frozen-shoulder-capsular-release-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/frozen-shoulder-capsular-release-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/gallbladder-ercp-combined-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/gallbladder-laparoscopy-open-conversion-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/ganglion-aspiration-excision-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/gastric-adenoma-esd-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/glaucoma-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/glaucoma-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/glaucoma-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hallux-valgus-osteotomy-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-fistula-same-day-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-fistula-same-day-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-fistula-same-day-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-ligation-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-ligation-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-ligation-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-pph-stapled-surgery-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-repeat-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hemorrhoid-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hidradenitis-suppurativa-excision-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hidradenitis-suppurativa-excision-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hidradenitis-suppurativa-excision-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hip-arthroplasty-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hip-arthroplasty-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hip-arthroplasty-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/hyperhidrosis-sympathetic-surgery-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/hyperhidrosis-sympathetic-surgery-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/hyperhidrosis-sympathetic-surgery-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/ingrown-toenail-operation-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/ingrown-toenail-operation-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/ingrown-toenail-operation-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/inguinal-hernia-surgery-code",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/inguinal-hernia-surgery-code",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/inguinal-hernia-surgery-code"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/injury-surgery-classification"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/iol-dislocation-reoperation-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/iol-dislocation-reoperation-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/iol-dislocation-reoperation-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/knee-replacement",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/knee-replacement",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/knee-replacement"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/lipoma-excision-operation-record",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/lipoma-excision-operation-record",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/lipoma-excision-operation-record"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/lumbar-disc",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/lumbar-disc",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/lumbar-disc"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/mammotome-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/meniscus-repair-vs-meniscectomy-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/meniscus-repair-vs-meniscectomy-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/meniscus-repair-vs-meniscectomy-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/osteomyelitis-debridement-sequestrectomy-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/osteomyelitis-debridement-sequestrectomy-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/osteomyelitis-debridement-sequestrectomy-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/otosclerosis-stapes-surgery-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/otosclerosis-stapes-surgery-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/otosclerosis-stapes-surgery-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/ovarian-cyst-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/ovarian-cyst-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/ovarian-cyst-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/percutaneous-kidney-stone-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/percutaneous-kidney-stone-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/percutaneous-kidney-stone-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/pilonidal-disease-operation-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/pilonidal-disease-operation-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/pilonidal-disease-operation-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/plantar-fasciitis-release-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/plantar-fasciitis-release-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/plantar-fasciitis-release-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/pneumothorax-chest-tube-vats-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/pneumothorax-chest-tube-vats-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/pneumothorax-chest-tube-vats-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/preauricular-fistula-excision-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/preauricular-fistula-excision-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/preauricular-fistula-excision-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/proximal-humerus-fracture-surgery-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/proximal-humerus-fracture-surgery-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/proximal-humerus-fracture-surgery-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/ptbd-biliary-drainage-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/ptbd-biliary-drainage-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/ptbd-biliary-drainage-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/pterygium-excision-graft-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/ptosis-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/ptosis-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/ptosis-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/repeated-ercp-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/repeated-ercp-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/repeated-ercp-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/retinal-detachment-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/retinal-detachment-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/retinal-detachment-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/rotator-cuff",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/rotator-cuff",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/rotator-cuff"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/same-surgery-different-policy-tiers",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/same-surgery-different-policy-tiers",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/same-surgery-different-policy-tiers"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/scaphoid-nonunion-bone-graft-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/scaphoid-nonunion-bone-graft-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/scaphoid-nonunion-bone-graft-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/second-tier-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/second-tier-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/second-tier-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/secondary-cataract-laser-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/secondary-cataract-laser-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/secondary-cataract-laser-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/septic-arthritis-lavage-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/septic-arthritis-lavage-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/septic-arthritis-lavage-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/shoulder-dislocation-bankart-repair-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/shoulder-dislocation-bankart-repair-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/shoulder-dislocation-bankart-repair-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/sleep-apnea-throat-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/sleep-apnea-throat-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/sleep-apnea-throat-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/spinal-stenosis-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/spinal-stenosis-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/spinal-stenosis-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/splenectomy-injury-disease-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/stye-chalazion-incision-claim-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/stye-chalazion-incision-claim-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/stye-chalazion-incision-claim-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/subtotal-cholecystectomy-insurance-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/subtotal-cholecystectomy-insurance-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/subtotal-cholecystectomy-insurance-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-benefit-amount-review",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/surgery-benefit-amount-review",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/surgery-benefit-amount-review"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/surgery-classification"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-code-insurance-guide",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/surgery-code-insurance-guide",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/surgery-code-insurance-guide"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/surgery-name-mismatch",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/surgery-name-mismatch",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/surgery-name-mismatch"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/tear-duct-dcr-insurance-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/tfcc-repair-debridement-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/tfcc-repair-debridement-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/tfcc-repair-debridement-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/third-tier-surgery-classification"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/thyroid-nodule-rfa-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/thyroid-nodule-rfa-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/thyroid-nodule-rfa-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/thyroid-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/thyroid-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/thyroid-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/tonsil-adenoid-same-day-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/tonsil-adenoid-same-day-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/tonsil-adenoid-same-day-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/tonsillectomy-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/tonsillectomy-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/tonsillectomy-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/trigger-finger-release-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/tympanoplasty-ear-surgery-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/type-surgery-benefit-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/ureteroscopy",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/ureteroscopy",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/ureteroscopy"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/varicocele-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/varicocele-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/varicocele-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/vertebral-compression-fracture-vertebroplasty-claim",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/vertebral-compression-fracture-vertebroplasty-claim",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/vertebral-compression-fracture-vertebroplasty-claim"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/vocal-polyp-surgery-benefit",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/vocal-polyp-surgery-benefit",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/vocal-polyp-surgery-benefit"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider",
+      "canonical": [
+        "https://hospital.hbuby.com/surgery-benefit/wound-suture-specific-rider"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/cancer-special-copayment-registration"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/cartistem-stem-cell-knee-cost"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/catastrophic-medical-expense-application"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/closed-hospital-consumer-relief-eligibility",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/closed-hospital-consumer-relief-eligibility",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/closed-hospital-consumer-relief-eligibility"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/closed-hospital-prepaid-card-installment",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/closed-hospital-prepaid-card-installment",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/closed-hospital-prepaid-card-installment"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/continuous-glucose-monitor-device-sensor-support",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/continuous-glucose-monitor-device-sensor-support",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/continuous-glucose-monitor-device-sensor-support"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/cpap-insurance-registration-adherence"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/dementia-test-cost-support-referral",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/dementia-test-cost-support-referral",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/dementia-test-cost-support-referral"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/dental-implant-health-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/denture-insurance-registration-cost",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/denture-insurance-registration-cost",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/denture-insurance-registration-cost"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/diabetes-consumables-reimbursement-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/diabetes-consumables-reimbursement-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/diabetes-consumables-reimbursement-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/glycogen-storage-glucose-supplies-support",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/glycogen-storage-glucose-supplies-support",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/glycogen-storage-glucose-supplies-support"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/hearing-aid-subsidy-before-purchase",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/hearing-aid-subsidy-before-purchase",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/hearing-aid-subsidy-before-purchase"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/home-oxygen-rental-reimbursement",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/home-oxygen-rental-reimbursement",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/home-oxygen-rental-reimbursement"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/hospital-card-cancellation-refund-status-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/hospital-card-cancellation-refund-status-check",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/hospital-card-cancellation-refund-status-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-cash-receipt-cancellation-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-cash-receipt-cancellation-check",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/hospital-refund-cash-receipt-cancellation-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-consumer-dispute-mediation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-consumer-dispute-mediation",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/hospital-refund-consumer-dispute-mediation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-consumer-relief-proxy-documents",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-consumer-relief-proxy-documents",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/hospital-refund-consumer-relief-proxy-documents"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-mediation-nonperformance-records",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-mediation-nonperformance-records",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/hospital-refund-mediation-nonperformance-records"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-notice-delivery-records",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/hospital-refund-notice-delivery-records",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/hospital-refund-notice-delivery-records"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/jascayd-nerandomilast-cost-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/jascayd-nerandomilast-cost-check",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/jascayd-nerandomilast-cost-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/leqembi-cost-insurance"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/livdelzi-approval-coverage-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/livdelzi-approval-coverage-check",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/livdelzi-approval-coverage-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/longtermcare-copay-reduction-status-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/longtermcare-copay-reduction-status-check",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/longtermcare-copay-reduction-status-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/nhis-copayment-refund-notice"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/noncovered-cost-price-comparison"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/noncovered-cost-review-request"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/out-of-pocket-cap-refund"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/padcev-keytruda-combination-coverage",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/padcev-keytruda-combination-coverage",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/padcev-keytruda-combination-coverage"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/peritoneal-dialysis-supplies-reimbursement",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/peritoneal-dialysis-supplies-reimbursement",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/peritoneal-dialysis-supplies-reimbursement"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/powered-wheelchair-insurance-preapproval",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/powered-wheelchair-insurance-preapproval",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/powered-wheelchair-insurance-preapproval"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/qinlock-ripretinib-coverage-check",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/qinlock-ripretinib-coverage-check",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/qinlock-ripretinib-coverage-check"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/rare-disease-copayment-december-2026",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/rare-disease-copayment-december-2026",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/rare-disease-copayment-december-2026"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/rare-disease-reregistration-evidence",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/rare-disease-reregistration-evidence",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/rare-disease-reregistration-evidence"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/retevmo-ret-test-coverage",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/retevmo-ret-test-coverage",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/retevmo-ret-test-coverage"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/scaling-health-insurance-2026"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/senior-eye-surgery-cost-aid-application",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/senior-eye-surgery-cost-aid-application",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/senior-eye-surgery-cost-aid-application"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/senior-knee-surgery-aid-before-operation",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/senior-knee-surgery-aid-before-operation",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/senior-knee-surgery-aid-before-operation"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/surgery-deposit-cancellation-refund-records"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/urinary-catheter-reimbursement-update",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/urinary-catheter-reimbursement-update",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/urinary-catheter-reimbursement-update"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/treatment-costs/vyloy-health-insurance-eligibility",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/treatment-costs/vyloy-health-insurance-eligibility",
+      "canonical": [
+        "https://hospital.hbuby.com/treatment-costs/vyloy-health-insurance-eligibility"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/underwriting/",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/underwriting/",
+      "canonical": [
+        "https://hospital.hbuby.com/underwriting/"
+      ],
+      "robots": [],
+      "issues": []
+    },
+    {
+      "url": "https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain",
+      "status": 200,
+      "final_url": "https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain",
+      "canonical": [
+        "https://hospital.hbuby.com/underwriting/simplified-health-insurance-cancer-brain"
+      ],
+      "robots": [],
+      "issues": []
+    }
+  ]
+}

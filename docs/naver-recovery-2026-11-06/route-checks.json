@@ -1,0 +1,52 @@
+[
+  {
+    "url": "http://hospital.hbuby.com/",
+    "status": 200,
+    "final": "https://hospital.hbuby.com/",
+    "redirects": [
+      301
+    ],
+    "maintenance": null,
+    "robots": null
+  },
+  {
+    "url": "https://hospital.hbuby.com/not-existing-recovery-check",
+    "status": 404,
+    "final": "https://hospital.hbuby.com/not-existing-recovery-check",
+    "redirects": [],
+    "maintenance": null,
+    "robots": null
+  },
+  {
+    "url": "https://hospital.hbuby.com/assets/no-such-file.css",
+    "status": 404,
+    "final": "https://hospital.hbuby.com/assets/no-such-file.css",
+    "redirects": [],
+    "maintenance": null,
+    "robots": null
+  },
+  {
+    "url": "https://hospital.hbuby.com/guides/tablet-splitting-warning-product-check",
+    "status": 200,
+    "final": "https://hospital.hbuby.com/guides/tablet-splitting-warning-product-check",
+    "redirects": [],
+    "maintenance": null,
+    "robots": null
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+    "status": 200,
+    "final": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+    "redirects": [],
+    "maintenance": null,
+    "robots": null
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+    "status": 200,
+    "final": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+    "redirects": [],
+    "maintenance": null,
+    "robots": null
+  }
+]

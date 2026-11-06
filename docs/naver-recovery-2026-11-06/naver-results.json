@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://hospital.hbuby.com/guides/tablet-splitting-warning-product-check",
+    "status": "accepted",
+    "evidence": "1\t\n/guides/tablet-splitting-warning-product-check\n\t26.11.06 14:24:58"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/ct-scan-cost-claim",
+    "status": "accepted",
+    "evidence": "1\t\n/silbi/ct-scan-cost-claim\n\t26.11.06 14:25:23"
+  },
+  {
+    "url": "https://hospital.hbuby.com/silbi/checkup-followup-test-insurance",
+    "status": "accepted",
+    "evidence": "1\t\n/silbi/checkup-followup-test-insurance\n\t26.11.06 14:25:47"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/surgery-classification",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/surgery-classification\n\t26.11.06 14:26:15"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/gallbladder-surgery-benefit",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/gallbladder-surgery-benefit\n\t26.11.06 14:26:53"
+  },
+  {
+    "url": "https://hospital.hbuby.com/surgery-benefit/cataract-surgery-benefit",
+    "status": "accepted",
+    "evidence": "1\t\n/surgery-benefit/cataract-surgery-benefit\n\t26.11.06 14:27:16"
+  },
+  {
+    "url": "https://hospital.hbuby.com/claims/insurance-claim-process",
+    "status": "accepted",
+    "evidence": "1\t\n/claims/insurance-claim-process\n\t26.11.06 14:27:35"
+  },
+  {
+    "url": "https://hospital.hbuby.com/",
+    "status": "accepted",
+    "evidence": "1\t\n/\n\t26.11.06 14:27:58"
+  }
+]
