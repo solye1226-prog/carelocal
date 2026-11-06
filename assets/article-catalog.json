@@ -236,7 +236,7 @@
   },
   {
     "path": "/claims/insurance-claim-payout-period",
-    "title": "보험금 지급 기간은 얼마나 걸릴까? 지급 지연 기준까지",
+    "title": "보험금 지급 기간, 3영업일 기준과 조사·지연 시 확인사항",
     "category": "보험금 청구"
   },
   {
@@ -1016,7 +1016,7 @@
   },
   {
     "path": "/surgery-benefit/acl-reconstruction",
-    "title": "십자인대 재건술 보험 수술비는 몇 종? 상해 담보와 수술명 확인",
+    "title": "십자인대 재건술 수술비, 상해 담보·동반 수술 청구서류",
     "category": "수술비"
   },
   {
@@ -1261,7 +1261,7 @@
   },
   {
     "path": "/surgery-benefit/hemorrhoid-surgery-benefit",
-    "title": "치핵 수술비 몇 종일까? 절제술과 비수술 처치 구분하기",
+    "title": "치질 수술비 몇종? 치핵 근본수술 약관 예시와 청구서류",
     "category": "수술비"
   },
   {
@@ -1291,7 +1291,7 @@
   },
   {
     "path": "/surgery-benefit/injury-surgery-classification",
-    "title": "상해 종수술비 분류표는 어디서 확인할까? 골절·인대 수술명 대조법",
+    "title": "상해 종수술비 분류표, 골절·인대 수술명과 특약 확인법",
     "category": "수술비"
   },
   {
@@ -1311,7 +1311,7 @@
   },
   {
     "path": "/surgery-benefit/lumbar-disc",
-    "title": "허리디스크 수술비 몇 종일까? 디스크절제·신경감압 기록 확인",
+    "title": "허리디스크 수술비 몇종? 관혈·내시경 약관 예시와 청구서류",
     "category": "수술비"
   },
   {
@@ -1526,7 +1526,7 @@
   },
   {
     "path": "/surgery-benefit/ureteroscopy",
-    "title": "요관경 결석 제거 수술비, 체외충격파 치료와 보험 기준 차이",
+    "title": "요로결석 수술비 몇종? 요관경·체외충격파쇄석술 비교",
     "category": "수술비"
   },
   {

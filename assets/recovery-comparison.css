@@ -1,0 +1,13 @@
+.recovery-comparison .cell-label { display: none; }
+.recovery-comparison caption { padding: 12px 0; text-align: left; line-height: 1.7; }
+@media (max-width: 760px) {
+  .insurance-series-article .recovery-comparison caption {
+    display: block;
+    width: 100%;
+    padding: 12px 14px;
+    white-space: normal;
+    word-break: keep-all;
+  }
+  .recovery-comparison .cell-label { display: block; margin-bottom: 4px; font-size: 13px; font-weight: 700; }
+  .recovery-comparison td:first-child .cell-label { display: none; }
+}
