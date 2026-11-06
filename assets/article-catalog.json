@@ -416,7 +416,7 @@
   },
   {
     "path": "/claims/surgery-claim-documents",
-    "title": "수술비 청구서류, 수술확인서와 수술기록지 둘 다 필요할까?",
+    "title": "수술확인서 수술기록지 차이, 수술비 청구서류와 대체 가능 여부",
     "category": "보험금 청구"
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "path": "/silbi/cartistem-silbi-claim",
-    "title": "카티스템 실비 청구서류, 재료대·수술료 접수 확인",
+    "title": "카티스템 실비 청구, 약제비·수술료 확인과 필요서류",
     "category": "실비보험"
   },
   {
