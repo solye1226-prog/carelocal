@@ -1178,7 +1178,7 @@ summary {
   margin-bottom: 18px;
 }
 
-.hub-heading h2 {
+.hub-heading :is(h1, h2) {
   font-size: clamp(26px, 3vw, 40px);
 }
 
@@ -3011,7 +3011,7 @@ summary {
     margin-top: 24px;
   }
 
-  .hub-heading h2 {
+  .hub-heading :is(h1, h2) {
     font-size: 26px;
   }
 
